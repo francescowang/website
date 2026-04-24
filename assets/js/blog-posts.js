@@ -39,6 +39,7 @@ if (blogPostsIndexSource) {
             })
             .catch(function () {
               // skip missing or unreadable posts without failing the whole list
+              console.warn(`Skipped slug "${slug}" — file not found or could not be read.`);
               return null;
             });
         })

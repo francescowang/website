@@ -8,11 +8,11 @@ The UI shell is rendered from `index.html`, while content is loaded from JSON an
 
 - `index.html`: Main single-page app (About, CV, Portfolio, Blog tabs).
 - `assets/js/script.js`: Loads and renders profile/CV data from JSON.
-- `assets/js/blog-posts.js`: Loads blog post metadata and renders blog cards.
+- `assets/js/blog-posts.js`: Loads the post slug index, fetches each markdown file, parses frontmatter, and renders blog cards.
 - `assets/data/portfolio.json`: Source of truth for About/CV/skills content.
-- `assets/data/blog-posts.json`: Source of truth for blog card metadata.
-- `blog/posts/*.md`: Markdown files for full blog post content.
-- `blog/view.html`: Blog post viewer page that fetches metadata + markdown and renders the post.
+- `assets/data/posts-index.json`: Ordered list of blog post slugs. Controls which posts appear and in what order.
+- `blog/posts/*.md`: Markdown files — each contains YAML frontmatter (title, category, date, summary) and the post body.
+- `blog/view.html`: Blog post viewer. Fetches the markdown file directly, parses frontmatter, and renders the post.
 
 ## Data Flow
 
@@ -21,9 +21,9 @@ The UI shell is rendered from `index.html`, while content is loaded from JSON an
 	 - `data-blog-posts-source`
 	 - `data-blog-viewer-path`
 2. On load, `script.js` fetches `portfolio.json` and fills CV/About placeholders.
-3. `blog-posts.js` fetches `blog-posts.json`, builds blog cards, and links each card to:
+3. `blog-posts.js` fetches `posts-index.json` (a JSON array of slugs), then fetches each `blog/posts/<slug>.md` in parallel. Metadata (title, category, date, summary) is parsed from the YAML frontmatter at the top of each file. Each card links to:
 	 - `./blog/view.html?post=<slug>`
-4. `view.html` uses the `post` query param, loads matching metadata, fetches markdown from `blog/posts/<slug>.md`, and renders it.
+4. `view.html` uses the `post` query param, fetches `blog/posts/<slug>.md`, parses the frontmatter, and renders the post body via `marked.js`.
 
 ## Run Locally
 
@@ -62,36 +62,51 @@ If you change schema keys, update `assets/js/script.js` accordingly.
 
 ## Add A New Blog Post
 
-1. Add metadata entry in `assets/data/blog-posts.json`:
+1. Create a markdown file with YAML frontmatter at the top:
 
-```json
-{
-	"id": 5,
-	"title": "Your Title",
-	"category": "Kubernetes",
-	"date": "2026-04-24",
-	"summary": "One-line summary for the card.",
-	"slug": "your-title-slug"
-}
+```markdown
+---
+title: Your Post Title
+category: Kubernetes
+date: 2026-05-01
+summary: One-line summary shown on the blog card.
+---
+
+# Your Post Title
+
+Post body starts here...
 ```
 
-2. Create markdown file:
+Save it as:
 
-- `blog/posts/your-title-slug.md`
+- `blog/posts/your-post-slug.md`
+
+2. Add the slug to `assets/data/posts-index.json`:
+
+```json
+[
+  "your-post-slug",
+  "kubernetes-control-plane-and-worker-nodes"
+]
+```
+
+Order in the array controls display order (newest first by convention).
 
 3. Refresh browser at `http://127.0.0.1:4173/`.
 
-Your post should appear in Blog and open through the viewer page.
+The post card will appear in Blog and open in the viewer.
+
+**To remove a post:** delete the `.md` file and remove its slug from `posts-index.json`. Remaining posts are unaffected.
 
 ## Common Issues
 
 - Blog cards or CV sections not showing:
 	- Ensure you are running with a local server (not `file://`).
 - New post not visible:
-	- Confirm the slug in `blog-posts.json` exactly matches the markdown filename.
-- Viewer says “Post not found”:
-	- Confirm query string slug and JSON slug match.
-- Viewer says “Error loading post content”:
+	- Confirm the slug is present in `assets/data/posts-index.json`.
+	- Confirm the markdown filename matches: `blog/posts/<slug>.md`.
+	- Confirm the frontmatter block is valid (starts and ends with `---`).
+- Viewer says "Error loading post":
 	- Confirm markdown file exists at `blog/posts/<slug>.md`.
 
 ## Deployment
