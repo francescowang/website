@@ -1,5 +1,13 @@
 [
   {
+    "slug": "kubernetes-pod-hostname",
+    "title": "Kubernetes Pod Hostnames: Understanding Identity and DNS",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "How Kubernetes assigns hostnames to Pods and how to use the hostname and subdomain fields to create predictable network identities.",
+    "tags": ["Kubernetes", "Networking", "DNS", "Pods", "Infrastructure"]
+  },
+  {
     "slug": "kubernetes-disruptions",
     "title": "Kubernetes Disruptions: Protecting Application Availability",
     "category": "Kubernetes",
