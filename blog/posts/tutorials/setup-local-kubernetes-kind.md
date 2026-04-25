@@ -1,5 +1,3 @@
-# Hands-on: Setting up a Local Cluster with KinD
-
 KinD (Kubernetes in Docker) is one of the most efficient tools for local Kubernetes development. Unlike Minikube, which often requires a dedicated VM, KinD runs each cluster node as a Docker container, making it incredibly fast to spin up and tear down.
 
 In this tutorial, we will build a production-like multi-node cluster and configure it for local ingress testing.

@@ -1,5 +1,3 @@
-# Kubernetes Pod Group Disruption and Priority
-
 In high-density Kubernetes environments, managing availability isn't just about protecting a single application with a PDB. It’s about understanding the **Priority** of workloads and how Kubernetes handles **Group Disruptions** when multiple controllers are vying for resources.
 
 ## 1. Disruption vs. Priority

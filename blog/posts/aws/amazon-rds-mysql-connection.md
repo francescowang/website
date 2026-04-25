@@ -97,7 +97,6 @@ Before connecting from a terminal, the MySQL client must be installed. RDS does 
 ```sh
 brew install mysql-client
 
-# Add to PATH (Apple Silicon)
 echo 'export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 ```

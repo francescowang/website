@@ -1,5 +1,3 @@
-# Kubernetes Scheduling Groups: Native Gang Scheduling
-
 For years, users running machine learning (ML) or high-performance computing (HPC) workloads on Kubernetes had to rely on external plugins (like Volcano) to achieve **Gang Scheduling**. But with the introduction of the **Scheduling Group** API (Alpha in v1.35), this capability is finally coming to the native `kube-scheduler`.
 
 ## The Problem: Resource Deadlocks

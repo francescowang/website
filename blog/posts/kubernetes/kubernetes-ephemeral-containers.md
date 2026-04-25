@@ -1,5 +1,3 @@
-# Kubernetes Ephemeral Containers: Debugging in Real-Time
-
 One of the biggest challenges in Kubernetes is troubleshooting a running Pod that is failing in production. If your production image is "distroless" (containing only your app and its dependencies), you won't have tools like `curl`, `dig`, or even a shell to investigate the issue.
 
 **Ephemeral Containers** solve this by allowing you to temporarily add a container to an *already running* Pod.

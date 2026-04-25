@@ -1,5 +1,3 @@
-# Kubernetes Downward API: Exposing Pod Metadata to Containers
-
 Sometimes, an application running inside a container needs to know something about its environment. It might need its own Pod name for logging, its namespace for configuration, or its resource limits to optimize its internal thread pool. 
 
 Instead of forcing your app to use a Kubernetes client to query the API server, you can use the **Downward API**.

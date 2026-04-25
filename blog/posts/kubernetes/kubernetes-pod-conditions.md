@@ -1,5 +1,3 @@
-# Kubernetes Pod Conditions: A Deeper Look at Health
-
 While the **Pod Phase** (Running, Pending, etc.) gives you a high-level summary, **Pod Conditions** provide the granular details. If the phase is the "headline," the conditions are the "full report" explaining *why* a Pod is in its current state.
 
 ## What is a Pod Condition?

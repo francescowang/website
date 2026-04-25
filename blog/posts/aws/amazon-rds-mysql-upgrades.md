@@ -98,7 +98,6 @@ RDS supports an `Auto Minor Version Upgrade` setting on each DB instance. When e
 You can trigger a minor upgrade at any time using the console, CLI, or Terraform:
 
 ```sh
-# AWS CLI
 aws rds modify-db-instance \
   --db-instance-identifier mydb \
   --engine-version 8.0.36 \

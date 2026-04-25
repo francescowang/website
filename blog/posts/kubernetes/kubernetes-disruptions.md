@@ -1,5 +1,3 @@
-# Kubernetes Disruptions: Protecting Application Availability
-
 In a large Kubernetes cluster, Pods will inevitably go down. Some of these events are predictable, while others are not. To build highly available systems, you need to understand the two types of **Disruptions** and how to protect against them.
 
 ## 1. Involuntary Disruptions

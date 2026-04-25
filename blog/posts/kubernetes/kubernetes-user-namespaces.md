@@ -1,5 +1,3 @@
-# Kubernetes User Namespaces: Enhancing Container Isolation
-
 In a standard Kubernetes Pod, the `root` user inside a container is the same as the `root` user on the host node (though restricted by capabilities and other security layers). This means that if an attacker escapes the container, they are already the most powerful user on the system.
 
 **User Namespaces** solve this by remapping the user IDs (UIDs) and group IDs (GIDs) inside the container to a different set of IDs on the host.

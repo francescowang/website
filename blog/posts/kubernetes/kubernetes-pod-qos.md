@@ -1,5 +1,3 @@
-# Kubernetes Pod QoS Classes: Understanding Resource Priority
-
 When you define a Pod in Kubernetes, you specify how much CPU and Memory it needs using **Requests** and **Limits**. Kubernetes uses these values not just for scheduling, but also to categorize Pods into three **Quality of Service (QoS)** classes. These classes determine which Pods get killed first when a Node runs out of resources.
 
 ## The Three QoS Classes
