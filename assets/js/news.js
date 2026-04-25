@@ -7,7 +7,7 @@
 
   if (!newsList) return;
 
-  const HN_API = 'https://hacker-news.firebaseapp.com/v0';
+  const HN_API = 'https://hacker-news.firebaseio.com/v0';
   const STORIES_TO_FETCH = 10;
 
   async function fetchNews() {
@@ -17,10 +17,13 @@
       if (!topStoriesRes.ok) throw new Error('Failed to fetch story IDs');
       
       const topStoryIds = await topStoriesRes.json();
+      if (!Array.isArray(topStoryIds)) throw new Error('Invalid story IDs format');
       
       // Fetch first 10 stories
       const storyPromises = topStoryIds.slice(0, STORIES_TO_FETCH).map(id =>
-        fetch(`${HN_API}/item/${id}.json`).then(res => res.json())
+        fetch(`${HN_API}/item/${id}.json`)
+          .then(res => res.ok ? res.json() : null)
+          .catch(() => null)
       );
 
       const stories = await Promise.all(storyPromises);
@@ -39,7 +42,7 @@
   function renderStories(stories) {
     newsList.innerHTML = stories.map(story => `
       <li class="news-item">
-        <a href="${story.url}" class="news-link" target="_blank" rel="noopener noreferrer">
+        <a href="${escapeHtml(story.url)}" class="news-link" target="_blank" rel="noopener noreferrer">
           <h3 class="news-title">${escapeHtml(story.title)}</h3>
           <div class="news-meta">
             <span class="news-score">⬆ ${story.score}</span>
