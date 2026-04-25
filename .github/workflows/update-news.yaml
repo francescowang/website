@@ -1,0 +1,31 @@
+name: Update News Cache
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:      # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+          
+      - name: Fetch News
+        run: python scripts/fetch-news.py
+        
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/data/news-cache.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update news cache [skip ci]"
+          git push

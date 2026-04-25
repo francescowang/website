@@ -1,0 +1,136 @@
+{
+  "tech": [
+    {
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "score": 261,
+      "comments": 119,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "score": 630,
+      "comments": 617,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "How to Implement an FPS Counter",
+      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+      "score": 47,
+      "comments": 3,
+      "source": "vplesko.com"
+    },
+    {
+      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
+      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "score": 85,
+      "comments": 12,
+      "source": "clad.you"
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "score": 102,
+      "comments": 44,
+      "source": "github.com"
+    },
+    {
+      "title": "A Man Who Invented the Future",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future",
+      "score": 12,
+      "comments": 2,
+      "source": "hedgehogreview.com"
+    },
+    {
+      "title": "Humpback whales are forming super-groups",
+      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "score": 134,
+      "comments": 65,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "score": 192,
+      "comments": 28,
+      "source": "github.com"
+    },
+    {
+      "title": "Paraloid B-72",
+      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "score": 209,
+      "comments": 40,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Plain text has been around for decades and it\u2019s here to stay",
+      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "score": 126,
+      "comments": 49,
+      "source": "unsung.aresluna.org"
+    }
+  ],
+  "security": [
+    {
+      "title": "Protecting your secrets from tomorrow\u2019s quantum risks",
+      "url": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/",
+      "date": "2026-04-24 18:53:29",
+      "author": "St\u00e9phanie Mbappe"
+    },
+    {
+      "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
+      "url": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended/",
+      "date": "2026-04-22 16:31:11",
+      "author": "Matt Meck"
+    },
+    {
+      "title": "Winter 2025 SOC 1 report is now available with 184 services in scope",
+      "url": "https://aws.amazon.com/blogs/security/winter-2025-soc-1-report-is-now-available-with-184-services-in-scope/",
+      "date": "2026-04-22 00:12:21",
+      "author": "Tushar Jain"
+    },
+    {
+      "title": "How to clone an AWS CloudHSM cluster across Regions",
+      "url": "https://aws.amazon.com/blogs/security/how-to-clone-an-aws-cloudhsm-cluster-across-regions-2/",
+      "date": "2026-04-20 15:15:47",
+      "author": "Desiree Brunner"
+    },
+    {
+      "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
+      "url": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution/",
+      "date": "2026-04-17 16:30:57",
+      "author": "Vivek Gautam"
+    },
+    {
+      "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
+      "url": "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol/",
+      "date": "2026-04-14 22:52:51",
+      "author": "Riggs Goodman III"
+    },
+    {
+      "title": "A framework for securely collecting forensic artifacts into S3 buckets",
+      "url": "https://aws.amazon.com/blogs/security/a-framework-for-securely-collecting-forensic-artifacts-into-s3-buckets/",
+      "date": "2026-04-08 18:19:00",
+      "author": "Jason Garman"
+    },
+    {
+      "title": "Building AI defenses at scale: Before the threats emerge",
+      "url": "https://aws.amazon.com/blogs/security/building-ai-defenses-at-scale-before-the-threats-emerge/",
+      "date": "2026-04-07 18:02:00",
+      "author": "Amy Herzog"
+    },
+    {
+      "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
+      "url": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/",
+      "date": "2026-04-04 21:35:00",
+      "author": "Kevin Donohue"
+    },
+    {
+      "title": "How AWS KMS and AWS Encryption SDK overcome symmetric encryption bounds",
+      "url": "https://aws.amazon.com/blogs/security/how-aws-kms-and-aws-encryption-sdk-overcome-symmetric-encryption-bounds/",
+      "date": "2026-04-03 15:44:48",
+      "author": "Panos Kampanakis"
+    }
+  ]
+}
