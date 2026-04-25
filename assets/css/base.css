@@ -119,6 +119,25 @@
   --light-gray:       hsl(0, 0%, 28%);
   --light-gray-70:    hsla(0, 0%, 28%, 0.7);
 
+  /* Replace yellow accent with deep accessible blue */
+  --orange-yellow-crayola: hsl(226, 70%, 45%);
+  --vegas-gold:            hsl(226, 55%, 38%);
+  --text-gradient-yellow:  linear-gradient(
+    to right,
+    hsl(226, 70%, 45%),
+    hsl(226, 55%, 38%)
+  );
+  --bg-gradient-yellow-1: linear-gradient(
+    to bottom right,
+    hsla(226, 70%, 45%, 0.15) 0%,
+    hsla(226, 70%, 45%, 0)    50%
+  );
+  --bg-gradient-yellow-2: linear-gradient(
+    135deg,
+    hsla(226, 70%, 45%, 0.15) 0%,
+    hsla(226, 70%, 45%, 0)    59.86%
+  ), hsl(210, 14%, 94%);
+
   --bg-gradient-onyx: linear-gradient(
     to bottom right,
     hsl(210, 14%, 90%) 3%,
@@ -144,12 +163,13 @@
 }
 
 [data-theme="light"] ::selection {
-  color: var(--white-1);
+  background: hsl(226, 70%, 45%);
+  color: hsl(0, 0%, 100%);
 }
 
-/* inline code: yellow on light bg has poor contrast — use blue */
+/* inline code in light mode: blue matches the new accent */
 [data-theme="light"] .post-content code {
-  color: hsl(215, 60%, 38%);
+  color: hsl(226, 70%, 45%);
 }
 
 
