@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Runs before every commit.
+# Blocks the commit if any slug in posts-meta.json is missing its .md file.
+
+set -euo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+python3 "$REPO_ROOT/scripts/validate-posts.py"

@@ -12,7 +12,7 @@ The UI shell is rendered from `index.html`, while content is loaded from JSON an
 - `assets/js/view-post.js`: Fetches post metadata from `posts-meta.json` and content from markdown, then renders the post.
 - `assets/data/portfolio.json`: Source of truth for About/CV/skills content.
 - `assets/data/posts-meta.json`: Single source of truth for all blog metadata (slug, title, category, date, summary, tags). One entry per post.
-- `blog/posts/*.md`: Markdown files — pure content only, no frontmatter. Content is rendered via `marked.js`.
+- `blog/posts/<folder>/*.md`: Markdown files — pure content only, no frontmatter. Content is rendered via `marked.js`. Posts are organised into topic subfolders (e.g. `kubernetes/`, `aws/`).
 - `blog/view.html`: Blog post viewer shell. Loads `view-post.js` which handles fetching and rendering.
 
 ## Data Flow
@@ -66,24 +66,33 @@ If you change schema keys, update `assets/js/script.js` accordingly.
 
 ## Add A New Blog Post
 
+The fastest way is the helper script, which prompts for all required fields, creates the `.md` file in the right subfolder, inserts the metadata entry at the top of `posts-meta.json`, and opens the file in your editor:
+
+```bash
+python3 scripts/new-post.py
+```
+
+Or manually:
+
 1. Add an entry to `assets/data/posts-meta.json`:
 
 ```json
 {
   "slug": "your-post-slug",
+  "folder": "aws",
   "title": "Your Post Title",
-  "category": "Kubernetes",
+  "category": "AWS",
   "date": "2026-05-01",
   "summary": "One-line summary shown on the blog card.",
-  "tags": ["Kubernetes", "Networking"]
+  "tags": ["AWS", "RDS"]
 }
 ```
 
-Order in the array controls display order (newest first by convention). Cards are also sorted by `date` descending at runtime.
+`folder` must match the subdirectory under `blog/posts/` (e.g. `kubernetes`, `aws`). Cards are sorted by `date` descending at runtime.
 
 2. Create the markdown file **with only the post content** (no frontmatter):
 
-- `blog/posts/your-post-slug.md`
+- `blog/posts/<folder>/your-post-slug.md`
 
 ```markdown
 Post body starts here—no frontmatter, no duplicate title needed.
@@ -98,6 +107,30 @@ More content...
 The post card will appear in Blog with all metadata from `posts-meta.json` and open in the viewer showing the content from the `.md` file.
 
 **To remove a post:** delete the `.md` file and remove its entry from `posts-meta.json`. Remaining posts are unaffected.
+
+## Scripts & Hooks
+
+| Script | Purpose |
+|---|---|
+| `python3 scripts/new-post.py` | Interactive helper — creates post file + metadata entry |
+| `python3 scripts/validate-posts.py` | Checks every `posts-meta.json` slug has a matching `.md` file |
+| `python3 scripts/check-links.py` | Checks internal `href` and `src` references in HTML files |
+| `bash scripts/install-hooks.sh` | Installs git pre-commit hook — run once after cloning |
+
+The pre-commit hook runs `validate-posts.py` automatically before every commit. Install it once:
+
+```bash
+bash scripts/install-hooks.sh
+```
+
+## CI
+
+Two checks run on every PR and on pushes to `main` that touch posts or HTML:
+
+1. **validate-posts** — every slug in `posts-meta.json` has a matching `.md` file
+2. **check-links** — all internal `href`/`src` references in `index.html` and `blog/view.html` resolve to real files
+
+See `.github/workflows/validate-posts.yml`.
 
 ## Common Issues
 

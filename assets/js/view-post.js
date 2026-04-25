@@ -18,11 +18,16 @@
       const post = allPosts.find(function (p) { return p.slug === postSlug; });
       if (!post) throw new Error('Post metadata not found');
 
-      const mdPath = './posts/' + (post.folder ? post.folder + '/' : '') + postSlug + '.md';
-      return fetch(mdPath, { cache: 'no-store' })
+      const primaryPath = './posts/' + (post.folder ? post.folder + '/' : '') + postSlug + '.md';
+      const fallbackPath = './posts/' + postSlug + '.md';
+      return fetch(primaryPath, { cache: 'no-store' })
         .then(function (r) {
-          if (!r.ok) throw new Error('Post not found');
-          return r.text();
+          if (r.ok) return r.text();
+          // Metadata may be stale — try the flat legacy path before giving up.
+          return fetch(fallbackPath, { cache: 'no-store' }).then(function (r2) {
+            if (!r2.ok) throw new Error('Post not found');
+            return r2.text();
+          });
         })
         .then(function (content) { return { post: post, content: content }; });
     })

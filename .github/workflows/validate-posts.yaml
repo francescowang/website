@@ -1,0 +1,23 @@
+name: Validate blog posts
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - "assets/data/posts-meta.json"
+      - "blog/posts/**"
+      - "index.html"
+      - "blog/view.html"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every slug has a matching .md file
+        run: python3 scripts/validate-posts.py
+
+      - name: Check internal links in HTML files
+        run: python3 scripts/check-links.py
