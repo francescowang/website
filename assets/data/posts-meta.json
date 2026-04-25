@@ -1,5 +1,21 @@
 [
   {
+    "slug": "kubernetes-init-containers",
+    "title": "Kubernetes Init Containers: Preparing the Ground",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Learn how to use Init Containers to perform setup tasks, wait for dependencies, or populate volumes before your main app starts.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-pod-conditions",
+    "title": "Kubernetes Pod Conditions: A Deeper Look at Health",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Going beyond phases—understanding the array of conditions that provide a detailed status report of a Pod's health.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Infrastructure"]
+  },
+  {
     "slug": "kubernetes-pod-lifecycle",
     "title": "Kubernetes Pod Lifecycle: From Pending to Terminated",
     "category": "Kubernetes",
