@@ -9,22 +9,26 @@
     return;
   }
 
-  Promise.all([
-    fetch('../assets/data/posts-meta.json', { cache: 'no-store' }).then(function (r) {
+  fetch('../assets/data/posts-meta.json', { cache: 'no-store' })
+    .then(function (r) {
       if (!r.ok) throw new Error('Failed to load post index');
       return r.json();
-    }),
-    fetch('./posts/' + postSlug + '.md', { cache: 'no-store' }).then(function (r) {
-      if (!r.ok) throw new Error('Post not found');
-      return r.text();
     })
-  ])
-    .then(function (results) {
-      const allPosts = results[0];
-      const content = results[1];
-
+    .then(function (allPosts) {
       const post = allPosts.find(function (p) { return p.slug === postSlug; });
       if (!post) throw new Error('Post metadata not found');
+
+      const mdPath = './posts/' + (post.folder ? post.folder + '/' : '') + postSlug + '.md';
+      return fetch(mdPath, { cache: 'no-store' })
+        .then(function (r) {
+          if (!r.ok) throw new Error('Post not found');
+          return r.text();
+        })
+        .then(function (content) { return { post: post, content: content }; });
+    })
+    .then(function (result) {
+      const post = result.post;
+      const content = result.content;
 
       document.title = post.title + ' | Francesco Wang';
       document.getElementById('post-category').textContent = post.category || '';
