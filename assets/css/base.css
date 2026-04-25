@@ -191,6 +191,24 @@
 
 }
 
+/* Remove the "pressed" bezel effect in light mode */
+[data-theme="light"] .content-card::before,
+[data-theme="light"] .info-card::before,
+[data-theme="light"] .blog-post-item > a::before,
+[data-theme="light"] .filter-collapsible::before,
+[data-theme="light"] .icon-box::before {
+  display: none;
+}
+
+[data-theme="light"] .content-card,
+[data-theme="light"] .info-card,
+[data-theme="light"] .blog-post-item > a,
+[data-theme="light"] .filter-collapsible,
+[data-theme="light"] .icon-box {
+  background: var(--eerie-black-1);
+  border: 1px solid var(--jet);
+}
+
 [data-theme="light"] ::selection {
   background: hsl(226, 70%, 45%);
   color: hsl(0, 0%, 100%);
