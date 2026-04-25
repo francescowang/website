@@ -1,11 +1,3 @@
----
-title: "Kubernetes Pod Hostnames: Understanding Identity and DNS"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, DNS, Pods, Infrastructure
-summary: How Kubernetes assigns hostnames to Pods and how to use the hostname and subdomain fields to create predictable network identities.
----
-
 # Kubernetes Pod Hostnames: Understanding Identity and DNS
 
 In a standard Kubernetes Deployment, Pods are anonymous and replaceable. Their hostnames are usually just the name of the Pod itself (e.g., `my-web-app-5f67894d-abc12`). However, there are times when you need a Pod to have a stable, predictable network identity.

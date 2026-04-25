@@ -1,11 +1,3 @@
----
-title: "Kubernetes Sidecar Containers: Enhancing the Main App"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Workloads, Pods, Infrastructure
-summary: Understanding the sidecar pattern—how to use auxiliary containers to handle logging, monitoring, and security alongside your main application.
----
-
 # Kubernetes Sidecar Containers: Enhancing the Main App
 
 In a Pod, you aren't limited to just one container. The **Sidecar pattern** involves running an auxiliary container alongside your main application container. This "sidecar" provides supporting features like logging, monitoring, configuration updates, or network proxies without modifying the primary application code.

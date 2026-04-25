@@ -1,11 +1,3 @@
----
-title: "Kubernetes Pod Conditions: A Deeper Look at Health"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Workloads, Pods, Infrastructure
-summary: Going beyond phases—understanding the array of conditions that provide a detailed status report of a Pod's health.
----
-
 # Kubernetes Pod Conditions: A Deeper Look at Health
 
 While the **Pod Phase** (Running, Pending, etc.) gives you a high-level summary, **Pod Conditions** provide the granular details. If the phase is the "headline," the conditions are the "full report" explaining *why* a Pod is in its current state.

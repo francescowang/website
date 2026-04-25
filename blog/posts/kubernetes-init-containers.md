@@ -1,11 +1,3 @@
----
-title: "Kubernetes Init Containers: Preparing the Ground"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Workloads, Pods, Infrastructure
-summary: Learn how to use Init Containers to perform setup tasks, wait for dependencies, or populate volumes before your main app starts.
----
-
 # Kubernetes Init Containers: Preparing the Ground
 
 In many applications, the main container isn't ready to start immediately. It might need to wait for a database to be available, download configuration files, or perform a specific database migration. **Init Containers** provide a way to handle these setup tasks within the same Pod.

@@ -1,11 +1,3 @@
----
-title: "Kubernetes Disruptions: Protecting Application Availability"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Workloads, Pods, Availability, Infrastructure
-summary: Understanding voluntary and involuntary disruptions and how to use Pod Disruption Budgets (PDBs) to ensure your app stays online during maintenance.
----
-
 # Kubernetes Disruptions: Protecting Application Availability
 
 In a large Kubernetes cluster, Pods will inevitably go down. Some of these events are predictable, while others are not. To build highly available systems, you need to understand the two types of **Disruptions** and how to protect against them.

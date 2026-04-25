@@ -1,11 +1,3 @@
----
-title: "Kubernetes Ephemeral Containers: Debugging in Real-Time"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Workloads, Pods, Troubleshooting, Infrastructure
-summary: A guide to using Ephemeral Containers to debug running Pods without having to restart them or rebuild your images with debugging tools.
----
-
 # Kubernetes Ephemeral Containers: Debugging in Real-Time
 
 One of the biggest challenges in Kubernetes is troubleshooting a running Pod that is failing in production. If your production image is "distroless" (containing only your app and its dependencies), you won't have tools like `curl`, `dig`, or even a shell to investigate the issue.
