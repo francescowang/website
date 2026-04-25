@@ -12,7 +12,10 @@ const sidebar = document.querySelector("[data-sidebar]");
 const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 
 if (sidebar && sidebarBtn) {
-  sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); });
+  sidebarBtn.addEventListener("click", function () {
+    elementToggleFunc(sidebar);
+    this.setAttribute("aria-expanded", sidebar.classList.contains("active") ? "true" : "false");
+  });
 }
 
 
@@ -139,6 +142,7 @@ const setActivePage = function (pageName) {
 
     pages[i].classList.toggle("active", isActivePage);
     navigationLinks[i].classList.toggle("active", isActivePage);
+    navigationLinks[i].setAttribute("aria-current", isActivePage ? "page" : "false");
   }
 }
 

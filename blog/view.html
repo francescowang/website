@@ -14,16 +14,17 @@
   <link rel="stylesheet" href="../assets/css/responsive.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
   <script src="../assets/js/vendor/marked.min.js"></script>
 </head>
 
 <body class="post-page">
 
-  <main class="post-shell">
+  <main class="post-shell" aria-label="Blog post">
     <article class="post-article active">
 
-      <a href="../index.html#blog" class="text-link post-back-link">Back to portfolio blog</a>
+      <a href="../index.html#blog" class="text-link post-back-link" aria-label="Back to blog listing">Back to portfolio blog</a>
 
       <header class="post-header">
         <p class="post-kicker" id="post-category"></p>
@@ -37,7 +38,7 @@
         <div class="blog-post-tags" id="post-tags"></div>
       </header>
 
-      <section class="post-content" id="post-content">
+      <section class="post-content" id="post-content" aria-live="polite">
         <p>Loading...</p>
       </section>
 
