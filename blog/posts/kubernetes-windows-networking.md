@@ -1,13 +1,3 @@
----
-title: "Kubernetes Networking on Windows: Bridging the OS Gap"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Windows, Infrastructure
-summary: Understanding how Kubernetes handles networking for Windows containers, including the Host Networking Service (HNS) and differences from Linux.
----
-
-# Kubernetes Networking on Windows: Bridging the OS Gap
-
 While most Kubernetes clusters run on Linux, many organizations need to support **Windows Server** nodes for legacy applications or specific .NET frameworks. Networking on Windows in Kubernetes works differently than on Linux, primarily because Windows doesn't use `iptables`.
 
 ## The Engine: Host Networking Service (HNS)

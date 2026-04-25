@@ -1,13 +1,3 @@
----
-title: "Kubernetes 101: Control Plane and Worker Nodes"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Infrastructure, Beginner
-summary: A walkthrough of how the Kubernetes control plane coordinates scheduling and how worker nodes run your workloads.
----
-
-# Kubernetes 101: Control Plane and Worker Nodes
-
 This is a dummy post to test the new blog workflow and verify that Markdown posts can be listed and opened from the Blog tab.
 
 ## What is the control plane?

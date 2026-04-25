@@ -1,13 +1,3 @@
----
-title: "Kubernetes Ingress: Managing External Access"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Ingress, Infrastructure
-summary: An introduction to Kubernetes Ingress and how it manages external access to services in a cluster, typically HTTP.
----
-
-# Kubernetes Ingress: Managing External Access
-
 While a **Service** (specifically `LoadBalancer` or `NodePort`) can expose your application to the outside world, **Ingress** provides a more powerful and flexible way to manage external access to your services.
 
 ## What is Ingress?

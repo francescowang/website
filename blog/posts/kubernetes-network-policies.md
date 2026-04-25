@@ -1,13 +1,3 @@
----
-title: "Kubernetes Network Policies: Securing the East-West Traffic"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Security, Infrastructure
-summary: Learn how to use Network Policies to control traffic flow between Pods and secure your cluster's internal communication.
----
-
-# Kubernetes Network Policies: Securing the East-West Traffic
-
 By default, Kubernetes follows a "flat network" model: any Pod can talk to any other Pod in the cluster. While this makes development easy, it's a security nightmare for production.
 
 **Network Policies** are the Kubernetes way of defining how groups of Pods are allowed to communicate with each other and other network endpoints.

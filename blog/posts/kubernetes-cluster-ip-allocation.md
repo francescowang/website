@@ -1,13 +1,3 @@
----
-title: "Kubernetes ClusterIP Allocation: Preventing IP Collisions"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, ClusterIP, Infrastructure
-summary: Understanding the internal logic of how Kubernetes allocates IP addresses to Services and the strategy used to avoid conflicts.
----
-
-# Kubernetes ClusterIP Allocation: Preventing IP Collisions
-
 When you create a `Service` in Kubernetes without specifying a `clusterIP`, the control plane automatically assigns one from the `service-cluster-ip-range`. But how does it ensure that it doesn't pick an IP you might have wanted to assign statically?
 
 The answer lies in the **ClusterIP Allocation Strategy**.

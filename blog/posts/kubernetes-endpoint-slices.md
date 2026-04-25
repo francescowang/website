@@ -1,13 +1,3 @@
----
-title: "Kubernetes EndpointSlices: Scaling Service Networking"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Scalability, Infrastructure
-summary: How EndpointSlices provide a more scalable and extensible way to track network endpoints in large Kubernetes clusters.
----
-
-# Kubernetes EndpointSlices: Scaling Service Networking
-
 In the early days of Kubernetes, the **Endpoints** resource was the only way to track the IP addresses of Pods backed by a Service. But as clusters grew to thousands of nodes and even more Pods, the limitations of a single Endpoints object became a major bottleneck.
 
 Enter **EndpointSlices**.

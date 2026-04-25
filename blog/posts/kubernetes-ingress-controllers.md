@@ -1,13 +1,3 @@
----
-title: "Understanding Kubernetes Ingress Controllers"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Ingress, Infrastructure
-summary: Exploring the engine behind Ingress resources—how Ingress Controllers actually implement your routing rules.
----
-
-# Understanding Kubernetes Ingress Controllers
-
 In a previous post, we looked at the **Ingress** resource—a set of rules for routing external traffic. However, an Ingress resource on its own is just a piece of configuration in the database. To actually move traffic, you need an **Ingress Controller**.
 
 ## What is an Ingress Controller?

@@ -1,13 +1,3 @@
----
-title: "Kubernetes Service Internal Traffic Policy: Optimizing Local Routing"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Traffic Policy, Performance, Infrastructure
-summary: Exploring how the Internal Traffic Policy allows you to control whether Service traffic is routed cluster-wide or restricted to the local node.
----
-
-# Kubernetes Service Internal Traffic Policy: Optimizing Local Routing
-
 When a Pod sends traffic to a Service, where should that traffic go? By default, Kubernetes can route it to any Pod in the cluster that matches the Service's selector. But what if you want to ensure that traffic stays on the same node to reduce latency or overhead?
 
 This is where **Service Internal Traffic Policy** comes into play.

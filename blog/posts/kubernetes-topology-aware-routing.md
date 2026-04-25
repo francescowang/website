@@ -1,13 +1,3 @@
----
-title: "Kubernetes Topology Aware Routing: Optimizing for Performance and Cost"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Topology, Performance, Infrastructure
-summary: Learn how Topology Aware Routing helps reduce cross-zone traffic and latency by preferring endpoints in the same zone.
----
-
-# Kubernetes Topology Aware Routing: Optimizing for Performance and Cost
-
 In large-scale cloud environments, clusters often span multiple **Availability Zones (AZs)**. While this provides high availability, it introduces a challenge: cross-zone network traffic is often slower and more expensive than traffic within the same zone.
 
 **Topology Aware Routing** (formerly Topology Aware Hints) is a Kubernetes feature that tries to keep traffic within the same zone where it originated.

@@ -1,13 +1,3 @@
----
-title: "Kubernetes Pod Lifecycle: From Pending to Terminated"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Workloads, Pods, Infrastructure
-summary: Understanding the various phases, conditions, and container states that define the life of a Kubernetes Pod.
----
-
-# Kubernetes Pod Lifecycle: From Pending to Terminated
-
 A Pod is the smallest deployable unit in Kubernetes. But it's not just "on" or "off"—it goes through a series of phases from the moment it is created until it is removed. Understanding this lifecycle is key to troubleshooting why your application might not be starting or why it's restarting unexpectedly.
 
 ## Pod Phases

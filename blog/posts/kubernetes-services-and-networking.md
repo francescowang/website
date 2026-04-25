@@ -1,12 +1,3 @@
----
-title: "Kubernetes Networking: Services, Load Balancing, and Connectivity"
-category: Kubernetes
-date: 2026-04-24
-summary: An overview of how Kubernetes handles networking, from the pod network model to services, ingress, and network policies.
----
-
-# Kubernetes Networking: Services, Load Balancing, and Connectivity
-
 Kubernetes networking is a complex but powerful system that abstracts physical network details into a software-defined model. It ensures that pods can communicate with each other, services are accessible to users, and the cluster remains secure.
 
 ## The Kubernetes Network Model

@@ -1,13 +1,3 @@
----
-title: "Kubernetes Gateway API: The Evolution of Service Networking"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Gateway API, Infrastructure
-summary: An overview of the Kubernetes Gateway API—a role-oriented, expressive, and extensible evolution of traditional Ingress.
----
-
-# Kubernetes Kubernetes Gateway API: The Evolution of Service Networking
-
 For years, **Ingress** has been the standard for managing external traffic in Kubernetes. But as clusters grew more complex, the limitations of Ingress—its lack of expressiveness and its "one-size-fits-all" approach—became apparent. Enter the **Gateway API**.
 
 ## What is the Gateway API?

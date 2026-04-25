@@ -1,13 +1,3 @@
----
-title: "Service in Kubernetes: Decoupling and Discovery"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Infrastructure
-summary: Understanding how Kubernetes Services provide stable networking for volatile pods using labels and selectors.
----
-
-# Service in Kubernetes: Decoupling and Discovery
-
 In Kubernetes, Pods are ephemeral. They are created, destroyed, and replaced frequently by controllers like Deployments. This volatility creates a problem: if a set of backend Pods provides functionality to other frontend Pods, how do the frontend Pods find and keep track of which IP addresses to connect to?
 
 This is where the **Service** resource comes in.

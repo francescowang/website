@@ -1,13 +1,3 @@
----
-title: "Kubernetes Dual-Stack: Bridging IPv4 and IPv6"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, Dual-Stack, Infrastructure
-summary: Exploring how Kubernetes supports both IPv4 and IPv6 addresses simultaneously for Pods and Services.
----
-
-# Kubernetes Dual-Stack: Bridging IPv4 and IPv6
-
 As the world slowly moves away from the limited pool of IPv4 addresses, the need for IPv6 support in infrastructure has become critical. Kubernetes supports **IPv4/IPv6 dual-stack** networking, allowing you to assign both IPv4 and IPv6 addresses to Pods and Services.
 
 ## What is Dual-Stack?

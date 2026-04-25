@@ -1,14 +1,3 @@
----
-title: "Secure Kubernetes and Cloud Foundations"
-category: Cloud Security
-date: 2026-04-24
-tags: Kubernetes, Security, Cloud
-summary: A practical baseline for securing clusters and cloud primitives before you start layering on more advanced policy controls.
-
----
-
-# Secure Kubernetes and Cloud Foundations
-
 A practical baseline for securing clusters and cloud primitives before you start layering on more advanced policy controls.
 
 ## Why baseline security matters

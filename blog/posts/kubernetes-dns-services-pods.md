@@ -1,13 +1,3 @@
----
-title: "Kubernetes DNS: How Services and Pods Find Each Other"
-category: Kubernetes
-date: 2026-04-24
-tags: Kubernetes, Networking, DNS, Infrastructure
-summary: A deep dive into the cluster's internal phonebook—understanding how DNS names are assigned to Services and Pods.
----
-
-# Kubernetes DNS: How Services and Pods Find Each Other
-
 In a Kubernetes cluster, you don't want to hardcode IP addresses. Pods are ephemeral, and Service IPs (while stable) are still just numbers. To make communication reliable and human-readable, Kubernetes provides a built-in DNS service (usually **CoreDNS**).
 
 ## The Internal Phonebook
