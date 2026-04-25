@@ -1,5 +1,29 @@
 [
   {
+    "slug": "kubernetes-disruptions",
+    "title": "Kubernetes Disruptions: Protecting Application Availability",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding voluntary and involuntary disruptions and how to use Pod Disruption Budgets (PDBs) to ensure your app stays online during maintenance.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Availability", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-ephemeral-containers",
+    "title": "Kubernetes Ephemeral Containers: Debugging in Real-Time",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "A guide to using Ephemeral Containers to debug running Pods without having to restart them or rebuild your images with debugging tools.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Troubleshooting", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-sidecar-containers",
+    "title": "Kubernetes Sidecar Containers: Enhancing the Main App",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding the sidecar pattern—how to use auxiliary containers to handle logging, monitoring, and security alongside your main application.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Infrastructure"]
+  },
+  {
     "slug": "kubernetes-init-containers",
     "title": "Kubernetes Init Containers: Preparing the Ground",
     "category": "Kubernetes",
