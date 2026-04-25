@@ -1,6 +1,6 @@
 In a standard Kubernetes Deployment, Pods are anonymous and replaceable. Their hostnames are usually just the name of the Pod itself (e.g., `my-web-app-5f67894d-abc12`). However, there are times when you need a Pod to have a stable, predictable network identity.
 
-## The Default Behavior
+## The Default Behaviour
 
 By default, a Pod's hostname is its `metadata.name`. 
 

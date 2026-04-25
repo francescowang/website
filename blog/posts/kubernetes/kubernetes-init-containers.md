@@ -2,7 +2,7 @@ In many applications, the main container isn't ready to start immediately. It mi
 
 ## What is an Init Container?
 
-Init Containers are specialized containers that run **before** the app containers in a Pod. They are exactly like regular containers, with two key differences:
+Init Containers are specialised containers that run **before** the app containers in a Pod. They are exactly like regular containers, with two key differences:
 1.  They always run to completion.
 2.  Each Init Container must complete successfully before the next one starts.
 
@@ -58,6 +58,6 @@ spec:
 
 ## Conclusion
 
-Init Containers are a powerful pattern for managing application dependencies and keeping your production images clean and secure. By delegating "setup" logic to specialized containers, you ensure that your main application only starts when the environment is truly ready.
+Init Containers are a powerful pattern for managing application dependencies and keeping your production images clean and secure. By delegating "setup" logic to specialised containers, you ensure that your main application only starts when the environment is truly ready.
 
 For more technical details and edge cases, check out the [official Kubernetes Init Containers documentation](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/).

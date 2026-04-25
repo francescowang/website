@@ -1,6 +1,6 @@
 Most of the time, we treat Pods as isolated units with their own networking, process, and IPC namespaces. However, complex workloads—like monitoring agents, security tools, or highly-coupled microservices—sometimes need to break these boundaries. 
 
-Kubernetes provides several **Advanced Pod Configuration** fields to fine-tune these behaviors.
+Kubernetes provides several **Advanced Pod Configuration** fields to fine-tune these behaviours.
 
 ## 1. Sharing Host Namespaces
 
@@ -32,7 +32,7 @@ Standard containers in a Pod are isolated from each other's processes. If you en
 [ Pod with shareProcessNamespace: true ]
 +------------------------------------------+
 |  Container A (App)                       |
-|  - Can see processes of Container B       |
+|  - Can see processes of Container B      |
 |                                          |
 |  Container B (Sidecar/Debug)             |
 |  - Can send signals (SIGTERM) to A       |

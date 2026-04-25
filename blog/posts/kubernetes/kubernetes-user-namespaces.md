@@ -58,6 +58,6 @@ When `hostUsers` is `false`, Kubernetes (working with the container runtime like
 
 ## Conclusion
 
-User Namespaces represent a massive leap forward in Kubernetes security. By decoupling the container's user identity from the host's, you add a formidable layer of defense-in-depth that makes it significantly harder for attackers to move laterally or compromise the underlying infrastructure.
+User Namespaces represent a massive leap forward in Kubernetes security. By decoupling the container's user identity from the host's, you add a formidable layer of defence-in-depth that makes it significantly harder for attackers to move laterally or compromise the underlying infrastructure.
 
 For a deeper dive into the technical implementation and current feature state, check out the [official Kubernetes User Namespaces documentation](https://kubernetes.io/docs/concepts/workloads/pods/user-namespaces/).

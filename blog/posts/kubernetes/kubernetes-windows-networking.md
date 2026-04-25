@@ -55,6 +55,6 @@ Since you can't use `iptables -L`, here are the commands you'll need to troubles
 
 ## Conclusion
 
-Networking on Windows in Kubernetes is a specialized area that requires understanding the Windows-native network stack. While it abstracts away much of the complexity, knowing how HNS and VFP replace the Linux `iptables` model is crucial for any DevOps engineer managing a hybrid cluster.
+Networking on Windows in Kubernetes is a specialised area that requires understanding the Windows-native network stack. While it abstracts away much of the complexity, knowing how HNS and VFP replace the Linux `iptables` model is crucial for any DevOps engineer managing a hybrid cluster.
 
 For more technical details, check out the [official Kubernetes Windows Networking documentation](https://kubernetes.io/docs/concepts/services-networking/windows-networking/).

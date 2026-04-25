@@ -61,7 +61,7 @@ Kubernetes is smart about this. If one zone doesn't have enough healthy Pods to 
 
 ## Why Use It?
 
--   **Reduced Latency:** Faster response times for your users by avoiding the physical distance between data centers.
+-   **Reduced Latency:** Faster response times for your users by avoiding the physical distance between data centres.
 -   **Cost Savings:** Most cloud providers charge for data transfer between zones. Reducing this "east-west" traffic can significantly lower your cloud bill.
 -   **Reliability:** In the event of a partial zone failure, traffic is more naturally contained within healthy zones.
 
