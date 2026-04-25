@@ -1,5 +1,37 @@
 [
   {
+    "slug": "kubernetes-advanced-pod-config",
+    "title": "Kubernetes Advanced Pod Configuration: Beyond the Basics",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring advanced fields in the Pod spec, including namespace sharing, DNS customization, and process namespace isolation.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Configuration", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-downward-api",
+    "title": "Kubernetes Downward API: Exposing Pod Metadata to Containers",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Learn how the Downward API allows containers to consume information about themselves and their environment without using a Kubernetes client.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Metadata", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-user-namespaces",
+    "title": "Kubernetes User Namespaces: Enhancing Container Isolation",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how User Namespaces provide an extra layer of security by remapping container users to non-privileged host users.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Security", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-scheduling-groups",
+    "title": "Kubernetes Scheduling Groups: Native Gang Scheduling",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring the new Scheduling Group API—how to use PodGroups to enable all-or-nothing scheduling for batch and ML workloads.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Scheduling", "Infrastructure"]
+  },
+  {
     "slug": "kubernetes-pod-qos",
     "title": "Kubernetes Pod QoS Classes: Understanding Resource Priority",
     "category": "Kubernetes",
