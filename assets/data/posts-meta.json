@@ -1,5 +1,14 @@
 [
   {
+    "slug": "aws-rds-mysql-vs-postresql",
+    "folder": "aws",
+    "title": "AWS RDS MySQL vs PostgreSQL: A Comprehensive Guide",
+    "category": "AWS",
+    "date": "2026-04-26",
+    "summary": "A deep dive into the trade-offs between MySQL and PostgreSQL on AWS RDS, covering architecture, performance, security, and use cases.",
+    "tags": ["AWS", "RDS", "MySQL", "PostgreSQL", "Databases", "Infrastructure"]
+  },
+  {
     "slug": "amazon-rds-mysql-connection",
     "folder": "aws",
     "title": "Connecting to Amazon RDS MySQL: Endpoints, Security, and Troubleshooting",
