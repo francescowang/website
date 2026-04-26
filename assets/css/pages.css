@@ -53,6 +53,46 @@
 
 
 /*-----------------------------------*\
+  #PRINT BUTTON
+\*-----------------------------------*/
+
+.cv header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.print-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 9px;
+  color: var(--light-gray);
+  border: 1px solid var(--jet);
+  border-radius: 8px;
+  background: var(--onyx);
+  cursor: pointer;
+  transition: color var(--transition-1), border-color var(--transition-1);
+  flex-shrink: 0;
+}
+
+.print-btn:hover,
+.print-btn:focus {
+  color: var(--orange-yellow-crayola);
+  border-color: var(--orange-yellow-crayola);
+}
+
+.print-btn ion-icon { font-size: 16px; }
+
+.post-nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+
+
+/*-----------------------------------*\
   #RESUME
 \*-----------------------------------*/
 

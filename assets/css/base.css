@@ -463,3 +463,47 @@ article.active {
 .hidden {
   display: none;
 }
+
+
+
+/*-----------------------------------*\
+  #PRINT
+\*-----------------------------------*/
+
+@media print {
+
+  .sidebar,
+  .navbar,
+  .print-btn,
+  .blog-filter,
+  article:not(.active) {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+  }
+
+  article.active {
+    display: block !important;
+    background: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    color: #000;
+    animation: none;
+  }
+
+  .h2, .h3, .h4, .h5,
+  .timeline-item-title,
+  .timeline-text,
+  .tag-item,
+  .about-text {
+    color: #000 !important;
+  }
+
+  .article-title::after {
+    background: #000;
+  }
+
+}

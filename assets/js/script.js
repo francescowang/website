@@ -132,7 +132,11 @@ const renderPortfolioData = function (data) {
   const languagesList = document.querySelector("[data-languages-list]");
   if (languagesList && data.profile?.languages?.length) {
     languagesList.innerHTML = data.profile.languages.map(function (lang) {
-      return `<li class="tag-item">${lang}</li>`;
+      return `
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">${lang}</h4>
+        </li>
+      `;
     }).join("");
   }
 };
@@ -155,6 +159,13 @@ if (portfolioSource) {
       console.error("Error loading portfolio data:", error);
     });
 }
+
+
+
+// print buttons
+document.querySelectorAll("[data-print-btn]").forEach(function (btn) {
+  btn.addEventListener("click", function () { window.print(); });
+});
 
 
 
