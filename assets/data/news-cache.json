@@ -1,67 +1,74 @@
 {
   "tech": [
     {
+      "title": "Asahi Linux Progress Linux 7.0",
+      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "score": 457,
+      "comments": 197,
+      "source": "asahilinux.org"
+    },
+    {
+      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "score": 131,
+      "comments": 80,
+      "source": "openai.com"
+    },
+    {
+      "title": "Clay PCB Tutorial",
+      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "score": 105,
+      "comments": 74,
+      "source": "feministhackerspaces.cargo.site"
+    },
+    {
+      "title": "Dear friend, you have built a Kubernetes (2024)",
+      "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
+      "score": 40,
+      "comments": 36,
+      "source": "macchaffee.com"
+    },
+    {
+      "title": "The Visible Zorker: Zork 1",
+      "url": "https://eblong.com/infocom/visi/zork1/",
+      "score": 18,
+      "comments": 0,
+      "source": "eblong.com"
+    },
+    {
       "title": "Statecharts: hierarchical state machines",
       "url": "https://statecharts.dev/",
-      "score": 63,
-      "comments": 10,
+      "score": 226,
+      "comments": 68,
       "source": "statecharts.dev"
+    },
+    {
+      "title": "Free Textbook on Engineering Thermodynamics",
+      "url": "https://thermodynamicsbook.com/",
+      "score": 31,
+      "comments": 11,
+      "source": "thermodynamicsbook.com"
     },
     {
       "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 445,
-      "comments": 284,
+      "score": 634,
+      "comments": 451,
       "source": "scientificamerican.com"
-    },
-    {
-      "title": "The West forgot how to make things, now it\u2019s forgetting how to code",
-      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 543,
-      "comments": 314,
-      "source": "techtrenches.dev"
     },
     {
       "title": "Show HN: Turning a Gaussian Splat into a videogame",
       "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-      "score": 47,
-      "comments": 7,
+      "score": 144,
+      "comments": 28,
       "source": "blog.playcanvas.com"
     },
     {
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 264,
-      "comments": 159,
+      "score": 351,
+      "comments": 239,
       "source": "freakonomics.com"
-    },
-    {
-      "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
-      "url": "https://www.npmjs.com/package/ooko",
-      "score": 42,
-      "comments": 37,
-      "source": "npmjs.com"
-    },
-    {
-      "title": "USB Cheat Sheet (2022)",
-      "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 359,
-      "comments": 66,
-      "source": "fabiensanglard.net"
-    },
-    {
-      "title": "GnuPG \u2013 post-quantum crypto landing in mainline",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "score": 88,
-      "comments": 31,
-      "source": "lists.gnupg.org"
-    },
-    {
-      "title": "Cheating at Tetris",
-      "url": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
-      "score": 10,
-      "comments": 1,
-      "source": "chalkdustmagazine.com"
     }
   ],
   "security": [
