@@ -68,7 +68,7 @@
     "title": "Kubernetes Advanced Pod Configuration: Beyond the Basics",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "Exploring advanced fields in the Pod spec, including namespace sharing, DNS customization, and process namespace isolation.",
+    "summary": "Exploring advanced fields in the Pod spec, including namespace sharing, DNS customisation, and process namespace isolation.",
     "tags": [
       "Kubernetes",
       "Workloads",

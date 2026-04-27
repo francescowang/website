@@ -1,4 +1,4 @@
-While most Kubernetes clusters run on Linux, many organizations need to support **Windows Server** nodes for legacy applications or specific .NET frameworks. Networking on Windows in Kubernetes works differently than on Linux, primarily because Windows doesn't use `iptables`.
+While most Kubernetes clusters run on Linux, many organisations need to support **Windows Server** nodes for legacy applications or specific .NET frameworks. Networking on Windows in Kubernetes works differently than on Linux, primarily because Windows doesn't use `iptables`.
 
 ## The Engine: Host Networking Service (HNS)
 
