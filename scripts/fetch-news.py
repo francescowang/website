@@ -9,7 +9,8 @@ ssl_context = ssl._create_unverified_context()
 HN_API = 'https://hacker-news.firebaseio.com/v0'
 AWS_SECURITY_RSS = 'https://aws.amazon.com/blogs/security/feed/'
 RSS2JSON_API = 'https://api.rss2json.com/v1/api.json'
-COUNT = 10
+HN_COUNT = 30
+SECURITY_COUNT = 10
 
 def get_json(url):
     with urllib.request.urlopen(url, context=ssl_context) as response:
@@ -19,7 +20,7 @@ def fetch_hn():
     try:
         top_ids = get_json(f"{HN_API}/topstories.json")
         stories = []
-        for story_id in top_ids[:COUNT]:
+        for story_id in top_ids[:HN_COUNT]:
             story = get_json(f"{HN_API}/item/{story_id}.json")
             if story and 'title' in story and 'url' in story:
                 stories.append({
@@ -36,7 +37,7 @@ def fetch_hn():
 
 def fetch_security():
     try:
-        url = f"{RSS2JSON_API}?rss_url={urllib.parse.quote(AWS_SECURITY_RSS)}&count={COUNT}"
+        url = f"{RSS2JSON_API}?rss_url={urllib.parse.quote(AWS_SECURITY_RSS)}&count={SECURITY_COUNT}"
         data = get_json(url)
         if data['status'] == 'ok':
             return [{
