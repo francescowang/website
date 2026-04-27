@@ -444,7 +444,7 @@
 
   terminalContainer.addEventListener('click', () => {
     const input = terminalContainer.querySelector('.terminal-input');
-    if (input) input.focus();
+    if (input) input.focus({ preventScroll: true });
   });
 
   appendOutput("Ubuntu 24.04 LTS  |  Francesco Wang's Portfolio");
