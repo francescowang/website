@@ -56,6 +56,20 @@
   caret-color: #f0f0f0;
 }
 
+/* Rendered Markdown inside terminal */
+.terminal-markdown { color: #f0f0f0; }
+.terminal-markdown h1, .terminal-markdown h2 { color: #60a8ff; font-size: 1em; margin: 8px 0 4px; }
+.terminal-markdown hr { border-color: var(--jet); margin: 6px 0; }
+.terminal-markdown strong { color: #fff; }
+.terminal-markdown a { color: #4CAF50; }
+.terminal-markdown ul { padding-left: 20px; }
+.terminal-markdown table { border-collapse: collapse; }
+.terminal-markdown th, .terminal-markdown td { border: 1px solid var(--jet); padding: 2px 10px; }
+
+/* ls colours */
+.ls-dir  { color: #60a8ff; font-weight: bold; }
+.ls-file { color: #f0f0f0; }
+
 /* Scrollbar */
 .terminal-container::-webkit-scrollbar        { width: 6px; }
 .terminal-container::-webkit-scrollbar-track  { background: transparent; }
