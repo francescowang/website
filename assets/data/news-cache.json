@@ -1,213 +1,213 @@
 {
   "tech": [
     {
-      "title": "To My Students",
-      "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-      "score": 112,
-      "comments": 20,
-      "source": "ozark.hendrix.edu"
-    },
-    {
-      "title": "New Integrated by Design FreeBSD Book",
-      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "score": 38,
-      "comments": 3,
-      "source": "vivianvoss.net"
-    },
-    {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 732,
-      "comments": 641,
-      "source": "bloomberg.com"
+      "title": "GTFOBins",
+      "url": "https://gtfobins.org/",
+      "score": 31,
+      "comments": 1,
+      "source": "gtfobins.org"
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 46,
-      "comments": 12,
+      "score": 287,
+      "comments": 92,
       "source": "talkie-lm.com"
     },
     {
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "score": 74,
-      "comments": 39,
-      "source": "tps.ca"
-    },
-    {
-      "title": "Meetings Are Forcing Functions",
-      "url": "https://www.mooreds.com/wordpress/archives/3734",
-      "score": 19,
-      "comments": 5,
-      "source": "mooreds.com"
-    },
-    {
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "url": "https://github.com/Hanqaqa/Easyduino",
-      "score": 165,
-      "comments": 24,
-      "source": "github.com"
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 840,
+      "comments": 719,
+      "source": "bloomberg.com"
     },
     {
       "title": "Is my blue your blue?",
       "url": "https://ismy.blue/",
-      "score": 298,
-      "comments": 200,
+      "score": 464,
+      "comments": 313,
       "source": "ismy.blue"
     },
     {
-      "title": "The quiet resurgence of RF engineering",
-      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
-      "score": 120,
-      "comments": 64,
-      "source": "atempleton.bearblog.dev"
+      "title": "Mo RAM, Mo Problems (2025)",
+      "url": "https://fabiensanglard.net/curse/",
+      "score": 98,
+      "comments": 9,
+      "source": "fabiensanglard.net"
     },
     {
-      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
-      "score": 77,
-      "comments": 9,
-      "source": "theguardian.com"
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "url": "https://github.com/pgcentralfoundation/pgrx",
+      "score": 48,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "High Performance Git",
+      "url": "https://gitperf.com/",
+      "score": 94,
+      "comments": 11,
+      "source": "gitperf.com"
+    },
+    {
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "url": "https://technology.robbyant.com/lingbot-map",
+      "score": 20,
+      "comments": 1,
+      "source": "technology.robbyant.com"
+    },
+    {
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "score": 145,
+      "comments": 66,
+      "source": "tps.ca"
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
       "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 430,
-      "comments": 157,
+      "score": 504,
+      "comments": 178,
       "source": "app.oravys.com"
     },
     {
-      "title": "Networking changes coming in macOS\u00a027",
-      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-      "score": 198,
-      "comments": 165,
-      "source": "eclecticlight.co"
+      "title": "How I leared what a decoupling capacitor is for, the hard way",
+      "url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+      "score": 70,
+      "comments": 28,
+      "source": "nbelakovski.substack.com"
     },
     {
       "title": "Men who stare at walls",
       "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 431,
-      "comments": 200,
+      "score": 534,
+      "comments": 238,
       "source": "alexselimov.com"
     },
     {
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-      "score": 287,
-      "comments": 188,
-      "source": "cnbc.com"
+      "title": "The quiet resurgence of RF engineering",
+      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+      "score": 183,
+      "comments": 96,
+      "source": "atempleton.bearblog.dev"
     },
     {
-      "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
-      "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
-      "score": 33,
-      "comments": 11,
-      "source": "support.claude.com"
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "score": 198,
+      "comments": 31,
+      "source": "github.com"
     },
     {
-      "title": "Radar Laboratory \u2013 Interactive Radar Phenomenology",
-      "url": "https://radarlaboratory.com/",
-      "score": 19,
-      "comments": 0,
-      "source": "radarlaboratory.com"
+      "title": "Integrated by Design",
+      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "score": 92,
+      "comments": 38,
+      "source": "vivianvoss.net"
+    },
+    {
+      "title": "Networking changes coming in macOS\u00a027",
+      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "score": 223,
+      "comments": 193,
+      "source": "eclecticlight.co"
+    },
+    {
+      "title": "Meetings are forcing functions",
+      "url": "https://www.mooreds.com/wordpress/archives/3734",
+      "score": 104,
+      "comments": 47,
+      "source": "mooreds.com"
+    },
+    {
+      "title": "First G-SHOCK with a heart rate monitor, also featuring Smartphone Link",
+      "url": "https://gshock.casio.com/intl/products/g-lide/gbx-h5600/",
+      "score": 6,
+      "comments": 4,
+      "source": "gshock.casio.com"
     },
     {
       "title": "The woes of sanitizing SVGs",
       "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
-      "score": 175,
-      "comments": 69,
+      "score": 208,
+      "comments": 87,
       "source": "muffin.ink"
     },
     {
-      "title": "Generative AI Vegetarianism",
-      "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-      "score": 4,
-      "comments": 3,
-      "source": "sboots.ca"
+      "title": "Lessons from building multiplayer browsers",
+      "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+      "score": 41,
+      "comments": 13,
+      "source": "alejandro.pe"
     },
     {
-      "title": "The Secret Life of NaN",
-      "url": "https://anniecherkaev.com/the-secret-life-of-nan",
-      "score": 26,
-      "comments": 10,
-      "source": "anniecherkaev.com"
-    },
-    {
-      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
-      "url": "https://zsnes.com/",
-      "score": 223,
-      "comments": 61,
-      "source": "zsnes.com"
-    },
-    {
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 524,
-      "comments": 401,
-      "source": "github.blog"
-    },
-    {
-      "title": "Pgbackrest is no longer being maintained",
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "score": 392,
-      "comments": 203,
-      "source": "github.com"
+      "title": "Radar Laboratory \u2013 Interactive Radar Phenomenology",
+      "url": "https://radarlaboratory.com/",
+      "score": 49,
+      "comments": 2,
+      "source": "radarlaboratory.com"
     },
     {
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
       "url": "https://github.com/WeebLabs/DSPi",
-      "score": 259,
-      "comments": 75,
+      "score": 282,
+      "comments": 79,
       "source": "github.com"
     },
     {
-      "title": "\u201cWhy not just use Lean?\u201d",
-      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-      "score": 245,
-      "comments": 173,
-      "source": "lawrencecpaulson.github.io"
-    },
-    {
-      "title": "NPM website was down",
-      "url": "https://status.npmjs.org",
-      "score": 111,
-      "comments": 51,
-      "source": "status.npmjs.org"
-    },
-    {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
-      "score": 291,
-      "comments": 116,
-      "source": "github.com"
+      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+      "score": 95,
+      "comments": 22,
+      "source": "theguardian.com"
     },
     {
       "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
-      "score": 208,
-      "comments": 80,
+      "score": 233,
+      "comments": 86,
       "source": "fda.gov"
     },
     {
-      "title": "Magic by return of post: How mail order delivered the occult",
-      "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
-      "score": 38,
-      "comments": 4,
-      "source": "publicdomainreview.org"
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "score": 412,
+      "comments": 219,
+      "source": "github.com"
     },
     {
-      "title": "Quarkdown \u2013 Markdown with Superpowers",
-      "url": "https://quarkdown.com/",
-      "score": 250,
-      "comments": 85,
-      "source": "quarkdown.com"
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 623,
+      "comments": 453,
+      "source": "github.blog"
     },
     {
-      "title": "L123: A Lotus 1-2-3\u2013style terminal spreadsheet with modern Excel compatibility",
-      "url": "https://github.com/duane1024/l123",
-      "score": 65,
-      "comments": 15,
+      "title": "\u201cWhy not just use Lean?\u201d",
+      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "score": 273,
+      "comments": 191,
+      "source": "lawrencecpaulson.github.io"
+    },
+    {
+      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
+      "url": "https://zsnes.com/",
+      "score": 278,
+      "comments": 81,
+      "source": "zsnes.com"
+    },
+    {
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "score": 360,
+      "comments": 257,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "url": "https://github.com/dirac-run/dirac",
+      "score": 333,
+      "comments": 123,
       "source": "github.com"
     }
   ],
