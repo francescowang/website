@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 36,
+      "comments": 20,
+      "source": "websmith.studio"
+    },
+    {
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "url": "https://www.pagetable.com/?p=1854",
+      "score": 7,
+      "comments": 1,
+      "source": "pagetable.com"
+    },
+    {
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "score": 158,
+      "comments": 50,
+      "source": "github.com"
+    },
+    {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 541,
-      "comments": 179,
+      "score": 623,
+      "comments": 209,
       "source": "thereader.mitpress.mit.edu"
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 456,
-      "comments": 342,
-      "source": "openwall.com"
-    },
-    {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 293,
-      "comments": 151,
-      "source": "theargumentmag.com"
-    },
-    {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 378,
-      "comments": 127,
-      "source": "semgrep.dev"
-    },
-    {
-      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "score": 21,
-      "comments": 5,
-      "source": "spectrum.ieee.org"
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "score": 143,
+      "comments": 187,
+      "source": "docs.x.ai"
     },
     {
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 25,
-      "comments": 1,
+      "score": 92,
+      "comments": 58,
       "source": "tcd.ie"
+    },
+    {
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 528,
+      "comments": 422,
+      "source": "openwall.com"
     },
     {
       "title": "OpenWarp",
       "url": "https://openwarp.zerx.dev",
-      "score": 72,
-      "comments": 60,
+      "score": 112,
+      "comments": 97,
       "source": "openwarp.zerx.dev"
     },
     {
-      "title": "Can I disable all data collection from my vehicle?",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 593,
-      "comments": 236,
-      "source": "rivian.com"
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "score": 35,
+      "comments": 10,
+      "source": "xcancel.com"
     },
     {
-      "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
-      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 85,
-      "comments": 27,
-      "source": "labs.watchtowr.com"
+      "title": "If I could make my own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "score": 26,
+      "comments": 59,
+      "source": "matduggan.com"
     },
     {
-      "title": "Maladaptive Frugality",
-      "url": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 74,
-      "comments": 51,
-      "source": "herbertlui.net"
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 407,
+      "comments": 147,
+      "source": "semgrep.dev"
     },
     {
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 257,
-      "comments": 55,
-      "source": "nickkossolapov.github.io"
-    },
-    {
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1087,
-      "comments": 599,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-      "score": 21,
-      "comments": 1,
-      "source": "macrumors.com"
-    },
-    {
-      "title": "How an oil refinery works",
-      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 391,
-      "comments": 119,
-      "source": "construction-physics.com"
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 372,
+      "comments": 195,
+      "source": "theargumentmag.com"
     },
     {
       "title": "Softmax, can you derive the Jacobian? And should you care?",
       "url": "https://idlemachines.co.uk/essays/softmax",
-      "score": 13,
-      "comments": 0,
+      "score": 64,
+      "comments": 8,
       "source": "idlemachines.co.uk"
     },
     {
-      "title": "New mechanical panoramic film camera from Jeff Bridges",
-      "url": "https://wideluxx.com",
-      "score": 127,
-      "comments": 57,
-      "source": "wideluxx.com"
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "score": 64,
+      "comments": 35,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "score": 124,
+      "comments": 96,
+      "source": "herbertlui.net"
+    },
+    {
+      "title": "The Rotary Un-Smartphone (2023)",
+      "url": "https://skysedge.com/telecom/RUSP/index.html",
+      "score": 36,
+      "comments": 5,
+      "source": "skysedge.com"
+    },
+    {
+      "title": "A beginner's guide to Sourcehut (2025)",
+      "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
+      "score": 25,
+      "comments": 6,
+      "source": "btxx.org"
+    },
+    {
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 445,
+      "comments": 138,
+      "source": "construction-physics.com"
+    },
+    {
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 1198,
+      "comments": 660,
+      "source": "twitter.com"
+    },
+    {
+      "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "score": 119,
+      "comments": 48,
+      "source": "labs.watchtowr.com"
+    },
+    {
+      "title": "Auto Polo",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo",
+      "score": 75,
+      "comments": 19,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 291,
+      "comments": 67,
+      "source": "nickkossolapov.github.io"
+    },
+    {
+      "title": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 645,
+      "comments": 270,
+      "source": "rivian.com"
+    },
+    {
+      "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+      "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+      "score": 26,
+      "comments": 1,
+      "source": "lovable.dev"
+    },
+    {
+      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "score": 37,
+      "comments": 8,
+      "source": "spectrum.ieee.org"
     },
     {
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 297,
-      "comments": 134,
+      "score": 334,
+      "comments": 144,
       "source": "lemire.me"
+    },
+    {
+      "title": "New mechanical panoramic film camera from Jeff Bridges",
+      "url": "https://wideluxx.com",
+      "score": 161,
+      "comments": 75,
+      "source": "wideluxx.com"
     },
     {
       "title": "Reverse Engineering SimTower",
       "url": "https://phulin.me/blog/simtower",
-      "score": 180,
-      "comments": 30,
+      "score": 213,
+      "comments": 50,
       "source": "phulin.me"
     },
     {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 791,
-      "comments": 777,
-      "source": "dpa-international.com"
-    },
-    {
-      "title": "Honker \u2013 Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
-      "url": "https://honker.dev/",
-      "score": 203,
-      "comments": 53,
-      "source": "honker.dev"
-    },
-    {
-      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-      "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "score": 69,
-      "comments": 14,
-      "source": "sciencex.com"
-    },
-    {
-      "title": "I Got Sick of Remembering Port Numbers",
-      "url": "https://gregraiz.com/blog/local-vibe/",
-      "score": 64,
-      "comments": 59,
-      "source": "gregraiz.com"
-    },
-    {
-      "title": "Full-Text Search with DuckDB",
-      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 119,
-      "comments": 28,
-      "source": "peterdohertys.website"
-    },
-    {
-      "title": "10Gb/s Ethernet: what I did to get it working in my home",
-      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 185,
-      "comments": 131,
-      "source": "gilesthomas.com"
-    },
-    {
-      "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
-      "url": "https://github.com/kernalix7/winpodx",
-      "score": 64,
-      "comments": 32,
-      "source": "github.com"
-    },
-    {
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "url": "https://bidprowl.com",
-      "score": 271,
-      "comments": 75,
-      "source": "bidprowl.com"
-    },
-    {
-      "title": "Does Postgres Scale?",
-      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-      "score": 118,
-      "comments": 56,
-      "source": "dbos.dev"
-    },
-    {
-      "title": "The Church Rock Uranium Mill Spill",
-      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
-      "score": 84,
+      "title": "The Hearts of the Super Nintendo (2024)",
+      "url": "https://fabiensanglard.net/snes_hearts/",
+      "score": 36,
       "comments": 5,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Follow-up to Carrot disclosure: Forgejo",
-      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
-      "score": 59,
-      "comments": 10,
-      "source": "dustri.org"
-    },
-    {
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 463,
-      "comments": 187,
-      "source": "democrata.es"
+      "source": "fabiensanglard.net"
     }
   ],
   "security": [
