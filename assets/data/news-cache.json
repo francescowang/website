@@ -1,116 +1,200 @@
 {
   "tech": [
     {
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "score": 49,
+      "comments": 4,
+      "source": "nethack.org"
+    },
+    {
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "score": 63,
+      "comments": 69,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "score": 41,
+      "comments": 3,
+      "source": "epo.org"
+    },
+    {
+      "title": "Videolan Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 12,
+      "comments": 0,
+      "source": "code.videolan.org"
+    },
+    {
+      "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
+      "url": "https://github.com/EnterpriseDB/barman",
+      "score": 89,
+      "comments": 15,
+      "source": "github.com"
+    },
+    {
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 56,
-      "comments": 14,
+      "score": 186,
+      "comments": 67,
       "source": "eclecticlight.co"
     },
     {
       "title": "Why does it take so long to release black fan versions?",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 327,
-      "comments": 150,
+      "score": 596,
+      "comments": 247,
       "source": "noctua.at"
+    },
+    {
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "score": 17,
+      "comments": 2,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "url": "https://flueframework.com/",
+      "score": 5,
+      "comments": 0,
+      "source": "flueframework.com"
+    },
+    {
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "score": 30,
+      "comments": 2,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "url": "https://arxiv.org/abs/2406.11717",
+      "score": 49,
+      "comments": 18,
+      "source": "arxiv.org"
     },
     {
       "title": "Why are there both TMP and TEMP environment variables? (2015)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "score": 63,
-      "comments": 27,
+      "score": 158,
+      "comments": 79,
       "source": "devblogs.microsoft.com"
     },
     {
-      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
-      "url": "https://github.com/bruin-data/dac",
-      "score": 30,
-      "comments": 5,
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "url": "https://github.com/nexu-io/open-design",
+      "score": 121,
+      "comments": 71,
       "source": "github.com"
     },
     {
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "url": "https://iesna.eu/?wasm=skyglow_demo",
-      "score": 21,
-      "comments": 5,
-      "source": "iesna.eu"
+      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "url": "https://arxiv.org/abs/2509.00462",
+      "score": 296,
+      "comments": 148,
+      "source": "arxiv.org"
     },
     {
-      "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
-      "url": "https://mljar.com/",
-      "score": 22,
-      "comments": 3,
-      "source": "mljar.com"
-    },
-    {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 476,
-      "comments": 402,
-      "source": "education.ti.com"
+      "title": "America's Expanding Domestic Surveillance",
+      "url": "https://www.wsj.com/articles/americas-expanding-domestic-surveillance-08b73187",
+      "score": 103,
+      "comments": 52,
+      "source": "wsj.com"
     },
     {
       "title": "Dotcl: Common Lisp Implementation on .NET",
       "url": "https://github.com/dotcl/dotcl",
-      "score": 42,
-      "comments": 2,
+      "score": 121,
+      "comments": 22,
       "source": "github.com"
     },
     {
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "score": 20,
-      "comments": 10,
-      "source": "copilot.simplepdf.com"
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "score": 540,
+      "comments": 441,
+      "source": "education.ti.com"
     },
     {
-      "title": "Show HN: Piruetas \u2013 A self-hosted diary app I built for my girlfriend",
-      "url": "https://piruet.app",
-      "score": 14,
-      "comments": 20,
-      "source": "piruet.app"
+      "title": "Show HN: Pollen \u2013 distributed WASM runtime, no control plane, single binary",
+      "url": "https://github.com/sambigeara/pollen",
+      "score": 75,
+      "comments": 36,
+      "source": "github.com"
+    },
+    {
+      "title": "Zugzwang",
+      "url": "https://en.wikipedia.org/wiki/Zugzwang",
+      "score": 61,
+      "comments": 31,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Also-RANS: Asymmetric Numeral Systems for Entropy Coding",
+      "url": "https://fergusfinn.com/blog/understanding-rans/",
+      "score": 3,
+      "comments": 0,
+      "source": "fergusfinn.com"
+    },
+    {
+      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
+      "url": "https://github.com/bruin-data/dac",
+      "score": 78,
+      "comments": 22,
+      "source": "github.com"
     },
     {
       "title": "Artemis II Photo Timeline",
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 237,
-      "comments": 20,
+      "score": 306,
+      "comments": 25,
       "source": "artemistimeline.com"
     },
     {
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 361,
-      "comments": 209,
+      "score": 418,
+      "comments": 244,
       "source": "newyorker.com"
     },
     {
-      "title": "Bitmap and tilemap generation from a single example",
-      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
-      "score": 34,
-      "comments": 7,
-      "source": "github.com"
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+      "score": 52,
+      "comments": 10,
+      "source": "economist.com"
+    },
+    {
+      "title": "DeepSeek V4\u2013almost on the frontier, a fraction of the price",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "score": 386,
+      "comments": 248,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "score": 53,
+      "comments": 10,
+      "source": "mljar.com"
     },
     {
       "title": "To Restore an Island Paradise, Add Fungi",
       "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 73,
-      "comments": 14,
+      "score": 118,
+      "comments": 32,
       "source": "e360.yale.edu"
     },
     {
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "score": 304,
-      "comments": 154,
-      "source": "ask.com"
-    },
-    {
-      "title": "K3k: Kubernetes in Kubernetes",
-      "url": "https://github.com/rancher/k3k",
-      "score": 71,
-      "comments": 39,
-      "source": "github.com"
+      "title": "SFO Gate Explorer",
+      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+      "score": 31,
+      "comments": 32,
+      "source": "flysfo.com"
     },
     {
       "title": "CollectWise (YC F24) Is Hiring",
@@ -120,81 +204,11 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-      "url": "https://snewpapers.com/",
-      "score": 14,
-      "comments": 8,
-      "source": "snewpapers.com"
-    },
-    {
-      "title": "SFO Gate Explorer",
-      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
-      "score": 3,
-      "comments": 2,
-      "source": "flysfo.com"
-    },
-    {
-      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-      "score": 44,
-      "comments": 9,
-      "source": "liquid.ai"
-    },
-    {
-      "title": "DeepSeek V4\u2013almost on the frontier, a fraction of the price",
-      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-      "score": 178,
-      "comments": 87,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "GameStop Preparing Offer for eBay",
-      "url": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
-      "score": 12,
-      "comments": 2,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
-      "score": 152,
-      "comments": 57,
-      "source": "github.com"
-    },
-    {
-      "title": "A report on burnout in open source software communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 86,
-      "comments": 31,
-      "source": "mirandaheath.website"
-    },
-    {
-      "title": "Apocalypse Early Warning System",
-      "url": "https://ews.kylemcdonald.net/",
-      "score": 210,
-      "comments": 98,
-      "source": "ews.kylemcdonald.net"
-    },
-    {
-      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-      "url": "https://mathstick.github.io",
-      "score": 18,
-      "comments": 17,
-      "source": "mathstick.github.io"
-    },
-    {
-      "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 149,
-      "comments": 210,
-      "source": "wired.com"
-    },
-    {
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
-      "score": 56,
-      "comments": 28,
-      "source": "nature.com"
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "score": 34,
+      "comments": 11,
+      "source": "iesna.eu"
     }
   ],
   "security": [
