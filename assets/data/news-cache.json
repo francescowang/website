@@ -1,66 +1,115 @@
 {
   "tech": [
     {
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "score": 56,
+      "comments": 14,
+      "source": "eclecticlight.co"
+    },
+    {
       "title": "Why does it take so long to release black fan versions?",
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 43,
-      "comments": 13,
+      "score": 327,
+      "comments": 150,
       "source": "noctua.at"
     },
     {
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "score": 190,
-      "comments": 98,
-      "source": "ask.com"
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+      "score": 63,
+      "comments": 27,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
+      "url": "https://github.com/bruin-data/dac",
+      "score": 30,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "score": 21,
+      "comments": 5,
+      "source": "iesna.eu"
+    },
+    {
+      "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "score": 22,
+      "comments": 3,
+      "source": "mljar.com"
     },
     {
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 409,
-      "comments": 366,
+      "score": 476,
+      "comments": 402,
       "source": "education.ti.com"
     },
     {
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
-      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-      "score": 117,
-      "comments": 52,
-      "source": "citadelsecurities.com"
+      "title": "Dotcl: Common Lisp Implementation on .NET",
+      "url": "https://github.com/dotcl/dotcl",
+      "score": 42,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "score": 20,
+      "comments": 10,
+      "source": "copilot.simplepdf.com"
+    },
+    {
+      "title": "Show HN: Piruetas \u2013 A self-hosted diary app I built for my girlfriend",
+      "url": "https://piruet.app",
+      "score": 14,
+      "comments": 20,
+      "source": "piruet.app"
     },
     {
       "title": "Artemis II Photo Timeline",
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 157,
-      "comments": 12,
+      "score": 237,
+      "comments": 20,
       "source": "artemistimeline.com"
     },
     {
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 307,
-      "comments": 173,
+      "score": 361,
+      "comments": 209,
       "source": "newyorker.com"
     },
     {
-      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-      "score": 19,
-      "comments": 3,
-      "source": "liquid.ai"
+      "title": "Bitmap and tilemap generation from a single example",
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+      "score": 34,
+      "comments": 7,
+      "source": "github.com"
     },
     {
       "title": "To Restore an Island Paradise, Add Fungi",
       "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 43,
-      "comments": 4,
+      "score": 73,
+      "comments": 14,
       "source": "e360.yale.edu"
+    },
+    {
+      "title": "Ask.com has closed",
+      "url": "https://www.ask.com/",
+      "score": 304,
+      "comments": 154,
+      "source": "ask.com"
     },
     {
       "title": "K3k: Kubernetes in Kubernetes",
       "url": "https://github.com/rancher/k3k",
-      "score": 19,
-      "comments": 8,
+      "score": 71,
+      "comments": 39,
       "source": "github.com"
     },
     {
@@ -71,130 +120,81 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "I built the Playwright for desktop apps. 80% token savings",
-      "url": "https://github.com/lahfir/agent-desktop",
-      "score": 42,
-      "comments": 12,
-      "source": "github.com"
+      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "url": "https://snewpapers.com/",
+      "score": 14,
+      "comments": 8,
+      "source": "snewpapers.com"
     },
     {
-      "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 124,
-      "comments": 158,
-      "source": "wired.com"
+      "title": "SFO Gate Explorer",
+      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+      "score": 3,
+      "comments": 2,
+      "source": "flysfo.com"
+    },
+    {
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "score": 44,
+      "comments": 9,
+      "source": "liquid.ai"
+    },
+    {
+      "title": "DeepSeek V4\u2013almost on the frontier, a fraction of the price",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "score": 178,
+      "comments": 87,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "GameStop Preparing Offer for eBay",
+      "url": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
+      "score": 12,
+      "comments": 2,
+      "source": "wsj.com"
     },
     {
       "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
       "url": "https://github.com/microsoft/lib0xc",
-      "score": 130,
-      "comments": 49,
+      "score": 152,
+      "comments": 57,
       "source": "github.com"
     },
     {
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
-      "score": 42,
-      "comments": 12,
-      "source": "nature.com"
-    },
-    {
-      "title": "Integer Overflow Checking Cost",
-      "url": "https://danluu.com/integer-overflow/",
-      "score": 9,
-      "comments": 2,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Sourcefeed \u2013 a pop-up RSS service",
-      "url": "https://www.sourcefeed.app/",
-      "score": 18,
-      "comments": 3,
-      "source": "sourcefeed.app"
-    },
-    {
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "score": 479,
-      "comments": 137,
-      "source": "github.com"
-    },
-    {
-      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "title": "A report on burnout in open source software communities (2025) [pdf]",
       "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 57,
-      "comments": 12,
+      "score": 86,
+      "comments": 31,
       "source": "mirandaheath.website"
-    },
-    {
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 159,
-      "comments": 100,
-      "source": "worksinprogress.news"
-    },
-    {
-      "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
-      "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
-      "score": 10,
-      "comments": 4,
-      "source": "topaz.thecloudtheory.com"
-    },
-    {
-      "title": "Whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
-      "url": "https://github.com/whohas/whohas",
-      "score": 135,
-      "comments": 32,
-      "source": "github.com"
-    },
-    {
-      "title": "Create an MP4 video of a web page scrolling at a steady speed",
-      "url": "https://github.com/upenn/web-scroll-video",
-      "score": 14,
-      "comments": 4,
-      "source": "github.com"
     },
     {
       "title": "Apocalypse Early Warning System",
       "url": "https://ews.kylemcdonald.net/",
-      "score": 154,
-      "comments": 82,
+      "score": 210,
+      "comments": 98,
       "source": "ews.kylemcdonald.net"
     },
     {
-      "title": "Tvheadend: Self-Hosted IPTV Server",
-      "url": "https://tvheadend.org",
-      "score": 26,
-      "comments": 9,
-      "source": "tvheadend.org"
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+      "url": "https://mathstick.github.io",
+      "score": 18,
+      "comments": 17,
+      "source": "mathstick.github.io"
     },
     {
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "score": 377,
-      "comments": 102,
-      "source": "404media.co"
+      "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "score": 149,
+      "comments": 210,
+      "source": "wired.com"
     },
     {
-      "title": "The gay jailbreak technique (2025)",
-      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "score": 479,
-      "comments": 191,
-      "source": "github.com"
-    },
-    {
-      "title": "Whimsical Animations Course Open House",
-      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
-      "score": 86,
-      "comments": 9,
-      "source": "courses.joshwcomeau.com"
-    },
-    {
-      "title": "Show HN: AI CAD Harness",
-      "url": "https://fusion.adam.new/install",
-      "score": 82,
-      "comments": 83,
-      "source": "fusion.adam.new"
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "score": 56,
+      "comments": 28,
+      "source": "nature.com"
     }
   ],
   "security": [
