@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 217,
-      "comments": 156,
-      "source": "bbc.co.uk"
+      "title": "Days Without GitHub Incidents",
+      "url": "https://www.dayswithoutgithubincident.com/",
+      "score": 186,
+      "comments": 52,
+      "source": "dayswithoutgithubincident.com"
     },
     {
-      "title": "ASML's Best Selling Product Isn't What You Think It Is",
-      "url": "https://www.siliconimist.com/p/asmls-best-selling-product",
-      "score": 63,
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "score": 94,
+      "comments": 23,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "score": 514,
+      "comments": 433,
+      "source": "ecopv-eu.com"
+    },
+    {
+      "title": "U.S. military data left exposed at an a16z startup for 150 days",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 43,
+      "comments": 9,
+      "source": "strix.ai"
+    },
+    {
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 123,
+      "comments": 49,
+      "source": "wwj.dev"
+    },
+    {
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "score": 66,
       "comments": 24,
-      "source": "siliconimist.com"
+      "source": "economist.com"
     },
     {
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 256,
-      "comments": 104,
-      "source": "notepad-plus-plus.org"
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "score": 91,
+      "comments": 55,
+      "source": "nber.org"
+    },
+    {
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "score": 147,
+      "comments": 58,
+      "source": "antirez.com"
+    },
+    {
+      "title": "GitHub Is Down",
+      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "score": 381,
+      "comments": 216,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "url": "https://www.fuelinsight.co.uk",
+      "score": 86,
+      "comments": 36,
+      "source": "fuelinsight.co.uk"
     },
     {
       "title": "Talking to 35 Strangers at the Gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 8,
-      "comments": 0,
+      "score": 735,
+      "comments": 372,
       "source": "thienantran.com"
+    },
+    {
+      "title": "PyInfra 3.8.0 Is Out",
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "score": 180,
+      "comments": 68,
+      "source": "github.com"
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 505,
+      "comments": 442,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "url": "https://pomiferous.com/",
+      "score": 42,
+      "comments": 17,
+      "source": "pomiferous.com"
+    },
+    {
+      "title": "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "score": 29,
+      "comments": 2,
+      "source": "pv-magazine.com"
+    },
+    {
+      "title": "Trillions in Retirement Dollars Flow into Opaque Trusts",
+      "url": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
+      "score": 43,
+      "comments": 2,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "Offenders sentenced up to 10 years for spying on TSMC",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
+      "score": 16,
+      "comments": 0,
+      "source": "taipeitimes.com"
+    },
+    {
+      "title": "Newton's law of gravity passes its biggest test",
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "score": 90,
+      "comments": 61,
+      "source": "science.org"
+    },
+    {
+      "title": "Alberta voter list leak is a potential public safety disaster",
+      "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
+      "score": 67,
+      "comments": 42,
+      "source": "globalnews.ca"
+    },
+    {
+      "title": "DAG Workflow Engine",
+      "url": "https://github.com/vivekg13186/Daisy-DAG",
+      "score": 40,
+      "comments": 31,
+      "source": "github.com"
     },
     {
       "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
       "url": "https://samcollins.blog/underdrawings/",
-      "score": 279,
-      "comments": 92,
+      "score": 336,
+      "comments": 123,
       "source": "samcollins.blog"
-    },
-    {
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 80,
-      "comments": 4,
-      "source": "www3.nhk.or.jp"
-    },
-    {
-      "title": "World's biggest RC A380 [video]",
-      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-      "score": 35,
-      "comments": 6,
-      "source": "youtube.com"
-    },
-    {
-      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 404,
-      "comments": 131,
-      "source": "partyon.xyz"
-    },
-    {
-      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 523,
-      "comments": 213,
-      "source": "github.com"
-    },
-    {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "score": 112,
-      "comments": 5,
-      "source": "blog.stuffedcow.net"
-    },
-    {
-      "title": "The Road to a Billion-Token Context",
-      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
-      "score": 23,
-      "comments": 30,
-      "source": "cacm.acm.org"
-    },
-    {
-      "title": "A treasure trove of fossils rewrites the story of early life",
-      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
-      "score": 48,
-      "comments": 8,
-      "source": "quantamagazine.org"
     },
     {
       "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
       "url": "https://reiner.org/neural-net-ciphers",
-      "score": 15,
-      "comments": 2,
+      "score": 92,
+      "comments": 32,
       "source": "reiner.org"
     },
     {
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "score": 271,
-      "comments": 82,
-      "source": "katherinemichel.github.io"
+      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 448,
+      "comments": 147,
+      "source": "partyon.xyz"
     },
     {
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "score": 404,
-      "comments": 365,
-      "source": "letsbuyspiritair.com"
-    },
-    {
-      "title": "US\u2013Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "score": 167,
-      "comments": 65,
-      "source": "phys.org"
-    },
-    {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "score": 186,
-      "comments": 86,
-      "source": "jdgr.net"
-    },
-    {
-      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
-      "url": "https://guille.site/posts/abstract-nonsense/",
-      "score": 26,
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 6,
       "comments": 0,
-      "source": "guille.site"
+      "source": "twitter.com"
     },
     {
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "score": 372,
-      "comments": 203,
-      "source": "isene.org"
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+      "score": 155,
+      "comments": 11,
+      "source": "www3.nhk.or.jp"
     },
     {
-      "title": "OpenAI\u2019s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 420,
-      "comments": 369,
-      "source": "theguardian.com"
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "score": 521,
+      "comments": 233,
+      "source": "notepad-plus-plus.org"
     },
     {
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-      "score": 164,
-      "comments": 14,
-      "source": "citizenlab.ca"
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "score": 62,
+      "comments": 55,
+      "source": "404media.co"
     },
     {
-      "title": "Introduction to Atom",
-      "url": "https://validator.w3.org/feed/docs/atom.html",
-      "score": 106,
-      "comments": 41,
-      "source": "validator.w3.org"
-    },
-    {
-      "title": "K3sup \u2013 bootstrap K3s over SSH in < 60s",
-      "url": "https://github.com/alexellis/k3sup",
-      "score": 66,
-      "comments": 29,
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 618,
+      "comments": 262,
       "source": "github.com"
     },
     {
-      "title": "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
-      "url": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
-      "score": 78,
-      "comments": 59,
-      "source": "goodmorningamerica.com"
+      "title": "How Monero's proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "score": 142,
+      "comments": 117,
+      "source": "blog.alcazarsec.com"
     },
     {
-      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
-      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-      "score": 118,
-      "comments": 81,
-      "source": "aruljohn.com"
-    },
-    {
-      "title": "Humanoid Robot Actuators",
-      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-      "score": 145,
-      "comments": 70,
-      "source": "firgelli.com"
-    },
-    {
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "score": 443,
-      "comments": 416,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 744,
-      "comments": 423,
-      "source": "drive.com.au"
-    },
-    {
-      "title": "Text-to-CAD",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "score": 131,
-      "comments": 35,
-      "source": "github.com"
-    },
-    {
-      "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
-      "url": "https://www.youtube.com/watch?v=8jNQDcpHc68",
-      "score": 108,
-      "comments": 28,
-      "source": "youtube.com"
+      "title": "Flock Holding Closed Police Conference, Requires Police Consent for Marketing",
+      "url": "https://ipvm.com/reports/flock-closed-police-marketing",
+      "score": 9,
+      "comments": 0,
+      "source": "ipvm.com"
     }
   ],
   "security": [
+    {
+      "title": "Securing open proxies in your AWS environment",
+      "url": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment/",
+      "date": "2026-05-04 18:16:39",
+      "author": "Dodd Mitchell"
+    },
     {
       "title": "Security posture improvement in the AI era",
       "url": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended/",
       "date": "2026-04-22 16:31:11",
       "author": "Matt Meck"
-    },
-    {
-      "title": "Winter 2025 SOC 1 report is now available with 184 services in scope",
-      "url": "https://aws.amazon.com/blogs/security/winter-2025-soc-1-report-is-now-available-with-184-services-in-scope/",
-      "date": "2026-04-22 00:12:21",
-      "author": "Tushar Jain"
     }
   ]
 }
