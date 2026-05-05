@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Async Rust never left the MVP state",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 237,
-      "comments": 120,
-      "source": "tweedegolf.nl"
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "score": 126,
+      "comments": 58,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "score": 225,
+      "comments": 137,
+      "source": "susam.net"
+    },
+    {
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "score": 158,
+      "comments": 54,
+      "source": "blog.google"
+    },
+    {
+      "title": "Clarification on the Notepad++ Trademark Issue",
+      "url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
+      "score": 26,
+      "comments": 1,
+      "source": "notepad-plus-plus.org"
+    },
+    {
+      "title": "EEVblog: The 555 Timer is 55 years old",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "score": 106,
+      "comments": 25,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 97,
+      "comments": 66,
+      "source": "reflex.dev"
+    },
+    {
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2604.26752",
+      "score": 23,
+      "comments": 3,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "I'm Scared About Biological Computing",
+      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "score": 47,
+      "comments": 32,
+      "source": "kuber.studio"
+    },
+    {
+      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "UK: Two millionth electric car registered as market rebounds strongly",
+      "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
+      "score": 118,
+      "comments": 130,
+      "source": "smmt.co.uk"
     },
     {
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 102,
-      "comments": 76,
+      "score": 268,
+      "comments": 202,
       "source": "distr.sh"
+    },
+    {
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "score": 384,
+      "comments": 209,
+      "source": "tweedegolf.nl"
+    },
+    {
+      "title": "Collaborative Editing in CodeMirror",
+      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
+      "score": 27,
+      "comments": 2,
+      "source": "marijnhaverbeke.nl"
+    },
+    {
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "score": 303,
+      "comments": 249,
+      "source": "walletwallet.alen.ro"
+    },
+    {
+      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+      "score": 13,
+      "comments": 2,
+      "source": "nsa.gov"
+    },
+    {
+      "title": "Docker 29 has changed its default image store for new installs",
+      "url": "https://docs.docker.com/engine/storage/containerd",
+      "score": 92,
+      "comments": 45,
+      "source": "docs.docker.com"
+    },
+    {
+      "title": "Adding a feature to a closed-source app",
+      "url": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
+      "score": 11,
+      "comments": 3,
+      "source": "stavros.io"
+    },
+    {
+      "title": "Comparing the Z80 and 6502 to Their Relatives",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
+      "score": 77,
+      "comments": 5,
+      "source": "bumbershootsoft.wordpress.com"
+    },
+    {
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "score": 17,
+      "comments": 0,
+      "source": "sfgate.com"
     },
     {
       "title": "When everyone has AI and the company still learns nothing",
       "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 65,
-      "comments": 39,
+      "score": 221,
+      "comments": 150,
       "source": "robert-glaser.de"
-    },
-    {
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 580,
-      "comments": 409,
-      "source": "github.com"
     },
     {
       "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
       "url": "https://walzr.com/empty-screenings",
-      "score": 183,
-      "comments": 152,
+      "score": 279,
+      "comments": 236,
       "source": "walzr.com"
     },
     {
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "score": 105,
-      "comments": 84,
-      "source": "dbreunig.com"
+      "title": "Simple Meta-Harness on Islo.dev",
+      "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
+      "score": 34,
+      "comments": 17,
+      "source": "zozo123.github.io"
     },
     {
-      "title": "Hand Drawn QR Codes (2025)",
-      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "score": 141,
-      "comments": 24,
-      "source": "sethmlarson.dev"
+      "title": "Incident with Actions",
+      "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
+      "score": 132,
+      "comments": 69,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Agents for financial services and insurance",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "score": 108,
+      "comments": 89,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "AI didn't delete your database, you did",
+      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+      "score": 401,
+      "comments": 217,
+      "source": "idiallo.com"
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 391,
-      "comments": 394,
+      "score": 854,
+      "comments": 589,
       "source": "thatprivacyguy.com"
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 420,
-      "comments": 133,
-      "source": "openai.com"
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "score": 187,
+      "comments": 193,
+      "source": "dbreunig.com"
     },
     {
-      "title": "Farewell to a Giant of Botany",
-      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
-      "score": 48,
-      "comments": 1,
-      "source": "nautil.us"
+      "title": "The first photo published in a newspaper",
+      "url": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/",
+      "score": 37,
+      "comments": 15,
+      "source": "phsne.org"
     },
     {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "score": 124,
-      "comments": 60,
-      "source": "dragonsreach.it"
-    },
-    {
-      "title": "sRGB profile comparison",
-      "url": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
-      "score": 5,
-      "comments": 0,
-      "source": "ninedegreesbelow.com"
-    },
-    {
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "score": 295,
-      "comments": 32,
-      "source": "github.com"
-    },
-    {
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 284,
-      "comments": 139,
-      "source": "addyosmani.com"
-    },
-    {
-      "title": "Mouse Pointer as a Mere Mortal",
-      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
-      "score": 41,
-      "comments": 13,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "The Frog for Whom the Bell Tolls",
-      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
-      "score": 22,
+      "title": "Did I photograph the Aurora or was it something else? (2016)",
+      "url": "https://wp.lancs.ac.uk/aurorawatchuk/2016/03/16/did-i-photgraph-the-aurora-or-was-it-something-else/",
+      "score": 16,
       "comments": 6,
-      "source": "sethmlarson.dev"
-    },
-    {
-      "title": "Why I Created phpc.tv",
-      "url": "https://afilina.com/why-phpc-tv",
-      "score": 30,
-      "comments": 5,
-      "source": "afilina.com"
-    },
-    {
-      "title": "How Many Children Learned Mathematics from Kiselev's Textbooks?",
-      "url": "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d",
-      "score": 35,
-      "comments": 5,
-      "source": "valeman.medium.com"
-    },
-    {
-      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 15,
-      "comments": 13,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
-      "score": 309,
-      "comments": 295,
-      "source": "nber.org"
-    },
-    {
-      "title": "Setting up server monitoring for a Rails app on Hatchbox",
-      "url": "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html",
-      "score": 8,
-      "comments": 1,
-      "source": "blog.appsignal.com"
-    },
-    {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 202,
-      "comments": 87,
-      "source": "strix.ai"
-    },
-    {
-      "title": "Biscuit",
-      "url": "https://github.com/yattsu/biscuit",
-      "score": 65,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "Redis array: short story of a long development process",
-      "url": "https://antirez.com/news/164",
-      "score": 291,
-      "comments": 105,
-      "source": "antirez.com"
-    },
-    {
-      "title": "2-D Mathematical Curves",
-      "url": "https://www.2dcurves.com/",
-      "score": 45,
-      "comments": 3,
-      "source": "2dcurves.com"
-    },
-    {
-      "title": "When networking doesn't work",
-      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "score": 73,
-      "comments": 11,
-      "source": "os2museum.com"
-    },
-    {
-      "title": "Formatting a 25M-line codebase overnight",
-      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 182,
-      "comments": 91,
-      "source": "stripe.dev"
-    },
-    {
-      "title": "pgxbackup: Continuity Support for pgBackRest",
-      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
-      "score": 61,
-      "comments": 10,
-      "source": "thebuild.com"
-    },
-    {
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1393,
-      "comments": 665,
-      "source": "thienantran.com"
-    },
-    {
-      "title": "Kids bypass age verification with fake moustaches",
-      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-      "score": 138,
-      "comments": 104,
-      "source": "theregister.com"
+      "source": "wp.lancs.ac.uk"
     }
   ],
   "security": [
+    {
+      "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
+      "url": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/",
+      "date": "2026-05-05 15:00:07",
+      "author": "Roger Nem"
+    },
     {
       "title": "Securing open proxies in your AWS environment",
       "url": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/",
       "date": "2026-04-24 18:53:29",
       "author": "St\u00e9phanie Mbappe"
-    },
-    {
-      "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
-      "url": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended/",
-      "date": "2026-04-22 16:31:11",
-      "author": "Matt Meck"
     }
   ]
 }
