@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "score": 96,
-      "comments": 12,
-      "source": "github.com"
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "score": 237,
+      "comments": 120,
+      "source": "tweedegolf.nl"
+    },
+    {
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 102,
+      "comments": 76,
+      "source": "distr.sh"
+    },
+    {
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "score": 65,
+      "comments": 39,
+      "source": "robert-glaser.de"
     },
     {
       "title": "Bun is being ported from Zig to Rust",
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 400,
-      "comments": 263,
+      "score": 580,
+      "comments": 409,
       "source": "github.com"
     },
     {
-      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
       "url": "https://walzr.com/empty-screenings",
-      "score": 105,
-      "comments": 81,
+      "score": 183,
+      "comments": 152,
       "source": "walzr.com"
     },
     {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "score": 70,
-      "comments": 20,
-      "source": "dragonsreach.it"
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "score": 105,
+      "comments": 84,
+      "source": "dbreunig.com"
     },
     {
-      "title": "Hand Drawn QR Codes",
+      "title": "Hand Drawn QR Codes (2025)",
       "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "score": 31,
-      "comments": 1,
+      "score": 141,
+      "comments": 24,
       "source": "sethmlarson.dev"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "score": 391,
+      "comments": 394,
+      "source": "thatprivacyguy.com"
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 371,
-      "comments": 118,
+      "score": 420,
+      "comments": 133,
       "source": "openai.com"
     },
     {
-      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "score": 58,
-      "comments": 40,
-      "source": "nobodyaskedforthis.lol"
+      "title": "Farewell to a Giant of Botany",
+      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+      "score": 48,
+      "comments": 1,
+      "source": "nautil.us"
+    },
+    {
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 124,
+      "comments": 60,
+      "source": "dragonsreach.it"
+    },
+    {
+      "title": "sRGB profile comparison",
+      "url": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
+      "score": 5,
+      "comments": 0,
+      "source": "ninedegreesbelow.com"
+    },
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "score": 295,
+      "comments": 32,
+      "source": "github.com"
     },
     {
       "title": "Agent Skills",
       "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 211,
-      "comments": 93,
+      "score": 284,
+      "comments": 139,
       "source": "addyosmani.com"
     },
     {
-      "title": "Gaps in national food production, worldwide",
-      "url": "https://www.nature.com/articles/s43016-025-01173-4",
-      "score": 42,
-      "comments": 18,
-      "source": "nature.com"
+      "title": "Mouse Pointer as a Mere Mortal",
+      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
+      "score": 41,
+      "comments": 13,
+      "source": "unsung.aresluna.org"
     },
     {
-      "title": "When Networking Doesn't Work",
-      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "score": 54,
-      "comments": 7,
-      "source": "os2museum.com"
+      "title": "The Frog for Whom the Bell Tolls",
+      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+      "score": 22,
+      "comments": 6,
+      "source": "sethmlarson.dev"
     },
     {
-      "title": "Nocturnal migratory birds follow rhythm of the moon",
-      "url": "https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon",
-      "score": 5,
-      "comments": 0,
-      "source": "lunduniversity.lu.se"
+      "title": "Why I Created phpc.tv",
+      "url": "https://afilina.com/why-phpc-tv",
+      "score": 30,
+      "comments": 5,
+      "source": "afilina.com"
     },
     {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 190,
-      "comments": 79,
-      "source": "strix.ai"
+      "title": "How Many Children Learned Mathematics from Kiselev's Textbooks?",
+      "url": "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d",
+      "score": 35,
+      "comments": 5,
+      "source": "valeman.medium.com"
     },
     {
-      "title": "pgxbackup: Continuity Support for pgBackRest",
-      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
-      "score": 32,
-      "comments": 4,
-      "source": "thebuild.com"
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "score": 15,
+      "comments": 13,
+      "source": "twitter.com"
     },
     {
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 266,
-      "comments": 246,
+      "score": 309,
+      "comments": 295,
       "source": "nber.org"
     },
     {
-      "title": "2-D Mathematical Curves",
-      "url": "https://www.2dcurves.com/",
-      "score": 9,
-      "comments": 0,
-      "source": "2dcurves.com"
+      "title": "Setting up server monitoring for a Rails app on Hatchbox",
+      "url": "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html",
+      "score": 8,
+      "comments": 1,
+      "source": "blog.appsignal.com"
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 202,
+      "comments": 87,
+      "source": "strix.ai"
+    },
+    {
+      "title": "Biscuit",
+      "url": "https://github.com/yattsu/biscuit",
+      "score": 65,
+      "comments": 4,
+      "source": "github.com"
     },
     {
       "title": "Redis array: short story of a long development process",
       "url": "https://antirez.com/news/164",
-      "score": 266,
-      "comments": 87,
+      "score": 291,
+      "comments": 105,
       "source": "antirez.com"
     },
     {
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "score": 81,
-      "comments": 16,
-      "source": "oldvcr.blogspot.com"
+      "title": "2-D Mathematical Curves",
+      "url": "https://www.2dcurves.com/",
+      "score": 45,
+      "comments": 3,
+      "source": "2dcurves.com"
     },
     {
-      "title": "Kids bypass age verification with fake moustaches",
-      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-      "score": 35,
-      "comments": 14,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1298,
-      "comments": 615,
-      "source": "thienantran.com"
-    },
-    {
-      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
-      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
-      "score": 163,
-      "comments": 117,
-      "source": "electrek.co"
-    },
-    {
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "score": 179,
-      "comments": 97,
-      "source": "margaretstorey.com"
-    },
-    {
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 499,
-      "comments": 180,
-      "source": "twitter.com"
+      "title": "When networking doesn't work",
+      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "score": 73,
+      "comments": 11,
+      "source": "os2museum.com"
     },
     {
       "title": "Formatting a 25M-line codebase overnight",
       "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 152,
-      "comments": 79,
+      "score": 182,
+      "comments": 91,
       "source": "stripe.dev"
     },
     {
-      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
-      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "score": 266,
-      "comments": 33,
-      "source": "daringfireball.net"
+      "title": "pgxbackup: Continuity Support for pgBackRest",
+      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+      "score": 61,
+      "comments": 10,
+      "source": "thebuild.com"
     },
     {
-      "title": "I am worried about Bun",
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 464,
-      "comments": 310,
-      "source": "wwj.dev"
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 1393,
+      "comments": 665,
+      "source": "thienantran.com"
     },
     {
-      "title": "How Monero\u2019s proof of work works",
-      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 274,
-      "comments": 193,
-      "source": "blog.alcazarsec.com"
-    },
-    {
-      "title": "PyInfra 3.8.0",
-      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 259,
-      "comments": 88,
-      "source": "github.com"
-    },
-    {
-      "title": "Pomiferous: The most extensive apples (pommes) database",
-      "url": "https://pomiferous.com/",
-      "score": 118,
-      "comments": 47,
-      "source": "pomiferous.com"
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 667,
-      "comments": 641,
-      "source": "bbc.co.uk"
-    },
-    {
-      "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
-      "url": "https://www.fuelinsight.co.uk",
-      "score": 171,
-      "comments": 82,
-      "source": "fuelinsight.co.uk"
+      "title": "Kids bypass age verification with fake moustaches",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "score": 138,
+      "comments": 104,
+      "source": "theregister.com"
     }
   ],
   "security": [
