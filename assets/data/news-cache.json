@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Days Without GitHub Incidents",
-      "url": "https://www.dayswithoutgithubincident.com/",
-      "score": 186,
-      "comments": 52,
-      "source": "dayswithoutgithubincident.com"
-    },
-    {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "score": 94,
-      "comments": 23,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-      "score": 514,
-      "comments": 433,
-      "source": "ecopv-eu.com"
-    },
-    {
-      "title": "U.S. military data left exposed at an a16z startup for 150 days",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 43,
-      "comments": 9,
-      "source": "strix.ai"
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 243,
+      "comments": 92,
+      "source": "openai.com"
     },
     {
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 123,
-      "comments": 49,
+      "score": 385,
+      "comments": 259,
       "source": "wwj.dev"
     },
     {
-      "title": "Stop big tech from making users behave in ways they don't want to",
-      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-      "score": 66,
-      "comments": 24,
-      "source": "economist.com"
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 1098,
+      "comments": 518,
+      "source": "thienantran.com"
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 160,
+      "comments": 70,
+      "source": "strix.ai"
+    },
+    {
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "score": 71,
+      "comments": 16,
+      "source": "addyosmani.com"
+    },
+    {
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "score": 46,
+      "comments": 8,
+      "source": "oldvcr.blogspot.com"
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 634,
+      "comments": 594,
+      "source": "bbc.co.uk"
     },
     {
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 91,
-      "comments": 55,
+      "score": 196,
+      "comments": 187,
       "source": "nber.org"
     },
     {
       "title": "Redis array: short story of a long development process",
       "url": "https://antirez.com/news/164",
-      "score": 147,
-      "comments": 58,
+      "score": 219,
+      "comments": 78,
       "source": "antirez.com"
-    },
-    {
-      "title": "GitHub Is Down",
-      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
-      "score": 381,
-      "comments": 216,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
-      "url": "https://www.fuelinsight.co.uk",
-      "score": 86,
-      "comments": 36,
-      "source": "fuelinsight.co.uk"
-    },
-    {
-      "title": "Talking to 35 Strangers at the Gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 735,
-      "comments": 372,
-      "source": "thienantran.com"
-    },
-    {
-      "title": "PyInfra 3.8.0 Is Out",
-      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 180,
-      "comments": 68,
-      "source": "github.com"
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 505,
-      "comments": 442,
-      "source": "bbc.co.uk"
-    },
-    {
-      "title": "Pomiferous: The most extensive apples (pommes) database",
-      "url": "https://pomiferous.com/",
-      "score": 42,
-      "comments": 17,
-      "source": "pomiferous.com"
-    },
-    {
-      "title": "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
-      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
-      "score": 29,
-      "comments": 2,
-      "source": "pv-magazine.com"
-    },
-    {
-      "title": "Trillions in Retirement Dollars Flow into Opaque Trusts",
-      "url": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
-      "score": 43,
-      "comments": 2,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Offenders sentenced up to 10 years for spying on TSMC",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
-      "score": 16,
-      "comments": 0,
-      "source": "taipeitimes.com"
-    },
-    {
-      "title": "Newton's law of gravity passes its biggest test",
-      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "score": 90,
-      "comments": 61,
-      "source": "science.org"
-    },
-    {
-      "title": "Alberta voter list leak is a potential public safety disaster",
-      "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
-      "score": 67,
-      "comments": 42,
-      "source": "globalnews.ca"
-    },
-    {
-      "title": "DAG Workflow Engine",
-      "url": "https://github.com/vivekg13186/Daisy-DAG",
-      "score": 40,
-      "comments": 31,
-      "source": "github.com"
-    },
-    {
-      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "score": 336,
-      "comments": 123,
-      "source": "samcollins.blog"
-    },
-    {
-      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-      "url": "https://reiner.org/neural-net-ciphers",
-      "score": 92,
-      "comments": 32,
-      "source": "reiner.org"
-    },
-    {
-      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 448,
-      "comments": 147,
-      "source": "partyon.xyz"
     },
     {
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 6,
-      "comments": 0,
+      "score": 383,
+      "comments": 142,
       "source": "twitter.com"
     },
     {
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 155,
-      "comments": 11,
-      "source": "www3.nhk.or.jp"
+      "title": "Formatting a 25M-line codebase overnight",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "score": 106,
+      "comments": 57,
+      "source": "stripe.dev"
     },
     {
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 521,
-      "comments": 233,
-      "source": "notepad-plus-plus.org"
+      "title": "Jonathan Swift's Last Joke",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+      "score": 19,
+      "comments": 2,
+      "source": "newyorker.com"
     },
     {
-      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-      "score": 62,
-      "comments": 55,
-      "source": "404media.co"
+      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+      "score": 113,
+      "comments": 86,
+      "source": "electrek.co"
     },
     {
-      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 618,
-      "comments": 262,
-      "source": "github.com"
+      "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
+      "url": "https://www.fuelinsight.co.uk",
+      "score": 156,
+      "comments": 74,
+      "source": "fuelinsight.co.uk"
     },
     {
-      "title": "How Monero's proof of work works",
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "score": 25,
+      "comments": 6,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "How Monero\u2019s proof of work works",
       "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 142,
-      "comments": 117,
+      "score": 227,
+      "comments": 177,
       "source": "blog.alcazarsec.com"
     },
     {
-      "title": "Flock Holding Closed Police Conference, Requires Police Consent for Marketing",
-      "url": "https://ipvm.com/reports/flock-closed-police-marketing",
-      "score": 9,
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "url": "https://pomiferous.com/",
+      "score": 98,
+      "comments": 42,
+      "source": "pomiferous.com"
+    },
+    {
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "score": 84,
+      "comments": 108,
+      "source": "sierra.ai"
+    },
+    {
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "score": 398,
+      "comments": 135,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "score": 209,
+      "comments": 143,
+      "source": "economist.com"
+    },
+    {
+      "title": "Show HN: I Built a Museum Exhibit",
+      "url": "https://knhash.in/built-an-exhibit/",
+      "score": 5,
       "comments": 0,
-      "source": "ipvm.com"
+      "source": "knhash.in"
+    },
+    {
+      "title": "Let's talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "score": 131,
+      "comments": 92,
+      "source": "b-list.org"
+    },
+    {
+      "title": "Show HN: nfsdiag \u2013 A NFS diagnostic application",
+      "url": "https://github.com/lsferreira42/nfsdiag",
+      "score": 40,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "The Visible Zorker: Zork 3",
+      "url": "https://eblong.com/infocom/visi/zork3/",
+      "score": 45,
+      "comments": 2,
+      "source": "eblong.com"
+    },
+    {
+      "title": "Heat pump sales rise across Europe",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "score": 201,
+      "comments": 119,
+      "source": "pv-magazine.com"
+    },
+    {
+      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+      "score": 72,
+      "comments": 52,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Pulitzer Prize Winners 2026",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "score": 68,
+      "comments": 22,
+      "source": "pulitzer.org"
+    },
+    {
+      "title": "Newton's law of gravity passes its biggest test",
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "score": 133,
+      "comments": 120,
+      "source": "science.org"
+    },
+    {
+      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "score": 359,
+      "comments": 126,
+      "source": "samcollins.blog"
+    },
+    {
+      "title": "A little comparison between R and Kap",
+      "url": "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap",
+      "score": 18,
+      "comments": 3,
+      "source": "blog.dhsdevelopments.com"
     }
   ],
   "security": [
