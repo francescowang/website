@@ -1,60 +1,137 @@
 {
   "tech": [
     {
-      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-      "score": 126,
-      "comments": 58,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 225,
-      "comments": 137,
-      "source": "susam.net"
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "score": 502,
+      "comments": 226,
+      "source": "dnssec-analyzer.verisignlabs.com"
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 158,
-      "comments": 54,
+      "score": 427,
+      "comments": 191,
       "source": "blog.google"
     },
     {
-      "title": "Clarification on the Notepad++ Trademark Issue",
-      "url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
-      "score": 26,
-      "comments": 1,
-      "source": "notepad-plus-plus.org"
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 298,
+      "comments": 157,
+      "source": "reflex.dev"
     },
     {
-      "title": "EEVblog: The 555 Timer is 55 years old",
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "score": 108,
+      "comments": 75,
+      "source": "nonogra.ph"
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "score": 342,
+      "comments": 242,
+      "source": "susam.net"
+    },
+    {
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 106,
-      "comments": 25,
+      "score": 213,
+      "comments": 49,
       "source": "youtube.com"
     },
     {
-      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 97,
-      "comments": 66,
-      "source": "reflex.dev"
+      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+      "score": 159,
+      "comments": 69,
+      "source": "npr.org"
+    },
+    {
+      "title": "Why most product tours get skipped",
+      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "score": 54,
+      "comments": 41,
+      "source": "productonboarding.com"
+    },
+    {
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "score": 93,
+      "comments": 36,
+      "source": "paletteinspiration.com"
+    },
+    {
+      "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+      "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+      "score": 91,
+      "comments": 10,
+      "source": "apnews.com"
     },
     {
       "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
       "url": "https://arxiv.org/abs/2604.26752",
-      "score": 23,
-      "comments": 3,
+      "score": 105,
+      "comments": 23,
       "source": "arxiv.org"
     },
     {
-      "title": "I'm Scared About Biological Computing",
+      "title": "Agents for financial services and insurance",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "score": 190,
+      "comments": 143,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+      "url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
+      "score": 22,
+      "comments": 4,
+      "source": "mohibulsblog.netlify.app"
+    },
+    {
+      "title": "I'm scared about biological computing",
       "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 47,
-      "comments": 32,
+      "score": 134,
+      "comments": 116,
       "source": "kuber.studio"
+    },
+    {
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "score": 253,
+      "comments": 311,
+      "source": "sfgate.com"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "score": 1220,
+      "comments": 832,
+      "source": "thatprivacyguy.com"
+    },
+    {
+      "title": "Urban Birds Are Rising Earlier Because of Traffic Noise (2013)",
+      "url": "https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise",
+      "score": 23,
+      "comments": 5,
+      "source": "audubon.org"
+    },
+    {
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "score": 243,
+      "comments": 332,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Past Ferrari Models, 1947\u20132023",
+      "url": "https://www.ferrari.com/en-US/auto/past-model",
+      "score": 4,
+      "comments": 0,
+      "source": "ferrari.com"
     },
     {
       "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
@@ -64,147 +141,76 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "UK: Two millionth electric car registered as market rebounds strongly",
-      "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-      "score": 118,
-      "comments": 130,
-      "source": "smmt.co.uk"
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "score": 304,
+      "comments": 216,
+      "source": "robert-glaser.de"
     },
     {
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 268,
-      "comments": 202,
+      "score": 348,
+      "comments": 255,
       "source": "distr.sh"
     },
     {
-      "title": "Async Rust never left the MVP state",
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 384,
-      "comments": 209,
-      "source": "tweedegolf.nl"
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "score": 295,
+      "comments": 171,
+      "source": "devblogs.microsoft.com"
     },
     {
-      "title": "Collaborative Editing in CodeMirror",
-      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
-      "score": 27,
-      "comments": 2,
-      "source": "marijnhaverbeke.nl"
+      "title": "Researchers print structural colour with an inkjet printer",
+      "url": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
+      "score": 45,
+      "comments": 7,
+      "source": "physicsworld.com"
+    },
+    {
+      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "score": 232,
+      "comments": 166,
+      "source": "variety.com"
     },
     {
       "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 303,
-      "comments": 249,
+      "score": 375,
+      "comments": 284,
       "source": "walletwallet.alen.ro"
     },
     {
-      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "score": 13,
-      "comments": 2,
-      "source": "nsa.gov"
+      "title": "Underwater robot tracks sperm whale conversations in real time",
+      "url": "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/",
+      "score": 51,
+      "comments": 11,
+      "source": "reuters.com"
     },
     {
-      "title": "Docker 29 has changed its default image store for new installs",
-      "url": "https://docs.docker.com/engine/storage/containerd",
-      "score": 92,
-      "comments": 45,
-      "source": "docs.docker.com"
-    },
-    {
-      "title": "Adding a feature to a closed-source app",
-      "url": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
-      "score": 11,
-      "comments": 3,
-      "source": "stavros.io"
-    },
-    {
-      "title": "Comparing the Z80 and 6502 to Their Relatives",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
-      "score": 77,
-      "comments": 5,
-      "source": "bumbershootsoft.wordpress.com"
-    },
-    {
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 17,
+      "title": "The extended predicative Mahlo universe in Martin-L\u00f6f type theory",
+      "url": "https://academic.oup.com/logcom/article/34/6/1032/7158523",
+      "score": 21,
       "comments": 0,
-      "source": "sfgate.com"
+      "source": "academic.oup.com"
     },
     {
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 221,
-      "comments": 150,
-      "source": "robert-glaser.de"
-    },
-    {
-      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "score": 279,
-      "comments": 236,
-      "source": "walzr.com"
-    },
-    {
-      "title": "Simple Meta-Harness on Islo.dev",
-      "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
-      "score": 34,
-      "comments": 17,
-      "source": "zozo123.github.io"
-    },
-    {
-      "title": "Incident with Actions",
-      "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
-      "score": 132,
-      "comments": 69,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "Agents for financial services and insurance",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "score": 108,
-      "comments": 89,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "AI didn't delete your database, you did",
-      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "score": 401,
-      "comments": 217,
-      "source": "idiallo.com"
-    },
-    {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 854,
-      "comments": 589,
-      "source": "thatprivacyguy.com"
-    },
-    {
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "score": 187,
-      "comments": 193,
-      "source": "dbreunig.com"
-    },
-    {
-      "title": "The first photo published in a newspaper",
-      "url": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/",
-      "score": 37,
-      "comments": 15,
-      "source": "phsne.org"
-    },
-    {
-      "title": "Did I photograph the Aurora or was it something else? (2016)",
-      "url": "https://wp.lancs.ac.uk/aurorawatchuk/2016/03/16/did-i-photgraph-the-aurora-or-was-it-something-else/",
-      "score": 16,
-      "comments": 6,
-      "source": "wp.lancs.ac.uk"
+      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+      "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+      "score": 29,
+      "comments": 2,
+      "source": "dexerto.com"
     }
   ],
   "security": [
+    {
+      "title": "Introducing AI traffic analysis dashboards for AWS WAF",
+      "url": "https://aws.amazon.com/blogs/security/introducing-ai-traffic-analysis-dashboards-for-aws-waf/",
+      "date": "2026-05-05 18:56:54",
+      "author": "Christopher Jen"
+    },
     {
       "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
       "url": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/",
@@ -258,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/can-i-do-that-with-policy-understanding-the-aws-service-authorization-reference/",
       "date": "2026-04-27 16:01:46",
       "author": "Anshu Bathla"
-    },
-    {
-      "title": "Protecting your secrets from tomorrow\u2019s quantum risks",
-      "url": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/",
-      "date": "2026-04-24 18:53:29",
-      "author": "St\u00e9phanie Mbappe"
     }
   ]
 }
