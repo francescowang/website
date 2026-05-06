@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "Show HN: Red Squares \u2013 GitHub outages as contributions",
+      "url": "https://red-squares.cian.lol/",
+      "score": 275,
+      "comments": 54,
+      "source": "red-squares.cian.lol"
+    },
+    {
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 51,
+      "comments": 19,
+      "source": "thetypicalset.com"
+    },
+    {
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 202,
-      "comments": 109,
+      "score": 425,
+      "comments": 221,
       "source": "blog.cloudflare.com"
     },
     {
-      "title": "CARA 2.0 \u2013 \"I Built a Better Robot Dog\"",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 42,
-      "comments": 0,
-      "source": "aaedmusa.com"
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "score": 24,
+      "comments": 1,
+      "source": "catstret.ch"
     },
     {
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 213,
-      "comments": 124,
+      "score": 430,
+      "comments": 220,
       "source": "us.starlabs.systems"
     },
     {
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 614,
-      "comments": 306,
-      "source": "dnssec-analyzer.verisignlabs.com"
+      "title": "CARA 2.0 \u2013 \u201cI Built a Better Robot Dog\u201d",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "score": 237,
+      "comments": 27,
+      "source": "aaedmusa.com"
     },
     {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "score": 114,
-      "comments": 71,
-      "source": "letsdatascience.com"
+      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "coveragecat.com"
     },
     {
-      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "score": 40,
-      "comments": 32,
-      "source": "investors.micron.com"
+      "title": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "score": 158,
+      "comments": 79,
+      "source": "katedaviesdesigns.com"
+    },
+    {
+      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "score": 79,
+      "comments": 25,
+      "source": "coe.gatech.edu"
+    },
+    {
+      "title": "Reverse-engineering the 1998 Ultima Online demo server",
+      "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+      "score": 92,
+      "comments": 16,
+      "source": "draxinar.github.io"
+    },
+    {
+      "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "score": 693,
+      "comments": 360,
+      "source": "status.denic.de"
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 531,
-      "comments": 245,
+      "score": 601,
+      "comments": 286,
       "source": "blog.google"
     },
     {
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "score": 228,
-      "comments": 147,
-      "source": "nonogra.ph"
+      "title": "Virtual violin produces realistic sounds",
+      "url": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
+      "score": 22,
+      "comments": 20,
+      "source": "news.mit.edu"
     },
     {
       "title": "YouTube, your RSS feeds are broken",
       "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-      "score": 70,
-      "comments": 26,
+      "score": 181,
+      "comments": 72,
       "source": "openrss.org"
+    },
+    {
+      "title": "Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
+      "url": "https://www.happydaze.se/wolf/",
+      "score": 30,
+      "comments": 4,
+      "source": "happydaze.se"
+    },
+    {
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "score": 121,
+      "comments": 82,
+      "source": "investors.micron.com"
+    },
+    {
+      "title": "Multi-stroke text effect in CSS",
+      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "score": 107,
+      "comments": 12,
+      "source": "yuanchuan.dev"
+    },
+    {
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "score": 292,
+      "comments": 202,
+      "source": "nonogra.ph"
     },
     {
       "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 379,
-      "comments": 215,
+      "score": 418,
+      "comments": 242,
       "source": "reflex.dev"
     },
     {
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 418,
-      "comments": 283,
+      "score": 471,
+      "comments": 320,
       "source": "susam.net"
-    },
-    {
-      "title": "Ombudsman column: The Pentagon is trying to silence me",
-      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-      "score": 149,
-      "comments": 20,
-      "source": "stripes.com"
     },
     {
       "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 274,
-      "comments": 67,
+      "score": 297,
+      "comments": 78,
       "source": "youtube.com"
     },
     {
-      "title": "Why most product tours get skipped",
-      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "score": 131,
-      "comments": 103,
-      "source": "productonboarding.com"
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "score": 173,
+      "comments": 141,
+      "source": "letsdatascience.com"
     },
     {
       "title": "Make some art with your phone sensors",
       "url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
-      "score": 19,
-      "comments": 5,
+      "score": 66,
+      "comments": 11,
       "source": "tautme.github.io"
     },
     {
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "score": 45,
-      "comments": 5,
-      "source": "academy.dair.ai"
+      "title": "Why most product tours get skipped",
+      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "score": 168,
+      "comments": 146,
+      "source": "productonboarding.com"
     },
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1381,
-      "comments": 922,
+      "score": 1494,
+      "comments": 1007,
       "source": "thatprivacyguy.com"
-    },
-    {
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
-      "score": 150,
-      "comments": 58,
-      "source": "paletteinspiration.com"
     },
     {
       "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
       "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 338,
-      "comments": 517,
+      "score": 398,
+      "comments": 613,
       "source": "twitter.com"
+    },
+    {
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "score": 75,
+      "comments": 10,
+      "source": "academy.dair.ai"
+    },
+    {
+      "title": "Behavior-Oriented Concurrency for Python",
+      "url": "https://microsoft.github.io/bocpy/",
+      "score": 41,
+      "comments": 3,
+      "source": "microsoft.github.io"
     },
     {
       "title": "I'm scared about biological computing",
       "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 194,
-      "comments": 158,
+      "score": 236,
+      "comments": 193,
       "source": "kuber.studio"
-    },
-    {
-      "title": "Five Banana Lessons",
-      "url": "https://allensthoughts.com/2026/05/03/five-banana-lessons/",
-      "score": 5,
-      "comments": 0,
-      "source": "allensthoughts.com"
-    },
-    {
-      "title": "Agents for financial services and insurance",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "score": 226,
-      "comments": 169,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Should I run plain Docker Compose in production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 388,
-      "comments": 273,
-      "source": "distr.sh"
-    },
-    {
-      "title": "When everyone has AI and the company still learns nothing",
-      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 348,
-      "comments": 233,
-      "source": "robert-glaser.de"
-    },
-    {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "score": 136,
-      "comments": 28,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Feds Fine Durham Energy Efficiency Co $722M",
-      "url": "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/",
-      "score": 17,
-      "comments": 10,
-      "source": "theassemblync.com"
-    },
-    {
-      "title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
-      "url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
-      "score": 50,
-      "comments": 19,
-      "source": "mohibulsblog.netlify.app"
-    },
-    {
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 318,
-      "comments": 372,
-      "source": "sfgate.com"
-    },
-    {
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "score": 364,
-      "comments": 325,
-      "source": "variety.com"
     }
   ],
   "security": [
