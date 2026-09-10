@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "Shopify moves back to Native from React Native",
-      "url": "https://shopify.engineering/back-to-native",
-      "score": 254,
-      "comments": 166,
-      "source": "shopify.engineering"
+      "title": "I have a theory that software drives people insane",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "score": 309,
+      "comments": 116,
+      "source": "graybeard.ing"
     },
     {
-      "title": "Rust Is Tier-1 Language at Microsoft",
+      "title": "Rust is tier-1 language at Microsoft",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 189,
-      "comments": 86,
+      "score": 502,
+      "comments": 277,
       "source": "rustfoundation.org"
     },
     {
-      "title": "Amazon pilots ad services in ChatGPT",
-      "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-      "score": 69,
-      "comments": 55,
-      "source": "marketingdive.com"
+      "title": "Genuine Creativity Is Your New Moat (2026)",
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "score": 45,
+      "comments": 27,
+      "source": "inventbuild.studio"
     },
     {
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 173,
-      "comments": 134,
-      "source": "pv-magazine.com"
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 223,
+      "comments": 105,
+      "source": "cognition.com"
     },
     {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "score": 238,
-      "comments": 114,
-      "source": "devblogs.microsoft.com"
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 363,
+      "comments": 456,
+      "source": "mathstodon.xyz"
     },
     {
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "score": 169,
-      "comments": 52,
-      "source": "consumerrights.wiki"
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "score": 170,
+      "comments": 31,
+      "source": "gizmodo.com"
     },
     {
-      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
-      "url": "https://devz.cl/posts/how-to-write/",
-      "score": 38,
-      "comments": 3,
-      "source": "devz.cl"
+      "title": "Shopify moves back to Native from React Native",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 565,
+      "comments": 392,
+      "source": "shopify.engineering"
     },
     {
-      "title": "Stockfish 19",
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "score": 173,
-      "comments": 112,
-      "source": "stockfishchess.org"
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "score": 64,
+      "comments": 30,
+      "source": "musictheory.pugetsound.edu"
     },
     {
-      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-      "score": 226,
-      "comments": 109,
-      "source": "bsky.app"
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "score": 91,
+      "comments": 37,
+      "source": "codeberg.org"
     },
     {
-      "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
-      "url": "https://learningto.co/",
-      "score": 32,
-      "comments": 35,
-      "source": "learningto.co"
-    },
-    {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 1324,
-      "comments": 2294,
-      "source": "apple.com"
-    },
-    {
-      "title": ">10x More Efficient Pretraining",
-      "url": "https://magic.dev/blog/pretraining#",
-      "score": 12,
-      "comments": 2,
-      "source": "magic.dev"
-    },
-    {
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "score": 709,
-      "comments": 376,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "score": 508,
-      "comments": 213,
-      "source": "rivendell.dmitrybrant.com"
-    },
-    {
-      "title": "The first drink-driving conviction may have happened in London",
-      "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
-      "score": 7,
-      "comments": 3,
-      "source": "ianvisits.co.uk"
-    },
-    {
-      "title": "Who People Talk to When They're Struggling",
-      "url": "https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling",
-      "score": 53,
-      "comments": 42,
-      "source": "graphsaboutreligion.com"
-    },
-    {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 1105,
-      "comments": 428,
-      "source": "tailwindcss.com"
-    },
-    {
-      "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-      "url": "https://arxiv.org/abs/1202.3424",
-      "score": 7,
-      "comments": 1,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Who Dung It? (Turdle.fun)",
-      "url": "https://turdle.fun/",
-      "score": 10,
-      "comments": 9,
-      "source": "turdle.fun"
-    },
-    {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 618,
-      "comments": 373,
-      "source": "tautology.town"
-    },
-    {
-      "title": "Liesegang Rings",
-      "url": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
-      "score": 19,
-      "comments": 4,
-      "source": "chillphysicsenjoyer.substack.com"
-    },
-    {
-      "title": "Show HN: Filament \u2013 Fast data movement engine in Go",
-      "url": "https://github.com/galaxy-io/filament",
-      "score": 6,
-      "comments": 0,
-      "source": "github.com"
+      "title": "Neki",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "score": 152,
+      "comments": 59,
+      "source": "planetscale.com"
     },
     {
       "title": "Don't Let Anyone Take Away Your Big Box of Cables",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 8,
-      "comments": 1,
+      "score": 94,
+      "comments": 81,
       "source": "blog.jim-nielsen.com"
     },
     {
-      "title": "Show HN: Art \u2013 draw one stroke, let symmetry complete it",
-      "url": "https://mrdee.in/mandala/",
-      "score": 57,
-      "comments": 24,
-      "source": "mrdee.in"
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "score": 90,
+      "comments": 45,
+      "source": "youtube.com"
     },
     {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "score": 412,
-      "comments": 723,
-      "source": "spectrum.ieee.org"
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://openjdk.org/jeps/544",
+      "score": 35,
+      "comments": 18,
+      "source": "openjdk.org"
     },
     {
-      "title": "Larger Pacific Striped Octopus",
-      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-      "score": 106,
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "score": 250,
+      "comments": 201,
+      "source": "pv-magazine.com"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "score": 876,
+      "comments": 495,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "url": "https://tokenstead.ai/models/swe-2",
+      "score": 35,
+      "comments": 14,
+      "source": "tokenstead.ai"
+    },
+    {
+      "title": ">10x More Efficient Pretraining",
+      "url": "https://magic.dev/blog/pretraining#",
+      "score": 100,
       "comments": 53,
-      "source": "en.wikipedia.org"
+      "source": "magic.dev"
     },
     {
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "score": 426,
-      "comments": 432,
-      "source": "nomanssky.com"
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "score": 102,
+      "comments": 151,
+      "source": "costsofwar.watson.brown.edu"
     },
     {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "score": 489,
-      "comments": 158,
-      "source": "magazine.sebastianraschka.com"
+      "title": "What happens when a GPU writes memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "score": 5,
+      "comments": 0,
+      "source": "blog.doubleword.ai"
     },
     {
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "score": 46,
+      "title": "Schemy Lisp En DOS",
+      "url": "https://sled.neocities.org/",
+      "score": 64,
       "comments": 11,
-      "source": "thelec.net"
+      "source": "sled.neocities.org"
+    },
+    {
+      "title": "Neki is sharded Postgres by PlanetScale",
+      "url": "https://neki.dev/",
+      "score": 98,
+      "comments": 23,
+      "source": "neki.dev"
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "score": 310,
+      "comments": 151,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+      "score": 69,
+      "comments": 30,
+      "source": "lemire.me"
+    },
+    {
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "score": 297,
+      "comments": 98,
+      "source": "consumerrights.wiki"
+    },
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 1380,
+      "comments": 2395,
+      "source": "apple.com"
+    },
+    {
+      "title": "Stockfish 19",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "score": 243,
+      "comments": 140,
+      "source": "stockfishchess.org"
+    },
+    {
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "score": 70,
+      "comments": 26,
+      "source": "porticoquarterly.com"
+    },
+    {
+      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+      "url": "https://devz.cl/posts/how-to-write/",
+      "score": 73,
+      "comments": 24,
+      "source": "devz.cl"
+    },
+    {
+      "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "url": "https://ayles.github.io/doom-in-kernel/",
+      "score": 23,
+      "comments": 6,
+      "source": "ayles.github.io"
+    },
+    {
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "url": "https://usefeyn.com/blog/multimatte/",
+      "score": 23,
+      "comments": 4,
+      "source": "usefeyn.com"
     }
   ],
   "security": [
