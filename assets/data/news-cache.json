@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-      "score": 53,
-      "comments": 12,
-      "source": "upsocl.com"
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "score": 52,
+      "comments": 39,
+      "source": "iaea.org"
     },
     {
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "url": "https://shopify.engineering/back-to-native",
-      "score": 823,
-      "comments": 546,
+      "score": 1078,
+      "comments": 760,
       "source": "shopify.engineering"
-    },
-    {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 709,
-      "comments": 651,
-      "source": "mathstodon.xyz"
-    },
-    {
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 152,
-      "comments": 97,
-      "source": "developers.openai.com"
-    },
-    {
-      "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
-      "url": "https://map-yue2.github.io/",
-      "score": 53,
-      "comments": 47,
-      "source": "map-yue2.github.io"
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
-      "score": 44,
-      "comments": 27,
-      "source": "system76.com"
     },
     {
       "title": "Don't let anyone take away your big box of cables",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "score": 349,
-      "comments": 263,
+      "score": 543,
+      "comments": 354,
       "source": "blog.jim-nielsen.com"
     },
     {
-      "title": "Google will buy half the electricity of a nuclear power plant",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "score": 102,
-      "comments": 72,
-      "source": "bbc.com"
+      "title": "Working with Git Worktrees in Magit",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "score": 56,
+      "comments": 18,
+      "source": "emacsredux.com"
     },
     {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 361,
-      "comments": 152,
-      "source": "cognition.com"
-    },
-    {
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "score": 282,
-      "comments": 45,
-      "source": "spinoff.nasa.gov"
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 272,
+      "comments": 147,
+      "source": "developers.openai.com"
     },
     {
       "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
       "url": "https://auberon.xyz/blog/posts/deathray/",
-      "score": 94,
-      "comments": 61,
+      "score": 205,
+      "comments": 125,
       "source": "auberon.xyz"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 341,
+      "comments": 56,
+      "source": "spinoff.nasa.gov"
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "score": 226,
+      "comments": 80,
+      "source": "upsocl.com"
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "score": 106,
+      "comments": 29,
+      "source": "nasutton.notion.site"
+    },
+    {
+      "title": "So you want to use OpenRouter?",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "score": 96,
+      "comments": 9,
+      "source": "mmoustafa.com"
+    },
+    {
+      "title": "GPT\u2011Live\u20111 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "score": 21,
+      "comments": 16,
+      "source": "openai.com"
+    },
+    {
+      "title": "Neijuan",
+      "url": "https://en.wikipedia.org/wiki/Neijuan",
+      "score": 31,
+      "comments": 11,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
       "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "score": 65,
-      "comments": 108,
+      "score": 106,
+      "comments": 188,
       "source": "ntsb.gov:443"
     },
     {
-      "title": "Customizing my Compaq MX-11800 keyboard",
-      "url": "https://blog.webb.page/WM-102",
-      "score": 16,
-      "comments": 3,
-      "source": "blog.webb.page"
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 819,
+      "comments": 751,
+      "source": "mathstodon.xyz"
+    },
+    {
+      "title": "CSS Curiosities of the Past",
+      "url": "https://vale.rocks/posts/css-relics",
+      "score": 8,
+      "comments": 0,
+      "source": "vale.rocks"
     },
     {
       "title": "Music Theory for the 21st-Century Classroom",
       "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "score": 168,
-      "comments": 80,
+      "score": 231,
+      "comments": 99,
       "source": "musictheory.pugetsound.edu"
     },
     {
-      "title": "Neki \u2013 Sharded Postgres",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "score": 205,
-      "comments": 113,
-      "source": "planetscale.com"
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 419,
+      "comments": 175,
+      "source": "cognition.com"
     },
     {
       "title": "Forgejo <=16.0.3 Critical RCE",
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "score": 155,
-      "comments": 57,
+      "score": 188,
+      "comments": 69,
       "source": "codeberg.org"
+    },
+    {
+      "title": "Neki \u2013 Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "score": 247,
+      "comments": 132,
+      "source": "planetscale.com"
     },
     {
       "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
       "url": "https://merybenavente.me/blog/proof-of-capture",
-      "score": 73,
-      "comments": 51,
+      "score": 111,
+      "comments": 62,
       "source": "merybenavente.me"
+    },
+    {
+      "title": "Testing race conditions with mem access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "score": 9,
+      "comments": 0,
+      "source": "projectzero.google"
     },
     {
       "title": "Rust is tier-1 language at Microsoft",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 615,
-      "comments": 353,
+      "score": 679,
+      "comments": 429,
       "source": "rustfoundation.org"
-    },
-    {
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "score": 288,
-      "comments": 231,
-      "source": "pv-magazine.com"
-    },
-    {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 1417,
-      "comments": 2447,
-      "source": "apple.com"
-    },
-    {
-      "title": "Recursion into madness",
-      "url": "https://blog.coredump.cx/p/recursion-into-madness",
-      "score": 44,
-      "comments": 11,
-      "source": "blog.coredump.cx"
-    },
-    {
-      "title": "What happens when a GPU writes memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "score": 51,
-      "comments": 1,
-      "source": "blog.doubleword.ai"
-    },
-    {
-      "title": "Setting up OpenCode with Ollama and sbx on Mac",
-      "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-      "score": 9,
-      "comments": 8,
-      "source": "tensorsandtokens.com"
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "score": 90,
-      "comments": 163,
+      "score": 136,
+      "comments": 200,
       "source": "anthropic.com"
     },
     {
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "url": "https://openjdk.org/jeps/544",
-      "score": 81,
-      "comments": 27,
-      "source": "openjdk.org"
+      "title": "An interactive tour of the spanning tree protocol",
+      "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "score": 7,
+      "comments": 0,
+      "source": "vincent.bernat.ch"
     },
     {
       "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
       "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "score": 148,
-      "comments": 74,
+      "score": 184,
+      "comments": 79,
       "source": "youtube.com"
     },
     {
-      "title": "Embedding a bitmap font in your HyperCard stack",
-      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
-      "score": 23,
-      "comments": 1,
-      "source": "leadedsolder.com"
+      "title": "Recursion into madness",
+      "url": "https://blog.coredump.cx/p/recursion-into-madness",
+      "score": 75,
+      "comments": 17,
+      "source": "blog.coredump.cx"
     },
     {
-      "title": "Silicon Valley is transforming the military-industrial complex? (2024)",
-      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-      "score": 157,
-      "comments": 312,
-      "source": "costsofwar.watson.brown.edu"
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "score": 106,
+      "comments": 92,
+      "source": "system76.com"
     },
     {
-      "title": "Herdr Studio",
-      "url": "https://powerfooI.github.io/herdr-studio/",
-      "score": 6,
-      "comments": 0,
-      "source": "powerfooI.github.io"
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "score": 338,
+      "comments": 244,
+      "source": "lucumr.pocoo.org"
     },
     {
-      "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "score": 141,
-      "comments": 141,
-      "source": "johndcook.com"
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://openjdk.org/jeps/544",
+      "score": 94,
+      "comments": 39,
+      "source": "openjdk.org"
+    },
+    {
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "score": 104,
+      "comments": 47,
+      "source": "cell.com"
     }
   ],
   "security": [
