@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "score": 232,
-      "comments": 215,
-      "source": "tomshardware.com"
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "score": 13,
+      "comments": 2,
+      "source": "icm.museum"
     },
     {
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 132,
-      "comments": 45,
+      "score": 355,
+      "comments": 83,
       "source": "high5apps.github.io"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 139,
+      "comments": 69,
+      "source": "withspecific.com"
     },
     {
       "title": "Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 235,
-      "comments": 176,
+      "score": 412,
+      "comments": 278,
       "source": "economist.com"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "score": 140,
+      "comments": 31,
+      "source": "dunstanorchard.com"
+    },
+    {
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "score": 89,
+      "comments": 15,
+      "source": "eiln.github.io"
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "score": 175,
+      "comments": 66,
+      "source": "xeiaso.net"
+    },
+    {
+      "title": "Recurrent Looped Transformer",
+      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "score": 14,
+      "comments": 7,
+      "source": "yifanzhang-pro.github.io"
     },
     {
       "title": "Stabilizing Rust's Never Type",
       "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "score": 33,
-      "comments": 0,
+      "score": 149,
+      "comments": 37,
       "source": "lwn.net"
     },
     {
-      "title": "Will There Be a 7G?",
-      "url": "https://arxiv.org/abs/2609.01877",
-      "score": 50,
-      "comments": 77,
-      "source": "arxiv.org"
+      "title": "Don't be the out of touch Kung Fu master \u2013 John Carmack",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "score": 31,
+      "comments": 13,
+      "source": "twitter.com"
     },
     {
-      "title": "An open letter to Dario: if you mean it, open the weights",
-      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-      "score": 130,
-      "comments": 40,
-      "source": "jacob.gold"
+      "title": "Vintage Scientific Papers with LaTeX",
+      "url": "https://github.com/Foadsf/vintage-latex",
+      "score": 31,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "score": 16,
+      "comments": 7,
+      "source": "agentsdock.net"
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "score": 452,
+      "comments": 365,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Align AI and Mathematics\u2013To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "score": 18,
+      "comments": 6,
+      "source": "liorpachter.wordpress.com"
     },
     {
       "title": "We must pace the frontier",
       "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "score": 357,
-      "comments": 483,
+      "score": 568,
+      "comments": 796,
       "source": "darioamodei.com"
-    },
-    {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "score": 56,
-      "comments": 17,
-      "source": "righto.com"
-    },
-    {
-      "title": "IKEA made a mod for Skyrim [video]",
-      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 488,
-      "comments": 125,
-      "source": "youtube.com"
-    },
-    {
-      "title": "google.com/goto: Google's anti-scraping update",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "score": 589,
-      "comments": 461,
-      "source": "autom.dev"
     },
     {
       "title": "I made a build visualizer to understand Bun's compile times",
       "url": "https://lalitm.com/post/buildprof/",
-      "score": 37,
-      "comments": 9,
+      "score": 102,
+      "comments": 20,
       "source": "lalitm.com"
     },
     {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "score": 60,
-      "comments": 14,
-      "source": "transformer-circuits.pub"
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "score": 85,
+      "comments": 144,
+      "source": "arxiv.org"
     },
     {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "score": 197,
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "score": 93,
       "comments": 26,
-      "source": "eiln.github.io"
+      "source": "righto.com"
     },
     {
-      "title": "A few good ideas in programming languages",
-      "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-      "score": 59,
-      "comments": 41,
-      "source": "prydt.xyz"
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "score": 211,
+      "comments": 64,
+      "source": "hachyderm.io"
     },
     {
-      "title": "How Trail of Bits helps verify the integrity of Signal chats",
-      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "score": 19,
-      "comments": 5,
-      "source": "blog.trailofbits.com"
+      "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+      "url": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+      "score": 25,
+      "comments": 26,
+      "source": "accuweather.com"
     },
     {
-      "title": "Eating Fruit Skins",
-      "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-      "score": 40,
-      "comments": 121,
-      "source": "pgadey.ca"
+      "title": "Colliding the Sum Checksum (2019)",
+      "url": "https://mcpherrin.ca/2019/11/23/sum-collisions.html",
+      "score": 3,
+      "comments": 0,
+      "source": "mcpherrin.ca"
+    },
+    {
+      "title": "P(doom)",
+      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "score": 14,
+      "comments": 1,
+      "source": "lucumr.pocoo.org"
+    },
+    {
+      "title": "Show HN: See Sounds on Your Webcam",
+      "url": "https://soundmap.darebuild.com/",
+      "score": 13,
+      "comments": 3,
+      "source": "soundmap.darebuild.com"
     },
     {
       "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
       "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-      "score": 140,
-      "comments": 38,
+      "score": 176,
+      "comments": 45,
       "source": "supuk.ch"
     },
     {
       "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
       "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "score": 63,
-      "comments": 78,
+      "score": 109,
+      "comments": 112,
       "source": "wired.com"
     },
     {
-      "title": "Navier-Stokes Announcement",
-      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "score": 269,
-      "comments": 214,
-      "source": "claymath.org"
+      "title": "LG Says We're Fake News [video]",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "score": 186,
+      "comments": 87,
+      "source": "youtube.com"
     },
     {
-      "title": "Performance of WebAssembly Runtimes in 2026",
-      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "score": 63,
-      "comments": 16,
-      "source": "00f.net"
+      "title": "From Git to Fossil",
+      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "score": 4,
+      "comments": 1,
+      "source": "lucio.albenga.es"
     },
     {
-      "title": "LRU is harder to beat than the KV-cache papers suggest",
-      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "score": 79,
-      "comments": 37,
-      "source": "github.com"
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "score": 86,
+      "comments": 17,
+      "source": "transformer-circuits.pub"
     },
     {
-      "title": "\u03bb Snap \u2013 An inviting programming language for kids and adults for CS study",
-      "url": "https://snap.berkeley.edu/",
-      "score": 166,
-      "comments": 103,
-      "source": "snap.berkeley.edu"
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "score": 58,
+      "comments": 36,
+      "source": "blog.trailofbits.com"
     },
     {
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "score": 89,
-      "comments": 42,
-      "source": "tedium.co"
-    },
-    {
-      "title": "How we manage and engage with our horses shapes their personality",
-      "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
-      "score": 22,
-      "comments": 6,
-      "source": "utu.fi"
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 402,
-      "comments": 115,
-      "source": "cel.cs.brown.edu"
-    },
-    {
-      "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
-      "url": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
-      "score": 15,
-      "comments": 4,
-      "source": "oborona.zip"
-    },
-    {
-      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "score": 136,
-      "comments": 40,
-      "source": "cbc.ca"
-    },
-    {
-      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-      "score": 100,
-      "comments": 149,
-      "source": "latimes.com"
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 1159,
-      "comments": 1104,
-      "source": "mathandai.org"
-    },
-    {
-      "title": "I refuse to let SPICE die",
-      "url": "https://github.com/nefarius/vd_agent/",
-      "score": 62,
-      "comments": 56,
-      "source": "github.com"
+      "title": "Eating Fruit Skins",
+      "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+      "score": 88,
+      "comments": 183,
+      "source": "pgadey.ca"
     }
   ],
   "security": [
