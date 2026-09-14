@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 535,
+      "comments": 242,
+      "source": "vals.ai"
+    },
+    {
       "title": "Why is Google still serving dodgy ads?",
       "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 270,
-      "comments": 123,
+      "score": 640,
+      "comments": 301,
       "source": "atomic14.com"
+    },
+    {
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "score": 48,
+      "comments": 15,
+      "source": "spaceships.treybastian.com"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "score": 110,
+      "comments": 53,
+      "source": "community.signalusers.org"
+    },
+    {
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "score": 31,
+      "comments": 2,
+      "source": "interconnects.ai"
+    },
+    {
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "score": 170,
+      "comments": 12,
+      "source": "julialang.org"
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 286,
-      "comments": 128,
+      "score": 392,
+      "comments": 178,
       "source": "lesswrong.com"
     },
     {
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-      "score": 13,
-      "comments": 2,
-      "source": "singjupost.com"
+      "title": "AI is not a normal technology",
+      "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+      "score": 18,
+      "comments": 27,
+      "source": "12gramsofcarbon.com"
     },
     {
-      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-      "score": 70,
-      "comments": 45,
-      "source": "guessingheadlights.com"
+      "title": "Show HN: Is It Greg?",
+      "url": "https://github.com/antoineleclair/is-it-greg",
+      "score": 27,
+      "comments": 10,
+      "source": "github.com"
     },
     {
       "title": "Data collected by cars and sold to third parties",
       "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "score": 171,
-      "comments": 100,
+      "score": 327,
+      "comments": 169,
       "source": "theverge.com"
     },
     {
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "score": 452,
-      "comments": 177,
-      "source": "jetkvm.com"
+      "title": "The Malicious Use of Artificial Intelligence",
+      "url": "https://arxiv.org/abs/1802.07228",
+      "score": 11,
+      "comments": 4,
+      "source": "arxiv.org"
     },
     {
-      "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video]",
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "score": 39,
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "score": 68,
+      "comments": 8,
+      "source": "pages.cs.wisc.edu"
+    },
+    {
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "score": 60,
+      "comments": 114,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+      "score": 34,
+      "comments": 7,
+      "source": "katjahoyer.uk"
+    },
+    {
+      "title": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "score": 40,
       "comments": 6,
-      "source": "youtube.com"
+      "source": "developer.apple.com"
     },
     {
-      "title": "Julia 1.13 Highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 17,
-      "comments": 2,
-      "source": "julialang.org"
-    },
-    {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "score": 142,
-      "comments": 37,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "url": "https://dreamstation.systems/personal/tesla.html",
-      "score": 305,
-      "comments": 88,
-      "source": "dreamstation.systems"
+      "title": "Writing a better reality: The case for optimistic sci-fi",
+      "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+      "score": 10,
+      "comments": 5,
+      "source": "honisoit.com"
     },
     {
       "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
       "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "score": 269,
-      "comments": 69,
+      "score": 395,
+      "comments": 91,
       "source": "bensimms.moe"
+    },
+    {
+      "title": "The Coming War on General Computation (2011)",
+      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "score": 55,
+      "comments": 14,
+      "source": "en.wikisource.org"
     },
     {
       "title": "Making Startups Powerful",
       "url": "https://paulgraham.com/powerful.html",
-      "score": 90,
-      "comments": 35,
+      "score": 172,
+      "comments": 76,
       "source": "paulgraham.com"
     },
     {
-      "title": "Device Drivers lab exercise \u2013 COSC562",
-      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "score": 12,
-      "comments": 1,
-      "source": "web.eecs.utk.edu"
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "score": 217,
+      "comments": 50,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
+      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
+      "score": 4,
+      "comments": 0,
+      "source": "knowablemagazine.org"
+    },
+    {
+      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+      "score": 16,
+      "comments": 7,
+      "source": "myday24.com"
     },
     {
       "title": "CUDA for AMD on Windows",
       "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 103,
-      "comments": 58,
+      "score": 142,
+      "comments": 73,
       "source": "github.com"
     },
     {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "score": 232,
-      "comments": 118,
-      "source": "techcrunch.com"
+      "title": "AI Robots \u2013 When will they be in our homes",
+      "url": "https://spectrum.ieee.org/ai-robots",
+      "score": 5,
+      "comments": 2,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 531,
-      "comments": 615,
-      "source": "yoshuabengio.org"
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "score": 11,
+      "comments": 0,
+      "source": "science.org"
     },
     {
       "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
       "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "score": 19,
-      "comments": 4,
+      "score": 63,
+      "comments": 15,
       "source": "aprilnea.me"
     },
     {
-      "title": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
-      "url": "https://cpak.it/",
-      "score": 32,
-      "comments": 11,
-      "source": "cpak.it"
+      "title": "Show HN: Exploring the intersection of prediction markets and social media",
+      "url": "https://www.thevidmarket.com/",
+      "score": 4,
+      "comments": 0,
+      "source": "thevidmarket.com"
     },
     {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "score": 153,
-      "comments": 111,
-      "source": "twitter.com"
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "score": 164,
+      "comments": 125,
+      "source": "bcantrill.dtrace.org"
     },
     {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "score": 94,
-      "comments": 37,
-      "source": "ras.ac.uk"
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "score": 57,
-      "comments": 13,
-      "source": "github.com"
-    },
-    {
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "score": 38,
-      "comments": 26,
-      "source": "belderbos.dev"
-    },
-    {
-      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
-      "score": 64,
-      "comments": 44,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Alan's Random Insult Generator (1999)",
-      "url": "https://alanbellows.com/experiments/insult/index.html",
-      "score": 53,
-      "comments": 23,
-      "source": "alanbellows.com"
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 576,
-      "comments": 138,
-      "source": "high5apps.github.io"
-    },
-    {
-      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "score": 16,
-      "comments": 10,
-      "source": "technologyreview.com"
-    },
-    {
-      "title": "Base84 deserves a place in file names",
-      "url": "https://00f.net/2026/09/09/base84/",
-      "score": 48,
-      "comments": 38,
-      "source": "00f.net"
-    },
-    {
-      "title": "Flock cameras used to arrest a child for playing on a swing",
-      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "score": 107,
-      "comments": 59,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "score": 492,
-      "comments": 196,
-      "source": "brew.sh"
-    },
-    {
-      "title": "On Binary Translation and Its Consequences",
-      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
-      "score": 42,
-      "comments": 16,
-      "source": "chipsandcheese.com"
+      "title": "Bad code is kudzu",
+      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
+      "score": 43,
+      "comments": 14,
+      "source": "vickiboykis.com"
     }
   ],
   "security": [
