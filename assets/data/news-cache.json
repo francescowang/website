@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 81,
-      "comments": 28,
-      "source": "eurobirdportal.org"
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 23,
+      "comments": 12,
+      "source": "andonlabs.com"
     },
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 1006,
-      "comments": 436,
-      "source": "vals.ai"
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 72,
+      "comments": 14,
+      "source": "nvartolomei.com"
     },
     {
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 60,
-      "comments": 19,
-      "source": "github.com"
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 53,
+      "comments": 10,
+      "source": "dial9-rs.github.io"
     },
     {
-      "title": "OpenArch \u2013 PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "score": 21,
+      "comments": 3,
+      "source": "amazon.science"
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev \u2013 Just added Base UI support and added new color theme",
+      "url": "https://www.neobrutalism.dev/",
+      "score": 34,
+      "comments": 13,
+      "source": "neobrutalism.dev"
+    },
+    {
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 82,
+      "comments": 32,
+      "source": "patrickmccanna.net"
+    },
+    {
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 156,
+      "comments": 184,
+      "source": "tenderlovemaking.com"
+    },
+    {
+      "title": "Truncated SVD",
+      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "score": 13,
+      "comments": 1,
+      "source": "brashandplucky.com"
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
       "score": 43,
-      "comments": 9,
+      "comments": 23,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "The Tudor Kings",
+      "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
+      "score": 10,
+      "comments": 1,
+      "source": "analog-antiquarian.net"
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 20,
+      "comments": 1,
+      "source": "daniellitt.com"
+    },
+    {
+      "title": "Show HN: Fly.exe \u2013 An EON systems like virtual fruit fly uploaded to computer",
+      "url": "https://github.com/Ibtisam-Mohammad/Fly.exe",
+      "score": 15,
+      "comments": 3,
       "source": "github.com"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 144,
+      "comments": 408,
+      "source": "xcancel.com"
+    },
+    {
+      "title": "Claude is a Contrarian",
+      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+      "score": 65,
+      "comments": 69,
+      "source": "medium.com"
     },
     {
       "title": "An atlas of periodic solutions to the three-body problem",
       "url": "https://www.threebodyorbits.com/",
-      "score": 47,
-      "comments": 5,
+      "score": 244,
+      "comments": 53,
       "source": "threebodyorbits.com"
     },
     {
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 268,
-      "comments": 51,
-      "source": "spaceships.treybastian.com"
+      "title": "When LLM judges agree, should we believe them?",
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "score": 11,
+      "comments": 2,
+      "source": "amazon.science"
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 295,
-      "comments": 146,
-      "source": "community.signalusers.org"
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "score": 58,
+      "comments": 23,
+      "source": "gally.net"
     },
     {
-      "title": "Watch AI materials-science and bioscience abilities closely",
-      "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
-      "score": 3,
-      "comments": 0,
-      "source": "lesswrong.com"
+      "title": "Show HN: Is this photo edited? Client-side image forensics",
+      "url": "https://vajba.com/image-forensics/",
+      "score": 12,
+      "comments": 2,
+      "source": "vajba.com"
     },
     {
-      "title": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "score": 235,
-      "comments": 86,
-      "source": "developer.apple.com"
+      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "score": 190,
+      "comments": 52,
+      "source": "eurobirdportal.org"
     },
     {
-      "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
-      "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
-      "score": 14,
-      "comments": 10,
-      "source": "storagereview.com"
-    },
-    {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "score": 185,
-      "comments": 244,
-      "source": "giannirosato.com"
-    },
-    {
-      "title": "Show HN: 1080p is 920px tall \u2013 1k real browser viewports",
-      "url": "https://screensize.net/reports/viewport-stats",
-      "score": 23,
-      "comments": 16,
-      "source": "screensize.net"
-    },
-    {
-      "title": "Who Aligns the Aligners?",
-      "url": "https://prestonbyrne.com/2026/09/13/aligners/",
-      "score": 3,
-      "comments": 0,
-      "source": "prestonbyrne.com"
-    },
-    {
-      "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-      "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-      "score": 20,
-      "comments": 0,
-      "source": "thepricer.org"
-    },
-    {
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "score": 188,
-      "comments": 254,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The Nature of Dance",
-      "url": "https://vester.si/blog/nature-of-dance/",
-      "score": 21,
-      "comments": 25,
-      "source": "vester.si"
-    },
-    {
-      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "score": 82,
-      "comments": 30,
-      "source": "knowablemagazine.org"
-    },
-    {
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 239,
-      "comments": 31,
-      "source": "julialang.org"
-    },
-    {
-      "title": "A Vacuum Diode for Make: Magazine",
-      "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
-      "score": 7,
-      "comments": 0,
-      "source": "nickpoole.me"
-    },
-    {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 849,
-      "comments": 376,
-      "source": "atomic14.com"
-    },
-    {
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "score": 91,
-      "comments": 47,
-      "source": "katjahoyer.uk"
-    },
-    {
-      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-      "url": "https://danluu.com/exercise-7/",
-      "score": 37,
-      "comments": 14,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "score": 90,
-      "comments": 11,
-      "source": "pages.cs.wisc.edu"
-    },
-    {
-      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
       "score": 171,
-      "comments": 228,
-      "source": "fortune.com"
-    },
-    {
-      "title": "Why the software industry needs a lot of regulation",
-      "url": "https://petewarden.com/2026/09/10/why-the-software-industry-needs-a-lot-of-regulation/",
-      "score": 3,
-      "comments": 0,
-      "source": "petewarden.com"
-    },
-    {
-      "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
-      "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
-      "score": 3,
-      "comments": 0,
-      "source": "servethehome.com"
-    },
-    {
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 170,
-      "comments": 92,
+      "comments": 52,
       "source": "github.com"
     },
     {
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 119,
-      "comments": 24,
-      "source": "interconnects.ai"
+      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "score": 42,
+      "comments": 30,
+      "source": "sciencedaily.com"
     },
     {
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "url": "https://eterdb.com/",
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "score": 28,
+      "comments": 10,
+      "source": "jsgroth.dev"
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "score": 5,
+      "comments": 0,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Hacking AI customer service agents",
+      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+      "score": 31,
+      "comments": 3,
+      "source": "intigriti.com"
+    },
+    {
+      "title": "How to write an effective software design document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "score": 240,
+      "comments": 103,
+      "source": "refactoringenglish.com"
+    },
+    {
+      "title": "Transitions.dev: UI transitions for AI agents",
+      "url": "https://transitions.dev/",
+      "score": 11,
+      "comments": 3,
+      "source": "transitions.dev"
+    },
+    {
+      "title": "Microsoft patches Windows and Excel \u2013 breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
       "score": 41,
-      "comments": 19,
-      "source": "eterdb.com"
+      "comments": 21,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
+      "url": "https://github.com/callbacked/kinesis",
+      "score": 102,
+      "comments": 30,
+      "source": "github.com"
+    },
+    {
+      "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
+      "url": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
+      "score": 4,
+      "comments": 0,
+      "source": "richg42.blogspot.com"
     }
   ],
   "security": [
