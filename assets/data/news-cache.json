@@ -1,46 +1,102 @@
 {
   "tech": [
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 23,
-      "comments": 12,
-      "source": "andonlabs.com"
+      "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "score": 58,
+      "comments": 16,
+      "source": "law.justia.com"
     },
     {
       "title": "Distributed Systems Classics (2017)",
       "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 72,
-      "comments": 14,
+      "score": 182,
+      "comments": 37,
       "source": "nvartolomei.com"
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 130,
+      "comments": 56,
+      "source": "daniellitt.com"
     },
     {
       "title": "Principles for Fast Tokio Applications",
       "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 53,
-      "comments": 10,
+      "score": 133,
+      "comments": 24,
       "source": "dial9-rs.github.io"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 299,
+      "comments": 264,
+      "source": "tenderlovemaking.com"
     },
     {
       "title": "Why don't machine learning research agents overfit?",
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "score": 21,
-      "comments": 3,
+      "score": 85,
+      "comments": 46,
       "source": "amazon.science"
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "score": 91,
+      "comments": 10,
+      "source": "serpentine.com"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 339,
+      "comments": 625,
+      "source": "xcancel.com"
+    },
+    {
+      "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+      "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "score": 93,
+      "comments": 56,
+      "source": "techtimes.co.uk"
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "score": 58,
+      "comments": 16,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 202,
+      "comments": 221,
+      "source": "andonlabs.com"
+    },
+    {
+      "title": "Optimizing a Spin-Lock",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "score": 12,
+      "comments": 2,
+      "source": "david.alvarezrosa.com"
+    },
+    {
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR \u2013 High accuracy, low latency and cost",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "score": 43,
+      "comments": 10,
+      "source": "narilabs.com"
     },
     {
       "title": "Show HN: Neobrutalism.dev \u2013 Just added Base UI support and added new color theme",
       "url": "https://www.neobrutalism.dev/",
-      "score": 34,
-      "comments": 13,
+      "score": 109,
+      "comments": 48,
       "source": "neobrutalism.dev"
-    },
-    {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "score": 82,
-      "comments": 32,
-      "source": "patrickmccanna.net"
     },
     {
       "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
@@ -50,168 +106,111 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 156,
-      "comments": 184,
-      "source": "tenderlovemaking.com"
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 103,
+      "comments": 48,
+      "source": "patrickmccanna.net"
     },
     {
-      "title": "Truncated SVD",
-      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-      "score": 13,
-      "comments": 1,
-      "source": "brashandplucky.com"
-    },
-    {
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "score": 43,
-      "comments": 23,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "The Tudor Kings",
-      "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
-      "score": 10,
-      "comments": 1,
-      "source": "analog-antiquarian.net"
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 20,
-      "comments": 1,
-      "source": "daniellitt.com"
-    },
-    {
-      "title": "Show HN: Fly.exe \u2013 An EON systems like virtual fruit fly uploaded to computer",
-      "url": "https://github.com/Ibtisam-Mohammad/Fly.exe",
-      "score": 15,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "score": 144,
-      "comments": 408,
-      "source": "xcancel.com"
-    },
-    {
-      "title": "Claude is a Contrarian",
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "score": 65,
-      "comments": 69,
-      "source": "medium.com"
-    },
-    {
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "url": "https://www.threebodyorbits.com/",
-      "score": 244,
-      "comments": 53,
-      "source": "threebodyorbits.com"
-    },
-    {
-      "title": "When LLM judges agree, should we believe them?",
-      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "score": 11,
-      "comments": 2,
-      "source": "amazon.science"
-    },
-    {
-      "title": "Show HN: Pelican-bicycle alternatives",
-      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-      "score": 58,
-      "comments": 23,
-      "source": "gally.net"
-    },
-    {
-      "title": "Show HN: Is this photo edited? Client-side image forensics",
-      "url": "https://vajba.com/image-forensics/",
-      "score": 12,
-      "comments": 2,
-      "source": "vajba.com"
-    },
-    {
-      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 190,
-      "comments": 52,
-      "source": "eurobirdportal.org"
-    },
-    {
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 171,
-      "comments": 52,
-      "source": "github.com"
-    },
-    {
-      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "score": 42,
-      "comments": 30,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "Trying to Make a Loop Auto-Vectorize",
-      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-      "score": 28,
-      "comments": 10,
-      "source": "jsgroth.dev"
-    },
-    {
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "score": 5,
-      "comments": 0,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Hacking AI customer service agents",
-      "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-      "score": 31,
-      "comments": 3,
-      "source": "intigriti.com"
-    },
-    {
-      "title": "How to write an effective software design document",
-      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-      "score": 240,
-      "comments": 103,
-      "source": "refactoringenglish.com"
-    },
-    {
-      "title": "Transitions.dev: UI transitions for AI agents",
-      "url": "https://transitions.dev/",
-      "score": 11,
-      "comments": 3,
-      "source": "transitions.dev"
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "score": 392,
+      "comments": 259,
+      "source": "store.steampowered.com"
     },
     {
       "title": "Microsoft patches Windows and Excel \u2013 breaks audio, remote access, and paste",
       "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-      "score": 41,
-      "comments": 21,
+      "score": 152,
+      "comments": 70,
       "source": "theregister.com"
     },
     {
-      "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
-      "url": "https://github.com/callbacked/kinesis",
-      "score": 102,
-      "comments": 30,
-      "source": "github.com"
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "url": "https://www.threebodyorbits.com/",
+      "score": 307,
+      "comments": 70,
+      "source": "threebodyorbits.com"
     },
     {
-      "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
-      "url": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
-      "score": 4,
-      "comments": 0,
-      "source": "richg42.blogspot.com"
+      "title": "Truncated SVD (2023)",
+      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "score": 37,
+      "comments": 6,
+      "source": "brashandplucky.com"
+    },
+    {
+      "title": "Show HN: Apollo Lunar Module landing simulation",
+      "url": "https://gosandeep.com/eagles-descent/",
+      "score": 27,
+      "comments": 1,
+      "source": "gosandeep.com"
+    },
+    {
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "score": 72,
+      "comments": 20,
+      "source": "pop.rdi.sh"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 261,
+      "comments": 267,
+      "source": "apple.com"
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "score": 82,
+      "comments": 40,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "score": 59,
+      "comments": 72,
+      "source": "entelligence.ai"
+    },
+    {
+      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "score": 207,
+      "comments": 62,
+      "source": "eurobirdportal.org"
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "score": 97,
+      "comments": 39,
+      "source": "gally.net"
+    },
+    {
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "score": 54,
+      "comments": 14,
+      "source": "jsgroth.dev"
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "score": 195,
+      "comments": 69,
+      "source": "github.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
+      "url": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance/",
+      "date": "2026-09-14 17:46:56",
+      "author": "Avik Mukherjee"
+    },
     {
       "title": "The state of AI for security: Measuring what matters most for building trust",
       "url": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
       "date": "2026-08-28 18:53:57",
       "author": "Madhur Kulkarni"
-    },
-    {
-      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
-      "url": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
-      "date": "2026-08-27 16:20:05",
-      "author": "Stephan Traub"
     }
   ]
 }
