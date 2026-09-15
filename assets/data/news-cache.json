@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 262,
+      "comments": 81,
+      "source": "notnottalmud.substack.com"
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "score": 37,
+      "comments": 8,
+      "source": "tintotint.eu"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "score": 39,
+      "comments": 3,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "score": 29,
+      "comments": 20,
+      "source": "rmoff.net"
+    },
+    {
       "title": "iOS 27, iPadOS 27, and macOS 27",
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 429,
-      "comments": 484,
+      "score": 619,
+      "comments": 709,
       "source": "apple.com"
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "score": 64,
+      "comments": 55,
+      "source": "forbrukerradet.no"
+    },
+    {
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "score": 103,
+      "comments": 21,
+      "source": "github.com"
     },
     {
       "title": "Pion, an agent designed to run any company autonomously",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 308,
-      "comments": 343,
+      "score": 418,
+      "comments": 518,
       "source": "andonlabs.com"
-    },
-    {
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "score": 123,
-      "comments": 39,
-      "source": "dbtcharts.com"
     },
     {
       "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
       "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "score": 38,
-      "comments": 5,
+      "score": 148,
+      "comments": 43,
       "source": "arkeonews.net"
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "score": 44,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "score": 47,
-      "comments": 13,
-      "source": "nathannaveen.dev"
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "score": 198,
+      "comments": 65,
+      "source": "linuxfromscratch.org"
     },
     {
       "title": "XCancel service is suspended until further notice",
       "url": "https://xcancel.com/#",
-      "score": 493,
-      "comments": 793,
+      "score": 654,
+      "comments": 946,
       "source": "xcancel.com"
     },
     {
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 247,
-      "comments": 56,
-      "source": "nvartolomei.com"
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 236,
+      "comments": 74,
+      "source": "dbtcharts.com"
     },
     {
-      "title": "Compressing a Flag to 11 Bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "score": 84,
-      "comments": 38,
-      "source": "read.vantezzen.io"
+      "title": "The k-server conjecture is true",
+      "url": "https://arxiv.org/abs/2609.15979",
+      "score": 15,
+      "comments": 8,
+      "source": "arxiv.org"
     },
     {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 389,
-      "comments": 329,
-      "source": "tenderlovemaking.com"
-    },
-    {
-      "title": "The biggest dinosaurs couldn't sit on their eggs",
-      "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
-      "score": 17,
-      "comments": 1,
-      "source": "cbc.ca"
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 172,
-      "comments": 44,
-      "source": "dial9-rs.github.io"
-    },
-    {
-      "title": "How my e-reader lost its stripes",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "score": 161,
-      "comments": 25,
-      "source": "serpentine.com"
-    },
-    {
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "score": 539,
-      "comments": 418,
-      "source": "store.steampowered.com"
-    },
-    {
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "score": 111,
-      "comments": 61,
-      "source": "amazon.science"
-    },
-    {
-      "title": "Optimizing a Spin-Lock",
-      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-      "score": 47,
-      "comments": 23,
-      "source": "david.alvarezrosa.com"
-    },
-    {
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "score": 94,
-      "comments": 26,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Amazon vs. Perplexity \u2013 U.S. Court of Appeals for the Ninth Circuit",
-      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "score": 179,
-      "comments": 185,
-      "source": "law.justia.com"
-    },
-    {
-      "title": "People who can't picture anything are rewriting the science of imagination",
-      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-      "score": 104,
-      "comments": 175,
-      "source": "dailyneuron.com"
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 175,
-      "comments": 103,
-      "source": "daniellitt.com"
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "score": 1,
+      "comments": 0,
+      "source": "lingo.dev"
     },
     {
       "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
       "url": "https://poltora.dev/redis",
-      "score": 4,
-      "comments": 1,
+      "score": 103,
+      "comments": 17,
       "source": "poltora.dev"
     },
     {
-      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-      "url": "https://pub.sakana.ai/pc-alm/",
-      "score": 50,
-      "comments": 11,
-      "source": "pub.sakana.ai"
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "score": 469,
+      "comments": 377,
+      "source": "tenderlovemaking.com"
     },
     {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "score": 119,
-      "comments": 66,
-      "source": "patrickmccanna.net"
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 122,
+      "comments": 27,
+      "source": "nathannaveen.dev"
     },
     {
-      "title": "Dario, Please",
-      "url": "https://pop.rdi.sh/dario-please/",
-      "score": 318,
-      "comments": 155,
-      "source": "pop.rdi.sh"
-    },
-    {
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-      "score": 1,
+      "title": "A rough guide for going back to the Moon",
+      "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+      "score": 3,
       "comments": 0,
-      "source": "ycombinator.com"
+      "source": "research.ibm.com"
     },
     {
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "score": 119,
-      "comments": 114,
-      "source": "entelligence.ai"
+      "title": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "score": 67,
+      "comments": 37,
+      "source": "bbc.com"
     },
     {
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "score": 44,
-      "comments": 19,
-      "source": "theregister.com"
+      "title": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 228,
+      "comments": 126,
+      "source": "daniellitt.com"
     },
     {
-      "title": "Show HN: Neobrutalism.dev \u2013 Just added Base UI support and added new color theme",
-      "url": "https://www.neobrutalism.dev/",
-      "score": 146,
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 310,
       "comments": 68,
-      "source": "neobrutalism.dev"
+      "source": "nvartolomei.com"
     },
     {
-      "title": "Microsoft patches Windows and Excel \u2013 breaks audio, remote access, and paste",
-      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-      "score": 214,
-      "comments": 134,
-      "source": "theregister.com"
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "score": 11,
+      "comments": 0,
+      "source": "vale.rocks"
+    },
+    {
+      "title": "Compressing a flag to 11 bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "score": 156,
+      "comments": 61,
+      "source": "read.vantezzen.io"
+    },
+    {
+      "title": "High-performance garbage collection for C++",
+      "url": "https://v8.dev/blog/high-performance-cpp-gc",
+      "score": 48,
+      "comments": 8,
+      "source": "v8.dev"
+    },
+    {
+      "title": "Forgotten Woodlands",
+      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "score": 68,
+      "comments": 23,
+      "source": "storymaps.arcgis.com"
+    },
+    {
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "score": 201,
+      "comments": 209,
+      "source": "omgubuntu.co.uk"
+    },
+    {
+      "title": "Glyph Immersive",
+      "url": "https://glyph.kateander.com/",
+      "score": 8,
+      "comments": 1,
+      "source": "glyph.kateander.com"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 76,
+      "comments": 19,
+      "source": "github.com"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 218,
+      "comments": 53,
+      "source": "dial9-rs.github.io"
     }
   ],
   "security": [
