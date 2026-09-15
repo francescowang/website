@@ -1,95 +1,158 @@
 {
   "tech": [
     {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 531,
+      "comments": 85,
+      "source": "github.com"
+    },
+    {
+      "title": "Swift 6.4 Released",
+      "url": "https://www.swift.org/blog/swift-6.4-released/",
+      "score": 48,
+      "comments": 7,
+      "source": "swift.org"
+    },
+    {
+      "title": "Cartesian \u2013 AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 20,
+      "comments": 7,
+      "source": "formas.ai"
+    },
+    {
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "score": 91,
+      "comments": 9,
+      "source": "bkovac.github.io"
+    },
+    {
+      "title": "Java 27 Released",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "score": 215,
+      "comments": 163,
+      "source": "mail.openjdk.org"
+    },
+    {
       "title": "I can't stop thinking about Papua New Guinea",
       "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "score": 262,
-      "comments": 81,
+      "score": 676,
+      "comments": 293,
       "source": "notnottalmud.substack.com"
     },
     {
-      "title": "How much of F-Droid is LLM generated?",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "score": 37,
-      "comments": 8,
-      "source": "tintotint.eu"
+      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 104,
+      "comments": 53,
+      "source": "withcapsule.app"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "score": 39,
-      "comments": 3,
-      "source": "bbc.com"
+      "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
+      "url": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
+      "score": 7,
+      "comments": 2,
+      "source": "stateofopensource.ai"
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "score": 442,
+      "comments": 135,
+      "source": "schneier.com"
+    },
+    {
+      "title": "A Man Archiving Pirate Radio Station Kool FM",
+      "url": "https://londonist.com/london/music/kool-fm-archives",
+      "score": 31,
+      "comments": 11,
+      "source": "londonist.com"
+    },
+    {
+      "title": "Show HN: Panel \u2013 A research workspace where the agent can build its own panes",
+      "url": "https://github.com/greentfrapp/panel",
+      "score": 23,
+      "comments": 4,
+      "source": "github.com"
     },
     {
       "title": "Alternatives to MinIO for single-node local S3",
       "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-      "score": 29,
-      "comments": 20,
+      "score": 165,
+      "comments": 71,
       "source": "rmoff.net"
     },
     {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "score": 619,
-      "comments": 709,
-      "source": "apple.com"
+      "title": "Sony's First Computer \u2013 The SMC-70 from 1982 [video]",
+      "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
+      "score": 32,
+      "comments": 1,
+      "source": "youtube.com"
     },
     {
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "score": 64,
-      "comments": 55,
-      "source": "forbrukerradet.no"
+      "title": "Giving up on smart rings",
+      "url": "https://notesbylex.com/giving-up-on-smart-rings",
+      "score": 7,
+      "comments": 6,
+      "source": "notesbylex.com"
+    },
+    {
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "score": 188,
+      "comments": 69,
+      "source": "vale.rocks"
+    },
+    {
+      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+      "score": 106,
+      "comments": 97,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Inverse-Square Law",
+      "url": "https://blog.coredump.cx/p/inverse-square-law",
+      "score": 35,
+      "comments": 5,
+      "source": "blog.coredump.cx"
+    },
+    {
+      "title": "Show HN: Ordewell \u2013 turn one goal into an ordered plan of coding-agent tasks",
+      "url": "https://github.com/ordewell/ordewell",
+      "score": 24,
+      "comments": 20,
+      "source": "github.com"
+    },
+    {
+      "title": "Closing the IPv6 First-Packet Gap with Grand",
+      "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+      "score": 5,
+      "comments": 0,
+      "source": "labs.ripe.net"
+    },
+    {
+      "title": "The CSS Zen Garden dream shipped",
+      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "score": 5,
+      "comments": 2,
+      "source": "josprague.com"
     },
     {
       "title": "OpenArm: An open-source 7DOF humanoid arm",
       "url": "https://github.com/enactic/OpenArm",
-      "score": 103,
-      "comments": 21,
+      "score": 183,
+      "comments": 38,
       "source": "github.com"
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "score": 418,
-      "comments": 518,
-      "source": "andonlabs.com"
-    },
-    {
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "score": 148,
-      "comments": 43,
-      "source": "arkeonews.net"
-    },
-    {
-      "title": "Linux from Scratch",
-      "url": "https://www.linuxfromscratch.org/",
-      "score": 198,
-      "comments": 65,
-      "source": "linuxfromscratch.org"
-    },
-    {
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "score": 654,
-      "comments": 946,
-      "source": "xcancel.com"
-    },
-    {
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "score": 236,
-      "comments": 74,
-      "source": "dbtcharts.com"
-    },
-    {
-      "title": "The k-server conjecture is true",
-      "url": "https://arxiv.org/abs/2609.15979",
-      "score": 15,
-      "comments": 8,
-      "source": "arxiv.org"
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "score": 336,
+      "comments": 329,
+      "source": "bbc.com"
     },
     {
       "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
@@ -99,112 +162,62 @@
       "source": "lingo.dev"
     },
     {
-      "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
-      "url": "https://poltora.dev/redis",
-      "score": 103,
-      "comments": 17,
-      "source": "poltora.dev"
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "score": 469,
-      "comments": 377,
-      "source": "tenderlovemaking.com"
-    },
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "score": 122,
-      "comments": 27,
-      "source": "nathannaveen.dev"
-    },
-    {
-      "title": "A rough guide for going back to the Moon",
-      "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
-      "score": 3,
-      "comments": 0,
-      "source": "research.ibm.com"
-    },
-    {
       "title": "US confirms for first time it has deployed space weapons",
       "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-      "score": 67,
-      "comments": 37,
+      "score": 256,
+      "comments": 160,
       "source": "bbc.com"
     },
     {
-      "title": "A beginning for mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 228,
-      "comments": 126,
-      "source": "daniellitt.com"
+      "title": "The k-server conjecture is true",
+      "url": "https://arxiv.org/abs/2609.15979",
+      "score": 82,
+      "comments": 35,
+      "source": "arxiv.org"
     },
     {
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 310,
+      "title": "AI is breaking our proxies for expertise",
+      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "score": 58,
+      "comments": 29,
+      "source": "seangoedecke.com"
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+      "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+      "score": 104,
+      "comments": 6,
+      "source": "lawfaremedia.org"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "score": 103,
       "comments": 68,
-      "source": "nvartolomei.com"
+      "source": "techcrunch.com"
     },
     {
-      "title": "CSS-Tricks in Limbo",
-      "url": "https://vale.rocks/micros/20260915-0135",
-      "score": 11,
-      "comments": 0,
-      "source": "vale.rocks"
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 466,
+      "comments": 563,
+      "source": "andonlabs.com"
     },
     {
-      "title": "Compressing a flag to 11 bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "score": 156,
-      "comments": 61,
-      "source": "read.vantezzen.io"
-    },
-    {
-      "title": "High-performance garbage collection for C++",
-      "url": "https://v8.dev/blog/high-performance-cpp-gc",
-      "score": 48,
-      "comments": 8,
-      "source": "v8.dev"
-    },
-    {
-      "title": "Forgotten Woodlands",
-      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "score": 68,
-      "comments": 23,
-      "source": "storymaps.arcgis.com"
-    },
-    {
-      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-      "score": 201,
-      "comments": 209,
-      "source": "omgubuntu.co.uk"
-    },
-    {
-      "title": "Glyph Immersive",
-      "url": "https://glyph.kateander.com/",
-      "score": 8,
-      "comments": 1,
-      "source": "glyph.kateander.com"
-    },
-    {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "score": 76,
-      "comments": 19,
-      "source": "github.com"
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 218,
-      "comments": 53,
-      "source": "dial9-rs.github.io"
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 193,
+      "comments": 58,
+      "source": "arkeonews.net"
     }
   ],
   "security": [
+    {
+      "title": "Operationalizing least privilege: Automate IAM remediation through your CI/CD pipeline",
+      "url": "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline/",
+      "date": "2026-09-15 15:53:51",
+      "author": "Luis Pastor"
+    },
     {
       "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
       "url": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance/",
@@ -258,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting/",
       "date": "2026-08-31 17:18:31",
       "author": "Jonathan Nguyen"
-    },
-    {
-      "title": "Extend your data perimeter to the AWS Management Console with Private Access",
-      "url": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
-      "date": "2026-08-28 18:53:57",
-      "author": "Madhur Kulkarni"
     }
   ]
 }
