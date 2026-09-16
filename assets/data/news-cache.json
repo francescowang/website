@@ -1,95 +1,144 @@
 {
   "tech": [
     {
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "url": "https://arxiv.org/abs/2609.14858",
-      "score": 68,
-      "comments": 16,
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 151,
+      "comments": 21,
+      "source": "rohanbansal.com"
+    },
+    {
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "score": 147,
+      "comments": 21,
+      "source": "opensource.googleblog.com"
+    },
+    {
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 261,
+      "comments": 145,
+      "source": "will-keleher.com"
+    },
+    {
+      "title": "Xiami Mimo 2.6 Live Training Dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "score": 27,
+      "comments": 3,
+      "source": "mimo.xiaomi.com"
+    },
+    {
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "score": 35,
+      "comments": 3,
       "source": "arxiv.org"
     },
     {
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "url": "https://gultsch.social/@daniel/117280438824908947",
-      "score": 250,
-      "comments": 209,
-      "source": "gultsch.social"
+      "title": "How good are frontier models at physics?",
+      "url": "https://arxiv.org/abs/2609.13009",
+      "score": 25,
+      "comments": 5,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Reversing Factorio's RNG",
+      "url": "https://gegell.github.io/posts/factorio-rng/",
+      "score": 26,
+      "comments": 3,
+      "source": "gegell.github.io"
+    },
+    {
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "score": 157,
+      "comments": 47,
+      "source": "arxiv.org"
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 325,
-      "comments": 108,
+      "score": 482,
+      "comments": 169,
       "source": "mistral.ai"
     },
     {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 1663,
-      "comments": 457,
-      "source": "typesafe.ai"
+      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "url": "https://clickhouse.com/blog/introducing-walshadow",
+      "score": 5,
+      "comments": 0,
+      "source": "clickhouse.com"
     },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1840,
-      "comments": 219,
+      "score": 1986,
+      "comments": 231,
       "source": "github.com"
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "score": 201,
-      "comments": 91,
-      "source": "wired.com"
-    },
-    {
-      "title": "How Big Are Factorials?",
-      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-      "score": 22,
-      "comments": 10,
-      "source": "eli.thegreenplace.net"
-    },
-    {
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "score": 405,
-      "comments": 259,
-      "source": "security.apple.com"
     },
     {
       "title": "Tell the speakers that you liked their talks",
       "url": "https://ohhelloana.blog/tell-the-speakers/",
-      "score": 43,
-      "comments": 10,
+      "score": 240,
+      "comments": 64,
       "source": "ohhelloana.blog"
     },
     {
-      "title": "Can We Stop with the Uptime Percentages?",
-      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "score": 33,
+      "comments": 0,
+      "source": "patrickwyman.substack.com"
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "score": 215,
+      "comments": 167,
+      "source": "blog.ploeh.dk"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "score": 168,
+      "comments": 181,
+      "source": "claude.com"
+    },
+    {
+      "title": "The DeepMind Institute",
+      "url": "https://institute.deepmind.com/",
+      "score": 92,
+      "comments": 31,
+      "source": "institute.deepmind.com"
+    },
+    {
+      "title": "How big are factorials?",
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "score": 67,
+      "comments": 28,
+      "source": "eli.thegreenplace.net"
+    },
+    {
+      "title": "Show HN: Restarted \u2013 a 2026 remake of the classic 2015 startup generator",
+      "url": "https://restarted.io/",
       "score": 4,
       "comments": 0,
-      "source": "blog.jim-nielsen.com"
+      "source": "restarted.io"
     },
     {
-      "title": "Douglas Adams and the exterminated Doctor Who adventure",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-      "score": 55,
-      "comments": 36,
-      "source": "bbc.co.uk"
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "score": 321,
+      "comments": 308,
+      "source": "gultsch.social"
     },
     {
-      "title": "Anatomy of a Texture",
-      "url": "https://agentlien.github.io/texture/",
-      "score": 12,
-      "comments": 2,
-      "source": "agentlien.github.io"
-    },
-    {
-      "title": "Scaling Golang CI by Replacing actions/setup-go",
-      "url": "https://www.cloudx.ai/posts/setup-go",
-      "score": 38,
-      "comments": 4,
-      "source": "cloudx.ai"
+      "title": "macOS 27 Golden Gate: The Ars Technica Review",
+      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "score": 11,
+      "comments": 0,
+      "source": "arstechnica.com"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -99,116 +148,60 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "score": 151,
-      "comments": 41,
-      "source": "tomshardware.com"
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "score": 387,
+      "comments": 188,
+      "source": "wired.com"
     },
     {
-      "title": "An update on Wayback Machine access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "score": 633,
-      "comments": 339,
-      "source": "blog.archive.org"
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "score": 5,
+      "comments": 2,
+      "source": "github.com"
     },
     {
-      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-      "score": 32,
-      "comments": 37,
-      "source": "bbc.co.uk"
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "score": 40,
+      "comments": 111,
+      "source": "businessinsider.com"
+    },
+    {
+      "title": "Training Text-to-Image Models 3.6\u00d7 Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "score": 4,
+      "comments": 0,
+      "source": "linum.ai"
+    },
+    {
+      "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+      "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+      "score": 31,
+      "comments": 7,
+      "source": "euronews.com"
     },
     {
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "url": "https://stale.jock.pl/",
-      "score": 26,
-      "comments": 17,
+      "score": 64,
+      "comments": 42,
       "source": "stale.jock.pl"
     },
     {
-      "title": "Salesforce Global Outage",
-      "url": "https://status.salesforce.com/products/all",
-      "score": 202,
-      "comments": 114,
-      "source": "status.salesforce.com"
+      "title": "Can we stop with the uptime percentages?",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "score": 115,
+      "comments": 94,
+      "source": "blog.jim-nielsen.com"
     },
     {
-      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-      "score": 222,
-      "comments": 135,
-      "source": "frvr.com"
-    },
-    {
-      "title": "Doing Everyone Else's Job",
-      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "score": 166,
-      "comments": 76,
-      "source": "yosefk.com"
-    },
-    {
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "url": "https://inflightsimulator.com",
-      "score": 314,
-      "comments": 177,
-      "source": "inflightsimulator.com"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 465,
-      "comments": 310,
-      "source": "blog.google"
-    },
-    {
-      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "score": 85,
-      "comments": 22,
-      "source": "enclave.ai"
-    },
-    {
-      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "score": 100,
-      "comments": 100,
-      "source": "openai.com"
-    },
-    {
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "score": 358,
-      "comments": 453,
-      "source": "dank.systems"
-    },
-    {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "score": 119,
-      "comments": 38,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "score": 261,
-      "comments": 97,
-      "source": "rheinmetall.github.io"
-    },
-    {
-      "title": "A software thing I built: GPS on a 25MHz 486-SX",
-      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-      "score": 60,
-      "comments": 19,
-      "source": "forum.vcfed.org"
-    },
-    {
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "score": 166,
-      "comments": 49,
-      "source": "nand2mario.github.io"
+      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+      "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+      "score": 128,
+      "comments": 112,
+      "source": "temertymedicine.utoronto.ca"
     }
   ],
   "security": [
