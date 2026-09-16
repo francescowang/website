@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "score": 42,
-      "comments": 22,
-      "source": "blog.ploeh.dk"
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "score": 68,
+      "comments": 16,
+      "source": "arxiv.org"
     },
     {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 1444,
-      "comments": 408,
-      "source": "typesafe.ai"
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "score": 250,
+      "comments": 209,
+      "source": "gultsch.social"
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 47,
-      "comments": 11,
+      "score": 325,
+      "comments": 108,
       "source": "mistral.ai"
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 1663,
+      "comments": 457,
+      "source": "typesafe.ai"
     },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 1678,
-      "comments": 209,
+      "score": 1840,
+      "comments": 219,
       "source": "github.com"
+    },
+    {
+      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "score": 201,
+      "comments": 91,
+      "source": "wired.com"
+    },
+    {
+      "title": "How Big Are Factorials?",
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "score": 22,
+      "comments": 10,
+      "source": "eli.thegreenplace.net"
     },
     {
       "title": "Apple Reference Image: A New Approach for Verified Photography",
       "url": "https://security.apple.com/blog/apple-reference-image/",
-      "score": 273,
-      "comments": 199,
+      "score": 405,
+      "comments": 259,
       "source": "security.apple.com"
     },
     {
-      "title": "EU chief opens door for Canada to become 'associate member'",
-      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-      "score": 11,
-      "comments": 0,
-      "source": "bbc.com"
+      "title": "Tell the speakers that you liked their talks",
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "score": 43,
+      "comments": 10,
+      "source": "ohhelloana.blog"
     },
     {
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "url": "https://inflightsimulator.com",
-      "score": 212,
-      "comments": 117,
-      "source": "inflightsimulator.com"
+      "title": "Can We Stop with the Uptime Percentages?",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "score": 4,
+      "comments": 0,
+      "source": "blog.jim-nielsen.com"
+    },
+    {
+      "title": "Douglas Adams and the exterminated Doctor Who adventure",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
+      "score": 55,
+      "comments": 36,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Anatomy of a Texture",
+      "url": "https://agentlien.github.io/texture/",
+      "score": 12,
+      "comments": 2,
+      "source": "agentlien.github.io"
+    },
+    {
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "url": "https://www.cloudx.ai/posts/setup-go",
+      "score": 38,
+      "comments": 4,
+      "source": "cloudx.ai"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "score": 151,
+      "comments": 41,
+      "source": "tomshardware.com"
     },
     {
       "title": "An update on Wayback Machine access",
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "score": 547,
-      "comments": 274,
+      "score": 633,
+      "comments": 339,
       "source": "blog.archive.org"
+    },
+    {
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "score": 32,
+      "comments": 37,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "score": 26,
+      "comments": 17,
+      "source": "stale.jock.pl"
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "url": "https://status.salesforce.com/products/all",
+      "score": 202,
+      "comments": 114,
+      "source": "status.salesforce.com"
+    },
+    {
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "score": 222,
+      "comments": 135,
+      "source": "frvr.com"
     },
     {
       "title": "Doing Everyone Else's Job",
       "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "score": 80,
-      "comments": 40,
+      "score": 166,
+      "comments": 76,
       "source": "yosefk.com"
+    },
+    {
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "score": 314,
+      "comments": 177,
+      "source": "inflightsimulator.com"
     },
     {
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "score": 424,
-      "comments": 274,
+      "score": 465,
+      "comments": 310,
       "source": "blog.google"
     },
     {
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "score": 335,
-      "comments": 192,
-      "source": "codyho.dev"
-    },
-    {
-      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
       "score": 85,
-      "comments": 21,
-      "source": "blog.archive.org"
+      "comments": 22,
+      "source": "enclave.ai"
     },
     {
-      "title": "Tech Fascism Has Come for American Democracy",
-      "url": "https://techwontsave.us/episode/342_tech_fascism_has_come_for_american_democracy_w_gil_duran",
-      "score": 19,
-      "comments": 3,
-      "source": "techwontsave.us"
-    },
-    {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "score": 225,
-      "comments": 78,
-      "source": "rheinmetall.github.io"
-    },
-    {
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "score": 131,
-      "comments": 38,
-      "source": "nand2mario.github.io"
-    },
-    {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "score": 49,
-      "comments": 5,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "A software thing I built: GPS on a 25MHz 486-SX",
-      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-      "score": 30,
-      "comments": 7,
-      "source": "forum.vcfed.org"
+      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "score": 100,
+      "comments": 100,
+      "source": "openai.com"
     },
     {
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "score": 240,
-      "comments": 273,
+      "score": 358,
+      "comments": 453,
       "source": "dank.systems"
     },
     {
-      "title": "MartyPC \u2013 A Cycle-Accurate IBM PC/XT Emulator",
-      "url": "https://github.com/dbalsom/martypc",
-      "score": 18,
-      "comments": 2,
-      "source": "github.com"
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "score": 119,
+      "comments": 38,
+      "source": "arxiv.org"
     },
     {
-      "title": "We got admin access to Baseten's production GitHub",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "score": 285,
-      "comments": 159,
-      "source": "strix.ai"
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "score": 261,
+      "comments": 97,
+      "source": "rheinmetall.github.io"
     },
     {
-      "title": "Datamimic \u2013 don't let your coding agent invent its own test world",
-      "url": "https://github.com/rapiddweller/datamimic",
-      "score": 41,
-      "comments": 7,
-      "source": "github.com"
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+      "score": 60,
+      "comments": 19,
+      "source": "forum.vcfed.org"
     },
     {
-      "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
-      "url": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
-      "score": 5,
-      "comments": 0,
-      "source": "hyphanet.org"
-    },
-    {
-      "title": "Saving Jet Fuel",
-      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "score": 98,
-      "comments": 50,
-      "source": "tech.marksblogg.com"
-    },
-    {
-      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "score": 333,
-      "comments": 141,
-      "source": "withcapsule.app"
-    },
-    {
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "score": 400,
-      "comments": 417,
-      "source": "forbrukerradet.no"
-    },
-    {
-      "title": "Chopping up books when they're physically too big",
-      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "score": 182,
-      "comments": 170,
-      "source": "attainablefelicity.mattkirkland.com"
-    },
-    {
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "url": "https://mnoukhov.github.io/posts/ngu/",
-      "score": 97,
-      "comments": 5,
-      "source": "mnoukhov.github.io"
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "score": 496,
-      "comments": 440,
-      "source": "bbc.com"
-    },
-    {
-      "title": "The Beauty of Roundabouts",
-      "url": "https://gruhn.me/blog/2026-09-14/",
-      "score": 63,
-      "comments": 131,
-      "source": "gruhn.me"
-    },
-    {
-      "title": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "url": "https://github.com/GraafHenk/numberwang",
-      "score": 164,
-      "comments": 58,
-      "source": "github.com"
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "score": 166,
+      "comments": 49,
+      "source": "nand2mario.github.io"
     }
   ],
   "security": [
