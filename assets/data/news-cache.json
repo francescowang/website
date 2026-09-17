@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "score": 244,
+      "comments": 89,
+      "source": "global.fujitsu"
+    },
+    {
+      "title": "Rate limits on GitLab.com are changing",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "score": 26,
+      "comments": 11,
+      "source": "about.gitlab.com"
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "score": 17,
+      "comments": 2,
+      "source": "minimallysufficient.com"
+    },
+    {
       "title": "One Year of Sponsored Servo Development",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "score": 94,
-      "comments": 41,
+      "score": 271,
+      "comments": 114,
       "source": "servo.org"
     },
     {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "score": 64,
-      "comments": 36,
-      "source": "z.ai"
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "score": 17,
+      "comments": 8,
+      "source": "economist.com"
+    },
+    {
+      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+      "score": 15,
+      "comments": 14,
+      "source": "asiaai.fyi"
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "score": 199,
+      "comments": 54,
+      "source": "events.ccc.de"
     },
     {
       "title": "Nvidia announces native GPU programming in Rust",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "score": 711,
-      "comments": 291,
+      "score": 876,
+      "comments": 345,
       "source": "developer.nvidia.com"
-    },
-    {
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "url": "https://manticoresearch.com/blog/auto-chunking/",
-      "score": 7,
-      "comments": 0,
-      "source": "manticoresearch.com"
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "url": "https://ryan.science/blog/keys-not-included",
-      "score": 185,
-      "comments": 66,
-      "source": "ryan.science"
     },
     {
       "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
       "url": "https://jakeasmith.com/blog/http-build-url/",
-      "score": 128,
-      "comments": 25,
+      "score": 259,
+      "comments": 67,
       "source": "jakeasmith.com"
     },
     {
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "score": 43,
+      "comments": 21,
+      "source": "mysetup.ai"
+    },
+    {
+      "title": "CrowdSec Source Code Leak",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "score": 3,
+      "comments": 0,
+      "source": "crowdsec.net"
+    },
+    {
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
       "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "score": 58,
-      "comments": 20,
+      "score": 126,
+      "comments": 34,
       "source": "damtp.cam.ac.uk"
     },
     {
-      "title": "OpenAI Model Misalignment Report",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "score": 38,
-      "comments": 12,
-      "source": "openai.com"
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "score": 247,
+      "comments": 112,
+      "source": "ryan.science"
     },
     {
-      "title": "Online Z3 Guide",
-      "url": "https://microsoft.github.io/z3guide/",
-      "score": 11,
-      "comments": 1,
-      "source": "microsoft.github.io"
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "score": 228,
+      "comments": 189,
+      "source": "z.ai"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "score": 561,
-      "comments": 120,
-      "source": "rohanbansal.com"
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "score": 63,
+      "comments": 10,
+      "source": "manticoresearch.com"
     },
     {
       "title": "Lucasart's Afterlife",
       "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
-      "score": 29,
-      "comments": 17,
+      "score": 81,
+      "comments": 37,
       "source": "togameforlife.wordpress.com"
     },
     {
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "url": "https://mimo.xiaomi.com/rl/",
-      "score": 440,
-      "comments": 117,
+      "score": 513,
+      "comments": 146,
       "source": "mimo.xiaomi.com"
     },
     {
-      "title": "Comparison of Malloc() Algorithms",
-      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-      "score": 78,
-      "comments": 12,
-      "source": "egbert.net"
+      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+      "url": "https://flat.social",
+      "score": 72,
+      "comments": 44,
+      "source": "flat.social"
+    },
+    {
+      "title": "Online Z3 Guide",
+      "url": "https://microsoft.github.io/z3guide/",
+      "score": 52,
+      "comments": 14,
+      "source": "microsoft.github.io"
     },
     {
       "title": "Cloudflare/Security-Audit-Skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "score": 72,
-      "comments": 15,
+      "score": 158,
+      "comments": 32,
       "source": "github.com"
-    },
-    {
-      "title": "Small programming tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 531,
-      "comments": 239,
-      "source": "will-keleher.com"
-    },
-    {
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "score": 248,
-      "comments": 148,
-      "source": "filipovski.net"
-    },
-    {
-      "title": "Developing provably correct Rust code with Verus",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-      "score": 118,
-      "comments": 20,
-      "source": "amazon.science"
-    },
-    {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "score": 209,
-      "comments": 33,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "A 32-year-old bug walks into a Telnet server",
-      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-      "score": 64,
-      "comments": 27,
-      "source": "labs.watchtowr.com"
-    },
-    {
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-      "score": 211,
-      "comments": 83,
-      "source": "johnjwang.com"
-    },
-    {
-      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "score": 416,
-      "comments": 342,
-      "source": "wsj.com"
     },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "score": 2174,
-      "comments": 243,
+      "score": 2242,
+      "comments": 249,
       "source": "github.com"
     },
     {
-      "title": "Back to the future: modules for Guix packages (2022)",
-      "url": "https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/",
-      "score": 50,
-      "comments": 1,
-      "source": "hpc.guix.info"
+      "title": "Comparison of Malloc() Algorithms",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "score": 118,
+      "comments": 31,
+      "source": "egbert.net"
+    },
+    {
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "score": 312,
+      "comments": 187,
+      "source": "filipovski.net"
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "score": 231,
+      "comments": 37,
+      "source": "arxiv.org"
     },
     {
       "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
       "url": "https://harnesstax.github.io/",
-      "score": 136,
-      "comments": 55,
+      "score": 201,
+      "comments": 75,
       "source": "harnesstax.github.io"
     },
     {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "score": 99,
-      "comments": 66,
-      "source": "gcaptain.com"
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "score": 146,
+      "comments": 42,
+      "source": "amazon.science"
     },
     {
-      "title": "PCB is brought to you by Fable 5",
-      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-      "score": 112,
-      "comments": 53,
-      "source": "a6mzero.com"
+      "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+      "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
+      "score": 4,
+      "comments": 1,
+      "source": "guides.visual-paradigm.com"
     },
     {
-      "title": "Performance Improvements in .NET 11",
-      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-      "score": 295,
-      "comments": 65,
-      "source": "devblogs.microsoft.com"
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "score": 59,
+      "comments": 16,
+      "source": "alignment.openai.com"
     },
     {
-      "title": "Japan's book scene is moving from bookstores to libraries",
-      "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-      "score": 197,
-      "comments": 80,
-      "source": "untranslatedjp.substack.com"
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "score": 255,
+      "comments": 102,
+      "source": "johnjwang.com"
     },
     {
-      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "score": 142,
-      "comments": 64,
-      "source": "openspec.dev"
-    },
-    {
-      "title": "Reversing Factorio's RNG",
-      "url": "https://gegell.github.io/posts/factorio-rng/",
-      "score": 212,
-      "comments": 35,
-      "source": "gegell.github.io"
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 650,
+      "comments": 130,
+      "source": "rohanbansal.com"
     }
   ],
   "security": [
