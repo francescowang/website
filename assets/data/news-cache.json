@@ -3,93 +3,170 @@
     {
       "title": "Astra for Law",
       "url": "https://openai.com/index/astra-for-law/",
-      "score": 66,
-      "comments": 46,
+      "score": 358,
+      "comments": 388,
       "source": "openai.com"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 266,
+      "comments": 84,
+      "source": "prismml.com"
+    },
+    {
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "score": 330,
+      "comments": 168,
+      "source": "bend-lang.com"
     },
     {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "url": "https://github.com/asciimoo/hister",
-      "score": 312,
-      "comments": 106,
+      "score": 496,
+      "comments": 139,
       "source": "github.com"
-    },
-    {
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "score": 446,
-      "comments": 160,
-      "source": "global.fujitsu"
     },
     {
       "title": "Wax motor",
       "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "score": 96,
-      "comments": 15,
+      "score": 271,
+      "comments": 54,
       "source": "en.wikipedia.org"
     },
     {
-      "title": "Bend",
-      "url": "https://bend-lang.com/",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "score": 525,
+      "comments": 200,
+      "source": "global.fujitsu"
+    },
+    {
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "score": 53,
+      "comments": 11,
+      "source": "qwen.ai"
+    },
+    {
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
       "score": 15,
-      "comments": 0,
-      "source": "bend-lang.com"
+      "comments": 4,
+      "source": "netnod.se"
+    },
+    {
+      "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
+      "url": "https://flet.dev/",
+      "score": 67,
+      "comments": 36,
+      "source": "flet.dev"
+    },
+    {
+      "title": "Better Icon and Label Alignment",
+      "url": "https://ishadeed.com/article/aligning-list-icons/",
+      "score": 6,
+      "comments": 2,
+      "source": "ishadeed.com"
+    },
+    {
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "score": 35,
+      "comments": 25,
+      "source": "sci.news"
+    },
+    {
+      "title": "The most important product decision is what you don't build",
+      "url": "https://liamnugent.me/posts/what-you-dont-build/",
+      "score": 57,
+      "comments": 19,
+      "source": "liamnugent.me"
     },
     {
       "title": "CrowdSec Source Code Leak",
       "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-      "score": 103,
-      "comments": 30,
+      "score": 135,
+      "comments": 42,
       "source": "crowdsec.net"
     },
     {
-      "title": "Rate limits on GitLab.com are changing",
-      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-      "score": 120,
-      "comments": 96,
-      "source": "about.gitlab.com"
+      "title": "I Put Nam A2-Lite Inside an iRig HD X",
+      "url": "https://playtaurus.com/blog/i-put-nam-a2-lite-inside-an-irig-hd-x",
+      "score": 17,
+      "comments": 2,
+      "source": "playtaurus.com"
     },
     {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "score": 63,
-      "comments": 17,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Everybody's Lost Their Minds",
-      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "score": 75,
-      "comments": 21,
-      "source": "netmeister.org"
-    },
-    {
-      "title": "TSMC revealing details about next gen A14 node",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "title": "How Uber Protects Against Retry Storms",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
       "score": 51,
-      "comments": 17,
-      "source": "iedm26.mapyourshow.com"
+      "comments": 25,
+      "source": "uber.com"
     },
     {
       "title": "Why I didn\u2019t sign the Fields medallists\u2019 letter",
       "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-      "score": 166,
-      "comments": 214,
+      "score": 221,
+      "comments": 316,
       "source": "gowers.wordpress.com"
+    },
+    {
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "score": 120,
+      "comments": 35,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
+      "url": "https://github.com/aardappel/goose/tree/master",
+      "score": 43,
+      "comments": 41,
+      "source": "github.com"
+    },
+    {
+      "title": "Rate limits on GitLab.com are changing",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "score": 160,
+      "comments": 107,
+      "source": "about.gitlab.com"
+    },
+    {
+      "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+      "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+      "score": 89,
+      "comments": 61,
+      "source": "mathoverflow.net"
+    },
+    {
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+      "score": 147,
+      "comments": 138,
+      "source": "bbc.com"
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "score": 343,
+      "comments": 181,
+      "source": "events.ccc.de"
     },
     {
       "title": "The American Religion of Self-Storage Facilities",
       "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-      "score": 142,
-      "comments": 237,
+      "score": 201,
+      "comments": 348,
       "source": "newyorker.com"
     },
     {
-      "title": "Andr\u00e9 Weil and the Hodge Conjecture",
-      "url": "https://jiahao116.github.io/Articles/",
-      "score": 14,
-      "comments": 3,
-      "source": "jiahao116.github.io"
+      "title": "TSMC revealing details about next gen A14 node",
+      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "score": 99,
+      "comments": 37,
+      "source": "iedm26.mapyourshow.com"
     },
     {
       "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
@@ -99,112 +176,41 @@
       "source": "zscc.ai"
     },
     {
-      "title": "How GLM built its own inference infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "score": 330,
-      "comments": 246,
-      "source": "z.ai"
+      "title": "Ask A Monk \u2013 A digital wilderness for thoughts with no immediate answer",
+      "url": "https://askamonk.online",
+      "score": 3,
+      "comments": 0,
+      "source": "askamonk.online"
     },
     {
-      "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
-      "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
-      "score": 46,
-      "comments": 10,
-      "source": "vhaudiquet.fr"
+      "title": "Landing the Space Shuttle \u2013 A Flying Machine and the Thrill of a Lifetime",
+      "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
+      "score": 27,
+      "comments": 6,
+      "source": "inspire.eaa.org"
     },
     {
-      "title": "One year of sponsored Servo development",
-      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "score": 329,
-      "comments": 133,
-      "source": "servo.org"
+      "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+      "url": "https://snapdrop.me",
+      "score": 30,
+      "comments": 22,
+      "source": "snapdrop.me"
     },
     {
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
-      "score": 147,
-      "comments": 76,
+      "score": 198,
+      "comments": 106,
       "source": "mysetup.ai"
-    },
-    {
-      "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-      "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-      "score": 29,
-      "comments": 10,
-      "source": "mathoverflow.net"
-    },
-    {
-      "title": "CCC invites all model citizens to 40C3",
-      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "score": 298,
-      "comments": 156,
-      "source": "events.ccc.de"
-    },
-    {
-      "title": "Vibe Coding is the new Internet Dating?",
-      "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-      "score": 43,
-      "comments": 78,
-      "source": "joecmarshall.com"
-    },
-    {
-      "title": "Grand MS-DOS Gaming General MIDI Showdown",
-      "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-      "score": 70,
-      "comments": 8,
-      "source": "blog.johnnovak.net"
-    },
-    {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "score": 162,
-      "comments": 116,
-      "source": "gcaptain.com"
-    },
-    {
-      "title": "Don't Just Say Hello",
-      "url": "https://nohello.net/en/",
-      "score": 46,
-      "comments": 28,
-      "source": "nohello.net"
-    },
-    {
-      "title": "Don't Make Job Referrals Public",
-      "url": "https://blog.melashri.net/micro/public-job-referral/",
-      "score": 17,
-      "comments": 11,
-      "source": "blog.melashri.net"
-    },
-    {
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "score": 79,
-      "comments": 16,
-      "source": "minimallysufficient.com"
-    },
-    {
-      "title": "Canto: A speech model built for the real world",
-      "url": "https://wisprflow.ai/canto",
-      "score": 12,
-      "comments": 5,
-      "source": "wisprflow.ai"
-    },
-    {
-      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-      "url": "https://jakeasmith.com/blog/http-build-url/",
-      "score": 313,
-      "comments": 89,
-      "source": "jakeasmith.com"
-    },
-    {
-      "title": "Show HN: Craigslist for agent skills, curated by a human",
-      "url": "https://skillbay.sh/",
-      "score": 13,
-      "comments": 13,
-      "source": "skillbay.sh"
     }
   ],
   "security": [
+    {
+      "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
+      "url": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud/",
+      "date": "2026-09-17 21:19:20",
+      "author": "Marta Taggart"
+    },
     {
       "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
       "url": "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud/",
@@ -258,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "date": "2026-09-03 21:15:39",
       "author": "Oscar Diaz"
-    },
-    {
-      "title": "Managing identity source transition for AWS IAM Identity Center",
-      "url": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
-      "date": "2026-09-02 20:36:31",
-      "author": "Xiaoxue Xu"
     }
   ]
 }
