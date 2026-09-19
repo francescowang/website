@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Laya the open source version of Jev",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
-      "score": 365,
-      "comments": 78,
+      "score": 835,
+      "comments": 207,
       "source": "laya.convaiinnovations.com"
-    },
-    {
-      "title": "What Zig felt like, coming from Rust",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "score": 58,
-      "comments": 38,
-      "source": "besok.github.io"
-    },
-    {
-      "title": "A graphical desktop for the ZX Spectrum",
-      "url": "https://github.com/mindbox77/zxdesk",
-      "score": 28,
-      "comments": 7,
-      "source": "github.com"
     },
     {
       "title": "AI-generated posters don\u2019t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 613,
-      "comments": 367,
+      "score": 1064,
+      "comments": 598,
       "source": "john.hartnup.uk"
     },
     {
-      "title": "Tin: full-text search for Postgres",
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "score": 37,
-      "comments": 3,
-      "source": "planetscale.com"
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "score": 42,
+      "comments": 28,
+      "source": "bartosz.fenski.pl"
     },
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 441,
-      "comments": 163,
+      "score": 572,
+      "comments": 208,
       "source": "med.stanford.edu"
     },
     {
-      "title": "\u201cThe Secret Life of Circuits\u201d is here",
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "score": 118,
+      "comments": 89,
+      "source": "github.com"
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "score": 137,
+      "comments": 61,
+      "source": "planetscale.com"
+    },
+    {
+      "title": "Suzanne Ciani's Buchla Cookbook",
+      "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+      "score": 24,
+      "comments": 8,
+      "source": "echo.orpheusinstituut.be"
+    },
+    {
+      "title": "The Secret Life of Circuits",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "score": 160,
-      "comments": 37,
+      "score": 242,
+      "comments": 62,
       "source": "blog.coredump.cx"
     },
     {
-      "title": "Asking Authors About Their Own Papers",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "score": 26,
-      "comments": 6,
-      "source": "medium.com"
+      "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+      "url": "https://ufoseries.com/",
+      "score": 9,
+      "comments": 1,
+      "source": "ufoseries.com"
+    },
+    {
+      "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "score": 15,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 951,
-      "comments": 520,
+      "score": 1056,
+      "comments": 615,
       "source": "grapheneos.social"
+    },
+    {
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "url": "https://supabase.link/orioledbjob",
+      "score": 1,
+      "comments": 0,
+      "source": "supabase.link"
     },
     {
       "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
       "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "score": 24,
-      "comments": 6,
+      "score": 74,
+      "comments": 31,
       "source": "quantamagazine.org"
     },
     {
-      "title": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "score": 275,
-      "comments": 93,
-      "source": "onionfutures.com"
+      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "url": "https://www.nature.com/articles/d41586-026-02621-2",
+      "score": 66,
+      "comments": 20,
+      "source": "nature.com"
+    },
+    {
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "score": 3,
+      "comments": 1,
+      "source": "bw.swerdlow.dev"
     },
     {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 226,
-      "comments": 120,
+      "score": 302,
+      "comments": 152,
       "source": "prinzai.com"
     },
     {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 209,
-      "comments": 169,
-      "source": "terrytao.wordpress.com"
+      "title": "Adventures in Microcontroller Circuit Debugging",
+      "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
+      "score": 19,
+      "comments": 1,
+      "source": "bigmessowires.com"
     },
     {
-      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-      "score": 23,
-      "comments": 9,
-      "source": "theconversation.com"
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "score": 102,
+      "comments": 64,
+      "source": "erichgrunewald.substack.com"
     },
     {
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 766,
-      "comments": 299,
-      "source": "try.cloudflare.com"
-    },
-    {
-      "title": "Communication by means of modulated Johnson noise",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
-      "score": 35,
-      "comments": 16,
-      "source": "pnas.org"
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "score": 329,
+      "comments": 141,
+      "source": "onionfutures.com"
     },
     {
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 546,
-      "comments": 358,
+      "score": 590,
+      "comments": 368,
       "source": "sockpuppet.org"
     },
     {
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "score": 89,
-      "comments": 23,
-      "source": "tigrisdata.com"
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 793,
+      "comments": 303,
+      "source": "try.cloudflare.com"
     },
     {
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
-      "score": 33,
-      "comments": 5,
-      "source": "bsky.app"
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "score": 265,
+      "comments": 222,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "score": 145,
+      "comments": 170,
+      "source": "besok.github.io"
     },
     {
       "title": "Saving another 100TB of RAM",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 406,
-      "comments": 87,
+      "score": 440,
+      "comments": 98,
       "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "score": 120,
+      "comments": 30,
+      "source": "tigrisdata.com"
+    },
+    {
+      "title": "Communication by means of modulated Johnson noise",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "score": 50,
+      "comments": 25,
+      "source": "pnas.org"
+    },
+    {
+      "title": "Asking Authors About Their Own Papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "score": 101,
+      "comments": 57,
+      "source": "medium.com"
     },
     {
       "title": "SDCC \u2013 Small Device C Compiler",
       "url": "https://sdcc.sourceforge.net/",
-      "score": 107,
-      "comments": 22,
+      "score": 118,
+      "comments": 28,
       "source": "sdcc.sourceforge.net"
     },
     {
       "title": "Science Is Open Software",
       "url": "https://jepedersen.dk/blog/202505_research/",
-      "score": 127,
-      "comments": 47,
+      "score": 146,
+      "comments": 64,
       "source": "jepedersen.dk"
-    },
-    {
-      "title": "From Stonemasons to Carpenters",
-      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
-      "score": 32,
-      "comments": 4,
-      "source": "thelastsoftwareengineer.substack.com"
-    },
-    {
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "score": 112,
-      "comments": 44,
-      "source": "rust-glancer.github.io"
-    },
-    {
-      "title": "Ray Ozzie and the Optimism of Being Early",
-      "url": "https://reproof.app/blog/lotus-notes-history",
-      "score": 10,
-      "comments": 5,
-      "source": "reproof.app"
-    },
-    {
-      "title": "Ctenophores: Wonders of Biology",
-      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "score": 48,
-      "comments": 6,
-      "source": "quantamagazine.org"
     },
     {
       "title": "The first new cat species discovered in 100 years",
       "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "score": 311,
-      "comments": 119,
+      "score": 352,
+      "comments": 134,
       "source": "nationalgeographic.com"
-    },
-    {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "score": 47,
-      "comments": 5,
-      "source": "newsroom.usra.edu"
-    },
-    {
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "score": 658,
-      "comments": 276,
-      "source": "openjev.com"
-    },
-    {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 167,
-      "comments": 115,
-      "source": "spectrum.ieee.org"
     }
   ],
   "security": [
