@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "score": 186,
+      "comments": 55,
+      "source": "nobodywho.ai"
+    },
+    {
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1252,
-      "comments": 631,
+      "score": 1553,
+      "comments": 747,
       "source": "openai.com"
     },
     {
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1273,
-      "comments": 848,
+      "score": 1564,
+      "comments": 971,
       "source": "anthropic.com"
     },
     {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-      "score": 15,
-      "comments": 9,
-      "source": "bbc.com"
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "score": 458,
-      "comments": 321,
-      "source": "404media.co"
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "score": 145,
+      "comments": 153,
+      "source": "waymo.com"
     },
     {
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 583,
-      "comments": 364,
+      "score": 664,
+      "comments": 387,
       "source": "cryptocellar.org"
     },
     {
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
-      "score": 207,
-      "comments": 142,
+      "score": 329,
+      "comments": 190,
       "source": "foxscript.org"
+    },
+    {
+      "title": "Data-only attacks are easier than you think (2024)",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "score": 53,
+      "comments": 21,
+      "source": "usenix.org"
+    },
+    {
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "score": 620,
+      "comments": 450,
+      "source": "404media.co"
     },
     {
       "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
       "url": "https://github.com/xCuri0/ReBarUEFI",
-      "score": 85,
-      "comments": 25,
+      "score": 161,
+      "comments": 49,
+      "source": "github.com"
+    },
+    {
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "score": 346,
+      "comments": 135,
+      "source": "lemire.me"
+    },
+    {
+      "title": "Show HN: Npunlock \u2013 Run custom C kernels for Intel NPUs",
+      "url": "https://github.com/hsfzxjy/npunlock",
+      "score": 27,
+      "comments": 7,
       "source": "github.com"
     },
     {
       "title": "What California is learning from solar panels built over irrigation canals",
       "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "score": 137,
-      "comments": 208,
+      "score": 221,
+      "comments": 395,
       "source": "kqed.org"
     },
     {
       "title": "SAML: A fractal of bad design",
       "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "score": 176,
-      "comments": 101,
+      "score": 249,
+      "comments": 141,
       "source": "blog.trailofbits.com"
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "score": 245,
-      "comments": 76,
+      "score": 293,
+      "comments": 92,
       "source": "artificialanalysis.ai"
     },
     {
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "score": 162,
-      "comments": 84,
+      "score": 193,
+      "comments": 100,
       "source": "github.com"
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "score": 474,
-      "comments": 243,
+      "score": 669,
+      "comments": 344,
       "source": "bloomberg.com"
     },
     {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "score": 236,
-      "comments": 90,
-      "source": "lemire.me"
-    },
-    {
-      "title": "MUNI Heritage Weekend in San Francisco",
-      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-      "score": 172,
-      "comments": 44,
-      "source": "daniel.lawrence.lu"
-    },
-    {
-      "title": "The Softness of Metal",
-      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
-      "score": 5,
-      "comments": 1,
-      "source": "psyche.co"
-    },
-    {
-      "title": "Side-stepping the Secretary Problem, unwittingly",
-      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
-      "score": 57,
-      "comments": 8,
-      "source": "evalapply.org"
-    },
-    {
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "score": 270,
-      "comments": 195,
-      "source": "arcturus-labs.com"
-    },
-    {
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "score": 55,
-      "comments": 17,
-      "source": "interconnects.ai"
-    },
-    {
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "score": 74,
-      "comments": 19,
-      "source": "benchmarkheaven.com"
-    },
-    {
-      "title": "People hooked on vapes try a new way to quit: cigarettes",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
-      "score": 124,
-      "comments": 123,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Native apps written in TypeScript and CSS",
-      "url": "https://github.com/geastack/examples",
-      "score": 89,
-      "comments": 34,
-      "source": "github.com"
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "score": 34,
+      "comments": 14,
+      "source": "pewresearch.org"
     },
     {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "score": 143,
-      "comments": 85,
+      "score": 190,
+      "comments": 107,
       "source": "unreallabs.ai"
     },
     {
-      "title": "George Lucas Returns to Earth, Bearing Gifts",
-      "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
-      "score": 91,
-      "comments": 45,
-      "source": "commonedge.org"
+      "title": "People hooked on vapes try a new way to quit: cigarettes",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+      "score": 192,
+      "comments": 217,
+      "source": "bloomberg.com"
     },
     {
-      "title": "Markdown in /src",
-      "url": "https://htmx.org/essays/markdown-in-src/",
-      "score": 98,
-      "comments": 47,
-      "source": "htmx.org"
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "score": 92,
+      "comments": 33,
+      "source": "interconnects.ai"
+    },
+    {
+      "title": "How often do you think about the 1893 World's Fair?",
+      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "score": 21,
+      "comments": 6,
+      "source": "thebirthofacapital.info"
+    },
+    {
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "score": 168,
+      "comments": 49,
+      "source": "reddit.com"
+    },
+    {
+      "title": "The softness of metal",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "score": 35,
+      "comments": 12,
+      "source": "psyche.co"
     },
     {
       "title": "Obscura: VPN that can't log your activity",
       "url": "https://obscura.com/#faq-technical",
-      "score": 88,
-      "comments": 75,
+      "score": 143,
+      "comments": 111,
       "source": "obscura.com"
     },
     {
-      "title": "Can gzip be a language model?",
-      "url": "https://nathan.rs/posts/gzip-lm/",
-      "score": 378,
-      "comments": 148,
-      "source": "nathan.rs"
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 295,
+      "comments": 208,
+      "source": "arcturus-labs.com"
     },
     {
-      "title": "16-bit Intel 8088 chip (c. 1985)",
-      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
-      "score": 112,
-      "comments": 14,
-      "source": "allpoetry.com"
+      "title": "I am done with this shit",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
+      "score": 30,
+      "comments": 4,
+      "source": "reddit.com"
+    },
+    {
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "score": 110,
+      "comments": 28,
+      "source": "benchmarkheaven.com"
+    },
+    {
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "score": 83,
+      "comments": 13,
+      "source": "evalapply.org"
     },
     {
       "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
       "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-      "score": 637,
-      "comments": 463,
+      "score": 726,
+      "comments": 532,
       "source": "techradar.com"
     },
     {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "score": 48,
-      "comments": 9,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The UV index is not the warm sensation of sunlight on bare skin",
-      "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-      "score": 71,
-      "comments": 60,
-      "source": "blog.asciitweezers.com"
+      "title": "Markdown in /src",
+      "url": "https://htmx.org/essays/markdown-in-src/",
+      "score": 138,
+      "comments": 77,
+      "source": "htmx.org"
     }
   ],
   "security": [
