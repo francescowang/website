@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+      "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 192,
-      "comments": 50,
+      "score": 708,
+      "comments": 202,
       "source": "f-droid.org"
     },
     {
-      "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
-      "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
-      "score": 77,
-      "comments": 24,
-      "source": "blog.madhukaraphatak.in"
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 262,
+      "comments": 41,
+      "source": "bastardica.mitpit.com"
     },
     {
-      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
-      "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
-      "score": 62,
-      "comments": 11,
-      "source": "jgeekstudies.org"
+      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 130,
+      "comments": 51,
+      "source": "github.com"
     },
     {
-      "title": "Enjoy Every Sandwich",
-      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
-      "score": 118,
-      "comments": 48,
-      "source": "bradmontague.substack.com"
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "score": 114,
+      "comments": 18,
+      "source": "linebender.org"
     },
     {
-      "title": "Nokia Design Archive (2025)",
-      "url": "https://nokiadesignarchive.aalto.fi/index.html",
-      "score": 163,
-      "comments": 85,
-      "source": "nokiadesignarchive.aalto.fi"
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "score": 151,
+      "comments": 144,
+      "source": "youtube.com"
     },
     {
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "score": 86,
-      "comments": 79,
-      "source": "arstechnica.com"
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "score": 131,
+      "comments": 49,
+      "source": "ahmedhossamdev.com"
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 560,
-      "comments": 232,
-      "source": "qualcomm.com"
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "score": 26,
+      "comments": 4,
+      "source": "resobscura.substack.com"
     },
     {
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "score": 307,
-      "comments": 358,
-      "source": "lwn.net"
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 123,
+      "comments": 92,
+      "source": "dynomight.substack.com"
     },
     {
-      "title": "I Have a Confession: I Built This Site with AI \u2013 Please Forgive Me",
-      "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-      "score": 4,
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "score": 59,
+      "comments": 14,
+      "source": "ahelwer.ca"
+    },
+    {
+      "title": "The forgotten battle of East Lansing",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "score": 65,
+      "comments": 8,
+      "source": "eastlansinginfo.news"
+    },
+    {
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "url": "https://www.usestable.com/careers/product-engineer",
+      "score": 1,
       "comments": 0,
-      "source": "dynamicallytyped.org"
+      "source": "usestable.com"
     },
     {
-      "title": "QR Codes That Route to the Appropriate App Store",
-      "url": "https://matthuggins.com/blog/posts/qr-codes-that-route-to-the-appropriate-app-store",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "score": 19,
+      "comments": 1,
+      "source": "blog.arusekk.pl"
+    },
+    {
+      "title": "Board Game of the Alpha Nerds (2014)",
+      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
       "score": 5,
-      "comments": 0,
-      "source": "matthuggins.com"
+      "comments": 1,
+      "source": "grantland.com"
     },
     {
-      "title": "GitHub has not removed malicious imitation software after 3 weeks",
-      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-      "score": 7,
-      "comments": 0,
-      "source": "successfulsoftware.net"
-    },
-    {
-      "title": "What Is RLCD? The Secret Behind Jev",
-      "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
-      "score": 27,
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "score": 6,
       "comments": 2,
-      "source": "di-zhang-llm.github.io"
+      "source": "launchvideo.io"
     },
     {
-      "title": "RAM: the forgotten history (2024)",
-      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-      "score": 87,
-      "comments": 2,
-      "source": "blog.coredump.cx"
+      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "score": 55,
+      "comments": 100,
+      "source": "blog.google"
     },
     {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 273,
-      "comments": 35,
-      "source": "blog.arxiv.org"
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "score": 36,
+      "comments": 5,
+      "source": "eprint.iacr.org"
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 332,
+      "comments": 345,
+      "source": "macanorak.com"
+    },
+    {
+      "title": "Geothermal heat map of US hot springs",
+      "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "score": 56,
+      "comments": 20,
+      "source": "soakingsprings.com"
     },
     {
       "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
       "url": "https://github.com/christianrowlands/wavedigger",
-      "score": 6,
+      "score": 74,
+      "comments": 11,
+      "source": "github.com"
+    },
+    {
+      "title": "A Million Agents Is a Distributed System Problem",
+      "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
+      "score": 24,
+      "comments": 5,
+      "source": "instacloud.com"
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "url": "https://github.com/pkimpel/retro-1620",
+      "score": 45,
+      "comments": 11,
+      "source": "github.com"
+    },
+    {
+      "title": "Creatine uptake enhances antitumor immunity",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "score": 118,
+      "comments": 148,
+      "source": "cell.com"
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "score": 218,
+      "comments": 197,
+      "source": "transluce.org"
+    },
+    {
+      "title": "Show HN: Treepeat \u2013\u00a0Code similarity detection using Tree-sitter",
+      "url": "https://github.com/dsummersl/treepeat",
+      "score": 37,
       "comments": 1,
       "source": "github.com"
     },
     {
-      "title": "When the Debugger Lies",
-      "url": "https://danielmangum.com/posts/when-the-debugger-lies/",
-      "score": 43,
-      "comments": 14,
-      "source": "danielmangum.com"
+      "title": "August 27 TCRF DDoS Attack Postmortem",
+      "url": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
+      "score": 10,
+      "comments": 1,
+      "source": "blog.xkeeper.net"
     },
     {
-      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-      "score": 144,
-      "comments": 59,
-      "source": "xda-developers.com"
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "score": 40,
+      "comments": 1,
+      "source": "blog.trailofbits.com"
     },
     {
-      "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
-      "score": 54,
-      "comments": 46,
-      "source": "tomshardware.com"
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "score": 6,
+      "comments": 0,
+      "source": "2dwillneverdie.com"
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 290,
-      "comments": 183,
-      "source": "fly.io"
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "score": 201,
+      "comments": 109,
+      "source": "repo.aalto.fi"
     },
     {
-      "title": "Best LLM for every budget, updated daily",
-      "url": "https://bestmodelforyourbudget.terrydjony.com/",
-      "score": 117,
-      "comments": 74,
-      "source": "bestmodelforyourbudget.terrydjony.com"
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "score": 529,
-      "comments": 309,
-      "source": "reddit.com"
-    },
-    {
-      "title": "Coulomb's law remains tricky to test at home",
-      "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
-      "score": 12,
-      "comments": 9,
-      "source": "chillphysicsenjoyer.substack.com"
-    },
-    {
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "score": 132,
-      "comments": 38,
-      "source": "contrastive-lm.notion.site"
-    },
-    {
-      "title": "The Year of Internal Tools",
-      "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
-      "score": 47,
-      "comments": 11,
-      "source": "geocod.io"
-    },
-    {
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "score": 205,
-      "comments": 42,
-      "source": "mini-itx.com"
-    },
-    {
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-      "score": 184,
-      "comments": 190,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Fixing the Portobello Police Station Clock",
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 502,
-      "comments": 111,
-      "source": "pointinthecloud.com"
-    },
-    {
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "score": 142,
-      "comments": 57,
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "score": 32,
+      "comments": 3,
       "source": "github.com"
     },
     {
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "score": 88,
-      "comments": 28,
-      "source": "medium.com"
-    },
-    {
-      "title": "Two-Tier Encryption in the UK \u2013 Identical Apple Devices, Different Protection",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "score": 219,
-      "comments": 214,
-      "source": "macanorak.com"
+      "title": "Motor Characterization for Small Running Robots (2016)",
+      "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+      "score": 19,
+      "comments": 0,
+      "source": "robot-daycare.com"
     }
   ],
   "security": [
