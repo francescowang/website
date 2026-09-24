@@ -1,217 +1,223 @@
 {
   "tech": [
     {
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "score": 50,
+      "comments": 20,
+      "source": "nokiadesignarchive.aalto.fi"
+    },
+    {
       "title": "Linux support is coming to Snapdragon X2 Series",
       "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 191,
-      "comments": 87,
+      "score": 437,
+      "comments": 183,
       "source": "qualcomm.com"
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 532,
-      "comments": 559,
+      "score": 663,
+      "comments": 679,
       "source": "anthropic.com"
     },
     {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "score": 54,
-      "comments": 37,
-      "source": "kenklippenstein.com"
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "score": 155,
+      "comments": 147,
+      "source": "lwn.net"
     },
     {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 260,
-      "comments": 231,
-      "source": "meta.com"
+      "title": "RAM: the forgotten history (2024)",
+      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "score": 28,
+      "comments": 0,
+      "source": "blog.coredump.cx"
+    },
+    {
+      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+      "score": 44,
+      "comments": 8,
+      "source": "notesfrompoland.com"
+    },
+    {
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "score": 161,
+      "comments": 64,
+      "source": "reddit.com"
     },
     {
       "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
       "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 74,
-      "comments": 11,
+      "score": 194,
+      "comments": 22,
       "source": "blog.arxiv.org"
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "score": 143,
+      "comments": 117,
+      "source": "transluce.org"
+    },
+    {
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "score": 82,
+      "comments": 17,
+      "source": "contrastive-lm.notion.site"
     },
     {
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 143,
-      "comments": 93,
+      "score": 239,
+      "comments": 150,
       "source": "fly.io"
     },
     {
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
       "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "score": 16,
-      "comments": 12,
+      "score": 107,
+      "comments": 46,
       "source": "github.com"
     },
     {
       "title": "The \"Windows XP Box\" (2003)",
       "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "score": 68,
-      "comments": 10,
+      "score": 162,
+      "comments": 29,
       "source": "mini-itx.com"
+    },
+    {
+      "title": "Women Who Sold Books Door to Door",
+      "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+      "score": 29,
+      "comments": 0,
+      "source": "daily.jstor.org"
     },
     {
       "title": "Fixing the Portobello Police Station Clock",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 385,
-      "comments": 90,
+      "score": 455,
+      "comments": 102,
       "source": "pointinthecloud.com"
+    },
+    {
+      "title": "Why 'What's Opera, Doc?' looks like that",
+      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+      "score": 70,
+      "comments": 15,
+      "source": "animationobsessive.substack.com"
+    },
+    {
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "score": 77,
+      "comments": 39,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Making portable my unportable transputer C compiler",
+      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "score": 50,
+      "comments": 4,
+      "source": "nanochess.org"
+    },
+    {
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "score": 416,
+      "comments": 365,
+      "source": "meta.com"
     },
     {
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
       "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "score": 59,
-      "comments": 28,
+      "score": 113,
+      "comments": 66,
       "source": "artificialanalysis.ai"
     },
     {
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "url": "https://blog.cloudflare.com/vary-support/",
-      "score": 93,
-      "comments": 15,
-      "source": "blog.cloudflare.com"
+      "title": "Automated optimization of a molecular simulation program",
+      "url": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
+      "score": 3,
+      "comments": 0,
+      "source": "shishir-iyer.medium.com"
     },
     {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 612,
-      "comments": 396,
-      "source": "apnews.com"
-    },
-    {
-      "title": "FLAWED's Flaws and What This Means for Industry Research",
-      "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-      "score": 11,
-      "comments": 1,
-      "source": "suhacker.ai"
-    },
-    {
-      "title": "The mystery animal on an ancient god's head",
-      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "score": 65,
-      "comments": 19,
-      "source": "signoregalilei.com"
-    },
-    {
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
-      "score": 60,
-      "comments": 7,
-      "source": "huggingface.co"
+      "title": "Looks promising for document editing with your agent",
+      "url": "https://www.paperinstruments.com/blog/introducing-paper-office",
+      "score": 3,
+      "comments": 0,
+      "source": "paperinstruments.com"
     },
     {
       "title": "Making Tailscale Faster",
       "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "score": 90,
-      "comments": 40,
+      "score": 172,
+      "comments": 68,
       "source": "tailscale.com"
     },
     {
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "score": 114,
-      "comments": 52,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Show HN: Combinators in Array Languages",
-      "url": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
-      "score": 5,
-      "comments": 0,
-      "source": "blog.softwarewrighter.com"
-    },
-    {
-      "title": "Australia says OpenAI agent hacked into government website",
-      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-      "score": 26,
-      "comments": 14,
-      "source": "channelnewsasia.com"
-    },
-    {
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "url": "https://carbon.ms/self-hosted",
-      "score": 10,
-      "comments": 7,
-      "source": "carbon.ms"
+      "title": "The mystery animal on an ancient god's head",
+      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "score": 113,
+      "comments": 35,
+      "source": "signoregalilei.com"
     },
     {
       "title": "Solving for faster SHA-1 collision detection",
       "url": "https://sam.dev/blog/faster-sha1-collision-detection",
-      "score": 4,
-      "comments": 0,
+      "score": 43,
+      "comments": 9,
       "source": "sam.dev"
     },
     {
       "title": "Tokens too cheap to meter",
       "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "score": 246,
-      "comments": 183,
+      "score": 303,
+      "comments": 207,
       "source": "jyn.dev"
+    },
+    {
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "score": 146,
+      "comments": 85,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "score": 805,
+      "comments": 630,
+      "source": "apnews.com"
+    },
+    {
+      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+      "url": "https://carbon.ms/self-hosted",
+      "score": 39,
+      "comments": 17,
+      "source": "carbon.ms"
     },
     {
       "title": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "score": 261,
-      "comments": 124,
+      "score": 309,
+      "comments": 137,
       "source": "blog.google"
-    },
-    {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "score": 126,
-      "comments": 50,
-      "source": "radicle.dev"
-    },
-    {
-      "title": "The Curious Power of Punctuation",
-      "url": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
-      "score": 30,
-      "comments": 5,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "Augustofaces: Pareidolia Fine Art",
-      "url": "https://augusto.at/augustosfaces/",
-      "score": 19,
-      "comments": 1,
-      "source": "augusto.at"
-    },
-    {
-      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
-      "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-      "score": 44,
-      "comments": 12,
-      "source": "blog.matthewbrunelle.com"
-    },
-    {
-      "title": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "score": 370,
-      "comments": 200,
-      "source": "michaelheap.com"
-    },
-    {
-      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
-      "score": 15,
-      "comments": 0,
-      "source": "pnas.org"
-    },
-    {
-      "title": "Z80 REPL (2018)",
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "score": 149,
-      "comments": 18,
-      "source": "abagames.github.io"
     }
   ],
   "security": [
+    {
+      "title": "ICYMI: August 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/",
+      "date": "2026-09-23 23:07:36",
+      "author": "Rodolfo Brenes"
+    },
     {
       "title": "Supporting ASD\u2019s multi-factor authentication campaign: Why MFA matters more than ever",
       "url": "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/",
       "date": "2026-09-09 19:09:14",
       "author": "Anshumali Shrivastava"
-    },
-    {
-      "title": "OSPAR 2026 report now available with 167 services in scope",
-      "url": "https://aws.amazon.com/blogs/security/ospar-2026-report-now-available-with-167-services-in-scope/",
-      "date": "2026-09-04 18:13:04",
-      "author": "James Chang"
     }
   ]
 }
