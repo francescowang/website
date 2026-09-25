@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Platform-Independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "score": 189,
-      "comments": 67,
-      "source": "go.dev"
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 184,
+      "comments": 48,
+      "source": "ollaya.dev"
     },
     {
-      "title": "Jevmem \u2013 automatic project memory for Claude Code, built on Jev",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "score": 16,
-      "comments": 3,
-      "source": "github.com"
+      "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 55,
+      "comments": 34,
+      "source": "jev-pokemon.vercel.app"
+    },
+    {
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "score": 318,
+      "comments": 122,
+      "source": "go.dev"
     },
     {
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
       "url": "https://github.com/git-bug/git-bug",
-      "score": 162,
-      "comments": 44,
+      "score": 262,
+      "comments": 90,
       "source": "github.com"
     },
     {
       "title": "First Principles Thinking",
       "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "score": 56,
-      "comments": 21,
+      "score": 174,
+      "comments": 73,
       "source": "sunilsadasivan.com"
-    },
-    {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "score": 66,
-      "comments": 30,
-      "source": "washingtonsun.com"
-    },
-    {
-      "title": "Allow Carriers on Planes",
-      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-      "score": 132,
-      "comments": 135,
-      "source": "jefftk.com"
-    },
-    {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "score": 182,
-      "comments": 84,
-      "source": "nyaa.sh"
-    },
-    {
-      "title": "Ink and Switch Interactive Homepage",
-      "url": "https://www.inkandswitch.com/",
-      "score": 133,
-      "comments": 19,
-      "source": "inkandswitch.com"
     },
     {
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "score": 37,
-      "comments": 5,
+      "score": 300,
+      "comments": 483,
       "source": "cnbc.com"
     },
     {
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1379,
-      "comments": 396,
-      "source": "f-droid.org"
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 89,
+      "comments": 17,
+      "source": "youtube.com"
     },
     {
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "url": "https://www.dawo.community/en/",
-      "score": 778,
-      "comments": 441,
-      "source": "dawo.community"
+      "title": "Show HN: Make math automatic with Mathy",
+      "url": "https://gmays.com/making-math-automatic-with-mathy/",
+      "score": 42,
+      "comments": 3,
+      "source": "gmays.com"
     },
     {
-      "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 7,
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+      "score": 36,
+      "comments": 10,
+      "source": "cs.cmu.edu"
+    },
+    {
+      "title": "Bug: Border radius has infected VSCode editor",
+      "url": "https://github.com/microsoft/vscode/issues/338035",
+      "score": 30,
+      "comments": 12,
+      "source": "github.com"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 250,
+      "comments": 107,
+      "source": "nyaa.sh"
+    },
+    {
+      "title": "How video games inspire great UX (2019)",
+      "url": "https://jenson.org/games/",
+      "score": 56,
       "comments": 5,
-      "source": "quantamagazine.org"
+      "source": "jenson.org"
+    },
+    {
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special/",
+      "score": 65,
+      "comments": 27,
+      "source": "mouse.dev"
+    },
+    {
+      "title": "Ink and Switch interactive homepage",
+      "url": "https://www.inkandswitch.com/",
+      "score": 207,
+      "comments": 25,
+      "source": "inkandswitch.com"
+    },
+    {
+      "title": "Bwbach, My Guardian Goblin",
+      "url": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
+      "score": 13,
+      "comments": 6,
+      "source": "robertmay.photography"
+    },
+    {
+      "title": "Rising sea destroys homes, erases beaches in California",
+      "url": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+      "score": 15,
+      "comments": 11,
+      "source": "reuters.com"
     },
     {
       "title": "Factorio that you can touch",
       "url": "https://factorio.com/blog/post/fff-447",
-      "score": 87,
-      "comments": 9,
+      "score": 265,
+      "comments": 78,
       "source": "factorio.com"
-    },
-    {
-      "title": "Boards of Casio",
-      "url": "https://www.ambionix.com/blog/boards-of-casio/",
-      "score": 66,
-      "comments": 18,
-      "source": "ambionix.com"
-    },
-    {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 807,
-      "comments": 113,
-      "source": "bastardica.mitpit.com"
     },
     {
       "title": "Amiga Screens: A Primer",
       "url": "https://www.datagubbe.se/amscr/",
-      "score": 77,
-      "comments": 13,
+      "score": 110,
+      "comments": 30,
       "source": "datagubbe.se"
     },
     {
-      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-      "score": 90,
-      "comments": 23,
-      "source": "safateam.com"
+      "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+      "url": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+      "score": 36,
+      "comments": 10,
+      "source": "worldofreel.com"
+    },
+    {
+      "title": "A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf]",
+      "url": "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf",
+      "score": 8,
+      "comments": 1,
+      "source": "bgas.org.uk"
+    },
+    {
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "url": "https://www.doom-or-bloom.com",
+      "score": 37,
+      "comments": 29,
+      "source": "doom-or-bloom.com"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "score": 366,
-      "comments": 126,
+      "score": 388,
+      "comments": 128,
       "source": "github.com"
     },
     {
-      "title": "Special Projects (2016)",
-      "url": "https://openai.com/index/special-projects/",
-      "score": 62,
-      "comments": 36,
-      "source": "openai.com"
+      "title": "What happens when you analyze your favorite college football team like the CIA?",
+      "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+      "score": 15,
+      "comments": 9,
+      "source": "cultivatelabs.com"
     },
     {
-      "title": "The Test",
-      "url": "https://tante.cc/2026/09/24/the-test/",
-      "score": 95,
-      "comments": 24,
-      "source": "tante.cc"
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "score": 277,
+      "comments": 180,
+      "source": "jardo.dev"
+    },
+    {
+      "title": "Typst makes big strides",
+      "url": "https://lwn.net/Articles/1092993/",
+      "score": 65,
+      "comments": 9,
+      "source": "lwn.net"
     },
     {
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
-      "score": 506,
-      "comments": 257,
+      "score": 540,
+      "comments": 272,
       "source": "dynomight.substack.com"
     },
     {
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 294,
-      "comments": 73,
-      "source": "2dwillneverdie.com"
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "score": 106,
+      "comments": 27,
+      "source": "safateam.com"
     },
     {
-      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "score": 26,
-      "comments": 18,
-      "source": "bloomberg.com"
+      "title": "Boards of Casio",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/",
+      "score": 100,
+      "comments": 32,
+      "source": "ambionix.com"
+    },
+    {
+      "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+      "url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+      "score": 31,
+      "comments": 10,
+      "source": "theregister.com"
     },
     {
       "title": "Rails World 2026 Opening Keynote [video]",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 394,
-      "comments": 425,
+      "score": 420,
+      "comments": 467,
       "source": "youtube.com"
-    },
-    {
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 399,
-      "comments": 712,
-      "source": "electrek.co"
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "score": 350,
-      "comments": 195,
-      "source": "launchvideo.io"
-    },
-    {
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 291,
-      "comments": 47,
-      "source": "linebender.org"
-    },
-    {
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 387,
-      "comments": 171,
-      "source": "ahmedhossamdev.com"
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "score": 486,
-      "comments": 442,
-      "source": "macanorak.com"
-    },
-    {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "score": 154,
-      "comments": 35,
-      "source": "resobscura.substack.com"
     }
   ],
   "security": [
