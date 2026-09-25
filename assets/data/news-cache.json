@@ -3,72 +3,156 @@
     {
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 708,
-      "comments": 202,
+      "score": 993,
+      "comments": 270,
       "source": "f-droid.org"
     },
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
-      "score": 262,
-      "comments": 41,
+      "score": 516,
+      "comments": 73,
       "source": "bastardica.mitpit.com"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "score": 130,
-      "comments": 51,
+      "score": 220,
+      "comments": 85,
       "source": "github.com"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 290,
+      "comments": 164,
+      "source": "dynomight.substack.com"
+    },
+    {
+      "title": "Jev and System One Models: Calibration Beats Accuracy",
+      "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+      "score": 10,
+      "comments": 4,
+      "source": "kartikpansuriya.com"
+    },
+    {
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "score": 139,
+      "comments": 12,
+      "source": "2dwillneverdie.com"
     },
     {
       "title": "Fearless SIMD v1.0",
       "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 114,
-      "comments": 18,
+      "score": 205,
+      "comments": 32,
       "source": "linebender.org"
     },
     {
       "title": "Rails World 2026 Opening Keynote [video]",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 151,
-      "comments": 144,
+      "score": 261,
+      "comments": 278,
       "source": "youtube.com"
+    },
+    {
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "score": 250,
+      "comments": 414,
+      "source": "electrek.co"
     },
     {
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 131,
-      "comments": 49,
+      "score": 246,
+      "comments": 104,
       "source": "ahmedhossamdev.com"
     },
     {
       "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
       "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "score": 26,
-      "comments": 4,
+      "score": 91,
+      "comments": 14,
       "source": "resobscura.substack.com"
     },
     {
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 123,
-      "comments": 92,
-      "source": "dynomight.substack.com"
+      "title": "Writing Parquet files using Haskell",
+      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "score": 31,
+      "comments": 3,
+      "source": "datahaskell.org"
+    },
+    {
+      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "score": 135,
+      "comments": 237,
+      "source": "blog.google"
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 393,
+      "comments": 380,
+      "source": "macanorak.com"
+    },
+    {
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "score": 41,
+      "comments": 14,
+      "source": "cms-sfx-demo.apeleg.com"
+    },
+    {
+      "title": "California is chasing wealth that has feet",
+      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "score": 160,
+      "comments": 448,
+      "source": "blog.landeconomics.org"
+    },
+    {
+      "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "score": 142,
+      "comments": 38,
+      "source": "koi.rest"
     },
     {
       "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
       "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "score": 59,
-      "comments": 14,
+      "score": 98,
+      "comments": 27,
       "source": "ahelwer.ca"
     },
     {
-      "title": "The forgotten battle of East Lansing",
-      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "score": 65,
-      "comments": 8,
-      "source": "eastlansinginfo.news"
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "score": 87,
+      "comments": 12,
+      "source": "blog.arusekk.pl"
+    },
+    {
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "score": 14,
+      "comments": 0,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "score": 60,
+      "comments": 24,
+      "source": "grantland.com"
+    },
+    {
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "score": 74,
+      "comments": 7,
+      "source": "blog.trailofbits.com"
     },
     {
       "title": "Stable (YC W20) Is Hiring Product Engineers",
@@ -78,136 +162,52 @@
       "source": "usestable.com"
     },
     {
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "score": 19,
-      "comments": 1,
-      "source": "blog.arusekk.pl"
-    },
-    {
-      "title": "Board Game of the Alpha Nerds (2014)",
-      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "score": 5,
-      "comments": 1,
-      "source": "grantland.com"
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "score": 6,
-      "comments": 2,
-      "source": "launchvideo.io"
-    },
-    {
-      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "score": 55,
-      "comments": 100,
-      "source": "blog.google"
-    },
-    {
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "url": "https://eprint.iacr.org/2026/2131.pdf",
-      "score": 36,
-      "comments": 5,
-      "source": "eprint.iacr.org"
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "score": 332,
-      "comments": 345,
-      "source": "macanorak.com"
+      "title": "The forgotten battle of East Lansing",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "score": 84,
+      "comments": 14,
+      "source": "eastlansinginfo.news"
     },
     {
       "title": "Geothermal heat map of US hot springs",
       "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
-      "score": 56,
-      "comments": 20,
+      "score": 93,
+      "comments": 37,
       "source": "soakingsprings.com"
+    },
+    {
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "score": 52,
+      "comments": 9,
+      "source": "eprint.iacr.org"
     },
     {
       "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
       "url": "https://github.com/christianrowlands/wavedigger",
-      "score": 74,
-      "comments": 11,
+      "score": 96,
+      "comments": 19,
       "source": "github.com"
     },
     {
-      "title": "A Million Agents Is a Distributed System Problem",
-      "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
-      "score": 24,
-      "comments": 5,
-      "source": "instacloud.com"
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "score": 150,
+      "comments": 95,
+      "source": "launchvideo.io"
     },
     {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "url": "https://github.com/pkimpel/retro-1620",
-      "score": 45,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "Creatine uptake enhances antitumor immunity",
-      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
-      "score": 118,
-      "comments": 148,
-      "source": "cell.com"
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "score": 218,
-      "comments": 197,
-      "source": "transluce.org"
-    },
-    {
-      "title": "Show HN: Treepeat \u2013\u00a0Code similarity detection using Tree-sitter",
-      "url": "https://github.com/dsummersl/treepeat",
-      "score": 37,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "August 27 TCRF DDoS Attack Postmortem",
-      "url": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
-      "score": 10,
-      "comments": 1,
-      "source": "blog.xkeeper.net"
-    },
-    {
-      "title": "Security auditing in the age of (good enough) AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "score": 40,
-      "comments": 1,
-      "source": "blog.trailofbits.com"
-    },
-    {
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 6,
-      "comments": 0,
-      "source": "2dwillneverdie.com"
-    },
-    {
-      "title": "Nokia Design Archive (2025)",
-      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "score": 201,
-      "comments": 109,
-      "source": "repo.aalto.fi"
-    },
-    {
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "url": "https://github.com/Parcha-ai/agentrun",
-      "score": 32,
-      "comments": 3,
-      "source": "github.com"
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "score": 85,
+      "comments": 149,
+      "source": "afr.com"
     },
     {
       "title": "Motor Characterization for Small Running Robots (2016)",
       "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-      "score": 19,
-      "comments": 0,
+      "score": 30,
+      "comments": 1,
       "source": "robot-daycare.com"
     }
   ],
