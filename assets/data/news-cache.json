@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "score": 354,
-      "comments": 136,
-      "source": "gultsch.de"
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 224,
+      "comments": 104,
+      "source": "github.com"
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "score": 70,
+      "comments": 23,
+      "source": "tangled.org"
+    },
+    {
+      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "score": 58,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "score": 45,
+      "comments": 10,
+      "source": "movingimagearchive.com"
+    },
+    {
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "score": 78,
+      "comments": 4,
+      "source": "jia.je"
     },
     {
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 179,
-      "comments": 25,
+      "score": 297,
+      "comments": 64,
       "source": "lexontech.org"
     },
     {
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-      "score": 8,
-      "comments": 4,
-      "source": "economist.com"
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "url": "https://castle-engine.io/modern_pascal",
+      "score": 110,
+      "comments": 37,
+      "source": "castle-engine.io"
     },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 592,
-      "comments": 381,
+      "score": 671,
+      "comments": 430,
       "source": "swarmtraces.org"
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers \u2013 Castle Game Engine",
-      "url": "https://castle-engine.io/modern_pascal",
-      "score": 46,
-      "comments": 19,
-      "source": "castle-engine.io"
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
       "score": 13,
       "comments": 4,
-      "source": "blog.priyan.in"
+      "source": "arxiv.org"
     },
     {
       "title": "We're gonna need a lot more mathematicians",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "score": 242,
-      "comments": 338,
+      "score": 324,
+      "comments": 428,
       "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "score": 42,
+      "comments": 30,
+      "source": "blog.priyan.in"
+    },
+    {
+      "title": "The Rise of Audio AR",
+      "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+      "score": 15,
+      "comments": 2,
+      "source": "dbreunig.com"
+    },
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "score": 582,
+      "comments": 225,
+      "source": "gultsch.de"
     },
     {
       "title": "Reflections on 1,000 Days of Math",
       "url": "https://gmays.com/reflections-on-1000-days-of-math/",
-      "score": 15,
-      "comments": 4,
+      "score": 68,
+      "comments": 29,
       "source": "gmays.com"
     },
     {
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 441,
-      "comments": 401,
+      "score": 521,
+      "comments": 452,
       "source": "aymannadeem.com"
     },
     {
-      "title": "Floci: Locally emulating any cloud service",
-      "url": "https://floci.io",
-      "score": 93,
-      "comments": 15,
-      "source": "floci.io"
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "score": 104,
+      "comments": 153,
+      "source": "discourse.haskell.org"
     },
     {
-      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 526,
-      "comments": 128,
-      "source": "ollaya.dev"
-    },
-    {
-      "title": "Is your Postgres migration safe or not safe?",
-      "url": "https://safenotsafe.dev/",
-      "score": 87,
-      "comments": 27,
-      "source": "safenotsafe.dev"
-    },
-    {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "score": 111,
-      "comments": 30,
-      "source": "allanrbo.blogspot.com"
-    },
-    {
-      "title": "Earth is tearing apart beneath the Pacific Northwest",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-      "score": 22,
-      "comments": 7,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "16GB iPod Nano 3G Upgrade",
-      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "score": 84,
-      "comments": 9,
-      "source": "tuckerosman.com"
-    },
-    {
-      "title": "Show HN: Jev Plays Pok\u00e9mon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "score": 229,
-      "comments": 93,
-      "source": "jev-pokemon.vercel.app"
-    },
-    {
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "score": 58,
-      "comments": 10,
-      "source": "jointhefreeworld.org"
-    },
-    {
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 245,
-      "comments": 357,
-      "source": "sockpuppet.org"
-    },
-    {
-      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-      "url": "https://www.osti.gov/servlets/purl/1124870",
-      "score": 21,
-      "comments": 7,
-      "source": "osti.gov"
-    },
-    {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 3,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 249,
-      "comments": 192,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-      "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
-      "score": 96,
-      "comments": 99,
-      "source": "nltimes.nl"
-    },
-    {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "score": 54,
-      "comments": 54,
-      "source": "lasso.security"
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "score": 127,
+      "comments": 238,
+      "source": "economist.com"
     },
     {
       "title": "The Murky History of Soviet-Born Tetris",
       "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "score": 74,
-      "comments": 16,
+      "score": 95,
+      "comments": 24,
       "source": "thereader.mitpress.mit.edu"
     },
     {
-      "title": "Scientists build most accurate atomic clock",
-      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "score": 40,
-      "comments": 20,
-      "source": "phys.org"
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "score": 87,
+      "comments": 58,
+      "source": "macrumors.com"
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "score": 322,
-      "comments": 85,
-      "source": "cbsnews.com"
-    },
-    {
-      "title": "One Month Without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "score": 142,
-      "comments": 148,
-      "source": "blog.bustikiller.com"
-    },
-    {
-      "title": "The Copilot+ PC brand is dead",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "score": 65,
-      "comments": 35,
-      "source": "windowscentral.com"
-    },
-    {
-      "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
-      "url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
       "score": 3,
-      "comments": 0,
-      "source": "scitechdaily.com"
+      "comments": 1,
+      "source": "basin.la"
+    },
+    {
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 576,
+      "comments": 138,
+      "source": "ollaya.dev"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "score": 70,
+      "comments": 94,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+      "url": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+      "score": 27,
+      "comments": 1,
+      "source": "viewsproject.wordpress.com"
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "score": 85,
+      "comments": 88,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "score": 137,
+      "comments": 27,
+      "source": "floci.io"
+    },
+    {
+      "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 249,
+      "comments": 105,
+      "source": "jev-pokemon.vercel.app"
+    },
+    {
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "score": 111,
+      "comments": 38,
+      "source": "safenotsafe.dev"
+    },
+    {
+      "title": "16GB iPod Nano 3G Upgrade",
+      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+      "score": 130,
+      "comments": 17,
+      "source": "tuckerosman.com"
+    },
+    {
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 280,
+      "comments": 426,
+      "source": "sockpuppet.org"
+    },
+    {
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "score": 343,
+      "comments": 139,
+      "source": "themomoftheyear.substack.com"
     }
   ],
   "security": [
