@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "score": 354,
+      "comments": 136,
+      "source": "gultsch.de"
+    },
+    {
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "score": 17,
-      "comments": 0,
+      "score": 179,
+      "comments": 25,
       "source": "lexontech.org"
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "score": 8,
+      "comments": 4,
+      "source": "economist.com"
     },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 499,
-      "comments": 304,
+      "score": 592,
+      "comments": 381,
       "source": "swarmtraces.org"
     },
     {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "score": 80,
-      "comments": 21,
-      "source": "allanrbo.blogspot.com"
+      "title": "Modern Object Pascal Introduction for Programmers \u2013 Castle Game Engine",
+      "url": "https://castle-engine.io/modern_pascal",
+      "score": 46,
+      "comments": 19,
+      "source": "castle-engine.io"
+    },
+    {
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "score": 13,
+      "comments": 4,
+      "source": "blog.priyan.in"
     },
     {
       "title": "We're gonna need a lot more mathematicians",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "score": 146,
-      "comments": 176,
+      "score": 242,
+      "comments": 338,
       "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Reflections on 1,000 Days of Math",
+      "url": "https://gmays.com/reflections-on-1000-days-of-math/",
+      "score": 15,
+      "comments": 4,
+      "source": "gmays.com"
     },
     {
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 343,
-      "comments": 314,
+      "score": 441,
+      "comments": 401,
       "source": "aymannadeem.com"
-    },
-    {
-      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 467,
-      "comments": 117,
-      "source": "ollaya.dev"
     },
     {
       "title": "Floci: Locally emulating any cloud service",
       "url": "https://floci.io",
-      "score": 12,
-      "comments": 2,
+      "score": 93,
+      "comments": 15,
       "source": "floci.io"
+    },
+    {
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 526,
+      "comments": 128,
+      "source": "ollaya.dev"
     },
     {
       "title": "Is your Postgres migration safe or not safe?",
       "url": "https://safenotsafe.dev/",
-      "score": 29,
-      "comments": 9,
+      "score": 87,
+      "comments": 27,
       "source": "safenotsafe.dev"
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 111,
+      "comments": 30,
+      "source": "allanrbo.blogspot.com"
+    },
+    {
+      "title": "Earth is tearing apart beneath the Pacific Northwest",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+      "score": 22,
+      "comments": 7,
+      "source": "sciencedaily.com"
+    },
+    {
+      "title": "16GB iPod Nano 3G Upgrade",
+      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+      "score": 84,
+      "comments": 9,
+      "source": "tuckerosman.com"
     },
     {
       "title": "Show HN: Jev Plays Pok\u00e9mon Red",
       "url": "https://jev-pokemon.vercel.app/",
-      "score": 205,
-      "comments": 85,
+      "score": 229,
+      "comments": 93,
       "source": "jev-pokemon.vercel.app"
+    },
+    {
+      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "score": 58,
+      "comments": 10,
+      "source": "jointhefreeworld.org"
     },
     {
       "title": "What even is an OS now?",
       "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 207,
-      "comments": 285,
+      "score": 245,
+      "comments": 357,
       "source": "sockpuppet.org"
     },
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "score": 53,
-      "comments": 66,
-      "source": "discourse.haskell.org"
+      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "url": "https://www.osti.gov/servlets/purl/1124870",
+      "score": 21,
+      "comments": 7,
+      "source": "osti.gov"
     },
     {
-      "title": "The Murky History of Soviet-Born Tetris",
-      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "score": 50,
-      "comments": 13,
-      "source": "thereader.mitpress.mit.edu"
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 3,
+      "comments": 3,
+      "source": "github.com"
     },
     {
       "title": "Gravity seems holographic. What does that mean for reality?",
       "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 207,
-      "comments": 174,
+      "score": 249,
+      "comments": 192,
       "source": "quantamagazine.org"
+    },
+    {
+      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
+      "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+      "score": 96,
+      "comments": 99,
+      "source": "nltimes.nl"
+    },
+    {
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "score": 54,
+      "comments": 54,
+      "source": "lasso.security"
+    },
+    {
+      "title": "The Murky History of Soviet-Born Tetris",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "score": 74,
+      "comments": 16,
+      "source": "thereader.mitpress.mit.edu"
     },
     {
       "title": "Scientists build most accurate atomic clock",
       "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "score": 18,
-      "comments": 6,
+      "score": 40,
+      "comments": 20,
       "source": "phys.org"
     },
     {
       "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
       "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "score": 240,
-      "comments": 56,
+      "score": 322,
+      "comments": 85,
       "source": "cbsnews.com"
     },
     {
-      "title": "16GB iPod Nano 3G Upgrade",
-      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "score": 27,
-      "comments": 3,
-      "source": "tuckerosman.com"
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "score": 142,
+      "comments": 148,
+      "source": "blog.bustikiller.com"
     },
     {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
-      "score": 42,
-      "comments": 3,
-      "source": "adekau.github.io"
+      "title": "The Copilot+ PC brand is dead",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "score": 65,
+      "comments": 35,
+      "source": "windowscentral.com"
     },
     {
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "score": 32,
+      "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+      "url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+      "score": 3,
       "comments": 0,
-      "source": "jointhefreeworld.org"
-    },
-    {
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "score": 193,
-      "comments": 140,
-      "source": "techcommunity.microsoft.com"
-    },
-    {
-      "title": "A new world airport and its baggage",
-      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
-      "score": 28,
-      "comments": 2,
-      "source": "computer.rip"
-    },
-    {
-      "title": "From Thin Air to Bootable Images: The Tine Build System",
-      "url": "https://amutable.com/blog/tine-build-system",
-      "score": 16,
-      "comments": 0,
-      "source": "amutable.com"
-    },
-    {
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "score": 266,
-      "comments": 112,
-      "source": "sunilsadasivan.com"
-    },
-    {
-      "title": "HomelabFest will be in St. Louis in September 2027",
-      "url": "https://www.homelabfest.org",
-      "score": 32,
-      "comments": 17,
-      "source": "homelabfest.org"
-    },
-    {
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "score": 45,
-      "comments": 12,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "I wrote a ray tracer in Brainfuck",
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "score": 75,
-      "comments": 18,
-      "source": "epestr.com"
-    },
-    {
-      "title": "The far side of the Moon provides clues to a previous magnetic field",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
-      "score": 7,
-      "comments": 0,
-      "source": "ethz.ch"
-    },
-    {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "score": 180,
-      "comments": 81,
-      "source": "jezebel.com"
-    },
-    {
-      "title": "Remembering Johannes Doerfert",
-      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-      "score": 97,
-      "comments": 3,
-      "source": "blog.llvm.org"
-    },
-    {
-      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-      "url": "https://hackeratlas.com/",
-      "score": 63,
-      "comments": 20,
-      "source": "hackeratlas.com"
+      "source": "scitechdaily.com"
     }
   ],
   "security": [
