@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "score": 17,
+      "comments": 0,
+      "source": "lexontech.org"
+    },
+    {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "score": 265,
-      "comments": 161,
+      "score": 499,
+      "comments": 304,
       "source": "swarmtraces.org"
     },
     {
-      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 358,
-      "comments": 103,
-      "source": "ollaya.dev"
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 80,
+      "comments": 21,
+      "source": "allanrbo.blogspot.com"
+    },
+    {
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "score": 146,
+      "comments": 176,
+      "source": "terrytao.wordpress.com"
     },
     {
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 140,
-      "comments": 148,
+      "score": 343,
+      "comments": 314,
       "source": "aymannadeem.com"
+    },
+    {
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 467,
+      "comments": 117,
+      "source": "ollaya.dev"
+    },
+    {
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "score": 12,
+      "comments": 2,
+      "source": "floci.io"
+    },
+    {
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "score": 29,
+      "comments": 9,
+      "source": "safenotsafe.dev"
     },
     {
       "title": "Show HN: Jev Plays Pok\u00e9mon Red",
       "url": "https://jev-pokemon.vercel.app/",
-      "score": 168,
-      "comments": 71,
+      "score": 205,
+      "comments": 85,
       "source": "jev-pokemon.vercel.app"
     },
     {
       "title": "What even is an OS now?",
       "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 104,
-      "comments": 183,
+      "score": 207,
+      "comments": 285,
       "source": "sockpuppet.org"
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "score": 77,
-      "comments": 8,
-      "source": "cbsnews.com"
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "score": 53,
+      "comments": 66,
+      "source": "discourse.haskell.org"
     },
     {
-      "title": "Postgres SELECT DISTINCT Does Not Scale",
-      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "score": 14,
-      "comments": 3,
-      "source": "dbos.dev"
-    },
-    {
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "score": 368,
-      "comments": 136,
-      "source": "go.dev"
-    },
-    {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "score": 320,
-      "comments": 102,
-      "source": "github.com"
-    },
-    {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "score": 62,
-      "comments": 21,
-      "source": "jezebel.com"
-    },
-    {
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "score": 118,
-      "comments": 89,
-      "source": "techcommunity.microsoft.com"
+      "title": "The Murky History of Soviet-Born Tetris",
+      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "score": 50,
+      "comments": 13,
+      "source": "thereader.mitpress.mit.edu"
     },
     {
       "title": "Gravity seems holographic. What does that mean for reality?",
       "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "score": 131,
-      "comments": 140,
+      "score": 207,
+      "comments": 174,
       "source": "quantamagazine.org"
+    },
+    {
+      "title": "Scientists build most accurate atomic clock",
+      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "score": 18,
+      "comments": 6,
+      "source": "phys.org"
+    },
+    {
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "score": 240,
+      "comments": 56,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "16GB iPod Nano 3G Upgrade",
+      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+      "score": 27,
+      "comments": 3,
+      "source": "tuckerosman.com"
+    },
+    {
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "score": 42,
+      "comments": 3,
+      "source": "adekau.github.io"
+    },
+    {
+      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "score": 32,
+      "comments": 0,
+      "source": "jointhefreeworld.org"
+    },
+    {
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "score": 193,
+      "comments": 140,
+      "source": "techcommunity.microsoft.com"
+    },
+    {
+      "title": "A new world airport and its baggage",
+      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "score": 28,
+      "comments": 2,
+      "source": "computer.rip"
+    },
+    {
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "url": "https://amutable.com/blog/tine-build-system",
+      "score": 16,
+      "comments": 0,
+      "source": "amutable.com"
+    },
+    {
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "score": 266,
+      "comments": 112,
+      "source": "sunilsadasivan.com"
+    },
+    {
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "url": "https://www.homelabfest.org",
+      "score": 32,
+      "comments": 17,
+      "source": "homelabfest.org"
+    },
+    {
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "score": 45,
+      "comments": 12,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "I wrote a ray tracer in Brainfuck",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "score": 75,
+      "comments": 18,
+      "source": "epestr.com"
+    },
+    {
+      "title": "The far side of the Moon provides clues to a previous magnetic field",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
+      "score": 7,
+      "comments": 0,
+      "source": "ethz.ch"
+    },
+    {
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "score": 180,
+      "comments": 81,
+      "source": "jezebel.com"
     },
     {
       "title": "Remembering Johannes Doerfert",
       "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-      "score": 65,
-      "comments": 2,
+      "score": 97,
+      "comments": 3,
       "source": "blog.llvm.org"
     },
     {
       "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
       "url": "https://hackeratlas.com/",
-      "score": 19,
-      "comments": 6,
+      "score": 63,
+      "comments": 20,
       "source": "hackeratlas.com"
-    },
-    {
-      "title": "I wrote a ray tracer in Brainfuck",
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "score": 42,
-      "comments": 12,
-      "source": "epestr.com"
-    },
-    {
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "score": 229,
-      "comments": 100,
-      "source": "sunilsadasivan.com"
-    },
-    {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "score": 407,
-      "comments": 716,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "score": 16,
-      "comments": 3,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
-      "score": 7,
-      "comments": 0,
-      "source": "adekau.github.io"
-    },
-    {
-      "title": "Show HN: A game about fake news and memes",
-      "url": "https://unspin.app/",
-      "score": 9,
-      "comments": 7,
-      "source": "unspin.app"
-    },
-    {
-      "title": "How video games inspire great UX (2019)",
-      "url": "https://jenson.org/games/",
-      "score": 103,
-      "comments": 16,
-      "source": "jenson.org"
-    },
-    {
-      "title": "TiddlyInstall: A universal, reusable, install system",
-      "url": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-      "score": 5,
-      "comments": 5,
-      "source": "robertsdotpm.github.io"
-    },
-    {
-      "title": "How we learned to stop worrying and love campus surveillance",
-      "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-      "score": 137,
-      "comments": 84,
-      "source": "fnl.mit.edu"
-    },
-    {
-      "title": "Why didn't anybody tell me about Redis hash slots?",
-      "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
-      "score": 26,
-      "comments": 5,
-      "source": "blog.verygoodsoftwarenotvirus.dev"
-    },
-    {
-      "title": "Show HN: Make math automatic with Mathy",
-      "url": "https://gmays.com/making-math-automatic-with-mathy/",
-      "score": 77,
-      "comments": 21,
-      "source": "gmays.com"
-    },
-    {
-      "title": "An airport cooled by natural ventilation",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "score": 53,
-      "comments": 30,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Show HN: Ekselio \u2013 Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "score": 9,
-      "comments": 2,
-      "source": "gptbeyond.com"
-    },
-    {
-      "title": "What happens when you analyze your favorite college football team like the CIA?",
-      "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
-      "score": 44,
-      "comments": 25,
-      "source": "cultivatelabs.com"
-    },
-    {
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "score": 88,
-      "comments": 85,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "score": 131,
-      "comments": 24,
-      "source": "youtube.com"
     }
   ],
   "security": [
