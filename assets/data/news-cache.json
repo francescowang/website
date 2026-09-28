@@ -1,217 +1,223 @@
 {
   "tech": [
     {
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "score": 137,
+      "comments": 36,
+      "source": "github.com"
+    },
+    {
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "score": 360,
+      "comments": 184,
+      "source": "mubi.com"
+    },
+    {
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "score": 99,
+      "comments": 42,
+      "source": "stateofutopia.com"
+    },
+    {
+      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "score": 47,
+      "comments": 7,
+      "source": "archaeologymag.com"
+    },
+    {
+      "title": "World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "score": 130,
+      "comments": 45,
+      "source": "worldlabs.ai"
+    },
+    {
+      "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
+      "url": "https://blog.greenpants.net/ai-accountability/",
+      "score": 15,
+      "comments": 11,
+      "source": "blog.greenpants.net"
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "score": 29,
+      "comments": 21,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Hijacking the PS5's RTMP stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "score": 166,
+      "comments": 54,
+      "source": "yashgarg.dev"
+    },
+    {
+      "title": "Joseph Szabo\u2019s pictures of American adolescents",
+      "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "score": 66,
+      "comments": 33,
+      "source": "newyorker.com"
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "score": 156,
+      "comments": 47,
+      "source": "calnewport.com"
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "url": "https://www.thisamericanlife.org/897/transcript",
+      "score": 218,
+      "comments": 141,
+      "source": "thisamericanlife.org"
+    },
+    {
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
       "url": "https://git.mills.io/prologic/parley",
-      "score": 107,
-      "comments": 32,
+      "score": 285,
+      "comments": 146,
       "source": "git.mills.io"
     },
     {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "score": 188,
-      "comments": 109,
-      "source": "thecivilian.co.nz"
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "score": 83,
+      "comments": 34,
+      "source": "theintercept.com"
     },
     {
-      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
-      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
-      "score": 72,
-      "comments": 35,
-      "source": "bookofrevenue.com"
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "score": 504,
+      "comments": 341,
+      "source": "anthropic.com"
     },
     {
-      "title": "37,500 border drawings: a map of the world as people remember it",
-      "url": "https://www.habibicode.org/thedrawnworld",
-      "score": 51,
-      "comments": 14,
-      "source": "habibicode.org"
+      "title": "Best of British Design",
+      "url": "https://best-of-british-design.vercel.app/",
+      "score": 43,
+      "comments": 21,
+      "source": "best-of-british-design.vercel.app"
     },
     {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "score": 830,
-      "comments": 349,
-      "source": "colo.to"
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "score": 93,
+      "comments": 41,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "SpaceX's Starship launching to orbit for first time ever today",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
-      "score": 143,
-      "comments": 39,
-      "source": "space.com"
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+      "score": 24,
+      "comments": 8,
+      "source": "this.os.isfine.org"
     },
     {
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "score": 127,
-      "comments": 43,
-      "source": "arxiv.org"
+      "title": "Pacing the Frontier is not the actual goal for AI labs",
+      "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+      "score": 61,
+      "comments": 52,
+      "source": "lesswrong.com"
     },
     {
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "score": 505,
-      "comments": 225,
-      "source": "fireworks.ai"
+      "title": "First Steps of the PLC Organization \u2013 Independent Public Ledger of Credentials",
+      "url": "https://blog.plcred.org/3mwlphq42d227",
+      "score": 32,
+      "comments": 18,
+      "source": "blog.plcred.org"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "score": 74,
+      "comments": 123,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adw9953",
+      "score": 4,
+      "comments": 0,
+      "source": "science.org"
+    },
+    {
+      "title": "Launch HN: Vespper (YC F24) \u2013 SOTA Docx MCP",
+      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "score": 29,
+      "comments": 8,
+      "source": "vespper.com"
+    },
+    {
+      "title": "Show HN: Destroy Any Website with Stickman",
+      "url": "https://destroy.spritefusion.com/",
+      "score": 88,
+      "comments": 25,
+      "source": "destroy.spritefusion.com"
+    },
+    {
+      "title": "Who wrote Elizabeth I's most scathing letters?",
+      "url": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+      "score": 31,
+      "comments": 18,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "score": 62,
+      "comments": 82,
+      "source": "petervijeh.com"
+    },
+    {
+      "title": "What heraldry and Japanese mon can teach about visual-identity generators",
+      "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+      "score": 61,
+      "comments": 19,
+      "source": "benovermyer.com"
+    },
+    {
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "score": 89,
+      "comments": 34,
+      "source": "twitter.com"
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "score": 307,
+      "comments": 252,
+      "source": "reuters.com"
+    },
+    {
+      "title": "GrapheneOS \u2013 When an app is slow",
+      "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+      "score": 74,
+      "comments": 38,
+      "source": "blog.wirelessmoves.com"
     },
     {
       "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 1444,
-      "comments": 770,
+      "score": 1819,
+      "comments": 1018,
       "source": "sancho.bearblog.dev"
-    },
-    {
-      "title": "Nissan's third generation e-POWER powertrain",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "score": 96,
-      "comments": 132,
-      "source": "nissan-global.com"
-    },
-    {
-      "title": "Functional Mechanical Sympathy [video]",
-      "url": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
-      "score": 45,
-      "comments": 6,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-      "url": "https://www.inkandswitch.com/essay/malleable-software/",
-      "score": 112,
-      "comments": 54,
-      "source": "inkandswitch.com"
-    },
-    {
-      "title": "Self-Hosting on the Dark Web",
-      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-      "score": 242,
-      "comments": 93,
-      "source": "david.alvarezrosa.com"
-    },
-    {
-      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-      "url": "https://github.com/dashersw/coyopedal",
-      "score": 109,
-      "comments": 54,
-      "source": "github.com"
-    },
-    {
-      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 154,
-      "comments": 42,
-      "source": "quora.com"
-    },
-    {
-      "title": "Made by Mechanical Means",
-      "url": "https://felixrieseberg.com/made-by-mechanical-means/",
-      "score": 42,
-      "comments": 13,
-      "source": "felixrieseberg.com"
-    },
-    {
-      "title": "The smart home graveyard is getting crowded",
-      "url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-      "score": 17,
-      "comments": 9,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Lunar Terminator Paradox",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "score": 92,
-      "comments": 58,
-      "source": "notes.secretsauce.net"
-    },
-    {
-      "title": "Prompting Claude Opus 5.5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "score": 144,
-      "comments": 145,
-      "source": "platform.claude.com"
-    },
-    {
-      "title": "Don't couple your Go code to GitHub",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "score": 270,
-      "comments": 132,
-      "source": "iain.rocks"
-    },
-    {
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "score": 170,
-      "comments": 43,
-      "source": "shnatsel.github.io"
-    },
-    {
-      "title": "Three Days in August: What a DDoS Attack Exposed in Our Network",
-      "url": "https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/",
-      "score": 10,
-      "comments": 6,
-      "source": "nine.ch"
-    },
-    {
-      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "score": 273,
-      "comments": 114,
-      "source": "loficities.com"
-    },
-    {
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "score": 261,
-      "comments": 96,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Deterministic Concurrency [video]",
-      "url": "https://www.youtube.com/watch?v=25x0UuSCKuU",
-      "score": 55,
-      "comments": 5,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Reading\u2019s Bayeux Tapestry",
-      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
-      "score": 58,
-      "comments": 22,
-      "source": "diamondgeezer.blogspot.com"
-    },
-    {
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "url": "https://github.com/deepfates/imp",
-      "score": 84,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "What I did at Recurse Center",
-      "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "score": 110,
-      "comments": 38,
-      "source": "thill.me"
-    },
-    {
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 183,
-      "comments": 104,
-      "source": "jvns.ca"
-    },
-    {
-      "title": "Una watch review: A modular, repairable GPS watch is a good first step",
-      "url": "https://www.engadget.com/2267443/una-watch-review/",
-      "score": 3,
-      "comments": 0,
-      "source": "engadget.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS European Sovereign Cloud: Demonstrating an independent operation",
+      "url": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-demonstrating-an-independent-operation/",
+      "date": "2026-09-28 17:05:12",
+      "author": "St\u00e9phane Isra\u00ebl"
+    },
     {
       "title": "ICYMI: August 2026 @AWS Security",
       "url": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance/",
       "date": "2026-09-14 17:46:56",
       "author": "Avik Mukherjee"
-    },
-    {
-      "title": "The state of AI for security: Measuring what matters most for building trust",
-      "url": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/",
-      "date": "2026-09-09 19:09:14",
-      "author": "Anshumali Shrivastava"
     }
   ]
 }
