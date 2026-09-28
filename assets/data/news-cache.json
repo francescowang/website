@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 83,
-      "comments": 26,
-      "source": "sancho.bearblog.dev"
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "score": 141,
+      "comments": 53,
+      "source": "colo.to"
+    },
+    {
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+      "score": 46,
+      "comments": 5,
+      "source": "trekhleb.dev"
     },
     {
       "title": "Ember-1",
       "url": "https://fireworks.ai/blog/ember-1",
-      "score": 202,
-      "comments": 118,
+      "score": 379,
+      "comments": 190,
       "source": "fireworks.ai"
     },
     {
-      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 891,
+      "comments": 474,
+      "source": "sancho.bearblog.dev"
+    },
+    {
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "score": 7,
+      "comments": 6,
+      "source": "nissan-global.com"
+    },
+    {
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "url": "https://github.com/dashersw/coyopedal",
+      "score": 30,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
       "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 22,
-      "comments": 11,
+      "score": 81,
+      "comments": 30,
       "source": "quora.com"
+    },
+    {
+      "title": "There is more to code review than (automatable) detection",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "score": 78,
+      "comments": 44,
+      "source": "adaptivecapacitylabs.com"
     },
     {
       "title": "The state of SIMD in Rust in 2026",
       "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "score": 38,
-      "comments": 6,
+      "score": 102,
+      "comments": 21,
       "source": "shnatsel.github.io"
     },
     {
-      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "score": 71,
-      "comments": 21,
-      "source": "loficities.com"
-    },
-    {
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "score": 169,
-      "comments": 66,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "url": "https://github.com/deepfates/imp",
-      "score": 15,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "score": 20,
-      "comments": 3,
-      "source": "youtube.com"
+      "title": "Lunar Terminator Paradox",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "score": 52,
+      "comments": 35,
+      "source": "notes.secretsauce.net"
     },
     {
       "title": "Don't couple your Go code to GitHub",
       "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "score": 47,
-      "comments": 25,
+      "score": 162,
+      "comments": 81,
       "source": "iain.rocks"
     },
     {
-      "title": "Writing Efficient C++ Code (2013)",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "score": 117,
-      "comments": 65,
-      "source": "asawicki.info"
+      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "score": 190,
+      "comments": 86,
+      "source": "loficities.com"
+    },
+    {
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "score": 8,
+      "comments": 1,
+      "source": "inkandswitch.com"
+    },
+    {
+      "title": "Self-Hosting on the Dark Web",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "score": 80,
+      "comments": 31,
+      "source": "david.alvarezrosa.com"
+    },
+    {
+      "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
+      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "score": 41,
+      "comments": 18,
+      "source": "nytimes.com"
     },
     {
       "title": "What I did at Recurse Center",
       "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "score": 10,
-      "comments": 2,
+      "score": 77,
+      "comments": 24,
       "source": "thill.me"
+    },
+    {
+      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+      "score": 54,
+      "comments": 17,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "score": 53,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Musk, the Movie",
+      "url": "https://bleeckerstreetmedia.com/musk",
+      "score": 53,
+      "comments": 6,
+      "source": "bleeckerstreetmedia.com"
+    },
+    {
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 215,
+      "comments": 83,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Golang: Crypto/fips140: do not bloat crypto code unnecessarily",
+      "url": "https://github.com/golang/go/issues/81639",
+      "score": 3,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Replacing the old battery on rechargeable bike lights",
       "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 109,
-      "comments": 56,
+      "score": 143,
+      "comments": 78,
       "source": "jvns.ca"
     },
     {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com/",
-      "score": 78,
-      "comments": 36,
-      "source": "tinyaiarena.com"
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "score": 58,
+      "comments": 12,
+      "source": "youtube.com"
     },
     {
-      "title": "Fragment of oldest known peace treaty found in Turkey",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-      "score": 33,
-      "comments": 5,
-      "source": "livescience.com"
+      "title": "Microsoft drops Copilot+ branding from its new laptops",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "score": 9,
+      "comments": 2,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
+      "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "score": 70,
+      "comments": 27,
+      "source": "jazzwise.com"
+    },
+    {
+      "title": "Writing Efficient C++ Code (2013)",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 137,
+      "comments": 85,
+      "source": "asawicki.info"
+    },
+    {
+      "title": "A New Experiment Meta-Strategy",
+      "url": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
+      "score": 15,
+      "comments": 0,
+      "source": "chillphysicsenjoyer.substack.com"
     },
     {
       "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
       "url": "https://generalroboticslab.com/cartesian_handv1",
-      "score": 29,
-      "comments": 6,
+      "score": 69,
+      "comments": 10,
       "source": "generalroboticslab.com"
     },
     {
-      "title": "The Normalization of Inexplicable Failures",
-      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "score": 207,
-      "comments": 82,
-      "source": "ihatethefuture.com"
-    },
-    {
-      "title": "Allegations of US interference in Quebec election",
-      "url": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
-      "score": 14,
-      "comments": 6,
-      "source": "globalnews.ca"
-    },
-    {
-      "title": "John Coltrane Centenary's \u2013 Impulse Records Release the Legendary Tiberi Tapes",
-      "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "score": 29,
-      "comments": 6,
-      "source": "jazzwise.com"
-    },
-    {
-      "title": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "score": 326,
-      "comments": 22,
-      "source": "mitxela.com"
-    },
-    {
-      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-      "score": 316,
-      "comments": 275,
-      "source": "unsung.aresluna.org"
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "score": 70,
+      "comments": 9,
+      "source": "livescience.com"
     },
     {
       "title": "Fakecloud: Local AWS cloud emulator for integration tests",
       "url": "https://fakecloud.dev/",
-      "score": 86,
-      "comments": 44,
+      "score": 118,
+      "comments": 62,
       "source": "fakecloud.dev"
-    },
-    {
-      "title": "Kicki: A DECsystem1060 \u2013 Interim Computer Museum",
-      "url": "https://icm.museum/blog/?p=207",
-      "score": 12,
-      "comments": 2,
-      "source": "icm.museum"
-    },
-    {
-      "title": "Video CDs Break Windows Explorer",
-      "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
-      "score": 63,
-      "comments": 22,
-      "source": "clydesnotes.blogspot.com"
-    },
-    {
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "score": 45,
-      "comments": 7,
-      "source": "jadidbourbaki.github.io"
-    },
-    {
-      "title": "Wiki Deep dive into Standard diving dress",
-      "url": "https://en.wikipedia.org/wiki/Standard_diving_dress",
-      "score": 9,
-      "comments": 1,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
-      "url": "https://www.markdown.beauty/",
-      "score": 53,
-      "comments": 38,
-      "source": "markdown.beauty"
-    },
-    {
-      "title": "Improving site performance by shipping more CSS",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "score": 71,
-      "comments": 59,
-      "source": "github.blog"
-    },
-    {
-      "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
-      "url": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
-      "score": 60,
-      "comments": 94,
-      "source": "pikuma.com"
-    },
-    {
-      "title": "PostmarketOS is rebranding as Nura",
-      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "score": 130,
-      "comments": 26,
-      "source": "nura.eco"
-    },
-    {
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 357,
-      "comments": 159,
-      "source": "antonz.org"
     }
   ],
   "security": [
