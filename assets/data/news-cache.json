@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "You Are No Longer Invited to Dinner",
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "score": 66,
-      "comments": 22,
-      "source": "derekthompson.org"
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "score": 84,
+      "comments": 44,
+      "source": "postalemployeenetwork.com"
     },
     {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "score": 158,
-      "comments": 40,
-      "source": "jorgegarciaherrero.com"
+      "title": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "score": 208,
+      "comments": 64,
+      "source": "tcl-lang.org"
     },
     {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "score": 34,
-      "comments": 5,
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "score": 662,
+      "comments": 594,
+      "source": "openai.com"
+    },
+    {
+      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+      "score": 112,
+      "comments": 76,
+      "source": "statmodeling.stat.columbia.edu"
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "score": 173,
+      "comments": 93,
       "source": "github.com"
     },
     {
-      "title": "Using any C++ library in Godot",
-      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "score": 65,
-      "comments": 21,
-      "source": "blog.conan.io"
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "score": 396,
+      "comments": 227,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-      "score": 39,
-      "comments": 11,
-      "source": "theguardian.com"
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "score": 499,
+      "comments": 343,
+      "source": "eff.org"
+    },
+    {
+      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "score": 23,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "url": "https://somethingbig.ai/computer",
+      "score": 75,
+      "comments": 37,
+      "source": "somethingbig.ai"
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "score": 27,
+      "comments": 7,
+      "source": "space.bl2.net"
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "score": 397,
+      "comments": 126,
+      "source": "jorgegarciaherrero.com"
+    },
+    {
+      "title": "Stuck in the Suez Canal \u2013 the short version (2021)",
+      "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
+      "score": 23,
+      "comments": 1,
+      "source": "cathsenker.co.uk"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "score": 399,
+      "comments": 305,
+      "source": "openai.com"
+    },
+    {
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "score": 156,
+      "comments": 123,
+      "source": "america.gov"
+    },
+    {
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "score": 59,
+      "comments": 20,
+      "source": "nytimes.com"
     },
     {
       "title": "Phyllotaxis: An audio-reactive LED display",
       "url": "https://jagi.studio/posts/phyllotaxis/",
-      "score": 167,
-      "comments": 21,
+      "score": 246,
+      "comments": 41,
       "source": "jagi.studio"
     },
     {
-      "title": "Booted up in 1993, this server still runs \u2013 but not for much longer (2017)",
-      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-      "score": 87,
-      "comments": 33,
-      "source": "computerworld.com"
+      "title": "Without the Hot Air",
+      "url": "https://www.withouthotair.com/",
+      "score": 125,
+      "comments": 67,
+      "source": "withouthotair.com"
     },
     {
-      "title": "The systems that no one will test",
-      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-      "score": 86,
-      "comments": 32,
-      "source": "blog.christianperone.com"
+      "title": "C64 MERCENARY (1985): a novel exploit bug at the start of the game",
+      "url": "https://gamesexplained.com/c64/mercenary/",
+      "score": 9,
+      "comments": 2,
+      "source": "gamesexplained.com"
     },
     {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "score": 256,
-      "comments": 651,
-      "source": "kqed.org"
-    },
-    {
-      "title": "Software occlusion culling in Block Game",
-      "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
-      "score": 38,
-      "comments": 3,
-      "source": "enikofox.com"
-    },
-    {
-      "title": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "score": 614,
-      "comments": 312,
-      "source": "mubi.com"
-    },
-    {
-      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-      "url": "https://www.startup-nights.ch/event/",
-      "score": 19,
-      "comments": 8,
-      "source": "startup-nights.ch"
-    },
-    {
-      "title": "Tank Body Problem",
-      "url": "http://www.jimsitu.com",
-      "score": 129,
-      "comments": 30,
-      "source": "jimsitu.com"
-    },
-    {
-      "title": "Four CHI '26 papers I wish I wrote",
-      "url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
-      "score": 15,
-      "comments": 3,
-      "source": "countingfromzero.blog"
-    },
-    {
-      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "score": 255,
-      "comments": 89,
-      "source": "stateofutopia.com"
-    },
-    {
-      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "score": 147,
-      "comments": 40,
-      "source": "archaeologymag.com"
-    },
-    {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "score": 109,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "score": 518,
-      "comments": 196,
-      "source": "github.com"
-    },
-    {
-      "title": "Optimizing x264 settings and per-title ladders",
-      "url": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
-      "score": 4,
-      "comments": 0,
-      "source": "streaminglearningcenter.com"
-    },
-    {
-      "title": "New Cyber-OSINT model released",
-      "url": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
-      "score": 16,
-      "comments": 5,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "score": 191,
-      "comments": 237,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "Updated Google Maps shows destruction of the city of Rafah",
-      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-      "score": 654,
-      "comments": 525,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Hijacking the PS5's RTMP stream",
-      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "score": 264,
-      "comments": 87,
-      "source": "yashgarg.dev"
-    },
-    {
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "score": 825,
-      "comments": 555,
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "score": 126,
+      "comments": 94,
       "source": "anthropic.com"
     },
     {
-      "title": "Evan Doorbell's Phone Tapes \u2013 Brought to You by Telephone World",
-      "url": "https://evan-doorbell.com/",
-      "score": 6,
-      "comments": 0,
-      "source": "evan-doorbell.com"
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "score": 213,
+      "comments": 85,
+      "source": "github.com"
     },
     {
-      "title": "Hermann Weyl \u2013 Frank Aydelotte memorandum (1945)",
-      "url": "https://albert.ias.edu/server/api/core/bitstreams/9feac6ca-38d1-4f5c-9876-75915f1a5762/content",
-      "score": 4,
-      "comments": 0,
-      "source": "albert.ias.edu"
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "url": "https://sujithjay.com/inventing-work",
+      "score": 132,
+      "comments": 32,
+      "source": "sujithjay.com"
     },
     {
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-      "url": "https://www.thisamericanlife.org/897/transcript",
-      "score": 430,
-      "comments": 230,
-      "source": "thisamericanlife.org"
+      "title": "Memory Companies Have Destroyed the Consumer Market",
+      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+      "score": 72,
+      "comments": 46,
+      "source": "gamersnexus.net"
     },
     {
-      "title": "Simulating Airband AM Radios",
-      "url": "https://bitbashing.io/am-radio.html",
-      "score": 54,
-      "comments": 4,
-      "source": "bitbashing.io"
+      "title": "Walking Men",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+      "score": 69,
+      "comments": 24,
+      "source": "bookofjoe2.blogspot.com"
     },
     {
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "score": 244,
-      "comments": 306,
-      "source": "petervijeh.com"
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "score": 151,
+      "comments": 52,
+      "source": "blog.conan.io"
     },
     {
-      "title": "Scientists solve 1840s space weather mystery",
-      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "score": 112,
-      "comments": 48,
-      "source": "arstechnica.com"
+      "title": "You are no longer invited to dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "score": 677,
+      "comments": 616,
+      "source": "derekthompson.org"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "score": 80,
+      "comments": 35,
+      "source": "openai.com"
+    },
+    {
+      "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
+      "url": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/",
+      "score": 51,
+      "comments": 15,
+      "source": "bumbershootsoft.wordpress.com"
+    },
+    {
+      "title": "What if Jev spoke Arrow?",
+      "url": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+      "score": 26,
+      "comments": 5,
+      "source": "columnar.tech"
+    },
+    {
+      "title": "McDonald's push to have AI price your Big Mac",
+      "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+      "score": 19,
+      "comments": 3,
+      "source": "cnbc.com"
     }
   ],
   "security": [
