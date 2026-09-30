@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "Pi.dev: You Said No MCP",
+      "title": "Let's Ditch Google (Verb)",
+      "url": "https://adam.farkas.pro/lets-ditch-google-verb/",
+      "score": 35,
+      "comments": 38,
+      "source": "adam.farkas.pro"
+    },
+    {
+      "title": "A Brief History of the Bloomberg Terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "score": 74,
+      "comments": 20,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "You Said No MCP",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "score": 134,
-      "comments": 51,
+      "score": 462,
+      "comments": 269,
       "source": "earendil.com"
+    },
+    {
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "score": 113,
+      "comments": 54,
+      "source": "blog.faav.net"
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "score": 73,
+      "comments": 35,
+      "source": "alphapixeldev.com"
+    },
+    {
+      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+      "score": 21,
+      "comments": 12,
+      "source": "advanced.onlinelibrary.wiley.com"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Burning Man Death Rates \u2013 A Short Lesson in Statistics",
+      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+      "score": 21,
+      "comments": 2,
+      "source": "ihavenapkinthoughts.substack.com"
+    },
+    {
+      "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+      "url": "https://github.com/mogrinz/AMT630A",
+      "score": 30,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "SDF Public Access Unix System ... est. 1987",
+      "url": "https://sdf.org/",
+      "score": 23,
+      "comments": 1,
+      "source": "sdf.org"
+    },
+    {
+      "title": "Commit Description as a Thinking Tool",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "score": 3,
+      "comments": 0,
+      "source": "yedhu.me"
     },
     {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
-      "score": 676,
-      "comments": 268,
+      "score": 824,
+      "comments": 341,
       "source": "github.com"
     },
     {
       "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
       "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "score": 19,
-      "comments": 6,
+      "score": 103,
+      "comments": 23,
       "source": "projecthub.arduino.cc"
+    },
+    {
+      "title": "Mathematical Origami",
+      "url": "https://mathigon.org/origami",
+      "score": 81,
+      "comments": 17,
+      "source": "mathigon.org"
+    },
+    {
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "score": 20,
+      "comments": 3,
+      "source": "buttondown.com"
     },
     {
       "title": "Solving Factorio Quality",
       "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "score": 111,
-      "comments": 34,
+      "score": 216,
+      "comments": 79,
       "source": "exyr.org"
+    },
+    {
+      "title": "Show HN: I created a BGP-based blackhole system that you can set up in minutes",
+      "url": "https://setecastronomyinc.com/shield",
+      "score": 6,
+      "comments": 0,
+      "source": "setecastronomyinc.com"
+    },
+    {
+      "title": "Getting out of the way: my robotics crash course",
+      "url": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+      "score": 34,
+      "comments": 7,
+      "source": "thisismypersonalblog.com"
     },
     {
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
-      "score": 646,
-      "comments": 509,
+      "score": 717,
+      "comments": 602,
       "source": "openai.com"
-    },
-    {
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "score": 306,
-      "comments": 177,
-      "source": "tomwojcik.com"
     },
     {
       "title": "Vermont replacing power plants with home batteries",
       "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "score": 230,
-      "comments": 180,
+      "score": 330,
+      "comments": 248,
       "source": "bbc.com"
-    },
-    {
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "score": 600,
-      "comments": 505,
-      "source": "america.gov"
-    },
-    {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 239,
-      "comments": 139,
-      "source": "postalemployeenetwork.com"
     },
     {
       "title": "NASA asked several former SR-71A staffers to help secret restart",
       "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "score": 193,
-      "comments": 189,
+      "score": 278,
+      "comments": 306,
       "source": "aviationweek.com"
+    },
+    {
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "score": 726,
+      "comments": 658,
+      "source": "america.gov"
+    },
+    {
+      "title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "score": 25,
+      "comments": 13,
+      "source": "ledge.sh"
+    },
+    {
+      "title": "Show HN: Parrot \u2013 Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+      "url": "https://openparrot.app",
+      "score": 3,
+      "comments": 0,
+      "source": "openparrot.app"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "score": 263,
+      "comments": 155,
+      "source": "postalemployeenetwork.com"
     },
     {
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "url": "https://space.bl2.net/",
-      "score": 275,
-      "comments": 67,
+      "score": 349,
+      "comments": 93,
       "source": "space.bl2.net"
     },
     {
-      "title": "Testing WebGPU data layouts with Facet",
-      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-      "score": 52,
-      "comments": 3,
-      "source": "mattkeeter.com"
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "score": 328,
+      "comments": 48,
+      "source": "jagi.studio"
+    },
+    {
+      "title": "Backblaze drive stats for Q2 2026",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "score": 284,
+      "comments": 92,
+      "source": "backblaze.com"
     },
     {
       "title": "Floppy Emu Hardware Failure Analysis Results",
       "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-      "score": 16,
-      "comments": 3,
+      "score": 45,
+      "comments": 9,
       "source": "bigmessowires.com"
     },
     {
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "score": 534,
-      "comments": 297,
+      "score": 567,
+      "comments": 310,
       "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Built Dental Scope",
-      "url": "https://dental-scope.com/",
-      "score": 46,
-      "comments": 9,
-      "source": "dental-scope.com"
-    },
-    {
-      "title": "Most data centers refusing to say how much water, electricity they use",
-      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-      "score": 13,
-      "comments": 0,
-      "source": "nltimes.nl"
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "score": 304,
-      "comments": 48,
-      "source": "jagi.studio"
-    },
-    {
-      "title": "RSS Feeds for Last.fm",
-      "url": "https://lfm.xiffy.nl/",
-      "score": 86,
-      "comments": 21,
-      "source": "lfm.xiffy.nl"
-    },
-    {
-      "title": "Backblaze drive stats for Q2 2026",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "score": 215,
-      "comments": 64,
-      "source": "backblaze.com"
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 973,
-      "comments": 851,
-      "source": "openai.com"
-    },
-    {
-      "title": "Needed 1+1, built a functional programming language",
-      "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-      "score": 116,
-      "comments": 40,
-      "source": "hereticpleb.vercel.app"
-    },
-    {
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "score": 138,
-      "comments": 7,
-      "source": "magazine.sebastianraschka.com"
-    },
-    {
-      "title": "When oil prices spike, where does the money go?",
-      "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
-      "score": 97,
-      "comments": 84,
-      "source": "theconversation.com"
-    },
-    {
-      "title": "A Staff Engineer's Guide to Inventing Work",
-      "url": "https://sujithjay.com/inventing-work",
-      "score": 286,
-      "comments": 57,
-      "source": "sujithjay.com"
-    },
-    {
-      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-      "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-      "score": 50,
-      "comments": 18,
-      "source": "gevernova.com"
-    },
-    {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "url": "https://somethingbig.ai/computer",
-      "score": 149,
-      "comments": 87,
-      "source": "somethingbig.ai"
-    },
-    {
-      "title": "PS5 Relapse Exploit",
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "score": 322,
-      "comments": 195,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "score": 30,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: NSL \u2013 WSL for Linux",
-      "url": "https://frostyard.github.io/nsl/",
-      "score": 139,
-      "comments": 83,
-      "source": "frostyard.github.io"
     }
   ],
   "security": [
