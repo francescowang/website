@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Newgrounds.com \u2013 A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "score": 64,
-      "comments": 7,
-      "source": "newgrounds.com"
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "score": 21,
+      "comments": 32,
+      "source": "science.org"
     },
     {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "score": 144,
-      "comments": 63,
-      "source": "yuka.dev"
+      "title": "Newgrounds.com \u2013 A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 243,
+      "comments": 64,
+      "source": "newgrounds.com"
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 543,
-      "comments": 237,
+      "score": 643,
+      "comments": 295,
       "source": "eff.org"
     },
     {
-      "title": "Things that apparently cause cancer",
-      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "score": 114,
-      "comments": 47,
-      "source": "breakthroughjournal.org"
-    },
-    {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 222,
-      "comments": 50,
-      "source": "bsky.app"
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 343,
-      "comments": 89,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-      "score": 21,
-      "comments": 9,
-      "source": "ntsb.gov"
+      "title": "GitHub's new dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "score": 4,
+      "comments": 2,
+      "source": "github.blog"
     },
     {
       "title": "Apple Pass Designer",
       "url": "https://developer.apple.com/pass-designer/",
-      "score": 346,
-      "comments": 225,
+      "score": 438,
+      "comments": 270,
       "source": "developer.apple.com"
     },
     {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 193,
-      "comments": 92,
-      "source": "arstechnica.com"
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 478,
+      "comments": 109,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "score": 90,
+      "comments": 22,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "score": 296,
+      "comments": 57,
+      "source": "bsky.app"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "score": 59,
+      "comments": 26,
+      "source": "blog.kagi.com"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 222,
+      "comments": 149,
+      "source": "yuka.dev"
     },
     {
       "title": "Loss of cell identity drives human aging: Two new papers",
       "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 196,
-      "comments": 50,
+      "score": 264,
+      "comments": 84,
       "source": "erictopol.substack.com"
     },
     {
-      "title": "Muse Gadgets",
-      "url": "https://gadgets.muse.ai",
-      "score": 150,
-      "comments": 71,
-      "source": "gadgets.muse.ai"
+      "title": "Barcodes are about to go extinct",
+      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+      "score": 49,
+      "comments": 77,
+      "source": "thehustle.co"
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
-      "score": 175,
-      "comments": 44,
+      "score": 251,
+      "comments": 68,
       "source": "dwarfstar.sh"
     },
     {
       "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
       "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 193,
-      "comments": 52,
+      "score": 246,
+      "comments": 75,
       "source": "youtube.com"
-    },
-    {
-      "title": "OKI Develops 124-Layer PCB Technology",
-      "url": "https://www.oki.com/global/press/2025/z25006e.html",
-      "score": 8,
-      "comments": 1,
-      "source": "oki.com"
-    },
-    {
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "score": 144,
-      "comments": 86,
-      "source": "developer.apple.com"
     },
     {
       "title": "FLUX 3 Image",
       "url": "https://bfl.ai/models/flux-3-image",
-      "score": 290,
-      "comments": 62,
+      "score": 353,
+      "comments": 76,
       "source": "bfl.ai"
     },
     {
-      "title": "Where Is the Planet",
-      "url": "http://whereistheplanet.com",
-      "score": 13,
-      "comments": 0,
-      "source": "whereistheplanet.com"
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "score": 311,
+      "comments": 67,
+      "source": "extrabigassintelligence.com"
     },
     {
-      "title": "Billions of Triangles Redux",
-      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
-      "score": 21,
-      "comments": 0,
-      "source": "zeux.io"
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 221,
+      "comments": 109,
+      "source": "arstechnica.com"
     },
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "score": 80,
-      "comments": 41,
-      "source": "github.com"
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "score": 202,
+      "comments": 88,
+      "source": "gadgets.muse.ai"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "score": 208,
+      "comments": 141,
+      "source": "developer.apple.com"
+    },
+    {
+      "title": "cp: -r or -R?",
+      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "score": 6,
+      "comments": 1,
+      "source": "movq.de"
+    },
+    {
+      "title": "The Nintendo 64 Partner-N64 Development Kit",
+      "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+      "score": 44,
+      "comments": 5,
+      "source": "behindthecode.ca"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "score": 166,
+      "comments": 125,
+      "source": "wagtail.org"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 283,
+      "comments": 90,
+      "source": "stillwet.art"
     },
     {
       "title": "Sites in ChatGPT",
       "url": "https://chatgpt.com/features/sites/",
-      "score": 227,
-      "comments": 228,
+      "score": 281,
+      "comments": 261,
       "source": "chatgpt.com"
     },
     {
       "title": "The Legend of von Neumann (1973) [pdf]",
       "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "score": 255,
-      "comments": 142,
+      "score": 286,
+      "comments": 150,
       "source": "gwern.net"
     },
     {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "score": 220,
-      "comments": 74,
-      "source": "stillwet.art"
-    },
-    {
-      "title": "One month coding with GLM 5.3 Flash",
-      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "score": 128,
-      "comments": 101,
-      "source": "wagtail.org"
+      "title": "More like SC-Forth-thousand, am I right?",
+      "url": "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html",
+      "score": 10,
+      "comments": 1,
+      "source": "leadedsolder.com"
     },
     {
       "title": "Venice\u2019s failed war against Constantinople led to the first bond market",
       "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "score": 87,
-      "comments": 25,
+      "score": 124,
+      "comments": 37,
       "source": "bigthink.com"
     },
     {
-      "title": "Our Project Suncatcher prototype satellite is in orbit",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-      "score": 53,
-      "comments": 52,
-      "source": "blog.google"
+      "title": "OKI Develops 124-Layer PCB Technology",
+      "url": "https://www.oki.com/global/press/2025/z25006e.html",
+      "score": 35,
+      "comments": 19,
+      "source": "oki.com"
     },
     {
-      "title": "Every SaaS business will become a harness around a model",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "score": 115,
-      "comments": 84,
-      "source": "blog.sshh.io"
+      "title": "Billions of triangles redux",
+      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+      "score": 45,
+      "comments": 0,
+      "source": "zeux.io"
     },
     {
-      "title": "Anatomy of a Lean proof for software engineers",
-      "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
-      "score": 90,
-      "comments": 18,
-      "source": "agostbiro.net"
-    },
-    {
-      "title": "Blogging with Gleam, Org-Mode and Pandoc",
-      "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
-      "score": 66,
-      "comments": 13,
-      "source": "byzantine-systems.github.io"
-    },
-    {
-      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-      "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-      "score": 53,
-      "comments": 12,
-      "source": "onlineonly.christies.com"
-    },
-    {
-      "title": "Show HN: Pyxel \u2013 A Python retro game engine with built-in art and sound editors",
-      "url": "https://github.com/kitao/pyxel",
-      "score": 76,
-      "comments": 8,
-      "source": "github.com"
+      "title": "Gemini ending free use of Flash and Pro models",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "score": 19,
+      "comments": 7,
+      "source": "reddit.com"
     }
   ],
   "security": [
