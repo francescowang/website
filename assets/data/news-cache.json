@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Zig v0.17.0",
-      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "score": 77,
-      "comments": 30,
-      "source": "ziglang.org"
+      "title": "Newgrounds.com \u2013 A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 64,
+      "comments": 7,
+      "source": "newgrounds.com"
     },
     {
-      "title": "Apple Pass Designer",
-      "url": "https://developer.apple.com/pass-designer/",
-      "score": 216,
-      "comments": 140,
-      "source": "developer.apple.com"
-    },
-    {
-      "title": "Everyone's Packing Up",
-      "url": "https://widdershins.verja.net/everyones-packing-up/",
-      "score": 52,
-      "comments": 27,
-      "source": "widdershins.verja.net"
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 144,
+      "comments": 63,
+      "source": "yuka.dev"
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 398,
-      "comments": 170,
+      "score": 543,
+      "comments": 237,
       "source": "eff.org"
+    },
+    {
+      "title": "Things that apparently cause cancer",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "score": 114,
+      "comments": 47,
+      "source": "breakthroughjournal.org"
     },
     {
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 114,
-      "comments": 21,
+      "score": 222,
+      "comments": 50,
       "source": "bsky.app"
-    },
-    {
-      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 131,
-      "comments": 25,
-      "source": "youtube.com"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "score": 113,
-      "comments": 42,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Muse Gadgets",
-      "url": "https://gadgets.muse.ai",
-      "score": 50,
-      "comments": 32,
-      "source": "gadgets.muse.ai"
-    },
-    {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 122,
-      "comments": 26,
-      "source": "erictopol.substack.com"
-    },
-    {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "score": 39,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "score": 82,
-      "comments": 12,
-      "source": "dwarfstar.sh"
     },
     {
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 130,
-      "comments": 36,
+      "score": 343,
+      "comments": 89,
       "source": "nytimes.com"
     },
     {
-      "title": "Venice\u2019s failed war against Constantinople led to the first bond market",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "score": 48,
-      "comments": 14,
-      "source": "bigthink.com"
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "score": 21,
+      "comments": 9,
+      "source": "ntsb.gov"
     },
     {
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "score": 158,
-      "comments": 188,
-      "source": "chatgpt.com"
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "score": 346,
+      "comments": 225,
+      "source": "developer.apple.com"
     },
     {
-      "title": "One month coding with GLM 5.3 Flash",
-      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "score": 68,
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 193,
+      "comments": 92,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "score": 196,
       "comments": 50,
-      "source": "wagtail.org"
+      "source": "erictopol.substack.com"
+    },
+    {
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "score": 150,
+      "comments": 71,
+      "source": "gadgets.muse.ai"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "score": 175,
+      "comments": 44,
+      "source": "dwarfstar.sh"
+    },
+    {
+      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 193,
+      "comments": 52,
+      "source": "youtube.com"
+    },
+    {
+      "title": "OKI Develops 124-Layer PCB Technology",
+      "url": "https://www.oki.com/global/press/2025/z25006e.html",
+      "score": 8,
+      "comments": 1,
+      "source": "oki.com"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "score": 144,
+      "comments": 86,
+      "source": "developer.apple.com"
     },
     {
       "title": "FLUX 3 Image",
       "url": "https://bfl.ai/models/flux-3-image",
-      "score": 232,
-      "comments": 53,
+      "score": 290,
+      "comments": 62,
       "source": "bfl.ai"
     },
     {
-      "title": "STS-51-F Abort-to-Orbit (1985)",
-      "url": "https://en.wikipedia.org/wiki/STS-51-F",
-      "score": 24,
-      "comments": 5,
-      "source": "en.wikipedia.org"
+      "title": "Where Is the Planet",
+      "url": "http://whereistheplanet.com",
+      "score": 13,
+      "comments": 0,
+      "source": "whereistheplanet.com"
+    },
+    {
+      "title": "Billions of Triangles Redux",
+      "url": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+      "score": 21,
+      "comments": 0,
+      "source": "zeux.io"
+    },
+    {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "score": 80,
+      "comments": 41,
+      "source": "github.com"
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 227,
+      "comments": 228,
+      "source": "chatgpt.com"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "score": 255,
+      "comments": 142,
+      "source": "gwern.net"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 220,
+      "comments": 74,
+      "source": "stillwet.art"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "score": 128,
+      "comments": 101,
+      "source": "wagtail.org"
+    },
+    {
+      "title": "Venice\u2019s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "score": 87,
+      "comments": 25,
+      "source": "bigthink.com"
+    },
+    {
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "score": 53,
+      "comments": 52,
+      "source": "blog.google"
+    },
+    {
+      "title": "Every SaaS business will become a harness around a model",
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "score": 115,
+      "comments": 84,
+      "source": "blog.sshh.io"
     },
     {
       "title": "Anatomy of a Lean proof for software engineers",
       "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
-      "score": 49,
-      "comments": 1,
+      "score": 90,
+      "comments": 18,
       "source": "agostbiro.net"
     },
     {
       "title": "Blogging with Gleam, Org-Mode and Pandoc",
       "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
-      "score": 31,
-      "comments": 6,
+      "score": 66,
+      "comments": 13,
       "source": "byzantine-systems.github.io"
-    },
-    {
-      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-      "url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
-      "score": 74,
-      "comments": 17,
-      "source": "discuss.grapheneos.org"
-    },
-    {
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "score": 222,
-      "comments": 128,
-      "source": "gwern.net"
-    },
-    {
-      "title": "F.02 Decommission",
-      "url": "https://www.figure.ai/news/f-02-decommission",
-      "score": 44,
-      "comments": 9,
-      "source": "figure.ai"
     },
     {
       "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
       "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-      "score": 26,
-      "comments": 2,
+      "score": 53,
+      "comments": 12,
       "source": "onlineonly.christies.com"
-    },
-    {
-      "title": "Our Project Suncatcher prototype satellite is in orbit",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-      "score": 34,
-      "comments": 35,
-      "source": "blog.google"
-    },
-    {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "score": 164,
-      "comments": 54,
-      "source": "stillwet.art"
-    },
-    {
-      "title": "The Harness Is the Company",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "score": 4,
-      "comments": 0,
-      "source": "blog.sshh.io"
-    },
-    {
-      "title": "On social reality in China",
-      "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
-      "score": 95,
-      "comments": 93,
-      "source": "lesswrong.com"
     },
     {
       "title": "Show HN: Pyxel \u2013 A Python retro game engine with built-in art and sound editors",
       "url": "https://github.com/kitao/pyxel",
-      "score": 42,
-      "comments": 4,
+      "score": 76,
+      "comments": 8,
       "source": "github.com"
-    },
-    {
-      "title": "\"The only intuitive interface is the nipple\" (2012)",
-      "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-      "score": 23,
-      "comments": 27,
-      "source": "greenend.org.uk"
-    },
-    {
-      "title": "What if we stopped using GPUs? [video]",
-      "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-      "score": 26,
-      "comments": 4,
-      "source": "youtube.com"
     }
   ],
   "security": [
