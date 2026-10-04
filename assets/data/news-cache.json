@@ -1,207 +1,207 @@
 {
   "tech": [
     {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "score": 33,
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "score": 50,
+      "comments": 19,
+      "source": "automatictransmission.khoury.northeastern.edu"
+    },
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "score": 247,
+      "comments": 125,
+      "source": "github.com"
+    },
+    {
+      "title": "A Map of Every Lighthouse on the Planet",
+      "url": "https://mapped.earth/lighthouses/world",
+      "score": 11,
       "comments": 3,
-      "source": "gamehistory.org"
+      "source": "mapped.earth"
+    },
+    {
+      "title": "Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
+      "url": "https://niklasroy.com/gtc/",
+      "score": 82,
+      "comments": 14,
+      "source": "niklasroy.com"
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "score": 62,
+      "comments": 37,
+      "source": "github.com"
     },
     {
       "title": "Why don't more developers \u201cuse the platform\u201d?",
       "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "score": 162,
-      "comments": 133,
+      "score": 224,
+      "comments": 221,
       "source": "nolanlawson.com"
     },
     {
-      "title": "So you think you could be an electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "score": 274,
-      "comments": 192,
-      "source": "asteriskmag.com"
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "score": 74,
+      "comments": 12,
+      "source": "gamehistory.org"
+    },
+    {
+      "title": "The Heilbronn Problem",
+      "url": "https://math.tejstead.com/heilbronn/",
+      "score": 32,
+      "comments": 3,
+      "source": "math.tejstead.com"
     },
     {
       "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 318,
-      "comments": 50,
+      "score": 383,
+      "comments": 67,
       "source": "phoronix.com"
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "score": 215,
-      "comments": 94,
-      "source": "cosmowenman.substack.com"
-    },
-    {
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "score": 205,
-      "comments": 111,
-      "source": "liao.gg"
-    },
-    {
-      "title": "gpuvis: GPU Trace Visualizer",
-      "url": "https://github.com/mikesart/gpuvis",
-      "score": 12,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 302,
-      "comments": 68,
-      "source": "notoriousbfg.com"
-    },
-    {
-      "title": "We're working on a new RuneScape MMO",
-      "url": "https://play.runescape.com/4",
-      "score": 85,
-      "comments": 31,
-      "source": "play.runescape.com"
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 463,
-      "comments": 228,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "score": 200,
-      "comments": 51,
-      "source": "whec.com"
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "score": 166,
-      "comments": 231,
-      "source": "fortune.com"
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "score": 161,
-      "comments": 78,
-      "source": "ben.stolovitz.com"
-    },
-    {
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "score": 99,
-      "comments": 79,
-      "source": "energytransition.org"
-    },
-    {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "score": 141,
-      "comments": 125,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "score": 87,
-      "comments": 205,
-      "source": "nytimes.com"
     },
     {
       "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
       "url": "https://github.com/PowderworksCode/headstart",
-      "score": 12,
-      "comments": 1,
+      "score": 66,
+      "comments": 12,
       "source": "github.com"
     },
     {
-      "title": "Math's pedagogical curse \u2013 Grant Sanderson [video]",
-      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "score": 47,
-      "comments": 20,
-      "source": "youtube.com"
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "score": 280,
+      "comments": 161,
+      "source": "liao.gg"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 262,
+      "comments": 135,
+      "source": "cosmowenman.substack.com"
+    },
+    {
+      "title": "gpuvis: GPU Trace Visualizer",
+      "url": "https://github.com/mikesart/gpuvis",
+      "score": 56,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 267,
+      "comments": 423,
+      "source": "fortune.com"
+    },
+    {
+      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+      "score": 40,
+      "comments": 13,
+      "source": "joshua.hu"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "score": 328,
+      "comments": 81,
+      "source": "notoriousbfg.com"
+    },
+    {
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "score": 80,
+      "comments": 37,
+      "source": "teachyourkids.substack.com"
+    },
+    {
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "score": 235,
+      "comments": 58,
+      "source": "whec.com"
+    },
+    {
+      "title": "Caff\u00e8 Corretto",
+      "url": "https://en.wikipedia.org/wiki/Caff%C3%A8_corretto",
+      "score": 3,
+      "comments": 0,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 541,
+      "comments": 279,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "RuneScape's Position on Gen AI",
+      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+      "score": 10,
+      "comments": 13,
+      "source": "reddit.com"
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "url": "https://play.runescape.com/4",
+      "score": 132,
+      "comments": 71,
+      "source": "play.runescape.com"
+    },
+    {
+      "title": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "score": 382,
+      "comments": 317,
+      "source": "asteriskmag.com"
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "score": 199,
+      "comments": 85,
+      "source": "ben.stolovitz.com"
+    },
+    {
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "score": 23,
+      "comments": 3,
+      "source": "writings.stephenwolfram.com"
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "score": 182,
+      "comments": 156,
+      "source": "blog.cloudflare.com"
     },
     {
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "score": 263,
-      "comments": 508,
+      "score": 359,
+      "comments": 600,
       "source": "theatlantic.com"
-    },
-    {
-      "title": "How to hack time, with C2PA",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "score": 43,
-      "comments": 4,
-      "source": "da.vidbuchanan.co.uk"
-    },
-    {
-      "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
-      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
-      "score": 6,
-      "comments": 0,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Your body of work thinks back at you",
-      "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "score": 67,
-      "comments": 9,
-      "source": "photoni.st"
-    },
-    {
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "score": 67,
-      "comments": 36,
-      "source": "twz.com"
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "url": "https://ftl-os.org/",
-      "score": 178,
-      "comments": 68,
-      "source": "ftl-os.org"
     },
     {
       "title": "Dirty Optimization Secrets (C for Playdate)",
       "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-      "score": 21,
-      "comments": 2,
+      "score": 44,
+      "comments": 6,
       "source": "devforum.play.date"
     },
     {
       "title": "What Meta got right with Muse",
       "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-      "score": 54,
-      "comments": 76,
+      "score": 94,
+      "comments": 127,
       "source": "metedata.substack.com"
-    },
-    {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "score": 35,
-      "comments": 1,
-      "source": "royapakzad.substack.com"
-    },
-    {
-      "title": "City building games have a Soul Problem pt.2",
-      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "score": 139,
-      "comments": 136,
-      "source": "radical-elements.com"
-    },
-    {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "score": 86,
-      "comments": 43,
-      "source": "sjg.io"
     }
   ],
   "security": [
