@@ -1,88 +1,172 @@
 {
   "tech": [
     {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 272,
+      "comments": 148,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 119,
+      "comments": 60,
+      "source": "cosmowenman.substack.com"
+    },
+    {
+      "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "score": 185,
+      "comments": 21,
+      "source": "phoronix.com"
+    },
+    {
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 82,
-      "comments": 27,
+      "score": 253,
+      "comments": 62,
       "source": "notoriousbfg.com"
     },
     {
-      "title": "Kolibri \u2013 Tech Report [pdf]",
-      "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
-      "score": 91,
-      "comments": 4,
-      "source": "aleph-alpha.com"
+      "title": "So You Think You Could Be an Electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "score": 54,
+      "comments": 31,
+      "source": "asteriskmag.com"
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "score": 120,
+      "comments": 59,
+      "source": "ben.stolovitz.com"
     },
     {
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "score": 60,
-      "comments": 8,
+      "score": 160,
+      "comments": 41,
       "source": "whec.com"
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "score": 10,
-      "comments": 8,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "score": 38,
-      "comments": 22,
-      "source": "pipod.dev"
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "score": 83,
+      "comments": 55,
+      "source": "liao.gg"
     },
     {
       "title": "Kolibri: A Sovereign Open-Weight Model",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "score": 385,
-      "comments": 252,
+      "score": 546,
+      "comments": 307,
       "source": "aleph-alpha.com"
     },
     {
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "score": 21,
-      "comments": 0,
+      "score": 184,
+      "comments": 130,
       "source": "claude.dev"
+    },
+    {
+      "title": "Math's pedagogical curse \u2013 Grant Sanderson [video]",
+      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "score": 18,
+      "comments": 7,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Your body of work thinks back at you",
+      "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+      "score": 34,
+      "comments": 1,
+      "source": "photoni.st"
+    },
+    {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "score": 235,
+      "comments": 196,
+      "source": "theguardian.com"
     },
     {
       "title": "FTL: A new operating system for clouds",
       "url": "https://ftl-os.org/",
-      "score": 116,
-      "comments": 49,
+      "score": 156,
+      "comments": 63,
       "source": "ftl-os.org"
     },
     {
-      "title": "Vx \u2013 One Language, Every Chip",
-      "url": "https://vxlang.org/",
-      "score": 30,
-      "comments": 15,
-      "source": "vxlang.org"
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "score": 58,
+      "comments": 27,
+      "source": "sjg.io"
+    },
+    {
+      "title": "Show HN: Thoreau BASIC \u2013\u00a0What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "score": 39,
+      "comments": 13,
+      "source": "thoreaubasic.com"
+    },
+    {
+      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "score": 41,
+      "comments": 49,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Amazon introduces a redesigned Kindle family",
+      "url": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
+      "score": 20,
+      "comments": 29,
+      "source": "aboutamazon.com"
+    },
+    {
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "score": 10,
+      "comments": 0,
+      "source": "royapakzad.substack.com"
+    },
+    {
+      "title": "New York City should carefully measure a new tree",
+      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+      "score": 54,
+      "comments": 10,
+      "source": "blog.willmeye.rs"
+    },
+    {
+      "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "score": 82,
+      "comments": 30,
+      "source": "pipod.dev"
+    },
+    {
+      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+      "score": 25,
+      "comments": 7,
+      "source": "twz.com"
     },
     {
       "title": "Woking Electrical Control Room (2016)",
       "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "score": 107,
-      "comments": 18,
+      "score": 129,
+      "comments": 26,
       "source": "darbiansphotography.com"
     },
     {
-      "title": "Show HN: Graphene \u2013 Data analysis toolkit for your coding agent",
-      "url": "https://github.com/graphene-data/graphene",
-      "score": 15,
-      "comments": 5,
-      "source": "github.com"
-    },
-    {
-      "title": "C++ Insights \u2013 See your source code with the eyes of a Compiler",
-      "url": "https://github.com/andreasfertig/cppinsights",
-      "score": 116,
-      "comments": 23,
-      "source": "github.com"
+      "title": "Memory-Safe WebP Decoding",
+      "url": "https://halide.cx/blog/wpd/",
+      "score": 47,
+      "comments": 14,
+      "source": "halide.cx"
     },
     {
       "title": "RetailReady (YC W24) Is Hiring",
@@ -92,123 +176,32 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Newgrounds.com \u2013 A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "score": 413,
-      "comments": 121,
-      "source": "newgrounds.com"
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "score": 364,
+      "comments": 213,
+      "source": "techcrunch.com"
     },
     {
-      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-      "score": 50,
-      "comments": 13,
-      "source": "againstallodds.games"
+      "title": "Docker has always used microVMs (well since 2016)",
+      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+      "score": 27,
+      "comments": 18,
+      "source": "dave.recoil.org"
     },
     {
       "title": "RSS Feed Best Practices (2022)",
       "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-      "score": 4,
-      "comments": 0,
+      "score": 46,
+      "comments": 8,
       "source": "kevincox.ca"
     },
     {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 769,
-      "comments": 373,
-      "source": "eff.org"
-    },
-    {
-      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
-      "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
-      "score": 24,
-      "comments": 6,
-      "source": "red5.net"
-    },
-    {
-      "title": "Body Awareness in Goffin's Cockatoos",
-      "url": "https://www.nature.com/articles/s41598-026-57500-7",
-      "score": 28,
-      "comments": 3,
-      "source": "nature.com"
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 633,
-      "comments": 154,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Elon Musk Emails",
-      "url": "https://elonmuskmails.com/",
-      "score": 31,
-      "comments": 4,
-      "source": "elonmuskmails.com"
-    },
-    {
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-      "score": 77,
-      "comments": 86,
-      "source": "neowin.net"
-    },
-    {
-      "title": "ADHD, autism or complex trauma? [pdf]",
-      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
-      "score": 162,
-      "comments": 131,
-      "source": "cambridge.org"
-    },
-    {
-      "title": "Apple Pass Designer",
-      "url": "https://developer.apple.com/pass-designer/",
-      "score": 538,
-      "comments": 320,
-      "source": "developer.apple.com"
-    },
-    {
-      "title": "Holes (1996-2025)",
-      "url": "https://plato.stanford.edu/entries/holes/",
-      "score": 31,
-      "comments": 8,
-      "source": "plato.stanford.edu"
-    },
-    {
-      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-      "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-      "score": 23,
-      "comments": 9,
-      "source": "aviationa2z.com"
-    },
-    {
-      "title": "Cloudflare OHTTP gateway",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "score": 176,
-      "comments": 81,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "score": 378,
-      "comments": 77,
-      "source": "bsky.app"
-    },
-    {
-      "title": "Our AI Midwife",
-      "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-      "score": 20,
-      "comments": 1,
-      "source": "astralcodexten.com"
-    },
-    {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "score": 350,
-      "comments": 166,
-      "source": "erictopol.substack.com"
+      "title": "C++ Insights \u2013 See your source code with the eyes of a Compiler",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "score": 144,
+      "comments": 28,
+      "source": "github.com"
     }
   ],
   "security": [
