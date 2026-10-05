@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "score": 161,
-      "comments": 111,
-      "source": "techfundingnews.com"
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 264,
+      "comments": 69,
+      "source": "reflection.ai"
     },
     {
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-      "score": 17,
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "score": 71,
+      "comments": 18,
+      "source": "flattensf.com"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 69,
       "comments": 5,
-      "source": "discuss.grapheneos.org"
+      "source": "qlabs.sh"
     },
     {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "score": 262,
-      "comments": 208,
-      "source": "cpr.dk"
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 168,
+      "comments": 126,
+      "source": "vals.ai"
+    },
+    {
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 24,
+      "comments": 18,
+      "source": "debugbear.com"
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 18,
+      "comments": 1,
+      "source": "niemanlab.org"
+    },
+    {
+      "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+      "score": 37,
+      "comments": 33,
+      "source": "smyck.net"
+    },
+    {
+      "title": "Worth Building",
+      "url": "https://armstr.ng/writing/worth-building",
+      "score": 14,
+      "comments": 2,
+      "source": "armstr.ng"
+    },
+    {
+      "title": "Graphical UI",
+      "url": "https://www.graphicalui.com/",
+      "score": 16,
+      "comments": 0,
+      "source": "graphicalui.com"
     },
     {
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 110,
-      "comments": 60,
+      "score": 470,
+      "comments": 214,
       "source": "developers.cloudflare.com"
     },
     {
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-      "score": 96,
-      "comments": 58,
-      "source": "huawei.com"
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "score": 3,
+      "comments": 0,
+      "source": "lemire.me"
     },
     {
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-      "score": 56,
-      "comments": 16,
-      "source": "nobelprize.org"
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 92,
+      "comments": 20,
+      "source": "cses.fi"
     },
     {
-      "title": "Type Safe Generic Data Structures in C",
-      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "score": 40,
+      "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "score": 18,
       "comments": 2,
-      "source": "danielchasehooper.com"
-    },
-    {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 845,
-      "comments": 377,
       "source": "github.com"
     },
     {
-      "title": "Differences Between `Foldl` and `Foldr`",
-      "url": "https://blog.haskell.org/foldl-and-foldr/",
-      "score": 21,
-      "comments": 1,
-      "source": "blog.haskell.org"
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 6,
+      "comments": 2,
+      "source": "globalsolaratlas.info"
     },
     {
-      "title": "Apple and a Hacker's Future",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 482,
+      "comments": 406,
+      "source": "techspot.com"
+    },
+    {
+      "title": "Is mathematics over, or just graduating?",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
+      "score": 4,
+      "comments": 0,
+      "source": "docs.google.com"
+    },
+    {
+      "title": "A third way of using Linux",
+      "url": "https://hisvirusness.com/third-is-the-way",
+      "score": 24,
+      "comments": 35,
+      "source": "hisvirusness.com"
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 125,
+      "comments": 29,
+      "source": "floreal.tech"
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "score": 37,
+      "comments": 4,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "score": 6,
+      "comments": 1,
+      "source": "smarthomescene.com"
+    },
+    {
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "score": 89,
+      "comments": 21,
+      "source": "blog.lizzie.io"
+    },
+    {
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "score": 112,
+      "comments": 59,
+      "source": "arslan.io"
+    },
+    {
+      "title": "The Future of Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "score": 73,
+      "comments": 39,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Show HN: Nightwatch \u2013 a Mac menu-bar app that tells you when tonight is clear",
+      "url": "https://github.com/rsutcliffe/nightwatch",
+      "score": 68,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Incident with Actions",
+      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "score": 92,
+      "comments": 62,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+      "url": "https://nivdayan.github.io/dostoevsky.pdf",
+      "score": 5,
+      "comments": 0,
+      "source": "nivdayan.github.io"
+    },
+    {
+      "title": "Apple and a hacker's future",
       "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 90,
-      "comments": 70,
+      "score": 190,
+      "comments": 177,
       "source": "stratechery.com"
     },
     {
-      "title": "In the wake of Tippett Studios\u2019 closure, a digital archive appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 179,
-      "comments": 20,
-      "source": "filmstories.co.uk"
+      "title": "Qualcomm licenses patents on Huawei\u2019s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "score": 172,
+      "comments": 112,
+      "source": "bloomberg.com"
     },
     {
-      "title": "We ported the original Doom to SQL",
-      "url": "https://cedardb.com/blog/sqldoom/",
-      "score": 201,
-      "comments": 31,
-      "source": "cedardb.com"
-    },
-    {
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "score": 303,
-      "comments": 100,
-      "source": "wieslawsoltes.github.io"
-    },
-    {
-      "title": "First Implantable Cochlear Implant Launches",
-      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-      "score": 34,
-      "comments": 22,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "score": 187,
-      "comments": 69,
-      "source": "taobackup.com"
-    },
-    {
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 152,
-      "comments": 29,
-      "source": "blog.zarfhome.com"
-    },
-    {
-      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "title": "The era of software quality, or the era of ostriches?",
       "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-      "score": 14,
-      "comments": 1,
+      "score": 24,
+      "comments": 62,
       "source": "blogs.gnome.org"
     },
     {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 654,
-      "comments": 444,
-      "source": "github.com"
-    },
-    {
-      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-      "score": 33,
-      "comments": 11,
-      "source": "lenfestinstitute.org"
-    },
-    {
-      "title": "Lace and Labor: Lessons from the actual Luddites",
-      "url": "https://articlesofinterest.substack.com/p/lace-and-labor",
-      "score": 44,
-      "comments": 2,
-      "source": "articlesofinterest.substack.com"
-    },
-    {
-      "title": "Safe Optimistic Lock Coupling",
-      "url": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-      "score": 35,
-      "comments": 6,
-      "source": "databasearchitects.blogspot.com"
-    },
-    {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "score": 449,
-      "comments": 580,
-      "source": "1011now.com"
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "url": "https://shannadige.com/blog/darkroom/",
-      "score": 90,
-      "comments": 64,
-      "source": "shannadige.com"
-    },
-    {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 248,
-      "comments": 213,
-      "source": "motorsport.com"
-    },
-    {
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "score": 107,
-      "comments": 36,
-      "source": "developers.redhat.com"
-    },
-    {
-      "title": "What is going on with ceiling fans",
-      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "score": 353,
-      "comments": 306,
-      "source": "mcmansionhell.com"
-    },
-    {
-      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
-      "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
-      "score": 51,
-      "comments": 33,
-      "source": "cambridge.org"
-    },
-    {
-      "title": "Replacement of petroleum based products with plant-based materials (2025)",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-      "score": 89,
-      "comments": 45,
-      "source": "onlinelibrary.wiley.com"
-    },
-    {
-      "title": "Demystifying Tufte's data-ink ratio",
-      "url": "https://tuftesrazor.scienceux.org/",
-      "score": 61,
-      "comments": 28,
-      "source": "tuftesrazor.scienceux.org"
+      "title": "The first fully implanted cochlear implant reaches patients",
+      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "score": 56,
+      "comments": 54,
+      "source": "spectrum.ieee.org"
     }
   ],
   "security": [
