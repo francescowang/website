@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Why Common Lisp is now the best programming language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 35,
-      "comments": 29,
-      "source": "vivienhenz.com"
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 179,
+      "comments": 50,
+      "source": "nobelprize.org"
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "score": 49,
+      "comments": 32,
+      "source": "helgilibrary.com"
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "score": 85,
+      "comments": 13,
+      "source": "gleam.run"
     },
     {
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 371,
-      "comments": 111,
+      "score": 480,
+      "comments": 155,
       "source": "reflection.ai"
-    },
-    {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 130,
-      "comments": 77,
-      "source": "debugbear.com"
     },
     {
       "title": "Find the flattest route between any two points in SF",
       "url": "https://flattensf.com/",
-      "score": 143,
-      "comments": 48,
+      "score": 235,
+      "comments": 79,
       "source": "flattensf.com"
     },
     {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
-      "score": 137,
-      "comments": 30,
+      "score": 227,
+      "comments": 60,
       "source": "qlabs.sh"
     },
     {
-      "title": "Photopea creator weighs in on Photosuite project",
-      "url": "https://github.com/eolix/photosuite/issues/77",
-      "score": 77,
-      "comments": 39,
-      "source": "github.com"
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "score": 24,
+      "comments": 2,
+      "source": "phys.org"
     },
     {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 260,
-      "comments": 180,
-      "source": "vals.ai"
-    },
-    {
-      "title": "Wood Tape (2004)",
-      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "score": 3,
-      "comments": 1,
-      "source": "gamesbyemail.com"
-    },
-    {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "score": 52,
-      "comments": 15,
-      "source": "blog.citp.princeton.edu"
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "score": 53,
+      "comments": 14,
+      "source": "liquidbrain.net"
     },
     {
       "title": "Friendship ended with Deno, now Node is my best friend",
       "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "score": 101,
-      "comments": 42,
+      "score": 213,
+      "comments": 128,
       "source": "dbushell.com"
     },
     {
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "score": 53,
-      "comments": 38,
-      "source": "edworkingpapers.com"
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "score": 15,
+      "comments": 1,
+      "source": "techcrunch.com"
     },
     {
-      "title": "Show HN: Photoc \u2013 Command-line tools for photographers",
-      "url": "https://github.com/ahmetomerv/photoc",
-      "score": 13,
-      "comments": 2,
-      "source": "github.com"
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 394,
+      "comments": 265,
+      "source": "vals.ai"
     },
     {
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 506,
-      "comments": 234,
+      "score": 565,
+      "comments": 260,
       "source": "developers.cloudflare.com"
     },
     {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 346,
-      "comments": 254,
-      "source": "niemanlab.org"
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "score": 42,
+      "comments": 22,
+      "source": "bbc.co.uk"
     },
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "score": 626,
-      "comments": 500,
-      "source": "techspot.com"
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "score": 150,
-      "comments": 35,
-      "source": "cses.fi"
-    },
-    {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "score": 33,
-      "comments": 16,
-      "source": "globalsolaratlas.info"
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "score": 28,
-      "comments": 10,
-      "source": "gwern.net"
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 63,
-      "comments": 14,
-      "source": "smarthomescene.com"
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 259,
+      "comments": 164,
+      "source": "debugbear.com"
     },
     {
       "title": "Resurrecting iChat Audio and Video Conferencing",
       "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "score": 7,
-      "comments": 1,
+      "score": 71,
+      "comments": 14,
       "source": "blog.pipetogrep.org"
+    },
+    {
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "score": 49,
+      "comments": 13,
+      "source": "tdk.com"
+    },
+    {
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "score": 142,
+      "comments": 77,
+      "source": "smarthomescene.com"
+    },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 231,
+      "comments": 56,
+      "source": "cses.fi"
+    },
+    {
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "score": 43,
+      "comments": 26,
+      "source": "blue-continuum.com"
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 93,
+      "comments": 69,
+      "source": "blog.citp.princeton.edu"
+    },
+    {
+      "title": "The complement of true is true, except when it's false",
+      "url": "https://dryperspective.github.io/posts/complement-of-true/",
+      "score": 30,
+      "comments": 5,
+      "source": "dryperspective.github.io"
+    },
+    {
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "score": 240,
+      "comments": 102,
+      "source": "arslan.io"
     },
     {
       "title": "Show HN: Entombed in a Raycaster",
       "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "score": 5,
-      "comments": 0,
+      "score": 30,
+      "comments": 6,
       "source": "stelabouras.com"
+    },
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "score": 222,
+      "comments": 281,
+      "source": "vivienhenz.com"
     },
     {
       "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
       "url": "https://github.com/dfd-tud/deda",
-      "score": 41,
-      "comments": 4,
+      "score": 73,
+      "comments": 9,
       "source": "github.com"
     },
     {
       "title": "Ephemeral Testing",
       "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "score": 40,
-      "comments": 13,
+      "score": 70,
+      "comments": 23,
       "source": "lemire.me"
     },
     {
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-      "score": 146,
-      "comments": 24,
-      "source": "arstechnica.com"
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 68,
+      "comments": 48,
+      "source": "globalsolaratlas.info"
     },
     {
-      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-      "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-      "score": 82,
-      "comments": 54,
-      "source": "thedrive.com"
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "score": 144,
-      "comments": 37,
-      "source": "floreal.tech"
-    },
-    {
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "score": 158,
-      "comments": 75,
-      "source": "arslan.io"
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 49,
+      "comments": 23,
+      "source": "gwern.net"
     },
     {
       "title": "Apple and a hacker's future",
       "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 231,
-      "comments": 202,
+      "score": 275,
+      "comments": 231,
       "source": "stratechery.com"
     },
     {
-      "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
-      "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
-      "score": 5,
-      "comments": 1,
-      "source": "iopscience.iop.org"
-    },
-    {
-      "title": "Using Blu-ray M-Disk as backup of last resort",
-      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "score": 81,
-      "comments": 80,
-      "source": "smyck.net"
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 165,
+      "comments": 46,
+      "source": "floreal.tech"
     }
   ],
   "security": [
