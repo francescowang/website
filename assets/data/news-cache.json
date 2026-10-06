@@ -1,217 +1,223 @@
 {
   "tech": [
     {
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "score": 35,
+      "comments": 29,
+      "source": "vivienhenz.com"
+    },
+    {
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 264,
-      "comments": 69,
+      "score": 371,
+      "comments": 111,
       "source": "reflection.ai"
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 130,
+      "comments": 77,
+      "source": "debugbear.com"
     },
     {
       "title": "Find the flattest route between any two points in SF",
       "url": "https://flattensf.com/",
-      "score": 71,
-      "comments": 18,
+      "score": 143,
+      "comments": 48,
       "source": "flattensf.com"
     },
     {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
-      "score": 69,
-      "comments": 5,
+      "score": 137,
+      "comments": 30,
       "source": "qlabs.sh"
+    },
+    {
+      "title": "Photopea creator weighs in on Photosuite project",
+      "url": "https://github.com/eolix/photosuite/issues/77",
+      "score": 77,
+      "comments": 39,
+      "source": "github.com"
     },
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 168,
-      "comments": 126,
+      "score": 260,
+      "comments": 180,
       "source": "vals.ai"
     },
     {
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 24,
-      "comments": 18,
-      "source": "debugbear.com"
-    },
-    {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 18,
+      "title": "Wood Tape (2004)",
+      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "score": 3,
       "comments": 1,
-      "source": "niemanlab.org"
+      "source": "gamesbyemail.com"
     },
     {
-      "title": "Using Blu-ray M-Disk as Backup of Last Resort",
-      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "score": 37,
-      "comments": 33,
-      "source": "smyck.net"
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 52,
+      "comments": 15,
+      "source": "blog.citp.princeton.edu"
     },
     {
-      "title": "Worth Building",
-      "url": "https://armstr.ng/writing/worth-building",
-      "score": 14,
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 101,
+      "comments": 42,
+      "source": "dbushell.com"
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "score": 53,
+      "comments": 38,
+      "source": "edworkingpapers.com"
+    },
+    {
+      "title": "Show HN: Photoc \u2013 Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "score": 13,
       "comments": 2,
-      "source": "armstr.ng"
-    },
-    {
-      "title": "Graphical UI",
-      "url": "https://www.graphicalui.com/",
-      "score": 16,
-      "comments": 0,
-      "source": "graphicalui.com"
+      "source": "github.com"
     },
     {
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 470,
-      "comments": 214,
+      "score": 506,
+      "comments": 234,
       "source": "developers.cloudflare.com"
     },
     {
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "score": 3,
-      "comments": 0,
-      "source": "lemire.me"
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "score": 92,
-      "comments": 20,
-      "source": "cses.fi"
-    },
-    {
-      "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "score": 18,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
-      "score": 6,
-      "comments": 2,
-      "source": "globalsolaratlas.info"
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 346,
+      "comments": 254,
+      "source": "niemanlab.org"
     },
     {
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "score": 482,
-      "comments": 406,
+      "score": 626,
+      "comments": 500,
       "source": "techspot.com"
     },
     {
-      "title": "Is mathematics over, or just graduating?",
-      "url": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
-      "score": 4,
-      "comments": 0,
-      "source": "docs.google.com"
-    },
-    {
-      "title": "A third way of using Linux",
-      "url": "https://hisvirusness.com/third-is-the-way",
-      "score": 24,
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 150,
       "comments": 35,
-      "source": "hisvirusness.com"
+      "source": "cses.fi"
     },
     {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "score": 125,
-      "comments": 29,
-      "source": "floreal.tech"
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "score": 33,
+      "comments": 16,
+      "source": "globalsolaratlas.info"
     },
     {
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-      "score": 37,
-      "comments": 4,
-      "source": "arstechnica.com"
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 28,
+      "comments": 10,
+      "source": "gwern.net"
     },
     {
       "title": "Testing 12 different Zigbee temperature/humidity sensors",
       "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "score": 6,
-      "comments": 1,
+      "score": 63,
+      "comments": 14,
       "source": "smarthomescene.com"
     },
     {
-      "title": "Linux containers in 500 lines of code (2016)",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "score": 89,
-      "comments": 21,
-      "source": "blog.lizzie.io"
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "score": 7,
+      "comments": 1,
+      "source": "blog.pipetogrep.org"
+    },
+    {
+      "title": "Show HN: Entombed in a Raycaster",
+      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
+      "score": 5,
+      "comments": 0,
+      "source": "stelabouras.com"
+    },
+    {
+      "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "score": 41,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "score": 40,
+      "comments": 13,
+      "source": "lemire.me"
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "score": 146,
+      "comments": 24,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+      "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+      "score": 82,
+      "comments": 54,
+      "source": "thedrive.com"
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 144,
+      "comments": 37,
+      "source": "floreal.tech"
     },
     {
       "title": "The lamps in my house",
       "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "score": 112,
-      "comments": 59,
+      "score": 158,
+      "comments": 75,
       "source": "arslan.io"
-    },
-    {
-      "title": "The Future of Mathematics",
-      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
-      "score": 73,
-      "comments": 39,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "Show HN: Nightwatch \u2013 a Mac menu-bar app that tells you when tonight is clear",
-      "url": "https://github.com/rsutcliffe/nightwatch",
-      "score": 68,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "Incident with Actions",
-      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-      "score": 92,
-      "comments": 62,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-      "url": "https://nivdayan.github.io/dostoevsky.pdf",
-      "score": 5,
-      "comments": 0,
-      "source": "nivdayan.github.io"
     },
     {
       "title": "Apple and a hacker's future",
       "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 190,
-      "comments": 177,
+      "score": 231,
+      "comments": 202,
       "source": "stratechery.com"
     },
     {
-      "title": "Qualcomm licenses patents on Huawei\u2019s LogicFolding chip tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "score": 172,
-      "comments": 112,
-      "source": "bloomberg.com"
+      "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
+      "score": 5,
+      "comments": 1,
+      "source": "iopscience.iop.org"
     },
     {
-      "title": "The era of software quality, or the era of ostriches?",
-      "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-      "score": 24,
-      "comments": 62,
-      "source": "blogs.gnome.org"
-    },
-    {
-      "title": "The first fully implanted cochlear implant reaches patients",
-      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-      "score": 56,
-      "comments": 54,
-      "source": "spectrum.ieee.org"
+      "title": "Using Blu-ray M-Disk as backup of last resort",
+      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+      "score": 81,
+      "comments": 80,
+      "source": "smyck.net"
     }
   ],
   "security": [
+    {
+      "title": "AWS Continuum sets a new standard in autonomous code security",
+      "url": "https://aws.amazon.com/blogs/security/aws-continuum-sets-a-new-standard-in-autonomous-code-security/",
+      "date": "2026-10-05 21:41:01",
+      "author": "Alexander Greaves-Tunnell"
+    },
     {
       "title": "AWS European Sovereign Cloud: Demonstrating an independent operation",
       "url": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-demonstrating-an-independent-operation/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline/",
       "date": "2026-09-15 15:53:51",
       "author": "Luis Pastor"
-    },
-    {
-      "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
-      "url": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance/",
-      "date": "2026-09-14 17:46:56",
-      "author": "Avik Mukherjee"
     }
   ]
 }
