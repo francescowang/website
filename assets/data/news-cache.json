@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "score": 92,
+      "comments": 42,
+      "source": "developer.chrome.com"
+    },
+    {
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "score": 149,
+      "comments": 24,
+      "source": "github.com"
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "score": 86,
+      "comments": 9,
+      "source": "nobelprize.org"
+    },
+    {
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 578,
-      "comments": 516,
+      "score": 1010,
+      "comments": 986,
       "source": "openai.com"
     },
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1632,
-      "comments": 981,
-      "source": "mistral.ai"
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "score": 4,
+      "comments": 1,
+      "source": "fiveminutesforward.com"
     },
     {
       "title": "Strands Decider 2B: a small, open-source, decision model",
       "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 59,
-      "comments": 5,
+      "score": 215,
+      "comments": 59,
       "source": "strandsagents.com"
+    },
+    {
+      "title": "Show HN: AstroHelm \u2013 Use your phone camera to aim a telescope or telephoto lens",
+      "url": "https://astrohelm.app/",
+      "score": 19,
+      "comments": 10,
+      "source": "astrohelm.app"
     },
     {
       "title": "Decisions API is in public beta",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 186,
-      "comments": 82,
+      "score": 336,
+      "comments": 178,
       "source": "developers.openai.com"
+    },
+    {
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "score": 130,
+      "comments": 52,
+      "source": "github.com"
+    },
+    {
+      "title": "Rust's derive often implies inline",
+      "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+      "score": 10,
+      "comments": 0,
+      "source": "yossarian.net"
+    },
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1885,
+      "comments": 1134,
+      "source": "mistral.ai"
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 357,
+      "comments": 35,
+      "source": "blog.google"
+    },
+    {
+      "title": "What is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "score": 106,
+      "comments": 48,
+      "source": "lucumr.pocoo.org"
+    },
+    {
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "score": 39,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "Gallery of Processor Cache Effects (2010)",
+      "url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+      "score": 23,
+      "comments": 4,
+      "source": "igoro.com"
     },
     {
       "title": "The cost of lies: A Mineserver story",
       "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "score": 34,
-      "comments": 9,
+      "score": 136,
+      "comments": 58,
       "source": "jeremyreimer.com"
     },
     {
       "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
-      "score": 104,
-      "comments": 48,
+      "score": 211,
+      "comments": 135,
       "source": "penguin-mail.com"
-    },
-    {
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 9,
-      "comments": 1,
-      "source": "nanochess.org"
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "score": 256,
-      "comments": 31,
-      "source": "blog.google"
     },
     {
       "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
       "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "score": 134,
-      "comments": 72,
+      "score": 228,
+      "comments": 131,
       "source": "zohaib.cc"
     },
     {
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "score": 20,
+      "title": "Forever Junior: The Skills AI Can't Develop for You",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "score": 14,
       "comments": 5,
+      "source": "tech.criteo.com"
+    },
+    {
+      "title": "Show HN: Arcadeia \u2013 A self-hosted media library with animated video previews",
+      "url": "https://github.com/travelonium/arcadeia",
+      "score": 9,
+      "comments": 6,
       "source": "github.com"
     },
     {
-      "title": "LLMs may have helped my RSI",
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "score": 60,
-      "comments": 31,
-      "source": "vaughanhilts.me"
-    },
-    {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "score": 147,
-      "comments": 116,
-      "source": "github.com"
+      "title": "The Legend of the Paper Crane",
+      "url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
+      "score": 22,
+      "comments": 11,
+      "source": "mazdastories.com"
     },
     {
       "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
-      "score": 253,
-      "comments": 311,
+      "score": 306,
+      "comments": 353,
       "source": "github.com"
     },
     {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "score": 99,
-      "comments": 111,
-      "source": "techspot.com"
+      "title": "Show HN: NanoMuse \u2013 An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "score": 29,
+      "comments": 7,
+      "source": "github.com"
     },
     {
-      "title": "State of Devs 2026",
-      "url": "https://2026.stateofdevs.com/en-US/",
-      "score": 97,
-      "comments": 31,
-      "source": "2026.stateofdevs.com"
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "score": 22,
+      "comments": 14,
+      "source": "pushsquare.com"
     },
     {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "score": 10,
-      "comments": 2,
-      "source": "sregym.com"
-    },
-    {
-      "title": "When random is not actually random enough",
-      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
-      "score": 40,
-      "comments": 10,
-      "source": "ersc.io"
-    },
-    {
-      "title": "What's Earth's dominant species by mass?",
-      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
-      "score": 178,
-      "comments": 119,
-      "source": "signoregalilei.com"
-    },
-    {
-      "title": "How Fast is Python 3.15?",
-      "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
-      "score": 41,
-      "comments": 27,
-      "source": "blog.miguelgrinberg.com"
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 58,
+      "comments": 19,
+      "source": "nanochess.org"
     },
     {
       "title": "Treg (OpenRouter for Tools)",
       "url": "https://github.com/superdesigndev/treg",
-      "score": 6,
-      "comments": 1,
+      "score": 36,
+      "comments": 8,
       "source": "github.com"
     },
     {
-      "title": "Account bans on Reddit",
-      "url": "https://orchidfiles.com/account-bans-on-reddit/",
-      "score": 30,
-      "comments": 22,
-      "source": "orchidfiles.com"
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "score": 84,
+      "comments": 58,
+      "source": "theguardian.com"
     },
     {
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "score": 200,
-      "comments": 327,
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "score": 204,
+      "comments": 106,
+      "source": "2026.stateofdevs.com"
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "score": 104,
+      "comments": 35,
       "source": "arstechnica.com"
-    },
-    {
-      "title": "California closed the Montana license plate loophole",
-      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-      "score": 76,
-      "comments": 197,
-      "source": "thedrive.com"
-    },
-    {
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "score": 13,
-      "comments": 11,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Benchmark in Milliseconds",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "score": 130,
-      "comments": 38,
-      "source": "matklad.github.io"
-    },
-    {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "score": 53,
-      "comments": 11,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Integer multiplication below n log n",
-      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
-      "score": 78,
-      "comments": 55,
-      "source": "github.com"
-    },
-    {
-      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.38721",
-      "score": 13,
-      "comments": 3,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "score": 540,
-      "comments": 187,
-      "source": "nobelprize.org"
-    },
-    {
-      "title": "The Query Transformation Pipeline",
-      "url": "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline",
-      "score": 14,
-      "comments": 0,
-      "source": "readyset.io"
     }
   ],
   "security": [
