@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "score": 392,
-      "comments": 378,
-      "source": "mathstodon.xyz"
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "score": 421,
+      "comments": 101,
+      "source": "cactuscompute.com"
     },
     {
-      "title": "The Slow Formation of Durable Software",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "score": 42,
-      "comments": 12,
-      "source": "newsletter.dancohen.org"
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "score": 82,
+      "comments": 63,
+      "source": "frontiersin.org"
+    },
+    {
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "score": 187,
+      "comments": 95,
+      "source": "theranos.world"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 291,
+      "comments": 253,
+      "source": "dgt.is"
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "score": 86,
+      "comments": 26,
+      "source": "ken.arneson.name"
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "score": 35,
+      "comments": 1,
+      "source": "biohub.org"
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "score": 280,
+      "comments": 171,
+      "source": "dexerto.com"
+    },
+    {
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "score": 283,
+      "comments": 36,
+      "source": "antonfrolov.substack.com"
+    },
+    {
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "score": 82,
+      "comments": 32,
+      "source": "htmx.org"
+    },
+    {
+      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "url": "https://github.com/thesnarkitecht/rembrandt",
+      "score": 31,
+      "comments": 23,
+      "source": "github.com"
+    },
+    {
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "url": "https://www.nature.com/articles/s41586-026-10546-z",
+      "score": 58,
+      "comments": 1,
+      "source": "nature.com"
+    },
+    {
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "url": "https://naturalsystems.io/eth68",
+      "score": 55,
+      "comments": 40,
+      "source": "naturalsystems.io"
+    },
+    {
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "score": 75,
+      "comments": 23,
+      "source": "openrouter.ai"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "score": 234,
+      "comments": 142,
+      "source": "vale.rocks"
+    },
+    {
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "url": "https://mitchellh.com/writing/program-status-osc7501",
+      "score": 66,
+      "comments": 21,
+      "source": "mitchellh.com"
+    },
+    {
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "score": 78,
+      "comments": 14,
+      "source": "scottbezek.blogspot.com"
+    },
+    {
+      "title": "Show HN: Rgpu \u2013 a PyTorch device whose tensors live on a remote GPU",
+      "url": "https://github.com/ymcrcat/rgpu",
+      "score": 22,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "The dawn of the age of the exoskeleton",
+      "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
+      "score": 41,
+      "comments": 21,
+      "source": "theconversation.com"
+    },
+    {
+      "title": "US man given prison sentence for bot-farming music streams",
+      "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+      "score": 74,
+      "comments": 112,
+      "source": "thequietus.com"
+    },
+    {
+      "title": "OLED burn-in test: 30-month update",
+      "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+      "score": 76,
+      "comments": 47,
+      "source": "techspot.com"
+    },
+    {
+      "title": "Show HN: TerrainSR \u2013 fast, realistic heightmap upscaling model",
+      "url": "https://huggingface.co/joe-gibbs/terrainsr",
+      "score": 19,
+      "comments": 3,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "DuckDB Ducklake",
+      "url": "https://github.com/duckdb/ducklake",
+      "score": 95,
+      "comments": 13,
+      "source": "github.com"
     },
     {
       "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
       "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-      "score": 21,
-      "comments": 5,
+      "score": 332,
+      "comments": 171,
       "source": "quesma.com"
     },
     {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "url": "https://github.com/openai/math/blob/main/history.md",
-      "score": 84,
-      "comments": 56,
-      "source": "github.com"
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "score": 92,
+      "comments": 43,
+      "source": "smithsonianmag.com"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "score": 935,
-      "comments": 441,
-      "source": "anthropic.com"
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "score": 775,
+      "comments": 1350,
+      "source": "apnews.com"
     },
     {
-      "title": "The 15-year search for a band that charted once and vanished",
-      "url": "https://shahidhussain.com/writing/search-for-salvage/",
-      "score": 190,
-      "comments": 69,
-      "source": "shahidhussain.com"
+      "title": "Orkut.com",
+      "url": "https://orkut.com/",
+      "score": 125,
+      "comments": 85,
+      "source": "orkut.com"
     },
     {
-      "title": "Living off-grid: Hundred Rabbits",
-      "url": "https://100r.ca/site/home.html",
-      "score": 273,
-      "comments": 92,
-      "source": "100r.ca"
+      "title": "The Slow Formation of Durable Software",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "score": 242,
+      "comments": 106,
+      "source": "newsletter.dancohen.org"
     },
     {
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "score": 1737,
-      "comments": 182,
-      "source": "news.mit.edu"
+      "title": "New gTLD Application for .lan",
+      "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+      "score": 89,
+      "comments": 105,
+      "source": "newgtldprogram-aps.icann.org"
     },
     {
-      "title": "GPT\u20116 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "score": 675,
-      "comments": 397,
-      "source": "openai.com"
-    },
-    {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "score": 210,
-      "comments": 78,
-      "source": "science.org"
-    },
-    {
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "score": 184,
-      "comments": 101,
-      "source": "404media.co"
-    },
-    {
-      "title": "The Mathocalypse",
-      "url": "https://scottaaronson.blog/?p=10169",
-      "score": 283,
-      "comments": 300,
-      "source": "scottaaronson.blog"
-    },
-    {
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "score": 178,
-      "comments": 35,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "score": 553,
-      "comments": 143,
-      "source": "bigwords.page"
-    },
-    {
-      "title": "Classic PC demoscene productions running natively in the browser",
-      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-      "score": 105,
-      "comments": 89,
-      "source": "treylorswift.github.io"
-    },
-    {
-      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-      "url": "https://dat-ecosystem.org/",
-      "score": 23,
-      "comments": 12,
-      "source": "dat-ecosystem.org"
-    },
-    {
-      "title": "New repository settings for configuring pull request access",
-      "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
-      "score": 27,
-      "comments": 16,
-      "source": "github.blog"
-    },
-    {
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "score": 119,
-      "comments": 37,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 1288,
-      "comments": 1461,
-      "source": "openai.com"
-    },
-    {
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
-      "score": 261,
-      "comments": 120,
-      "source": "github.com"
-    },
-    {
-      "title": "Time Travel in Braid (2015)",
-      "url": "https://qntm.org/braid",
-      "score": 5,
-      "comments": 0,
-      "source": "qntm.org"
-    },
-    {
-      "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
-      "url": "https://www.ahmath.org/statements",
-      "score": 9,
-      "comments": 3,
-      "source": "ahmath.org"
-    },
-    {
-      "title": "Bloody Cavemen",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
-      "score": 17,
+      "title": "Vanillin provides a sweet solution for chronic wound healing",
+      "url": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
+      "score": 24,
       "comments": 2,
-      "source": "lrb.co.uk"
-    },
-    {
-      "title": "Anne Carson wins Nobel Prize in literature 2026",
-      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "score": 16,
-      "comments": 1,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "score": 159,
-      "comments": 73,
-      "source": "debasishg.github.io"
-    },
-    {
-      "title": "Animated ASCII Art for Web Pages",
-      "url": "https://ascii.rest/",
-      "score": 387,
-      "comments": 69,
-      "source": "ascii.rest"
-    },
-    {
-      "title": "Why were Victorian elites so effective?",
-      "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-      "score": 185,
-      "comments": 309,
-      "source": "worksinprogress.co"
-    },
-    {
-      "title": "Analog Computer Simulator in the Browser",
-      "url": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
-      "score": 30,
-      "comments": 10,
-      "source": "pavel-krivanek.github.io"
-    },
-    {
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "score": 81,
-      "comments": 148,
-      "source": "github.com"
-    },
-    {
-      "title": "How machines learned precision",
-      "url": "https://glinscott.github.io/how-machines-learned-precision/",
-      "score": 189,
-      "comments": 64,
-      "source": "glinscott.github.io"
+      "source": "news.flinders.edu.au"
     }
   ],
   "security": [
