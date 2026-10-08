@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 392,
+      "comments": 378,
+      "source": "mathstodon.xyz"
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "score": 42,
+      "comments": 12,
+      "source": "newsletter.dancohen.org"
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "score": 21,
+      "comments": 5,
+      "source": "quesma.com"
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "score": 84,
+      "comments": 56,
+      "source": "github.com"
+    },
+    {
       "title": "Claude Haiku 5.5",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "score": 752,
-      "comments": 378,
+      "score": 935,
+      "comments": 441,
       "source": "anthropic.com"
     },
     {
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "score": 1010,
-      "comments": 113,
-      "source": "news.mit.edu"
+      "title": "The 15-year search for a band that charted once and vanished",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "score": 190,
+      "comments": 69,
+      "source": "shahidhussain.com"
     },
     {
       "title": "Living off-grid: Hundred Rabbits",
       "url": "https://100r.ca/site/home.html",
-      "score": 59,
-      "comments": 10,
+      "score": 273,
+      "comments": 92,
       "source": "100r.ca"
     },
     {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "score": 106,
-      "comments": 44,
-      "source": "science.org"
-    },
-    {
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "score": 73,
-      "comments": 6,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "score": 93,
-      "comments": 36,
-      "source": "404media.co"
-    },
-    {
-      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "score": 409,
-      "comments": 119,
-      "source": "bigwords.page"
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 1737,
+      "comments": 182,
+      "source": "news.mit.edu"
     },
     {
       "title": "GPT\u20116 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "score": 543,
-      "comments": 281,
+      "score": 675,
+      "comments": 397,
       "source": "openai.com"
     },
     {
-      "title": "Shipping JPEG XL in Chrome",
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "score": 509,
-      "comments": 345,
-      "source": "developer.chrome.com"
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "score": 210,
+      "comments": 78,
+      "source": "science.org"
+    },
+    {
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "score": 184,
+      "comments": 101,
+      "source": "404media.co"
+    },
+    {
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "score": 283,
+      "comments": 300,
+      "source": "scottaaronson.blog"
+    },
+    {
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "score": 178,
+      "comments": 35,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "score": 553,
+      "comments": 143,
+      "source": "bigwords.page"
+    },
+    {
+      "title": "Classic PC demoscene productions running natively in the browser",
+      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+      "score": 105,
+      "comments": 89,
+      "source": "treylorswift.github.io"
+    },
+    {
+      "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+      "url": "https://dat-ecosystem.org/",
+      "score": 23,
+      "comments": 12,
+      "source": "dat-ecosystem.org"
+    },
+    {
+      "title": "New repository settings for configuring pull request access",
+      "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
+      "score": 27,
+      "comments": 16,
+      "source": "github.blog"
     },
     {
       "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
       "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "score": 46,
-      "comments": 3,
+      "score": 119,
+      "comments": 37,
       "source": "nytimes.com"
-    },
-    {
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
-      "score": 201,
-      "comments": 89,
-      "source": "github.com"
-    },
-    {
-      "title": "A minimal kernel in Swift, running in QEMU",
-      "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
-      "score": 46,
-      "comments": 9,
-      "source": "carette.xyz"
-    },
-    {
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "score": 121,
-      "comments": 60,
-      "source": "debasishg.github.io"
     },
     {
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 1253,
-      "comments": 1423,
+      "score": 1288,
+      "comments": 1461,
       "source": "openai.com"
+    },
+    {
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "score": 261,
+      "comments": 120,
+      "source": "github.com"
+    },
+    {
+      "title": "Time Travel in Braid (2015)",
+      "url": "https://qntm.org/braid",
+      "score": 5,
+      "comments": 0,
+      "source": "qntm.org"
+    },
+    {
+      "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+      "url": "https://www.ahmath.org/statements",
+      "score": 9,
+      "comments": 3,
+      "source": "ahmath.org"
+    },
+    {
+      "title": "Bloody Cavemen",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen",
+      "score": 17,
+      "comments": 2,
+      "source": "lrb.co.uk"
+    },
+    {
+      "title": "Anne Carson wins Nobel Prize in literature 2026",
+      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "score": 16,
+      "comments": 1,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "score": 159,
+      "comments": 73,
+      "source": "debasishg.github.io"
     },
     {
       "title": "Animated ASCII Art for Web Pages",
       "url": "https://ascii.rest/",
-      "score": 318,
-      "comments": 59,
+      "score": 387,
+      "comments": 69,
       "source": "ascii.rest"
-    },
-    {
-      "title": "A new write and space optimized storage engine for MySQL is here",
-      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
-      "score": 44,
-      "comments": 18,
-      "source": "tidesdb.com"
-    },
-    {
-      "title": "How machines learned precision",
-      "url": "https://glinscott.github.io/how-machines-learned-precision/",
-      "score": 125,
-      "comments": 58,
-      "source": "glinscott.github.io"
-    },
-    {
-      "title": "If somebody tries to hot-patch an already-hot-patched function",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
-      "score": 50,
-      "comments": 23,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Navier\u2013Stokes Lost in Translation",
-      "url": "https://arxiv.org/abs/2610.08144",
-      "score": 276,
-      "comments": 169,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Brownian Motion",
-      "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
-      "score": 48,
-      "comments": 2,
-      "source": "gregorygundersen.com"
-    },
-    {
-      "title": "House with 15m underground tunnels for sale for 300k",
-      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-      "score": 181,
-      "comments": 168,
-      "source": "readingchronicle.co.uk"
-    },
-    {
-      "title": "Wood Tape (2004)",
-      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "score": 174,
-      "comments": 25,
-      "source": "gamesbyemail.com"
-    },
-    {
-      "title": "Google Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "score": 129,
-      "comments": 210,
-      "source": "blog.google"
-    },
-    {
-      "title": "Anti-patterns in software blogging",
-      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-      "score": 225,
-      "comments": 126,
-      "source": "refactoringenglish.com"
-    },
-    {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "score": 310,
-      "comments": 297,
-      "source": "rswebsols.com"
-    },
-    {
-      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-      "score": 511,
-      "comments": 364,
-      "source": "classaction.org"
     },
     {
       "title": "Why were Victorian elites so effective?",
       "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-      "score": 113,
-      "comments": 184,
+      "score": 185,
+      "comments": 309,
       "source": "worksinprogress.co"
     },
     {
-      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
-      "url": "https://github.com/snuri00/psp-web-recomp",
-      "score": 174,
-      "comments": 94,
+      "title": "Analog Computer Simulator in the Browser",
+      "url": "https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/",
+      "score": 30,
+      "comments": 10,
+      "source": "pavel-krivanek.github.io"
+    },
+    {
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "score": 81,
+      "comments": 148,
       "source": "github.com"
     },
     {
-      "title": "SynthID Detector",
-      "url": "https://synthid.com/",
-      "score": 102,
-      "comments": 89,
-      "source": "synthid.com"
-    },
-    {
-      "title": "The art of defusing a second world war bomb",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "score": 121,
-      "comments": 94,
-      "source": "theguardian.com"
+      "title": "How machines learned precision",
+      "url": "https://glinscott.github.io/how-machines-learned-precision/",
+      "score": 189,
+      "comments": 64,
+      "source": "glinscott.github.io"
     }
   ],
   "security": [
