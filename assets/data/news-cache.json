@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 171,
-      "comments": 85,
-      "source": "gizmodo.com"
-    },
-    {
-      "title": "No Man Is an Island",
-      "url": "https://borretti.me/article/no-man-is-an-island",
-      "score": 188,
-      "comments": 91,
-      "source": "borretti.me"
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "url": "https://rea.tools/",
+      "score": 187,
+      "comments": 53,
+      "source": "rea.tools"
     },
     {
       "title": "Cloudflare acquires Deno",
       "url": "https://deno.com/blog/cloudflare",
-      "score": 965,
-      "comments": 506,
+      "score": 1113,
+      "comments": 574,
       "source": "deno.com"
     },
     {
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
-      "score": 410,
-      "comments": 87,
+      "score": 754,
+      "comments": 150,
       "source": "minesweeper.mikelacher.com"
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "score": 35,
+      "comments": 16,
+      "source": "blog.janestreet.com"
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "score": 31,
+      "comments": 6,
+      "source": "usenix.org"
     },
     {
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
-      "score": 143,
-      "comments": 14,
+      "score": 239,
+      "comments": 31,
       "source": "carrierexplode.com"
-    },
-    {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 536,
-      "comments": 232,
-      "source": "oxide.computer"
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
-      "score": 201,
-      "comments": 159,
+      "score": 302,
+      "comments": 227,
       "source": "typesafe.ai"
     },
     {
-      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
-      "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-      "score": 82,
-      "comments": 27,
-      "source": "experimental-history.com"
-    },
-    {
-      "title": "Sorry, I'm in a meeting",
-      "url": "https://iminafleeting.com/",
-      "score": 682,
-      "comments": 216,
-      "source": "iminafleeting.com"
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "score": 38,
+      "comments": 3,
+      "source": "lwn.net"
     },
     {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 75,
-      "comments": 38,
+      "score": 124,
+      "comments": 62,
       "source": "jessewaites.com"
     },
     {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "score": 354,
-      "comments": 151,
-      "source": "github.com"
-    },
-    {
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "score": 412,
-      "comments": 210,
-      "source": "nobelprize.org"
-    },
-    {
-      "title": "M7.6 Earthquake in Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "score": 106,
-      "comments": 33,
-      "source": "earthquake.usgs.gov"
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "score": 118,
-      "comments": 15,
-      "source": "animationobsessive.substack.com"
-    },
-    {
-      "title": "Microsoft-Decision-1, our model for fast decision-making",
-      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "score": 92,
-      "comments": 32,
-      "source": "commandline.microsoft.com"
-    },
-    {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
-      "score": 26,
-      "comments": 3,
-      "source": "readrare.com"
-    },
-    {
-      "title": "A statement on the Tor Project's relationship with Mullvad",
-      "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-      "score": 86,
-      "comments": 194,
-      "source": "blog.torproject.org"
-    },
-    {
-      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-      "score": 166,
-      "comments": 91,
-      "source": "euronews.com"
-    },
-    {
-      "title": "Training Text-to-Image Models Without a VAE",
-      "url": "https://www.linum.ai/field-notes/pyramid-jit",
-      "score": 43,
-      "comments": 14,
-      "source": "linum.ai"
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "score": 481,
+      "comments": 266,
+      "source": "gizmodo.com"
     },
     {
       "title": "Show HN: Proton Drive for Linux",
       "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "score": 6,
-      "comments": 1,
+      "score": 48,
+      "comments": 18,
       "source": "oss.lsantos.dev"
     },
     {
-      "title": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
-      "score": 719,
-      "comments": 283,
-      "source": "htmx.org"
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "score": 101,
+      "comments": 81,
+      "source": "nbcphiladelphia.com"
     },
     {
-      "title": "You might want to try being less creative",
-      "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-      "score": 50,
+      "title": "Atari Falcon",
+      "url": "https://atarimuseum.nl/atari-falcon/",
+      "score": 26,
+      "comments": 5,
+      "source": "atarimuseum.nl"
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "score": 620,
+      "comments": 284,
+      "source": "oxide.computer"
+    },
+    {
+      "title": "Has the Autonomous Trucking Revolution Arrived?",
+      "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+      "score": 14,
+      "comments": 17,
+      "source": "phenomenalworld.org"
+    },
+    {
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "score": 12,
+      "comments": 1,
+      "source": "broadinstitute.org"
+    },
+    {
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "score": 31,
+      "comments": 10,
+      "source": "primeintellect.ai"
+    },
+    {
+      "title": "The role of cat eye narrowing movements in cat\u2013human communication (2020)",
+      "url": "https://www.nature.com/articles/s41598-020-73426-0",
+      "score": 52,
+      "comments": 22,
+      "source": "nature.com"
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "score": 177,
       "comments": 24,
-      "source": "blog.bawolf.com"
+      "source": "animationobsessive.substack.com"
     },
     {
-      "title": "Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "score": 314,
-      "comments": 254,
-      "source": "unsung.aresluna.org"
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "score": 57,
+      "comments": 7,
+      "source": "terrytao.wordpress.com"
     },
     {
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "score": 292,
-      "comments": 191,
-      "source": "techcrunch.com"
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "score": 808,
+      "comments": 246,
+      "source": "iminafleeting.com"
     },
     {
-      "title": "MXC - a sandboxed code execution system",
-      "url": "https://github.com/microsoft/mxc",
-      "score": 167,
-      "comments": 78,
-      "source": "github.com"
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "score": 74,
+      "comments": 81,
+      "source": "twitter.com"
     },
     {
-      "title": "Why Are Coding Agents So Dumb?",
-      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-      "score": 53,
-      "comments": 25,
-      "source": "mtlynch.io"
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "url": "https://readrare.com/",
+      "score": 88,
+      "comments": 26,
+      "source": "readrare.com"
+    },
+    {
+      "title": "100+ reactions to 100+ solutions",
+      "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+      "score": 45,
+      "comments": 47,
+      "source": "proofsandprompts.com"
+    },
+    {
+      "title": "The Alchemical Transformations of the Mutus Liber (1677)",
+      "url": "https://publicdomainreview.org/collection/mutus-liber/",
+      "score": 3,
+      "comments": 0,
+      "source": "publicdomainreview.org"
+    },
+    {
+      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+      "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+      "score": 13,
+      "comments": 3,
+      "source": "jdb19937.github.io"
+    },
+    {
+      "title": "Smart contracts: Ship the parachute in v1",
+      "url": "https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c",
+      "score": 7,
+      "comments": 2,
+      "source": "medium.com"
     },
     {
       "title": "Programming Isn't Special",
       "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "score": 150,
-      "comments": 168,
+      "score": 184,
+      "comments": 205,
       "source": "blog.glyph.im"
     },
     {
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "score": 541,
-      "comments": 199,
-      "source": "theranos.world"
+      "title": "M7.6 Earthquake in Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+      "score": 142,
+      "comments": 36,
+      "source": "earthquake.usgs.gov"
     },
     {
-      "title": "Once: Cache CLI commands",
-      "url": "https://github.com/alex0ptr/once",
-      "score": 85,
-      "comments": 37,
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "score": 387,
+      "comments": 170,
       "source": "github.com"
-    },
-    {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 1068,
-      "comments": 937,
-      "source": "dgt.is"
     }
   ],
   "security": [
