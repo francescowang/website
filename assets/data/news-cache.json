@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "score": 122,
-      "comments": 79,
-      "source": "cphpost.dk"
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "score": 168,
+      "comments": 109,
+      "source": "community.bitwarden.com"
+    },
+    {
+      "title": "Knuth Reward Check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "score": 28,
+      "comments": 10,
+      "source": "thomas-huehn.com"
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "score": 28,
-      "comments": 8,
+      "score": 143,
+      "comments": 76,
       "source": "github.com"
+    },
+    {
+      "title": "Rampart: Browser native on-device PII radaction",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "score": 28,
+      "comments": 11,
+      "source": "ndstudio.gov"
+    },
+    {
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 48,
+      "comments": 7,
+      "source": "blogs.windows.com"
     },
     {
       "title": "REA Reverse \u2013 Engineer Anything",
       "url": "https://rea.tools/",
-      "score": 468,
-      "comments": 186,
+      "score": 580,
+      "comments": 254,
       "source": "rea.tools"
+    },
+    {
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "score": 84,
+      "comments": 164,
+      "source": "conversableeconomist.com"
     },
     {
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "score": 209,
-      "comments": 100,
+      "score": 314,
+      "comments": 163,
       "source": "beaksec.github.io"
-    },
-    {
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 1256,
-      "comments": 635,
-      "source": "deno.com"
-    },
-    {
-      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-      "score": 73,
-      "comments": 39,
-      "source": "tonym.us"
     },
     {
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
-      "score": 1043,
-      "comments": 200,
+      "score": 1218,
+      "comments": 243,
       "source": "minesweeper.mikelacher.com"
+    },
+    {
+      "title": "Grieving the Loss of Details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 11,
+      "comments": 0,
+      "source": "purplesyringa.moe"
+    },
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "score": 311,
+      "comments": 170,
+      "source": "cphpost.dk"
+    },
+    {
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+      "score": 27,
+      "comments": 5,
+      "source": "chronicles.popvax.com"
     },
     {
       "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
       "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "score": 178,
-      "comments": 40,
+      "score": 244,
+      "comments": 52,
       "source": "usenix.org"
     },
     {
-      "title": "Apple/macOS silently removed from official Unix registry",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "score": 4,
-      "comments": 0,
-      "source": "opengroup.org"
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "score": 78,
+      "comments": 22,
+      "source": "phys.org"
     },
     {
-      "title": "Cube Type \u2013 Isometric Typography Generator",
-      "url": "https://typeincube.com/",
+      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
+      "score": 32,
+      "comments": 8,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+      "score": 171,
+      "comments": 142,
+      "source": "tonym.us"
+    },
+    {
+      "title": "Timestamping a Giant Record of the Web",
+      "url": "https://projecttimestamper.org/blog/common-crawl/",
       "score": 24,
-      "comments": 3,
-      "source": "typeincube.com"
+      "comments": 1,
+      "source": "projecttimestamper.org"
     },
     {
       "title": "Can you use autoregressive diffusion to generate market data?",
       "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 103,
-      "comments": 32,
+      "score": 153,
+      "comments": 42,
       "source": "blog.janestreet.com"
-    },
-    {
-      "title": "Computers Cannot Make Decisions",
-      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "score": 116,
-      "comments": 95,
-      "source": "wiki.cateat.fish"
-    },
-    {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "score": 338,
-      "comments": 43,
-      "source": "carrierexplode.com"
-    },
-    {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "url": "https://lwn.net/Articles/1055211/",
-      "score": 90,
-      "comments": 22,
-      "source": "lwn.net"
-    },
-    {
-      "title": "How to head into VR without wearing a headset",
-      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-      "score": 39,
-      "comments": 20,
-      "source": "kyushu-u.ac.jp"
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 381,
-      "comments": 287,
-      "source": "typesafe.ai"
-    },
-    {
-      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "score": 82,
-      "comments": 17,
-      "source": "broadinstitute.org"
     },
     {
       "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
       "url": "https://www.datocms.com/blog/handling-less-common-scripts",
-      "score": 9,
-      "comments": 3,
+      "score": 40,
+      "comments": 20,
       "source": "datocms.com"
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 152,
-      "comments": 78,
-      "source": "jessewaites.com"
+      "title": "How Protein Took over the World",
+      "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+      "score": 18,
+      "comments": 16,
+      "source": "ft.com"
     },
     {
-      "title": "C for Rust Programmers",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "score": 4,
-      "comments": 0,
-      "source": "bd103.dev"
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "score": 136,
+      "comments": 141,
+      "source": "opengroup.org"
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "score": 381,
+      "comments": 45,
+      "source": "carrierexplode.com"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "score": 1309,
+      "comments": 675,
+      "source": "deno.com"
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "score": 120,
+      "comments": 33,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "score": 132,
+      "comments": 32,
+      "source": "broadinstitute.org"
+    },
+    {
+      "title": "How to head into VR without wearing a headset",
+      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "score": 61,
+      "comments": 35,
+      "source": "kyushu-u.ac.jp"
+    },
+    {
+      "title": "AI Is Throwing a Roadside Picnic",
+      "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "score": 8,
+      "comments": 4,
+      "source": "metedata.substack.com"
+    },
+    {
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "score": 172,
+      "comments": 143,
+      "source": "wiki.cateat.fish"
     },
     {
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 133,
-      "comments": 28,
+      "score": 168,
+      "comments": 44,
       "source": "terrytao.wordpress.com"
     },
     {
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "score": 53,
-      "comments": 43,
-      "source": "news.vt.edu"
-    },
-    {
-      "title": "Show HN: Proton Drive for Linux",
-      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "score": 93,
-      "comments": 32,
-      "source": "oss.lsantos.dev"
-    },
-    {
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "score": 128,
-      "comments": 146,
-      "source": "twitter.com"
-    },
-    {
-      "title": "The role of cat eye narrowing movements in cat\u2013human communication (2020)",
-      "url": "https://www.nature.com/articles/s41598-020-73426-0",
-      "score": 93,
-      "comments": 36,
-      "source": "nature.com"
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "score": 228,
-      "comments": 30,
-      "source": "animationobsessive.substack.com"
-    },
-    {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 665,
-      "comments": 299,
-      "source": "oxide.computer"
-    },
-    {
-      "title": "Sorry, I'm in a meeting",
-      "url": "https://iminafleeting.com/",
-      "score": 922,
-      "comments": 260,
-      "source": "iminafleeting.com"
-    },
-    {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 592,
-      "comments": 320,
-      "source": "gizmodo.com"
-    },
-    {
-      "title": "Vegetative Electron Microscopy WTF? (2025)",
-      "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
-      "score": 19,
-      "comments": 1,
-      "source": "sciencebase.com"
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "score": 414,
+      "comments": 333,
+      "source": "typesafe.ai"
     }
   ],
   "security": [
