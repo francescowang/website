@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Bitwarden Dual License Model",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "score": 168,
-      "comments": 109,
-      "source": "community.bitwarden.com"
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "score": 182,
+      "comments": 45,
+      "source": "patkerr.co.uk"
     },
     {
-      "title": "Knuth Reward Check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check",
-      "score": 28,
-      "comments": 10,
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 108,
+      "comments": 37,
       "source": "thomas-huehn.com"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "score": 62,
+      "comments": 17,
+      "source": "motherduck.com"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "score": 78,
+      "comments": 12,
+      "source": "lightbulbcomputer.com"
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "score": 32,
+      "comments": 26,
+      "source": "epoch.ai"
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "score": 143,
-      "comments": 76,
+      "score": 209,
+      "comments": 109,
       "source": "github.com"
     },
     {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "score": 28,
-      "comments": 11,
-      "source": "ndstudio.gov"
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "score": 71,
+      "comments": 43,
+      "source": "ft.com"
     },
     {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 48,
-      "comments": 7,
+      "score": 129,
+      "comments": 28,
       "source": "blogs.windows.com"
+    },
+    {
+      "title": "Apple/macOS removed from official Unix registry",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "score": 203,
+      "comments": 192,
+      "source": "opengroup.org"
+    },
+    {
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "score": 30,
+      "comments": 1,
+      "source": "fzakaria.com"
+    },
+    {
+      "title": "Grieving the loss of details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 254,
+      "comments": 209,
+      "source": "purplesyringa.moe"
+    },
+    {
+      "title": "How strong is the strong interaction?",
+      "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+      "score": 31,
+      "comments": 4,
+      "source": "cerncourier.com"
     },
     {
       "title": "REA Reverse \u2013 Engineer Anything",
       "url": "https://rea.tools/",
-      "score": 580,
-      "comments": 254,
+      "score": 648,
+      "comments": 274,
       "source": "rea.tools"
-    },
-    {
-      "title": "I would like the value of my home to rise, while my property taxes fall",
-      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-      "score": 84,
-      "comments": 164,
-      "source": "conversableeconomist.com"
     },
     {
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "score": 314,
-      "comments": 163,
+      "score": 376,
+      "comments": 213,
       "source": "beaksec.github.io"
+    },
+    {
+      "title": "Rampart: Browser native on-device PII radaction",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "score": 54,
+      "comments": 22,
+      "source": "ndstudio.gov"
     },
     {
       "title": "Triple-A Minesweeper",
       "url": "https://minesweeper.mikelacher.com/",
-      "score": 1218,
-      "comments": 243,
+      "score": 1316,
+      "comments": 262,
       "source": "minesweeper.mikelacher.com"
     },
     {
-      "title": "Grieving the Loss of Details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "score": 11,
-      "comments": 0,
-      "source": "purplesyringa.moe"
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "url": "https://openscad.org/",
+      "score": 59,
+      "comments": 51,
+      "source": "openscad.org"
     },
     {
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "score": 311,
-      "comments": 170,
-      "source": "cphpost.dk"
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "score": 298,
+      "comments": 222,
+      "source": "community.bitwarden.com"
+    },
+    {
+      "title": "Unikernels were hard. key word: were",
+      "url": "https://ghuntley.com/unikernels/",
+      "score": 41,
+      "comments": 15,
+      "source": "ghuntley.com"
+    },
+    {
+      "title": "How Protein Took over the World",
+      "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+      "score": 41,
+      "comments": 72,
+      "source": "ft.com"
+    },
+    {
+      "title": "Chip-hex:cost-benefit, energy efficiency and hexagonal",
+      "url": "https://github.com/lzprograma/Chip-Hexa",
+      "score": 3,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "score": 167,
+      "comments": 384,
+      "source": "conversableeconomist.com"
+    },
+    {
+      "title": "50MB operating system can resurrect your old PC",
+      "url": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+      "score": 12,
+      "comments": 1,
+      "source": "makeuseof.com"
+    },
+    {
+      "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
+      "url": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+      "score": 43,
+      "comments": 6,
+      "source": "theverifiedpost.com"
     },
     {
       "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
       "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "score": 27,
-      "comments": 5,
+      "score": 99,
+      "comments": 17,
       "source": "chronicles.popvax.com"
     },
     {
       "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
       "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "score": 244,
-      "comments": 52,
+      "score": 285,
+      "comments": 67,
       "source": "usenix.org"
     },
     {
       "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
       "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-      "score": 78,
-      "comments": 22,
+      "score": 110,
+      "comments": 39,
       "source": "phys.org"
     },
     {
-      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-      "score": 32,
-      "comments": 8,
-      "source": "theguardian.com"
+      "title": "Takeshi's Castle",
+      "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "score": 43,
+      "comments": 20,
+      "source": "en.wikipedia.org"
     },
     {
-      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-      "score": 171,
-      "comments": 142,
-      "source": "tonym.us"
-    },
-    {
-      "title": "Timestamping a Giant Record of the Web",
-      "url": "https://projecttimestamper.org/blog/common-crawl/",
-      "score": 24,
-      "comments": 1,
-      "source": "projecttimestamper.org"
-    },
-    {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 153,
-      "comments": 42,
-      "source": "blog.janestreet.com"
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "score": 359,
+      "comments": 185,
+      "source": "cphpost.dk"
     },
     {
       "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
       "url": "https://www.datocms.com/blog/handling-less-common-scripts",
-      "score": 40,
-      "comments": 20,
+      "score": 50,
+      "comments": 29,
       "source": "datocms.com"
-    },
-    {
-      "title": "How Protein Took over the World",
-      "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-      "score": 18,
-      "comments": 16,
-      "source": "ft.com"
-    },
-    {
-      "title": "Apple/macOS silently removed from official Unix registry",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "score": 136,
-      "comments": 141,
-      "source": "opengroup.org"
-    },
-    {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "score": 381,
-      "comments": 45,
-      "source": "carrierexplode.com"
-    },
-    {
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 1309,
-      "comments": 675,
-      "source": "deno.com"
-    },
-    {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "url": "https://lwn.net/Articles/1055211/",
-      "score": 120,
-      "comments": 33,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "score": 132,
-      "comments": 32,
-      "source": "broadinstitute.org"
-    },
-    {
-      "title": "How to head into VR without wearing a headset",
-      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-      "score": 61,
-      "comments": 35,
-      "source": "kyushu-u.ac.jp"
-    },
-    {
-      "title": "AI Is Throwing a Roadside Picnic",
-      "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-      "score": 8,
-      "comments": 4,
-      "source": "metedata.substack.com"
-    },
-    {
-      "title": "Computers Cannot Make Decisions",
-      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "score": 172,
-      "comments": 143,
-      "source": "wiki.cateat.fish"
-    },
-    {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "score": 168,
-      "comments": 44,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 414,
-      "comments": 333,
-      "source": "typesafe.ai"
     }
   ],
   "security": [
