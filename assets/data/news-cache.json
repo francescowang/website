@@ -1,39 +1,172 @@
 {
   "tech": [
     {
-      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "score": 121,
-      "comments": 28,
-      "source": "radar.cloudflare.com"
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 229,
+      "comments": 93,
+      "source": "nanolathe.gg"
     },
     {
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "score": 6,
+      "title": "Cartographers of North Korea",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 67,
+      "comments": 6,
+      "source": "cartographers-nk.wonyoung.so"
+    },
+    {
+      "title": "Do You Have Pre-2012 Onion Issues?",
+      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "score": 135,
+      "comments": 8,
+      "source": "mailchi.mp"
+    },
+    {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "score": 51,
+      "comments": 8,
+      "source": "ways-of-seeing.com"
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "score": 236,
+      "comments": 97,
+      "source": "nyc.gov"
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "score": 257,
+      "comments": 313,
+      "source": "teorth.github.io"
+    },
+    {
+      "title": "Artificial Insanity",
+      "url": "https://richwhitehouse.com/index.php?postid=78",
+      "score": 36,
+      "comments": 25,
+      "source": "richwhitehouse.com"
+    },
+    {
+      "title": "I guess I'm using WebP now?",
+      "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+      "score": 43,
+      "comments": 33,
+      "source": "anderegg.ca"
+    },
+    {
+      "title": "The Unreasonable Effectiveness of Vex in NixOS",
+      "url": "https://blog.kammel.dev/post/nixos_vex/",
+      "score": 20,
       "comments": 0,
-      "source": "shkspr.mobi"
+      "source": "blog.kammel.dev"
     },
     {
-      "title": "IRCv3",
-      "url": "https://ircv3.net/",
-      "score": 111,
-      "comments": 85,
-      "source": "ircv3.net"
-    },
-    {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "url": "https://nitter.net",
-      "score": 127,
-      "comments": 19,
-      "source": "nitter.net"
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://github.com/rogerbinns/apsw",
+      "score": 42,
+      "comments": 12,
+      "source": "github.com"
     },
     {
       "title": "LineageOS 24.0",
       "url": "https://lineageos.org/Changelog-32/",
-      "score": 152,
-      "comments": 41,
+      "score": 380,
+      "comments": 162,
       "source": "lineageos.org"
+    },
+    {
+      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+      "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+      "score": 44,
+      "comments": 29,
+      "source": "medium.com"
+    },
+    {
+      "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
+      "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+      "score": 19,
+      "comments": 0,
+      "source": "news.mit.edu"
+    },
+    {
+      "title": "Playgrnd \u2013 tiny tools for making weird, beautiful things",
+      "url": "https://www.playgrnd.tools/",
+      "score": 41,
+      "comments": 8,
+      "source": "playgrnd.tools"
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "score": 70,
+      "comments": 25,
+      "source": "epestr.com"
+    },
+    {
+      "title": "FlowCE: Calculus on your TI-84 Plus CE",
+      "url": "https://tommyb3ll.github.io/FlowCE/",
+      "score": 6,
+      "comments": 3,
+      "source": "tommyb3ll.github.io"
+    },
+    {
+      "title": "The RAM shortage is bringing back DDR4",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "score": 257,
+      "comments": 263,
+      "source": "theverge.com"
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "score": 347,
+      "comments": 179,
+      "source": "shkspr.mobi"
+    },
+    {
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "score": 271,
+      "comments": 105,
+      "source": "itsallaboutthebit.com"
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "score": 118,
+      "comments": 71,
+      "source": "verdagon.dev"
+    },
+    {
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "score": 49,
+      "comments": 21,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Andrej Karpathy breaks down the capability gap",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 11,
+      "comments": 1,
+      "source": "twitter.com"
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "score": 189,
+      "comments": 125,
+      "source": "disconnect3d.pl"
+    },
+    {
+      "title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "score": 123,
+      "comments": 76,
+      "source": "betterwispr.com"
     },
     {
       "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -43,172 +176,39 @@
       "source": "jobs.ashbyhq.com"
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 341,
-      "comments": 77,
-      "source": "nishtahir.com"
-    },
-    {
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 505,
-      "comments": 104,
-      "source": "patkerr.co.uk"
-    },
-    {
-      "title": "AI is creating a 'human premium' for art created by people",
-      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-      "score": 14,
-      "comments": 8,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Rat's Register Allocator",
-      "url": "https://hexrat.cc/pages/blog/2026_10_07",
-      "score": 17,
-      "comments": 0,
-      "source": "hexrat.cc"
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "score": 380,
-      "comments": 129,
-      "source": "housing.over.pizza"
-    },
-    {
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "score": 456,
-      "comments": 69,
-      "source": "lightbulbcomputer.com"
-    },
-    {
-      "title": "How big is a Git commit?",
-      "url": "https://ratfactor.com/cards/git-commit-size",
-      "score": 45,
-      "comments": 21,
-      "source": "ratfactor.com"
-    },
-    {
-      "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 102,
-      "comments": 9,
-      "source": "github.com"
-    },
-    {
-      "title": "Retrofitting language models to operate over bytes",
-      "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "score": 72,
-      "comments": 10,
-      "source": "nature.com"
-    },
-    {
-      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-      "score": 16,
-      "comments": 12,
-      "source": "robotgirlgang.com"
-    },
-    {
-      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
-      "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
-      "score": 4,
-      "comments": 0,
-      "source": "joelsiks.com"
-    },
-    {
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 203,
-      "comments": 49,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
-      "score": 55,
-      "comments": 10,
-      "source": "hangul.ink"
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "score": 146,
-      "comments": 61,
-      "source": "cockroachlabs.com"
-    },
-    {
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "score": 199,
-      "comments": 72,
-      "source": "thomas-huehn.com"
-    },
-    {
-      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "score": 300,
-      "comments": 137,
-      "source": "github.com"
-    },
-    {
       "title": "3rd Yandex Cloud Data Center Was Hit",
       "url": "https://status.yandex.cloud/en/incidents/2136",
-      "score": 253,
-      "comments": 319,
+      "score": 523,
+      "comments": 631,
       "source": "status.yandex.cloud"
     },
     {
-      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
-      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
-      "score": 8,
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "score": 404,
+      "comments": 202,
+      "source": "nitter.net"
+    },
+    {
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "score": 6,
       "comments": 0,
-      "source": "economist.com"
+      "source": "inc.com"
     },
     {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 196,
-      "comments": 57,
-      "source": "blogs.windows.com"
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "score": 300,
+      "comments": 259,
+      "source": "ircv3.net"
     },
     {
-      "title": "I wish you the best in the Offline",
-      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-      "score": 58,
-      "comments": 33,
-      "source": "daverupert.com"
-    },
-    {
-      "title": "Decade-old RAM is making a comeback",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "score": 85,
-      "comments": 85,
-      "source": "theverge.com"
-    },
-    {
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "url": "https://openscad.org/",
-      "score": 156,
-      "comments": 120,
-      "source": "openscad.org"
-    },
-    {
-      "title": "Deterministic Simulation Testing in Celld",
-      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-      "score": 26,
-      "comments": 2,
-      "source": "celld.dev"
-    },
-    {
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "url": "https://github.com/moritzwilksch/diffle",
-      "score": 55,
-      "comments": 8,
-      "source": "github.com"
+      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+      "score": 51,
+      "comments": 3,
+      "source": "adolfoalvarez.cl"
     }
   ],
   "security": [
