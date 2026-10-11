@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "score": 153,
-      "comments": 71,
-      "source": "wallhop.io"
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "score": 121,
+      "comments": 28,
+      "source": "radar.cloudflare.com"
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 59,
-      "comments": 38,
-      "source": "momo5502.com"
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "score": 6,
+      "comments": 0,
+      "source": "shkspr.mobi"
+    },
+    {
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "score": 111,
+      "comments": 85,
+      "source": "ircv3.net"
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "score": 127,
+      "comments": 19,
+      "source": "nitter.net"
+    },
+    {
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "score": 152,
+      "comments": 41,
+      "source": "lineageos.org"
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "score": 1,
+      "comments": 0,
+      "source": "jobs.ashbyhq.com"
     },
     {
       "title": "Build your own decision model",
       "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 165,
-      "comments": 31,
+      "score": 341,
+      "comments": 77,
       "source": "nishtahir.com"
     },
     {
       "title": "2D Vehicles",
       "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 385,
-      "comments": 87,
+      "score": 505,
+      "comments": 104,
       "source": "patkerr.co.uk"
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "score": 14,
+      "comments": 8,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Rat's Register Allocator",
+      "url": "https://hexrat.cc/pages/blog/2026_10_07",
+      "score": 17,
+      "comments": 0,
+      "source": "hexrat.cc"
     },
     {
       "title": "A city-building game in which the city would prefer you didn't",
       "url": "https://housing.over.pizza/",
-      "score": 226,
-      "comments": 83,
+      "score": 380,
+      "comments": 129,
       "source": "housing.over.pizza"
-    },
-    {
-      "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 30,
-      "comments": 5,
-      "source": "github.com"
     },
     {
       "title": "The Lightbulb Computer",
       "url": "https://lightbulbcomputer.com/",
-      "score": 296,
-      "comments": 45,
+      "score": 456,
+      "comments": 69,
       "source": "lightbulbcomputer.com"
     },
     {
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 157,
-      "comments": 28,
-      "source": "fzakaria.com"
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "score": 45,
+      "comments": 21,
+      "source": "ratfactor.com"
     },
     {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "url": "https://hangul.ink/blog/hangul-day",
-      "score": 16,
-      "comments": 2,
-      "source": "hangul.ink"
-    },
-    {
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "score": 168,
-      "comments": 61,
-      "source": "thomas-huehn.com"
-    },
-    {
-      "title": "Why DuckDB 2.0 is faster",
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "score": 168,
-      "comments": 51,
-      "source": "motherduck.com"
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "score": 90,
-      "comments": 38,
-      "source": "cockroachlabs.com"
-    },
-    {
-      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "score": 264,
-      "comments": 123,
-      "source": "github.com"
-    },
-    {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 173,
-      "comments": 39,
-      "source": "blogs.windows.com"
-    },
-    {
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "url": "https://github.com/vahmoh25/Veda",
-      "score": 35,
-      "comments": 7,
+      "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "score": 102,
+      "comments": 9,
       "source": "github.com"
     },
     {
       "title": "Retrofitting language models to operate over bytes",
       "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "score": 23,
-      "comments": 0,
+      "score": 72,
+      "comments": 10,
       "source": "nature.com"
     },
     {
-      "title": "Unikernels were hard. key word: were",
-      "url": "https://ghuntley.com/unikernels/",
-      "score": 119,
-      "comments": 50,
-      "source": "ghuntley.com"
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "score": 16,
+      "comments": 12,
+      "source": "robotgirlgang.com"
+    },
+    {
+      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "url": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+      "score": 4,
+      "comments": 0,
+      "source": "joelsiks.com"
+    },
+    {
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "score": 203,
+      "comments": 49,
+      "source": "fzakaria.com"
+    },
+    {
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "url": "https://hangul.ink/blog/hangul-day",
+      "score": 55,
+      "comments": 10,
+      "source": "hangul.ink"
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "score": 146,
+      "comments": 61,
+      "source": "cockroachlabs.com"
+    },
+    {
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 199,
+      "comments": 72,
+      "source": "thomas-huehn.com"
+    },
+    {
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 300,
+      "comments": 137,
+      "source": "github.com"
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "score": 253,
+      "comments": 319,
+      "source": "status.yandex.cloud"
+    },
+    {
+      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+      "url": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+      "score": 8,
+      "comments": 0,
+      "source": "economist.com"
+    },
+    {
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 196,
+      "comments": 57,
+      "source": "blogs.windows.com"
+    },
+    {
+      "title": "I wish you the best in the Offline",
+      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "score": 58,
+      "comments": 33,
+      "source": "daverupert.com"
+    },
+    {
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "score": 85,
+      "comments": 85,
+      "source": "theverge.com"
+    },
+    {
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "url": "https://openscad.org/",
+      "score": 156,
+      "comments": 120,
+      "source": "openscad.org"
     },
     {
       "title": "Deterministic Simulation Testing in Celld",
       "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-      "score": 3,
-      "comments": 0,
+      "score": 26,
+      "comments": 2,
       "source": "celld.dev"
     },
     {
       "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
       "url": "https://github.com/moritzwilksch/diffle",
-      "score": 19,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Getting old Macromedia Director Games to run on modern Hardware",
-      "url": "https://werwolv.net/posts/macromedia_copy_protection/",
-      "score": 52,
+      "score": 55,
       "comments": 8,
-      "source": "werwolv.net"
-    },
-    {
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "url": "https://openscad.org/",
-      "score": 117,
-      "comments": 92,
-      "source": "openscad.org"
-    },
-    {
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "score": 373,
-      "comments": 291,
-      "source": "purplesyringa.moe"
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "score": 85,
-      "comments": 64,
-      "source": "epoch.ai"
-    },
-    {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "score": 82,
-      "comments": 31,
-      "source": "ndstudio.gov"
-    },
-    {
-      "title": "C for Rust programmers",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "score": 124,
-      "comments": 108,
-      "source": "bd103.dev"
-    },
-    {
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "score": 120,
-      "comments": 90,
-      "source": "news.vt.edu"
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "score": 136,
-      "comments": 91,
-      "source": "ft.com"
-    },
-    {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "score": 322,
-      "comments": 76,
-      "source": "usenix.org"
-    },
-    {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "score": 434,
-      "comments": 277,
-      "source": "beaksec.github.io"
-    },
-    {
-      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-      "score": 145,
-      "comments": 57,
-      "source": "phys.org"
+      "source": "github.com"
     }
   ],
   "security": [
