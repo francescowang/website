@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 95,
-      "comments": 43,
-      "source": "americanscientist.org"
+      "title": "Incident with Actions, Pull Requests and Issues",
+      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "score": 36,
+      "comments": 13,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "score": 65,
+      "comments": 25,
+      "source": "pixelatron.com"
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "score": 80,
+      "comments": 50,
+      "source": "sciencealert.com"
+    },
+    {
+      "title": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "score": 233,
+      "comments": 231,
+      "source": "github.com"
     },
     {
       "title": "Fingerprints are the new cookies",
       "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 162,
-      "comments": 69,
+      "score": 521,
+      "comments": 253,
       "source": "royfish.dev"
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "score": 162,
+      "comments": 66,
+      "source": "lalinsky.com"
+    },
+    {
+      "title": "Choreographic Programming in Rust",
+      "url": "https://github.com/hibanaworks/hibana",
+      "score": 17,
+      "comments": 6,
+      "source": "github.com"
     },
     {
       "title": "Total Annihilation, rebuilt for modern computers",
       "url": "https://nanolathe.gg",
-      "score": 415,
-      "comments": 177,
+      "score": 585,
+      "comments": 222,
       "source": "nanolathe.gg"
     },
     {
       "title": "Calculus with Julia",
       "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "score": 25,
-      "comments": 1,
+      "score": 181,
+      "comments": 27,
       "source": "jverzani.github.io"
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
+      "score": 74,
+      "comments": 70,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "url": "https://github.com/Geramy/LemonSeed-Studio",
+      "score": 51,
+      "comments": 18,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "score": 119,
+      "comments": 66,
+      "source": "github.com"
     },
     {
       "title": "Cartographers of North Korea (2019)",
       "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 207,
-      "comments": 38,
+      "score": 293,
+      "comments": 59,
       "source": "cartographers-nk.wonyoung.so"
-    },
-    {
-      "title": "Tattoos you can turn on and off",
-      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-      "score": 27,
-      "comments": 8,
-      "source": "livescience.com"
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "score": 312,
-      "comments": 492,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Illustration Beyond Proof",
-      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "score": 45,
-      "comments": 0,
-      "source": "terrytao.wordpress.com"
     },
     {
       "title": "Terence Tao: Math 2.0 [pdf]",
       "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "score": 346,
-      "comments": 394,
+      "score": 446,
+      "comments": 453,
       "source": "teorth.github.io"
     },
     {
-      "title": "Vectorized CLZ and CTZ",
-      "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
-      "score": 25,
-      "comments": 2,
-      "source": "purplesyringa.moe"
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "score": 448,
+      "comments": 142,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Bag of Decisions Reranker",
+      "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
+      "score": 30,
+      "comments": 0,
+      "source": "softwaredoug.com"
+    },
+    {
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "score": 202,
+      "comments": 146,
+      "source": "cnbc.com"
     },
     {
       "title": "Doory \u2013 Open-Source Canva",
       "url": "https://github.com/shaongitbd/doory",
-      "score": 23,
-      "comments": 2,
+      "score": 159,
+      "comments": 61,
       "source": "github.com"
     },
     {
-      "title": "No portable way to detect string-to-float conversion errors in standard C",
-      "url": "https://sebsite.pw/w/20261009-strtod.html",
-      "score": 5,
-      "comments": 0,
-      "source": "sebsite.pw"
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 157,
+      "comments": 81,
+      "source": "americanscientist.org"
     },
     {
-      "title": "Google is illegaly cutting forest to build data centers",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "score": 245,
-      "comments": 63,
-      "source": "theguardian.com"
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 552,
+      "comments": 790,
+      "source": "twitter.com"
     },
     {
       "title": "Passkeys are a trap",
       "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "score": 384,
-      "comments": 215,
+      "score": 807,
+      "comments": 434,
       "source": "nonfunctional.substack.com"
-    },
-    {
-      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-      "score": 34,
-      "comments": 4,
-      "source": "cell.com"
-    },
-    {
-      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "score": 88,
-      "comments": 14,
-      "source": "ways-of-seeing.com"
-    },
-    {
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "score": 81,
-      "comments": 42,
-      "source": "pub.sakana.ai"
-    },
-    {
-      "title": "So, You\u2019d Like To Sell Your Print Issues Of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "score": 278,
-      "comments": 38,
-      "source": "theonion.com"
     },
     {
       "title": "Local Indexing to reduce tool calling and token usage",
       "url": "https://tedhaley.ca/pensieve/",
-      "score": 39,
-      "comments": 6,
+      "score": 97,
+      "comments": 30,
       "source": "tedhaley.ca"
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "score": 84,
+      "comments": 13,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "score": 147,
+      "comments": 151,
+      "source": "clickhouse.com"
+    },
+    {
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "score": 125,
+      "comments": 30,
+      "source": "ways-of-seeing.com"
+    },
+    {
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "score": 221,
+      "comments": 243,
+      "source": "amosbbatto.wordpress.com"
+    },
+    {
+      "title": "Zod 4.6.6 compromised by malware?",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "score": 164,
+      "comments": 47,
+      "source": "github.com"
+    },
+    {
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+      "score": 72,
+      "comments": 43,
+      "source": "cell.com"
     },
     {
       "title": "NYC's \"Click to Cancel\" rule is now in effect",
       "url": "https://www.nyc.gov/main/click-to-cancel",
-      "score": 395,
-      "comments": 195,
+      "score": 533,
+      "comments": 268,
       "source": "nyc.gov"
-    },
-    {
-      "title": "I guess I'm using WebP now?",
-      "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-      "score": 91,
-      "comments": 92,
-      "source": "anderegg.ca"
-    },
-    {
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 182,
-      "comments": 127,
-      "source": "momo5502.com"
-    },
-    {
-      "title": "Safe SIMD in Rust, even on the inside",
-      "url": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
-      "score": 49,
-      "comments": 2,
-      "source": "shnatsel.github.io"
-    },
-    {
-      "title": "HashiCorp archives the Boundary open source repo",
-      "url": "https://github.com/hashicorp/boundary",
-      "score": 54,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "apsw: Another Python SQLite Wrapper",
-      "url": "https://github.com/rogerbinns/apsw",
-      "score": 74,
-      "comments": 15,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac",
-      "url": "https://betterwispr.com/",
-      "score": 171,
-      "comments": 101,
-      "source": "betterwispr.com"
-    },
-    {
-      "title": "FlowCE: Calculus on your TI-84 Plus CE",
-      "url": "https://tommyb3ll.github.io/FlowCE/",
-      "score": 38,
-      "comments": 18,
-      "source": "tommyb3ll.github.io"
-    },
-    {
-      "title": "How I reverse engineered a commercial spatial audio effect",
-      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-      "score": 111,
-      "comments": 35,
-      "source": "epestr.com"
-    },
-    {
-      "title": "ClickHouse C \u2013 Talk to ClickHouse using its native binary protocol",
-      "url": "https://github.com/ClickHouse/clickhouse-c",
-      "score": 15,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
-      "score": 147,
-      "comments": 80,
-      "source": "verdagon.dev"
     }
   ],
   "security": [
