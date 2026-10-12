@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 95,
+      "comments": 43,
+      "source": "americanscientist.org"
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 162,
+      "comments": 69,
+      "source": "royfish.dev"
+    },
+    {
       "title": "Total Annihilation, rebuilt for modern computers",
       "url": "https://nanolathe.gg",
-      "score": 229,
-      "comments": 93,
+      "score": 415,
+      "comments": 177,
       "source": "nanolathe.gg"
     },
     {
-      "title": "Cartographers of North Korea",
+      "title": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "score": 25,
+      "comments": 1,
+      "source": "jverzani.github.io"
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
       "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 67,
-      "comments": 6,
+      "score": 207,
+      "comments": 38,
       "source": "cartographers-nk.wonyoung.so"
     },
     {
-      "title": "Do You Have Pre-2012 Onion Issues?",
-      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
-      "score": 135,
+      "title": "Tattoos you can turn on and off",
+      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "score": 27,
       "comments": 8,
-      "source": "mailchi.mp"
+      "source": "livescience.com"
     },
     {
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "score": 51,
-      "comments": 8,
-      "source": "ways-of-seeing.com"
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 312,
+      "comments": 492,
+      "source": "twitter.com"
     },
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "score": 236,
-      "comments": 97,
-      "source": "nyc.gov"
+      "title": "Illustration Beyond Proof",
+      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "score": 45,
+      "comments": 0,
+      "source": "terrytao.wordpress.com"
     },
     {
       "title": "Terence Tao: Math 2.0 [pdf]",
       "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "score": 257,
-      "comments": 313,
+      "score": 346,
+      "comments": 394,
       "source": "teorth.github.io"
     },
     {
-      "title": "Artificial Insanity",
-      "url": "https://richwhitehouse.com/index.php?postid=78",
-      "score": 36,
-      "comments": 25,
-      "source": "richwhitehouse.com"
+      "title": "Vectorized CLZ and CTZ",
+      "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "score": 25,
+      "comments": 2,
+      "source": "purplesyringa.moe"
+    },
+    {
+      "title": "Doory \u2013 Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
+      "score": 23,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "score": 5,
+      "comments": 0,
+      "source": "sebsite.pw"
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "score": 245,
+      "comments": 63,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Passkeys are a trap",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "score": 384,
+      "comments": 215,
+      "source": "nonfunctional.substack.com"
+    },
+    {
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+      "score": 34,
+      "comments": 4,
+      "source": "cell.com"
+    },
+    {
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "score": 88,
+      "comments": 14,
+      "source": "ways-of-seeing.com"
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "score": 81,
+      "comments": 42,
+      "source": "pub.sakana.ai"
+    },
+    {
+      "title": "So, You\u2019d Like To Sell Your Print Issues Of The Onion?",
+      "url": "https://theonion.com/archivehunt/",
+      "score": 278,
+      "comments": 38,
+      "source": "theonion.com"
+    },
+    {
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "url": "https://tedhaley.ca/pensieve/",
+      "score": 39,
+      "comments": 6,
+      "source": "tedhaley.ca"
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "score": 395,
+      "comments": 195,
+      "source": "nyc.gov"
     },
     {
       "title": "I guess I'm using WebP now?",
       "url": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-      "score": 43,
-      "comments": 33,
+      "score": 91,
+      "comments": 92,
       "source": "anderegg.ca"
     },
     {
-      "title": "The Unreasonable Effectiveness of Vex in NixOS",
-      "url": "https://blog.kammel.dev/post/nixos_vex/",
-      "score": 20,
-      "comments": 0,
-      "source": "blog.kammel.dev"
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 182,
+      "comments": 127,
+      "source": "momo5502.com"
     },
     {
-      "title": "apsw: Another Python SQLite Wrapper",
-      "url": "https://github.com/rogerbinns/apsw",
-      "score": 42,
+      "title": "Safe SIMD in Rust, even on the inside",
+      "url": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
+      "score": 49,
+      "comments": 2,
+      "source": "shnatsel.github.io"
+    },
+    {
+      "title": "HashiCorp archives the Boundary open source repo",
+      "url": "https://github.com/hashicorp/boundary",
+      "score": 54,
       "comments": 12,
       "source": "github.com"
     },
     {
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/Changelog-32/",
-      "score": 380,
-      "comments": 162,
-      "source": "lineageos.org"
-    },
-    {
-      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-      "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
-      "score": 44,
-      "comments": 29,
-      "source": "medium.com"
-    },
-    {
-      "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
-      "url": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
-      "score": 19,
-      "comments": 0,
-      "source": "news.mit.edu"
-    },
-    {
-      "title": "Playgrnd \u2013 tiny tools for making weird, beautiful things",
-      "url": "https://www.playgrnd.tools/",
-      "score": 41,
-      "comments": 8,
-      "source": "playgrnd.tools"
-    },
-    {
-      "title": "How I reverse engineered a commercial spatial audio effect",
-      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-      "score": 70,
-      "comments": 25,
-      "source": "epestr.com"
-    },
-    {
-      "title": "FlowCE: Calculus on your TI-84 Plus CE",
-      "url": "https://tommyb3ll.github.io/FlowCE/",
-      "score": 6,
-      "comments": 3,
-      "source": "tommyb3ll.github.io"
-    },
-    {
-      "title": "The RAM shortage is bringing back DDR4",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "score": 257,
-      "comments": 263,
-      "source": "theverge.com"
-    },
-    {
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "score": 347,
-      "comments": 179,
-      "source": "shkspr.mobi"
-    },
-    {
-      "title": "I'm sorry, but you still have to think",
-      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-      "score": 271,
-      "comments": 105,
-      "source": "itsallaboutthebit.com"
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
-      "score": 118,
-      "comments": 71,
-      "source": "verdagon.dev"
-    },
-    {
-      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-      "score": 49,
-      "comments": 21,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Andrej Karpathy breaks down the capability gap",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "score": 11,
-      "comments": 1,
-      "source": "twitter.com"
-    },
-    {
-      "title": "The tilde in your PATH may not be your HOME",
-      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "score": 189,
-      "comments": 125,
-      "source": "disconnect3d.pl"
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://github.com/rogerbinns/apsw",
+      "score": 74,
+      "comments": 15,
+      "source": "github.com"
     },
     {
       "title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac",
       "url": "https://betterwispr.com/",
-      "score": 123,
-      "comments": 76,
+      "score": 171,
+      "comments": 101,
       "source": "betterwispr.com"
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "score": 1,
+      "title": "FlowCE: Calculus on your TI-84 Plus CE",
+      "url": "https://tommyb3ll.github.io/FlowCE/",
+      "score": 38,
+      "comments": 18,
+      "source": "tommyb3ll.github.io"
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "score": 111,
+      "comments": 35,
+      "source": "epestr.com"
+    },
+    {
+      "title": "ClickHouse C \u2013 Talk to ClickHouse using its native binary protocol",
+      "url": "https://github.com/ClickHouse/clickhouse-c",
+      "score": 15,
       "comments": 0,
-      "source": "jobs.ashbyhq.com"
+      "source": "github.com"
     },
     {
-      "title": "3rd Yandex Cloud Data Center Was Hit",
-      "url": "https://status.yandex.cloud/en/incidents/2136",
-      "score": 523,
-      "comments": 631,
-      "source": "status.yandex.cloud"
-    },
-    {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "url": "https://nitter.net",
-      "score": 404,
-      "comments": 202,
-      "source": "nitter.net"
-    },
-    {
-      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-      "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-      "score": 6,
-      "comments": 0,
-      "source": "inc.com"
-    },
-    {
-      "title": "IRCv3",
-      "url": "https://ircv3.net/",
-      "score": 300,
-      "comments": 259,
-      "source": "ircv3.net"
-    },
-    {
-      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-      "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-      "score": 51,
-      "comments": 3,
-      "source": "adolfoalvarez.cl"
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "score": 147,
+      "comments": 80,
+      "source": "verdagon.dev"
     }
   ],
   "security": [
