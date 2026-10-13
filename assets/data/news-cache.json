@@ -1,210 +1,228 @@
 {
   "tech": [
     {
-      "title": "Incident with Actions, Pull Requests and Issues",
-      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
-      "score": 36,
-      "comments": 13,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "score": 65,
-      "comments": 25,
-      "source": "pixelatron.com"
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "score": 80,
-      "comments": 50,
-      "source": "sciencealert.com"
-    },
-    {
-      "title": "QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "score": 233,
-      "comments": 231,
-      "source": "github.com"
-    },
-    {
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 521,
-      "comments": 253,
-      "source": "royfish.dev"
-    },
-    {
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "score": 162,
-      "comments": 66,
-      "source": "lalinsky.com"
-    },
-    {
-      "title": "Choreographic Programming in Rust",
-      "url": "https://github.com/hibanaworks/hibana",
-      "score": 17,
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "url": "https://doi.org/10.1111/acel.70751",
+      "score": 27,
       "comments": 6,
-      "source": "github.com"
+      "source": "doi.org"
     },
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "score": 585,
-      "comments": 222,
-      "source": "nanolathe.gg"
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 401,
+      "comments": 227,
+      "source": "z.ai"
     },
     {
-      "title": "Calculus with Julia",
-      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "score": 181,
-      "comments": 27,
-      "source": "jverzani.github.io"
+      "title": "Who Is Vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "score": 84,
+      "comments": 3,
+      "source": "purplesyringa.moe"
     },
     {
-      "title": "Citroen revives the 2CV for an electric age",
-      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
-      "score": 74,
-      "comments": 70,
-      "source": "bbc.co.uk"
+      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "score": 17,
+      "comments": 2,
+      "source": "nirajrajgor.com"
     },
     {
-      "title": "Running the unmodified Linux amdgpu driver on an iPad",
-      "url": "https://github.com/Geramy/LemonSeed-Studio",
-      "score": 51,
-      "comments": 18,
-      "source": "github.com"
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 358,
+      "comments": 156,
+      "source": "prophitt.me"
     },
     {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "score": 119,
-      "comments": 66,
-      "source": "github.com"
+      "title": "Phreak.ing \u2013 Internet Phone Switch",
+      "url": "https://phreak.ing/",
+      "score": 48,
+      "comments": 13,
+      "source": "phreak.ing"
     },
     {
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 293,
-      "comments": 59,
-      "source": "cartographers-nk.wonyoung.so"
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 398,
+      "comments": 617,
+      "source": "tomshardware.com"
     },
     {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "score": 446,
-      "comments": 453,
-      "source": "teorth.github.io"
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 62,
+      "comments": 17,
+      "source": "lunarwatcher.codeberg.page"
     },
     {
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-      "score": 448,
-      "comments": 142,
-      "source": "bbc.com"
+      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 12,
+      "comments": 4,
+      "source": "intel.com"
     },
     {
-      "title": "Bag of Decisions Reranker",
-      "url": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
-      "score": 30,
-      "comments": 0,
-      "source": "softwaredoug.com"
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "score": 64,
+      "comments": 6,
+      "source": "markround.com"
     },
     {
-      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "score": 202,
-      "comments": 146,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "Doory \u2013 Open-Source Canva",
-      "url": "https://github.com/shaongitbd/doory",
-      "score": 159,
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "score": 243,
       "comments": 61,
       "source": "github.com"
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 157,
-      "comments": 81,
-      "source": "americanscientist.org"
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "score": 552,
-      "comments": 790,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "score": 807,
-      "comments": 434,
-      "source": "nonfunctional.substack.com"
-    },
-    {
-      "title": "Local Indexing to reduce tool calling and token usage",
-      "url": "https://tedhaley.ca/pensieve/",
-      "score": 97,
-      "comments": 30,
-      "source": "tedhaley.ca"
-    },
-    {
-      "title": "Illustration Beyond Proof",
-      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "score": 84,
-      "comments": 13,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "Postgres isn't slow, your storage is",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "score": 147,
-      "comments": 151,
-      "source": "clickhouse.com"
-    },
-    {
-      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "score": 125,
-      "comments": 30,
-      "source": "ways-of-seeing.com"
-    },
-    {
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "score": 221,
-      "comments": 243,
-      "source": "amosbbatto.wordpress.com"
-    },
-    {
-      "title": "Zod 4.6.6 compromised by malware?",
-      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
-      "score": 164,
-      "comments": 47,
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "score": 426,
+      "comments": 222,
       "source": "github.com"
     },
     {
-      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-      "score": 72,
-      "comments": 43,
-      "source": "cell.com"
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "score": 246,
+      "comments": 301,
+      "source": "bbc.com"
     },
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "url": "https://www.nyc.gov/main/click-to-cancel",
-      "score": 533,
-      "comments": 268,
-      "source": "nyc.gov"
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "score": 6,
+      "comments": 1,
+      "source": "jsomers.net"
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 181,
+      "comments": 167,
+      "source": "yyhh.org"
+    },
+    {
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
+      "score": 3,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "score": 5,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "score": 213,
+      "comments": 83,
+      "source": "pixelatron.com"
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "score": 501,
+      "comments": 270,
+      "source": "research.meta.ai"
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "score": 218,
+      "comments": 172,
+      "source": "sciencealert.com"
+    },
+    {
+      "title": "Breaking Bad star RJ Mitte dies aged 34",
+      "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+      "score": 85,
+      "comments": 26,
+      "source": "news.sky.com"
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "score": 94,
+      "comments": 79,
+      "source": "nationalgeographic.com"
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "score": 261,
+      "comments": 140,
+      "source": "github.com"
+    },
+    {
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "score": 118,
+      "comments": 37,
+      "source": "taylor.town"
+    },
+    {
+      "title": "Show HN: Brickbrag \u2013 A multiplayer brick-building world in the browser",
+      "url": "https://brickbrag.com/",
+      "score": 18,
+      "comments": 9,
+      "source": "brickbrag.com"
+    },
+    {
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "score": 173,
+      "comments": 80,
+      "source": "linkedin.com"
+    },
+    {
+      "title": "Thinking will become a hobby",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "score": 208,
+      "comments": 273,
+      "source": "spinellis.gr"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "score": 299,
+      "comments": 254,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Publishers Killed the Paperback, Then Blamed Readers",
+      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+      "score": 102,
+      "comments": 67,
+      "source": "jacobin.com"
     }
   ],
   "security": [
+    {
+      "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+      "url": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
+      "date": "2026-10-12 21:58:44",
+      "author": "Aman Khare"
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+      "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
+      "date": "2026-10-12 20:13:06",
+      "author": "Harshvardhan Chunawala"
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
+      "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/",
+      "date": "2026-10-12 20:12:53",
+      "author": "Harshvardhan Chunawala"
+    },
     {
       "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
       "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
@@ -246,24 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-demonstrating-an-independent-operation/",
       "date": "2026-09-28 17:05:12",
       "author": "St\u00e9phane Isra\u00ebl"
-    },
-    {
-      "title": "ICYMI: August 2026 @AWS Security",
-      "url": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/",
-      "date": "2026-09-23 23:07:36",
-      "author": "Rodolfo Brenes"
-    },
-    {
-      "title": "Supporting ASD\u2019s multi-factor authentication campaign: Why MFA matters more than ever",
-      "url": "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever/",
-      "date": "2026-09-23 14:45:44",
-      "author": "Grace Zhang"
-    },
-    {
-      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
-      "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/",
-      "date": "2026-09-21 15:33:25",
-      "author": "Dhananjay Karanjkar"
     }
   ]
 }
