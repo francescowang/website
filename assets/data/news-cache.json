@@ -1,130 +1,193 @@
 {
   "tech": [
     {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "score": 146,
+      "comments": 54,
+      "source": "typeof.net"
+    },
+    {
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "score": 27,
+      "comments": 19,
+      "source": "aviaduct.com"
+    },
+    {
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "score": 1079,
-      "comments": 798,
+      "score": 1331,
+      "comments": 924,
       "source": "deepmind.google"
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 328,
-      "comments": 92,
-      "source": "guitoro.com"
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "url": "https://book.humanexperiences.io/",
+      "score": 8,
+      "comments": 0,
+      "source": "book.humanexperiences.io"
+    },
+    {
+      "title": "I let an AI run my startup for a week",
+      "url": "https://daily.tinyprojects.dev/221",
+      "score": 29,
+      "comments": 17,
+      "source": "daily.tinyprojects.dev"
+    },
+    {
+      "title": "Sound \u2013 Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 135,
+      "comments": 19,
+      "source": "ciechanow.ski"
+    },
+    {
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "score": 4,
+      "comments": 0,
+      "source": "blog.lorenzano.eu"
+    },
+    {
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "score": 5,
+      "comments": 0,
+      "source": "quera.com"
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 496,
-      "comments": 363,
+      "score": 720,
+      "comments": 452,
       "source": "bleepingcomputer.com"
+    },
+    {
+      "title": "What agents mean for Rust (and vice versa)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "score": 18,
+      "comments": 14,
+      "source": "smallcultfollowing.com"
+    },
+    {
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "score": 19,
+      "comments": 1,
+      "source": "marcpaul.io"
     },
     {
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 591,
-      "comments": 562,
+      "score": 788,
+      "comments": 816,
       "source": "anthropic.com"
     },
     {
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "score": 693,
-      "comments": 804,
-      "source": "apple.com"
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 450,
+      "comments": 116,
+      "source": "guitoro.com"
     },
     {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "score": 78,
-      "comments": 37,
-      "source": "pulseos.finance"
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "score": 288,
+      "comments": 130,
+      "source": "github.com"
+    },
+    {
+      "title": "Who Taught the Machines Mathematics?",
+      "url": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
+      "score": 5,
+      "comments": 0,
+      "source": "nisheethvishnoi.com"
     },
     {
       "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
       "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 70,
-      "comments": 5,
+      "score": 174,
+      "comments": 22,
       "source": "openculture.com"
     },
     {
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "score": 9,
+      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+      "score": 5,
+      "comments": 0,
+      "source": "zetter-zeroday.com"
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 199,
+      "comments": 79,
+      "source": "felixrieseberg.com"
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "score": 8,
       "comments": 1,
-      "source": "anitab.org"
-    },
-    {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "url": "https://blumify.io/people",
-      "score": 22,
-      "comments": 13,
-      "source": "blumify.io"
-    },
-    {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "score": 367,
-      "comments": 162,
-      "source": "blog.thunderbird.net"
-    },
-    {
-      "title": "High-speed video reveals how honey bee stingers pump venom",
-      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-      "score": 29,
-      "comments": 5,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Show HN: How random are you?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "score": 85,
-      "comments": 50,
-      "source": "lab.specr.net"
-    },
-    {
-      "title": "Recreational Programming",
-      "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "score": 83,
-      "comments": 31,
-      "source": "cphiri.dev"
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "score": 274,
-      "comments": 154,
-      "source": "sammystraus.com"
+      "source": "not-ship.com"
     },
     {
       "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 226,
-      "comments": 317,
+      "score": 329,
+      "comments": 534,
       "source": "ourworldindata.org"
     },
     {
-      "title": "AlphaNIST",
-      "url": "https://alpha-nist.github.io/",
-      "score": 53,
-      "comments": 14,
-      "source": "alpha-nist.github.io"
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "score": 205,
+      "comments": 80,
+      "source": "cphiri.dev"
     },
     {
-      "title": "New Apple TV 4K",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "score": 309,
-      "comments": 566,
-      "source": "apple.com"
+      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+      "url": "https://strafe.chat/",
+      "score": 37,
+      "comments": 19,
+      "source": "strafe.chat"
     },
     {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "score": 208,
-      "comments": 352,
-      "source": "9to5mac.com"
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "score": 24,
+      "comments": 19,
+      "source": "alexwennerberg.com"
+    },
+    {
+      "title": "Kcgi \u2013 minimal CGI and FastCGI library for C/C++",
+      "url": "https://kristaps.bsd.lv/kcgi/",
+      "score": 33,
+      "comments": 19,
+      "source": "kristaps.bsd.lv"
+    },
+    {
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "score": 158,
+      "comments": 80,
+      "source": "lab.specr.net"
+    },
+    {
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "score": 219,
+      "comments": 45,
+      "source": "news.mit.edu"
+    },
+    {
+      "title": "Arena Allocators in C",
+      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "score": 48,
+      "comments": 18,
+      "source": "eliasebner.com"
     },
     {
       "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
@@ -134,81 +197,11 @@
       "source": "jobs.lever.co"
     },
     {
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "score": 171,
-      "comments": 31,
-      "source": "news.mit.edu"
-    },
-    {
       "title": "Maybe a better way to track the release history of a Git repo",
       "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "score": 6,
-      "comments": 0,
-      "source": "blog.plover.com"
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "score": 448,
-      "comments": 395,
-      "source": "sfstandard.com"
-    },
-    {
-      "title": "Show HN: XY Music Notation",
-      "url": "https://music.xy.dev/",
-      "score": 52,
-      "comments": 40,
-      "source": "music.xy.dev"
-    },
-    {
-      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-      "url": "https://www.pi.website/blog/api-beta",
-      "score": 41,
-      "comments": 0,
-      "source": "pi.website"
-    },
-    {
-      "title": "Hiking the world in search of rare cheeses",
-      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-      "score": 72,
-      "comments": 17,
-      "source": "bbc.com"
-    },
-    {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "score": 236,
-      "comments": 96,
-      "source": "machinelearning.apple.com"
-    },
-    {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "score": 60,
+      "score": 44,
       "comments": 9,
-      "source": "github.com"
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "score": 304,
-      "comments": 272,
-      "source": "blog.character.ai"
-    },
-    {
-      "title": "How Do Cuttlefish Hide?",
-      "url": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
-      "score": 14,
-      "comments": 3,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "score": 56,
-      "comments": 7,
-      "source": "parsimony.lasu.dev"
+      "source": "blog.plover.com"
     }
   ],
   "security": [
