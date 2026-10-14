@@ -3,51 +3,128 @@
     {
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "score": 834,
-      "comments": 660,
+      "score": 1079,
+      "comments": 798,
       "source": "deepmind.google"
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "score": 136,
-      "comments": 151,
-      "source": "sfstandard.com"
     },
     {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
-      "score": 153,
-      "comments": 55,
+      "score": 328,
+      "comments": 92,
       "source": "guitoro.com"
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 303,
-      "comments": 266,
+      "score": 496,
+      "comments": 363,
       "source": "bleepingcomputer.com"
     },
     {
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 419,
-      "comments": 412,
+      "score": 591,
+      "comments": 562,
       "source": "anthropic.com"
     },
     {
       "title": "Apple HomeView",
       "url": "https://www.apple.com/apple-homeview/",
-      "score": 604,
-      "comments": 740,
+      "score": 693,
+      "comments": 804,
       "source": "apple.com"
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 78,
+      "comments": 37,
+      "source": "pulseos.finance"
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 70,
+      "comments": 5,
+      "source": "openculture.com"
+    },
+    {
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "score": 9,
+      "comments": 1,
+      "source": "anitab.org"
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "score": 22,
+      "comments": 13,
+      "source": "blumify.io"
     },
     {
       "title": "Thunderbird for iOS",
       "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "score": 280,
-      "comments": 113,
+      "score": 367,
+      "comments": 162,
       "source": "blog.thunderbird.net"
+    },
+    {
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "score": 29,
+      "comments": 5,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "score": 85,
+      "comments": 50,
+      "source": "lab.specr.net"
+    },
+    {
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "score": 83,
+      "comments": 31,
+      "source": "cphiri.dev"
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 274,
+      "comments": 154,
+      "source": "sammystraus.com"
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "score": 226,
+      "comments": 317,
+      "source": "ourworldindata.org"
+    },
+    {
+      "title": "AlphaNIST",
+      "url": "https://alpha-nist.github.io/",
+      "score": 53,
+      "comments": 14,
+      "source": "alpha-nist.github.io"
+    },
+    {
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "score": 309,
+      "comments": 566,
+      "source": "apple.com"
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "score": 208,
+      "comments": 352,
+      "source": "9to5mac.com"
     },
     {
       "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
@@ -57,154 +134,90 @@
       "source": "jobs.lever.co"
     },
     {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "score": 631,
-      "comments": 363,
-      "source": "github.com"
-    },
-    {
-      "title": "Firefox Enterprise",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "score": 570,
-      "comments": 236,
-      "source": "firefox.com"
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "score": 206,
-      "comments": 132,
-      "source": "sammystraus.com"
-    },
-    {
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 146,
-      "comments": 216,
-      "source": "ourworldindata.org"
-    },
-    {
-      "title": "New Apple TV 4K",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "score": 253,
-      "comments": 494,
-      "source": "apple.com"
-    },
-    {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "score": 139,
-      "comments": 224,
-      "source": "9to5mac.com"
-    },
-    {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "score": 371,
-      "comments": 82,
-      "source": "eg2.haku.sh"
-    },
-    {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "score": 34,
-      "comments": 2,
-      "source": "github.com"
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "score": 171,
+      "comments": 31,
+      "source": "news.mit.edu"
     },
     {
       "title": "Maybe a better way to track the release history of a Git repo",
       "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "score": 9,
-      "comments": 1,
+      "score": 6,
+      "comments": 0,
       "source": "blog.plover.com"
     },
     {
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "score": 109,
-      "comments": 18,
-      "source": "news.mit.edu"
-    },
-    {
-      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "score": 19,
-      "comments": 1,
-      "source": "parsimony.lasu.dev"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "score": 162,
-      "comments": 40,
-      "source": "developers.googleblog.com"
-    },
-    {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "score": 209,
-      "comments": 90,
-      "source": "machinelearning.apple.com"
-    },
-    {
-      "title": "IDRs as Records of Intent",
-      "url": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
-      "score": 8,
-      "comments": 0,
-      "source": "wrla.ch"
-    },
-    {
-      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
-      "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-      "score": 15,
-      "comments": 14,
-      "source": "newsletter.pessimistsarchive.org"
-    },
-    {
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "score": 105,
-      "comments": 45,
-      "source": "kylekukshtel.com"
-    },
-    {
-      "title": "Show HN: How Random Are You?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "score": 60,
-      "comments": 28,
-      "source": "lab.specr.net"
-    },
-    {
-      "title": "Hiking the world in search of rare cheeses",
-      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-      "score": 31,
-      "comments": 6,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "score": 256,
-      "comments": 254,
-      "source": "blog.character.ai"
-    },
-    {
-      "title": "Worlds more habitable than Earth?",
-      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-      "score": 69,
-      "comments": 137,
-      "source": "nytimes.com"
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "score": 448,
+      "comments": 395,
+      "source": "sfstandard.com"
     },
     {
       "title": "Show HN: XY Music Notation",
       "url": "https://music.xy.dev/",
-      "score": 39,
-      "comments": 30,
+      "score": 52,
+      "comments": 40,
       "source": "music.xy.dev"
+    },
+    {
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "url": "https://www.pi.website/blog/api-beta",
+      "score": 41,
+      "comments": 0,
+      "source": "pi.website"
+    },
+    {
+      "title": "Hiking the world in search of rare cheeses",
+      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "score": 72,
+      "comments": 17,
+      "source": "bbc.com"
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "score": 236,
+      "comments": 96,
+      "source": "machinelearning.apple.com"
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "score": 60,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "score": 304,
+      "comments": 272,
+      "source": "blog.character.ai"
+    },
+    {
+      "title": "How Do Cuttlefish Hide?",
+      "url": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+      "score": 14,
+      "comments": 3,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "score": 56,
+      "comments": 7,
+      "source": "parsimony.lasu.dev"
     }
   ],
   "security": [
+    {
+      "title": "Part 2 \u2013 Cybersecurity journeys: What even is this job?",
+      "url": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/",
+      "date": "2026-10-13 20:58:01",
+      "author": "Shannon Brazil"
+    },
     {
       "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
       "url": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
@@ -258,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-continuum-sets-a-new-standard-in-autonomous-code-security/",
       "date": "2026-10-05 21:41:01",
       "author": "Alexander Greaves-Tunnell"
-    },
-    {
-      "title": "AWS European Sovereign Cloud: Demonstrating an independent operation",
-      "url": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-demonstrating-an-independent-operation/",
-      "date": "2026-09-28 17:05:12",
-      "author": "St\u00e9phane Isra\u00ebl"
     }
   ]
 }
