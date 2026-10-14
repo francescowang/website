@@ -3,205 +3,212 @@
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
       "url": "https://typeof.net/Iosevka/",
-      "score": 146,
-      "comments": 54,
+      "score": 486,
+      "comments": 197,
       "source": "typeof.net"
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "score": 27,
-      "comments": 19,
-      "source": "aviaduct.com"
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1331,
-      "comments": 924,
-      "source": "deepmind.google"
-    },
-    {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "url": "https://book.humanexperiences.io/",
-      "score": 8,
-      "comments": 0,
-      "source": "book.humanexperiences.io"
-    },
-    {
-      "title": "I let an AI run my startup for a week",
-      "url": "https://daily.tinyprojects.dev/221",
-      "score": 29,
-      "comments": 17,
-      "source": "daily.tinyprojects.dev"
-    },
-    {
-      "title": "Sound \u2013 Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound/",
-      "score": 135,
-      "comments": 19,
-      "source": "ciechanow.ski"
-    },
-    {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "score": 4,
-      "comments": 0,
-      "source": "blog.lorenzano.eu"
-    },
-    {
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "score": 5,
-      "comments": 0,
-      "source": "quera.com"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 720,
-      "comments": 452,
-      "source": "bleepingcomputer.com"
-    },
-    {
-      "title": "What agents mean for Rust (and vice versa)",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "score": 18,
-      "comments": 14,
-      "source": "smallcultfollowing.com"
-    },
-    {
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "score": 19,
-      "comments": 1,
-      "source": "marcpaul.io"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 788,
-      "comments": 816,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 450,
-      "comments": 116,
-      "source": "guitoro.com"
-    },
-    {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "url": "https://github.com/android/ndk/issues/2260",
-      "score": 288,
-      "comments": 130,
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "score": 122,
+      "comments": 35,
       "source": "github.com"
     },
     {
-      "title": "Who Taught the Machines Mathematics?",
-      "url": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
-      "score": 5,
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "score": 97,
+      "comments": 76,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Submarine Cable Resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "score": 8,
       "comments": 0,
-      "source": "nisheethvishnoi.com"
+      "source": "blog.apnic.net"
     },
     {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 174,
-      "comments": 22,
-      "source": "openculture.com"
-    },
-    {
-      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-      "score": 5,
-      "comments": 0,
-      "source": "zetter-zeroday.com"
-    },
-    {
-      "title": "Felix Rieseberg Homepage",
-      "url": "https://felixrieseberg.com/",
-      "score": 199,
-      "comments": 79,
-      "source": "felixrieseberg.com"
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "score": 26,
+      "comments": 12,
+      "source": "qawolf.com"
     },
     {
       "title": "Amazon pushes up prices across the Internet",
       "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "score": 8,
-      "comments": 1,
+      "score": 430,
+      "comments": 408,
       "source": "not-ship.com"
     },
     {
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "score": 329,
-      "comments": 534,
-      "source": "ourworldindata.org"
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://github.com/graphicle-ai/graphicle",
+      "score": 5,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "score": 36,
+      "comments": 15,
+      "source": "404media.co"
+    },
+    {
+      "title": "Sound \u2013 Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 234,
+      "comments": 24,
+      "source": "ciechanow.ski"
+    },
+    {
+      "title": "Passkeys Are Not a Trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "score": 210,
+      "comments": 284,
+      "source": "scotthelme.co.uk"
+    },
+    {
+      "title": "Shit Flow Diagram",
+      "url": "https://en.wikipedia.org/wiki/Shit_flow_diagram",
+      "score": 18,
+      "comments": 2,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "score": 32,
+      "comments": 4,
+      "source": "robotsinplainenglish.com"
+    },
+    {
+      "title": "Apple Keynote now showing ads in its UI",
+      "url": "https://mastodon.social/@marioguzman/117436264149891011",
+      "score": 80,
+      "comments": 37,
+      "source": "mastodon.social"
+    },
+    {
+      "title": "The Origin Story of Kid Pix",
+      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "score": 116,
+      "comments": 23,
+      "source": "red-green-blue.com"
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "score": 93,
+      "comments": 56,
+      "source": "swedenherald.com"
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "url": "https://museumofages.org/w/vinci",
+      "score": 63,
+      "comments": 30,
+      "source": "museumofages.org"
+    },
+    {
+      "title": "Strands Decider: Why Not an Encoder?",
+      "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+      "score": 5,
+      "comments": 0,
+      "source": "brooker.co.za:443"
+    },
+    {
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "score": 62,
+      "comments": 12,
+      "source": "blog.lorenzano.eu"
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 240,
+      "comments": 42,
+      "source": "openculture.com"
+    },
+    {
+      "title": "How Tabasco Became the World's Hot Sauce",
+      "url": "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/",
+      "score": 7,
+      "comments": 15,
+      "source": "weareravenous.com"
+    },
+    {
+      "title": "The Genealogy of Eliza",
+      "url": "https://elizagen.org/genealogy.html",
+      "score": 13,
+      "comments": 1,
+      "source": "elizagen.org"
+    },
+    {
+      "title": "Nvidia's first GPU: GeForce 256",
+      "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+      "score": 12,
+      "comments": 4,
+      "source": "dfarq.homeip.net"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1399,
+      "comments": 1002,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "score": 64,
+      "comments": 54,
+      "source": "popcar.bearblog.dev"
+    },
+    {
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "score": 48,
+      "comments": 4,
+      "source": "marcpaul.io"
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "score": 438,
+      "comments": 210,
+      "source": "github.com"
     },
     {
       "title": "Recreational Programming",
       "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "score": 205,
-      "comments": 80,
+      "score": 278,
+      "comments": 126,
       "source": "cphiri.dev"
     },
     {
-      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-      "url": "https://strafe.chat/",
-      "score": 37,
-      "comments": 19,
-      "source": "strafe.chat"
+      "title": "Zuckerberg's new toy is a parasite. Please don't fall for it",
+      "url": "https://www.sfgate.com/bayarea/article/mark-zuckerberg-muse-parasite-22468893.php",
+      "score": 18,
+      "comments": 4,
+      "source": "sfgate.com"
     },
     {
-      "title": "Why is every rationalist blog post way too long?",
-      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "score": 24,
-      "comments": 19,
-      "source": "alexwennerberg.com"
+      "title": "RIP Eric Binnion",
+      "url": "https://ma.tt/2026/10/rip-eric/",
+      "score": 72,
+      "comments": 33,
+      "source": "ma.tt"
     },
     {
-      "title": "Kcgi \u2013 minimal CGI and FastCGI library for C/C++",
-      "url": "https://kristaps.bsd.lv/kcgi/",
-      "score": 33,
-      "comments": 19,
-      "source": "kristaps.bsd.lv"
-    },
-    {
-      "title": "Show HN: How random are you?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "score": 158,
-      "comments": 80,
-      "source": "lab.specr.net"
-    },
-    {
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "score": 219,
-      "comments": 45,
-      "source": "news.mit.edu"
-    },
-    {
-      "title": "Arena Allocators in C",
-      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-      "score": 48,
-      "comments": 18,
-      "source": "eliasebner.com"
-    },
-    {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "score": 1,
-      "comments": 0,
-      "source": "jobs.lever.co"
-    },
-    {
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "score": 44,
-      "comments": 9,
-      "source": "blog.plover.com"
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "score": 256,
+      "comments": 99,
+      "source": "felixrieseberg.com"
     }
   ],
   "security": [
