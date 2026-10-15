@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
-      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-      "score": 33,
-      "comments": 18,
-      "source": "respawnfirst.com"
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 425,
+      "comments": 264,
+      "source": "research.meta.ai"
     },
     {
-      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "score": 82,
-      "comments": 43,
-      "source": "simonsfoundation.org"
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 348,
+      "comments": 111,
+      "source": "already-clean.goodfire.com"
     },
     {
-      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
-      "url": "https://snoutcover.com/one-year",
-      "score": 45,
-      "comments": 15,
-      "source": "snoutcover.com"
+      "title": "E Ink Kaleido 4",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "score": 66,
+      "comments": 27,
+      "source": "eink.com"
     },
     {
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "url": "https://github.com/fyzugx/DEsk",
-      "score": 187,
-      "comments": 74,
+      "score": 417,
+      "comments": 171,
       "source": "github.com"
     },
     {
-      "title": "I know why Mathematicians weep",
-      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-      "score": 142,
-      "comments": 202,
-      "source": "derekthompson.org"
+      "title": "Krea 3 \u2013 An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "score": 189,
+      "comments": 70,
+      "source": "krea.ai"
     },
     {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "score": 144,
-      "comments": 71,
-      "source": "libreboot.org"
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "score": 301,
+      "comments": 459,
+      "source": "citizenlab.ca"
+    },
+    {
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "score": 59,
+      "comments": 18,
+      "source": "philzimmermann.com"
     },
     {
       "title": "Celebrating 70 Years of Fortran",
       "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "score": 51,
-      "comments": 19,
+      "score": 175,
+      "comments": 75,
       "source": "fortran-lang.org"
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "score": 155,
+      "comments": 77,
+      "source": "zachlandes.com"
+    },
+    {
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "score": 19,
+      "comments": 7,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Delta\u2019s Biscoff cookies were supposed to be temporary",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "score": 121,
+      "comments": 111,
+      "source": "seriouseats.com"
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "score": 223,
+      "comments": 128,
+      "source": "libreboot.org"
+    },
+    {
+      "title": "The engineering that allows articulated buses to bend",
+      "url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
+      "score": 36,
+      "comments": 20,
+      "source": "theautopian.com"
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "score": 10,
+      "comments": 2,
+      "source": "support.withings.com"
     },
     {
       "title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
       "url": "https://unfenced.land/",
-      "score": 147,
-      "comments": 105,
+      "score": 223,
+      "comments": 157,
       "source": "unfenced.land"
     },
     {
-      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "score": 125,
-      "comments": 13,
-      "source": "citizenlab.ca"
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "score": 199,
+      "comments": 173,
+      "source": "simonsfoundation.org"
     },
     {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "score": 1759,
-      "comments": 416,
-      "source": "jjmaxwell4.com"
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "score": 67,
+      "comments": 24,
+      "source": "thereallo.dev"
     },
     {
-      "title": "Prompt injection in HTTP headers: what 217M web responses show",
-      "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-      "score": 32,
-      "comments": 8,
-      "source": "signalscorps.com"
+      "title": "Show HN: Proa \u2013 A Rust web framework with fast SSR and multi-target rendering",
+      "url": "https://proa.so/",
+      "score": 65,
+      "comments": 11,
+      "source": "proa.so"
+    },
+    {
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 80,
+      "comments": 36,
+      "source": "bipm.org"
+    },
+    {
+      "title": "Rediscovering the Romance of Travel Clocks",
+      "url": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
+      "score": 8,
+      "comments": 2,
+      "source": "acollectedman.com"
+    },
+    {
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "score": 215,
+      "comments": 231,
+      "source": "respawnfirst.com"
+    },
+    {
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 3,
+      "comments": 0,
+      "source": "viceconsole.fyi"
+    },
+    {
+      "title": "Show HN: Flipflop \u2013 Iroh-powered persistent tunnels for filesharing",
+      "url": "https://github.com/andunieee/flipflop",
+      "score": 91,
+      "comments": 45,
+      "source": "github.com"
     },
     {
       "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
       "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-      "score": 61,
-      "comments": 56,
+      "score": 109,
+      "comments": 106,
       "source": "cppstories.com"
+    },
+    {
+      "title": "Show HN: Sygal \u2013 Convert PDFs, scans and web pages to Markdown, locally",
+      "url": "https://sygal.app",
+      "score": 29,
+      "comments": 8,
+      "source": "sygal.app"
     },
     {
       "title": "Wanted to download an ISO, ended up writing a kernel exploit",
       "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "score": 256,
-      "comments": 133,
+      "score": 321,
+      "comments": 157,
       "source": "blog.dfb.sh"
     },
     {
-      "title": "GridSnap \u2013 an open-source Divvy-style window snapper for macOS",
-      "url": "https://github.com/konieczkow/gridsnap",
+      "title": "I know why the mathematicians weep",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "score": 309,
+      "comments": 489,
+      "source": "derekthompson.org"
+    },
+    {
+      "title": "An Apology",
+      "url": "https://www.elevationlab.com/blogs/news/an-apology",
+      "score": 61,
+      "comments": 87,
+      "source": "elevationlab.com"
+    },
+    {
+      "title": "Game of Life \u2013 But Multiplayer, Hypermedia and Python",
+      "url": "https://stario.dev/apps/life",
       "score": 26,
-      "comments": 14,
-      "source": "github.com"
-    },
-    {
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "score": 782,
-      "comments": 334,
-      "source": "anoma.ly"
-    },
-    {
-      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
-      "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
-      "score": 14,
-      "comments": 0,
-      "source": "nhm.ac.uk"
-    },
-    {
-      "title": "The Haunted Toys R Us",
-      "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
-      "score": 37,
-      "comments": 21,
-      "source": "retroist.com"
-    },
-    {
-      "title": "Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161",
-      "score": 5,
-      "comments": 2,
-      "source": "seriouseats.com"
-    },
-    {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "score": 591,
-      "comments": 150,
-      "source": "tinylittleoffice.com"
-    },
-    {
-      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-      "score": 103,
-      "comments": 41,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "score": 894,
-      "comments": 638,
-      "source": "mapwriting.substack.com"
-    },
-    {
-      "title": "Show HN: Indigene \u2013 Native plants for where you stand",
-      "url": "https://indigene.app/",
-      "score": 90,
-      "comments": 15,
-      "source": "indigene.app"
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "score": 42,
-      "comments": 26,
-      "source": "blogs.gnome.org"
-    },
-    {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "score": 524,
-      "comments": 500,
-      "source": "dataforprogress.org"
-    },
-    {
-      "title": "Catch a Bird \u2013 I made it for my own sanity",
-      "url": "https://catchabird.com",
-      "score": 333,
-      "comments": 98,
-      "source": "catchabird.com"
-    },
-    {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 266,
-      "comments": 71,
-      "source": "liquid.ai"
-    },
-    {
-      "title": "Creating a Garmin \"MCP\"",
-      "url": "https://jackantico.io/garmin-mcp",
-      "score": 50,
-      "comments": 56,
-      "source": "jackantico.io"
-    },
-    {
-      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "score": 87,
-      "comments": 36,
-      "source": "phys.org"
-    },
-    {
-      "title": "It took me nine years to hack my Xbox 360",
-      "url": "https://kennedn.com/blog/posts/glitching/",
-      "score": 153,
-      "comments": 42,
-      "source": "kennedn.com"
-    },
-    {
-      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
-      "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
-      "score": 41,
-      "comments": 4,
-      "source": "hudsonrivertrading.com"
+      "comments": 9,
+      "source": "stario.dev"
     }
   ],
   "security": [
+    {
+      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+      "url": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+      "date": "2026-10-15 16:10:14",
+      "author": "Dazhi Zhang"
+    },
     {
       "title": "Penetration testing every deployment with AWS Continuum",
       "url": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/improving-spire-security-and-resiliency-with-aws-managed-services/",
       "date": "2026-10-06 18:52:25",
       "author": "Brendan Paul"
-    },
-    {
-      "title": "Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation",
-      "url": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation/",
-      "date": "2026-10-06 16:07:06",
-      "author": "Thiyagarajan Mani"
     }
   ]
 }
