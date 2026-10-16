@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 307,
-      "comments": 113,
-      "source": "niemanlab.org"
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 51,
+      "comments": 6,
+      "source": "calif.io"
     },
     {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "score": 332,
-      "comments": 115,
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 61,
+      "comments": 21,
+      "source": "machinelearning.apple.com"
+    },
+    {
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 172,
+      "comments": 122,
+      "source": "jamesfmackenzie.com"
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 19,
+      "comments": 0,
+      "source": "worksinprogress.news"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 49,
+      "comments": 20,
+      "source": "starskirmish.com"
+    },
+    {
+      "title": "How to Formalize All of Mathematics",
+      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+      "score": 32,
+      "comments": 17,
+      "source": "xenaproject.wordpress.com"
+    },
+    {
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "score": 37,
+      "comments": 17,
       "source": "youtube.com"
     },
     {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 823,
-      "comments": 415,
-      "source": "research.meta.ai"
+      "title": "Gyroscopes Got So Small [video]",
+      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "score": 42,
+      "comments": 14,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 15,
+      "comments": 3,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "score": 28,
+      "comments": 4,
+      "source": "anuragbhatia.com"
+    },
+    {
+      "title": "Show HN: OneDeploy \u2013 Managed open-source apps with nightly backups and TLS",
+      "url": "https://onedeploy.co",
+      "score": 5,
+      "comments": 1,
+      "source": "onedeploy.co"
     },
     {
       "title": "Yet another way to invoke functions without parentheses",
       "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "score": 17,
-      "comments": 0,
+      "score": 196,
+      "comments": 82,
       "source": "blog.ikaes.de"
+    },
+    {
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "score": 669,
+      "comments": 209,
+      "source": "youtube.com"
+    },
+    {
+      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "score": 3,
+      "comments": 0,
+      "source": "readergrev.com"
     },
     {
       "title": "The Economic Complexity of the Western Roman Empire",
       "url": "https://www.michelecoscia.com/?p=2613",
-      "score": 22,
-      "comments": 6,
+      "score": 113,
+      "comments": 18,
       "source": "michelecoscia.com"
     },
     {
-      "title": "The insider trading you're allowed to do",
-      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-      "score": 45,
-      "comments": 27,
-      "source": "coached.com"
+      "title": "Hello Toronto \u2013 Waymo Is En Route",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 93,
+      "comments": 134,
+      "source": "waymo.com"
     },
     {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 164,
-      "comments": 54,
-      "source": "ipinfo.io"
+      "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "score": 427,
+      "comments": 153,
+      "source": "niemanlab.org"
+    },
+    {
+      "title": "What was a Token Ring network?",
+      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "score": 18,
+      "comments": 8,
+      "source": "dfarq.homeip.net"
+    },
+    {
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "score": 8,
+      "comments": 4,
+      "source": "onlinelibrary.wiley.com"
+    },
+    {
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "score": 83,
+      "comments": 26,
+      "source": "github.com"
+    },
+    {
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+      "score": 30,
+      "comments": 23,
+      "source": "blogs.windows.com"
+    },
+    {
+      "title": "Bark: The Toll-Free BBS for 90s Teens",
+      "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "score": 20,
+      "comments": 7,
+      "source": "blog.bityard.net"
     },
     {
       "title": "Two-Stack Sliding-Window Aggregation",
       "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "score": 22,
-      "comments": 1,
+      "score": 104,
+      "comments": 19,
       "source": "orlp.net"
-    },
-    {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "score": 700,
-      "comments": 264,
-      "source": "already-clean.goodfire.com"
     },
     {
       "title": "The Folders Programming Language",
       "url": "https://danieltemkin.com/esolangs/folders",
-      "score": 74,
-      "comments": 11,
+      "score": 167,
+      "comments": 30,
       "source": "danieltemkin.com"
     },
     {
-      "title": "What I self-host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "score": 499,
-      "comments": 314,
-      "source": "viceconsole.fyi"
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "score": 203,
+      "comments": 87,
+      "source": "ipinfo.io"
     },
     {
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "score": 302,
-      "comments": 196,
-      "source": "support.withings.com"
+      "title": "Show HN: Grimoire for Biology",
+      "url": "https://grimoire.bio",
+      "score": 4,
+      "comments": 0,
+      "source": "grimoire.bio"
     },
     {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "score": 616,
-      "comments": 241,
-      "source": "github.com"
+      "title": "Show HN: rStation \u2013 A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "score": 9,
+      "comments": 2,
+      "source": "rstation.ai"
     },
     {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "score": 44,
-      "comments": 42,
-      "source": "cnn.com"
+      "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
+      "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
+      "score": 28,
+      "comments": 3,
+      "source": "youtube.com"
     },
     {
       "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
       "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "score": 142,
-      "comments": 101,
+      "score": 180,
+      "comments": 131,
       "source": "pcmag.com"
     },
     {
-      "title": "Jev meets the Trolley Problem",
-      "url": "https://zachlandes.com/trolley-problem/",
-      "score": 471,
-      "comments": 201,
-      "source": "zachlandes.com"
-    },
-    {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "score": 158,
-      "comments": 37,
-      "source": "github.com"
-    },
-    {
-      "title": "BIPM decides to stop adding leap seconds to UTC",
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "score": 184,
-      "comments": 90,
-      "source": "bipm.org"
-    },
-    {
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-      "score": 148,
-      "comments": 98,
-      "source": "polygon.com"
-    },
-    {
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "score": 351,
-      "comments": 159,
-      "source": "thereallo.dev"
-    },
-    {
-      "title": "Thank You, Deno",
-      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "score": 91,
-      "comments": 16,
-      "source": "vlt.io"
-    },
-    {
-      "title": "Celebrating 70 Years of Fortran",
-      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "score": 280,
-      "comments": 117,
-      "source": "fortran-lang.org"
-    },
-    {
-      "title": "Krea 3 \u2013 An image model built for editing at scale",
-      "url": "https://www.krea.ai/krea-3",
-      "score": 314,
-      "comments": 100,
-      "source": "krea.ai"
-    },
-    {
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "url": "https://lwn.net/Articles/1094721/",
-      "score": 49,
-      "comments": 16,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-      "score": 164,
-      "comments": 58,
-      "source": "philzimmermann.com"
-    },
-    {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "score": 290,
-      "comments": 178,
-      "source": "libreboot.org"
-    },
-    {
-      "title": "Major ICQ security hole (1998)",
-      "url": "https://opennet.ru/base/maillist/169.txt.html",
-      "score": 92,
-      "comments": 53,
-      "source": "opennet.ru"
-    },
-    {
-      "title": "Delta\u2019s Biscoff cookies were supposed to be temporary",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161",
-      "score": 224,
-      "comments": 172,
-      "source": "seriouseats.com"
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "score": 199,
-      "comments": 180,
-      "source": "blogs.gnome.org"
-    },
-    {
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "url": "https://github.com/johnrash/bebox",
-      "score": 63,
-      "comments": 18,
-      "source": "github.com"
+      "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+      "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "score": 73,
+      "comments": 50,
+      "source": "sciencealert.com"
     }
   ],
   "security": [
