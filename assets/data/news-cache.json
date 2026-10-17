@@ -1,67 +1,144 @@
 {
   "tech": [
     {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "score": 115,
+      "comments": 8,
+      "source": "openrouter.ai"
+    },
+    {
+      "title": "Ultramarine 1\u00a0Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "score": 247,
+      "comments": 71,
+      "source": "paperinstruments.com"
+    },
+    {
+      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+      "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+      "score": 18,
+      "comments": 14,
+      "source": "nos.nl"
+    },
+    {
+      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+      "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+      "score": 9,
+      "comments": 3,
+      "source": "contextetech.com"
+    },
+    {
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "score": 1234,
-      "comments": 2216,
+      "score": 1433,
+      "comments": 2511,
       "source": "tesla.com"
     },
     {
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "score": 52,
-      "comments": 16,
-      "source": "dune.fandom.com"
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 73,
+      "comments": 28,
+      "source": "llmspeed.dev"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 137,
+      "comments": 57,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Intuitive concurrent programming in any language",
+      "url": "https://www.lf-lang.org/",
+      "score": 43,
+      "comments": 7,
+      "source": "lf-lang.org"
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
-      "score": 215,
-      "comments": 57,
+      "score": 290,
+      "comments": 72,
       "source": "github.com"
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 711,
-      "comments": 277,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 122,
-      "comments": 34,
-      "source": "bfl.ai"
     },
     {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 170,
-      "comments": 45,
+      "score": 308,
+      "comments": 72,
       "source": "alexwang.ai"
     },
     {
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "score": 285,
-      "comments": 393,
-      "source": "waymo.com"
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 874,
+      "comments": 325,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+      "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+      "score": 4,
+      "comments": 1,
+      "source": "docs.openrewrite.org"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 166,
+      "comments": 46,
+      "source": "bfl.ai"
+    },
+    {
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "score": 23,
+      "comments": 1,
+      "source": "jedrzej.maczan.pl"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 320,
+      "comments": 161,
+      "source": "machinelearning.apple.com"
     },
     {
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "score": 181,
-      "comments": 146,
+      "score": 222,
+      "comments": 198,
       "source": "arrl.org"
     },
     {
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "score": 76,
-      "comments": 9,
-      "source": "hub.jhu.edu"
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "score": 230,
+      "comments": 124,
+      "source": "dune.fandom.com"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 142,
+      "comments": 32,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "score": 58,
+      "comments": 5,
+      "source": "leangineer.com"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 260,
+      "comments": 182,
+      "source": "jakearchibald.com"
     },
     {
       "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
@@ -71,144 +148,60 @@
       "source": "flexport.com"
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 273,
-      "comments": 123,
-      "source": "machinelearning.apple.com"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 107,
-      "comments": 20,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "score": 212,
-      "comments": 149,
-      "source": "jakearchibald.com"
-    },
-    {
-      "title": "C++26: The New Debugging Header",
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "score": 72,
-      "comments": 11,
-      "source": "sandordargo.com"
-    },
-    {
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "score": 35,
-      "comments": 15,
-      "source": "theatlantic.com"
-    },
-    {
-      "title": "I built the RealWorld app in Lean 4",
-      "url": "https://leangineer.com/blog/realworld-in-lean/",
-      "score": 14,
-      "comments": 3,
-      "source": "leangineer.com"
-    },
-    {
       "title": "Monte-Carlo Simulations",
       "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "score": 73,
-      "comments": 17,
+      "score": 121,
+      "comments": 22,
       "source": "eli.thegreenplace.net"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 252,
-      "comments": 239,
-      "source": "claude.dev"
     },
     {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 418,
-      "comments": 353,
+      "score": 503,
+      "comments": 424,
       "source": "mercor.com"
+    },
+    {
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "score": 44,
+      "comments": 3,
+      "source": "adepts.of0x.cc"
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "score": 66,
+      "comments": 33,
+      "source": "theatlantic.com"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 349,
+      "comments": 329,
+      "source": "claude.dev"
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 97,
+      "comments": 23,
+      "source": "sandordargo.com"
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 95,
+      "comments": 16,
+      "source": "hub.jhu.edu"
     },
     {
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 192,
-      "comments": 88,
+      "score": 222,
+      "comments": 100,
       "source": "starskirmish.com"
-    },
-    {
-      "title": "/dev/null: social network for developers",
-      "url": "https://dev-null.sh",
-      "score": 135,
-      "comments": 121,
-      "source": "dev-null.sh"
-    },
-    {
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "score": 299,
-      "comments": 190,
-      "source": "jamesfmackenzie.com"
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "score": 167,
-      "comments": 48,
-      "source": "calif.io"
-    },
-    {
-      "title": "Why harnesses matter for energy (and token) efficiency",
-      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-      "score": 44,
-      "comments": 22,
-      "source": "neuralwatt.com"
-    },
-    {
-      "title": "I never authorized an integration that scans my secrets",
-      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "score": 201,
-      "comments": 152,
-      "source": "github.com"
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "score": 107,
-      "comments": 64,
-      "source": "cbsnews.com"
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "score": 130,
-      "comments": 45,
-      "source": "worksinprogress.news"
-    },
-    {
-      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
-      "url": "https://wonderhop.io/en/",
-      "score": 67,
-      "comments": 62,
-      "source": "wonderhop.io"
-    },
-    {
-      "title": "What was a Token Ring network?",
-      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
-      "score": 101,
-      "comments": 78,
-      "source": "dfarq.homeip.net"
-    },
-    {
-      "title": "A week on the farm with Dylan Araps",
-      "url": "https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/",
-      "score": 5,
-      "comments": 2,
-      "source": "adamschaefers.com"
     }
   ],
   "security": [
