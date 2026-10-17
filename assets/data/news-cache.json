@@ -3,212 +3,212 @@
     {
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "score": 790,
-      "comments": 1442,
+      "score": 1234,
+      "comments": 2216,
       "source": "tesla.com"
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 294,
-      "comments": 117,
-      "source": "anthropic.com"
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "score": 52,
+      "comments": 16,
+      "source": "dune.fandom.com"
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
-      "score": 72,
-      "comments": 18,
+      "score": 215,
+      "comments": 57,
       "source": "github.com"
     },
     {
-      "title": "The Fatal Flaw of 911",
-      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-      "score": 19,
-      "comments": 14,
-      "source": "themarshallproject.org"
-    },
-    {
-      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 11,
-      "comments": 1,
-      "source": "bfl.ai"
-    },
-    {
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "score": 158,
-      "comments": 272,
-      "source": "waymo.com"
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "score": 135,
-      "comments": 93,
-      "source": "jakearchibald.com"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 48,
-      "comments": 7,
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 711,
+      "comments": 277,
       "source": "anthropic.com"
     },
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "score": 267,
-      "comments": 234,
-      "source": "mercor.com"
-    },
-    {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "score": 217,
-      "comments": 101,
-      "source": "machinelearning.apple.com"
-    },
-    {
-      "title": "C++26: The New Debugging Header",
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "score": 18,
-      "comments": 1,
-      "source": "sandordargo.com"
-    },
-    {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "score": 95,
-      "comments": 71,
-      "source": "arrl.org"
-    },
-    {
-      "title": "Piramidal (YC W24) Is Hiring",
-      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-      "score": 1,
-      "comments": 0,
-      "source": "job-boards.greenhouse.io"
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "score": 140,
-      "comments": 40,
-      "source": "calif.io"
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "score": 153,
-      "comments": 72,
-      "source": "starskirmish.com"
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "score": 104,
-      "comments": 37,
-      "source": "worksinprogress.news"
-    },
-    {
-      "title": "GifCities",
-      "url": "https://gifcities.org/",
-      "score": 23,
-      "comments": 0,
-      "source": "gifcities.org"
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "score": 85,
-      "comments": 55,
-      "source": "cbsnews.com"
-    },
-    {
-      "title": "/dev/null: social network for developers",
-      "url": "https://dev-null.sh",
-      "score": 64,
-      "comments": 85,
-      "source": "dev-null.sh"
-    },
-    {
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "score": 107,
-      "comments": 29,
-      "source": "ft.com"
-    },
-    {
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "score": 258,
-      "comments": 178,
-      "source": "jamesfmackenzie.com"
-    },
-    {
-      "title": "Symmetries in Boolean Scan",
-      "url": "https://ap29600.github.io/boolean_scans.html",
-      "score": 5,
-      "comments": 0,
-      "source": "ap29600.github.io"
-    },
-    {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "score": 797,
-      "comments": 235,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Show HN: Stoke Money \u2013 Personal finance app built around a cash flow forecast",
-      "url": "https://stoke.money",
-      "score": 11,
-      "comments": 4,
-      "source": "stoke.money"
-    },
-    {
-      "title": "Monte-Carlo Simulations",
-      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "score": 13,
-      "comments": 0,
-      "source": "eli.thegreenplace.net"
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 122,
+      "comments": 34,
+      "source": "bfl.ai"
     },
     {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 10,
-      "comments": 0,
+      "score": 170,
+      "comments": 45,
       "source": "alexwang.ai"
     },
     {
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "score": 77,
-      "comments": 43,
-      "source": "anuragbhatia.com"
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 285,
+      "comments": 393,
+      "source": "waymo.com"
     },
     {
-      "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
-      "url": "https://va3ndf.com/blog/hacker-badges/",
-      "score": 38,
-      "comments": 10,
-      "source": "va3ndf.com"
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 181,
+      "comments": 146,
+      "source": "arrl.org"
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 76,
+      "comments": 9,
+      "source": "hub.jhu.edu"
+    },
+    {
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
+      "score": 1,
+      "comments": 0,
+      "source": "flexport.com"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 273,
+      "comments": 123,
+      "source": "machinelearning.apple.com"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 107,
+      "comments": 20,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 212,
+      "comments": 149,
+      "source": "jakearchibald.com"
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "score": 72,
+      "comments": 11,
+      "source": "sandordargo.com"
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "score": 35,
+      "comments": 15,
+      "source": "theatlantic.com"
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "score": 14,
+      "comments": 3,
+      "source": "leangineer.com"
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "score": 73,
+      "comments": 17,
+      "source": "eli.thegreenplace.net"
     },
     {
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "score": 62,
-      "comments": 55,
+      "score": 252,
+      "comments": 239,
       "source": "claude.dev"
     },
     {
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 418,
+      "comments": 353,
+      "source": "mercor.com"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 192,
+      "comments": 88,
+      "source": "starskirmish.com"
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "score": 135,
+      "comments": 121,
+      "source": "dev-null.sh"
+    },
+    {
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 299,
+      "comments": 190,
+      "source": "jamesfmackenzie.com"
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 167,
+      "comments": 48,
+      "source": "calif.io"
+    },
+    {
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "score": 44,
+      "comments": 22,
+      "source": "neuralwatt.com"
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "score": 201,
+      "comments": 152,
+      "source": "github.com"
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 107,
+      "comments": 64,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 130,
+      "comments": 45,
+      "source": "worksinprogress.news"
+    },
+    {
+      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
       "score": 67,
-      "comments": 42,
-      "source": "youtube.com"
+      "comments": 62,
+      "source": "wonderhop.io"
+    },
+    {
+      "title": "What was a Token Ring network?",
+      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "score": 101,
+      "comments": 78,
+      "source": "dfarq.homeip.net"
+    },
+    {
+      "title": "A week on the farm with Dylan Araps",
+      "url": "https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/",
+      "score": 5,
+      "comments": 2,
+      "source": "adamschaefers.com"
     }
   ],
   "security": [
