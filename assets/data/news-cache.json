@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-      "score": 339,
-      "comments": 170,
-      "source": "meidasnews.com"
+      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 193,
+      "comments": 92,
+      "source": "api-docs.deepseek.com"
+    },
+    {
+      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 133,
+      "comments": 33,
+      "source": "sphinx-six-theta.vercel.app"
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "score": 143,
+      "comments": 147,
+      "source": "readtheprofile.com"
     },
     {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 342,
-      "comments": 75,
+      "score": 463,
+      "comments": 99,
       "source": "nature.com"
+    },
+    {
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "score": 11,
+      "comments": 1,
+      "source": "t3.at"
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 139,
+      "comments": 47,
+      "source": "leodemoura.github.io"
+    },
+    {
+      "title": "Teal \u2013 A statically-typed dialect of Lua",
+      "url": "https://teal-language.org/",
+      "score": 32,
+      "comments": 6,
+      "source": "teal-language.org"
     },
     {
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 217,
-      "comments": 57,
+      "score": 281,
+      "comments": 66,
       "source": "smithsonianmag.com"
     },
     {
-      "title": "Lean Now Ships with Verified Kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "score": 23,
-      "comments": 0,
-      "source": "leodemoura.github.io"
+      "title": "Go Piss, Girl: The plight of the public potty",
+      "url": "https://thebaffler.com/latest/go-piss-girl-wagner",
+      "score": 19,
+      "comments": 35,
+      "source": "thebaffler.com"
     },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 727,
-      "comments": 599,
+      "score": 862,
+      "comments": 656,
       "source": "huggingface.co"
-    },
-    {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 283,
-      "comments": 59,
-      "source": "furifont.antfu.me"
     },
     {
       "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "score": 267,
-      "comments": 27,
+      "score": 440,
+      "comments": 39,
       "source": "pele.run"
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 149,
-      "comments": 24,
-      "source": "github.com"
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 350,
+      "comments": 70,
+      "source": "furifont.antfu.me"
+    },
+    {
+      "title": "Fun Extending the C Preprocessor",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "score": 27,
+      "comments": 4,
+      "source": "davidpriver.com"
     },
     {
       "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 263,
-      "comments": 68,
+      "score": 305,
+      "comments": 81,
       "source": "chillphysicsenjoyer.substack.com"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 191,
+      "comments": 28,
+      "source": "github.com"
+    },
+    {
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "score": 32,
+      "comments": 3,
+      "source": "nltimes.nl"
+    },
+    {
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "score": 34,
+      "comments": 0,
+      "source": "lpviz.net"
     },
     {
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
       "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 88,
-      "comments": 18,
+      "score": 297,
+      "comments": 106,
       "source": "tomshardware.com"
-    },
-    {
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 254,
-      "comments": 130,
-      "source": "numismaticnews.net"
-    },
-    {
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "score": 15,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Types of types: Haskell's Kind system",
-      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "score": 59,
-      "comments": 31,
-      "source": "thunk.blog"
-    },
-    {
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "score": 176,
-      "comments": 143,
-      "source": "github.com"
     },
     {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 510,
-      "comments": 119,
+      "score": 566,
+      "comments": 127,
       "source": "alexwang.ai"
+    },
+    {
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "score": 97,
+      "comments": 75,
+      "source": "webmasters.stackexchange.com"
+    },
+    {
+      "title": "Custom server to revive neato bots",
+      "url": "https://github.com/vacuula/vacuula",
+      "score": 47,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "score": 334,
+      "comments": 183,
+      "source": "numismaticnews.net"
     },
     {
       "title": "Show HN: High-quality duck audio synthesizer",
       "url": "https://celphase.github.io/duck-pond/",
-      "score": 95,
-      "comments": 24,
+      "score": 140,
+      "comments": 30,
       "source": "celphase.github.io"
     },
     {
       "title": "Codex Desktop continuously generates Crashpad pending dumps",
       "url": "https://github.com/openai/codex/issues/25921",
-      "score": 84,
-      "comments": 33,
+      "score": 133,
+      "comments": 54,
       "source": "github.com"
     },
     {
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-      "score": 97,
-      "comments": 98,
-      "source": "doctor-seo.net"
-    },
-    {
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "score": 499,
-      "comments": 313,
-      "source": "pv-magazine.com"
-    },
-    {
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
-      "score": 155,
-      "comments": 76,
-      "source": "derekwessman.com"
-    },
-    {
-      "title": "A skeptic's first contact with Kubernetes (2024)",
-      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-      "score": 93,
-      "comments": 52,
-      "source": "blog.davidv.dev"
-    },
-    {
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "score": 49,
-      "comments": 14,
-      "source": "courk.cc"
-    },
-    {
-      "title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "score": 130,
-      "comments": 13,
-      "source": "github.com"
-    },
-    {
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "url": "https://www.artie.com/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "artie.com"
-    },
-    {
-      "title": "Each step of decoding a PNG (2022)",
-      "url": "https://iter.ca/post/png/",
-      "score": 19,
+      "title": "Notes on the Complex Roots of Unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "score": 26,
       "comments": 4,
-      "source": "iter.ca"
+      "source": "eli.thegreenplace.net"
+    },
+    {
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "score": 92,
+      "comments": 19,
+      "source": "propublica.org"
+    },
+    {
+      "title": "Superoptimizing an FPU Emulator",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "score": 27,
+      "comments": 2,
+      "source": "purplesyringa.moe"
     },
     {
       "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
-      "score": 257,
-      "comments": 77,
+      "score": 297,
+      "comments": 82,
       "source": "llmspeed.dev"
     },
     {
-      "title": "Rendering pretty sky in Around The World game",
-      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-      "score": 131,
-      "comments": 9,
-      "source": "frozenfractal.com"
-    },
-    {
-      "title": "Show HN: Parin \u2013 A 2D game engine between raylib and Godot, written in Dlang",
-      "url": "https://github.com/Kapendev/parin",
-      "score": 49,
-      "comments": 9,
+      "title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "score": 167,
+      "comments": 32,
       "source": "github.com"
     },
     {
-      "title": "JDK 28",
-      "url": "https://openjdk.org/projects/jdk/28/",
-      "score": 69,
-      "comments": 32,
-      "source": "openjdk.org"
-    },
-    {
-      "title": "Vintage Cassettes: 1963-2010",
-      "url": "http://vintagecassettes.com/",
-      "score": 55,
-      "comments": 9,
-      "source": "vintagecassettes.com"
+      "title": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "score": 612,
+      "comments": 381,
+      "source": "pv-magazine.com"
     }
   ],
   "security": [
