@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Linux 7.3 Released",
+      "url": "https://lwn.net/Articles/1101143/",
+      "score": 291,
+      "comments": 127,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "score": 44,
+      "comments": 9,
+      "source": "wjcl.com"
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "score": 61,
+      "comments": 11,
+      "source": "mistral.ai"
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "score": 24,
+      "comments": 2,
+      "source": "community.letsencrypt.org"
+    },
+    {
+      "title": "Gdynia and the Dream of a Maritime Poland",
+      "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+      "score": 12,
+      "comments": 1,
+      "source": "engelsbergideas.com"
+    },
+    {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
-      "score": 245,
-      "comments": 150,
+      "score": 429,
+      "comments": 214,
       "source": "arxiv.org"
+    },
+    {
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "score": 62,
+      "comments": 18,
+      "source": "construction-physics.com"
+    },
+    {
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "score": 60,
+      "comments": 32,
+      "source": "crystl.dev"
     },
     {
       "title": "William Gibson and the trademarking of cyberspace",
       "url": "https://colo.to/cyberspace.html",
-      "score": 85,
-      "comments": 7,
+      "score": 200,
+      "comments": 84,
       "source": "colo.to"
     },
     {
       "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
       "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "score": 209,
-      "comments": 201,
+      "score": 404,
+      "comments": 505,
       "source": "youtube.com"
     },
     {
-      "title": "Laptop Based on 6502 CPU",
-      "url": "https://www.maddox.pro/?p=448",
-      "score": 50,
-      "comments": 19,
-      "source": "maddox.pro"
+      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+      "score": 98,
+      "comments": 95,
+      "source": "phys.org"
+    },
+    {
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "score": 3,
+      "comments": 0,
+      "source": "spectrum.ieee.org"
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "score": 54,
-      "comments": 43,
+      "score": 203,
+      "comments": 149,
       "source": "jrdsgl.com"
     },
     {
       "title": "Someone behind the software",
       "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "score": 338,
-      "comments": 139,
+      "score": 469,
+      "comments": 171,
       "source": "karrisaarinen.com"
-    },
-    {
-      "title": "Starcraft: Ashfall",
-      "url": "https://starcraft-shooter-2026.pages.dev/",
-      "score": 15,
-      "comments": 7,
-      "source": "starcraft-shooter-2026.pages.dev"
-    },
-    {
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 341,
-      "comments": 55,
-      "source": "github.com"
-    },
-    {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "score": 117,
-      "comments": 24,
-      "source": "getlazarus.org"
     },
     {
       "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
       "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "score": 146,
-      "comments": 87,
+      "score": 267,
+      "comments": 159,
       "source": "sciencealert.com"
     },
     {
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "score": 4,
-      "comments": 1,
-      "source": "contextfirst.blog"
+      "title": "Laptop Based on 6502 CPU",
+      "url": "https://www.maddox.pro/?p=448",
+      "score": 146,
+      "comments": 70,
+      "source": "maddox.pro"
     },
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "score": 50,
-      "comments": 35,
-      "source": "github.com"
-    },
-    {
-      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-      "score": 14,
-      "comments": 0,
-      "source": "csis.org"
-    },
-    {
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "score": 100,
-      "comments": 78,
-      "source": "blog.picheta.me"
-    },
-    {
-      "title": "PalmOS Lemmings",
-      "url": "https://github.com/ardiri/palmos-lemmings",
-      "score": 99,
-      "comments": 23,
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 405,
+      "comments": 64,
       "source": "github.com"
     },
     {
       "title": "The DNS Museum",
       "url": "https://dns.museum",
-      "score": 8,
-      "comments": 0,
+      "score": 91,
+      "comments": 11,
       "source": "dns.museum"
     },
     {
-      "title": "\"Traditional, but Puzzling\"",
-      "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
-      "score": 26,
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "score": 105,
+      "comments": 43,
+      "source": "contextfirst.blog"
+    },
+    {
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "score": 80,
+      "comments": 90,
+      "source": "csis.org"
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 168,
+      "comments": 41,
+      "source": "getlazarus.org"
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "score": 115,
+      "comments": 66,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Ranet3 \u2013 High performance policy routed IPsec mesh SD-WAN",
+      "url": "https://ranet3.com/",
+      "score": 30,
+      "comments": 7,
+      "source": "ranet3.com"
+    },
+    {
+      "title": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "score": 135,
+      "comments": 33,
+      "source": "github.com"
+    },
+    {
+      "title": "HOL Light Tutorial",
+      "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+      "score": 8,
       "comments": 3,
-      "source": "unsung.aresluna.org"
+      "source": "hol-light.github.io"
     },
     {
-      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-      "score": 55,
-      "comments": 9,
-      "source": "quentinkaiser.be"
+      "title": "Lant \u2013 The Forgotten Resource",
+      "url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+      "score": 19,
+      "comments": 3,
+      "source": "sites.udel.edu"
     },
     {
-      "title": "16-bit fully functional DIY magnetic core memory",
-      "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-      "score": 39,
-      "comments": 18,
-      "source": "youtube.com"
-    },
-    {
-      "title": "The First Candid",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-      "score": 48,
-      "comments": 11,
-      "source": "newyorker.com"
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "score": 215,
+      "comments": 169,
+      "source": "blog.picheta.me"
     },
     {
       "title": "Java sealed classes and exhaustive pattern matching",
       "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "score": 145,
-      "comments": 106,
+      "score": 177,
+      "comments": 136,
       "source": "neilmadden.blog"
     },
     {
       "title": "A new way to think about borrow checking (in reverse)",
       "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-      "score": 27,
-      "comments": 4,
+      "score": 96,
+      "comments": 9,
       "source": "verdagon.dev"
     },
     {
-      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-      "score": 108,
-      "comments": 177,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-      "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-      "score": 22,
-      "comments": 7,
-      "source": "404media.co"
-    },
-    {
-      "title": "What the heck is /pkg?",
-      "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-      "score": 23,
-      "comments": 9,
-      "source": "anderegg.ca"
-    },
-    {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "score": 92,
-      "comments": 33,
-      "source": "righto.com"
-    },
-    {
-      "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "score": 177,
-      "comments": 13,
-      "source": "github.com"
-    },
-    {
-      "title": "Namecheap just seized and disabled all my domains",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "score": 458,
-      "comments": 221,
-      "source": "reddit.com"
-    },
-    {
-      "title": "SIGSALY: Churchill's top secret hotline to the president",
-      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "score": 115,
-      "comments": 40,
-      "source": "iwm.org.uk"
-    },
-    {
-      "title": "Sanity's Edge \u2013 A voice BBS from 1994",
-      "url": "https://sanitys-edge.shouden.us",
-      "score": 10,
-      "comments": 0,
-      "source": "sanitys-edge.shouden.us"
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "score": 87,
+      "comments": 22,
+      "source": "quentinkaiser.be"
     }
   ],
   "security": []
