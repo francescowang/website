@@ -1,208 +1,269 @@
 {
   "tech": [
     {
+      "title": "Facebook now charging to post more than 2 links a month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "score": 186,
+      "comments": 90,
+      "source": "mastodon.gamedev.place"
+    },
+    {
       "title": "DeepSeek just open-sourced its inference engine",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 274,
-      "comments": 90,
+      "score": 1631,
+      "comments": 593,
       "source": "github.com"
     },
     {
-      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
-      "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
-      "score": 56,
-      "comments": 37,
-      "source": "foxandlion.pub"
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 145,
+      "comments": 53,
+      "source": "emudhra.we-have-a-problem.com"
     },
     {
-      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 285,
-      "comments": 90,
-      "source": "github.com"
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "score": 240,
+      "comments": 129,
+      "source": "teddysvoronos.com"
     },
     {
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "score": 317,
-      "comments": 100,
-      "source": "openbsd.org"
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "score": 155,
+      "comments": 82,
+      "source": "peec.ai"
     },
     {
-      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-      "score": 207,
-      "comments": 153,
-      "source": "heistberlin.com"
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "score": 105,
+      "comments": 29,
+      "source": "kaba.cx"
+    },
+    {
+      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "score": 27,
+      "comments": 6,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "score": 65,
+      "comments": 23,
+      "source": "tyma.com"
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "score": 45,
+      "comments": 5,
+      "source": "yoyo-code.com"
+    },
+    {
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "score": 19,
+      "comments": 6,
+      "source": "jevcards.com"
+    },
+    {
+      "title": "Ofcom Concedes Defeat in the 4chan Case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "score": 87,
+      "comments": 48,
+      "source": "prestonbyrne.com"
+    },
+    {
+      "title": "Why do we have so many meetings?",
+      "url": "https://www.nber.org/papers/w35706",
+      "score": 26,
+      "comments": 23,
+      "source": "nber.org"
     },
     {
       "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "url": "https://github.com/microg/GmsCore/wiki",
-      "score": 62,
-      "comments": 4,
+      "score": 274,
+      "comments": 33,
+      "source": "github.com"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "UI-Te-Rangiora",
+      "url": "https://en.wikipedia.org/wiki/Ui-te-Rangiora",
+      "score": 10,
+      "comments": 1,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "score": 464,
+      "comments": 128,
+      "source": "github.com"
+    },
+    {
+      "title": "24x faster Rust compilation with rust-analyzer",
+      "url": "https://github.com/indexable-inc/ra-jit",
+      "score": 8,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+      "url": "https://github.com/metahumansworld/SIwithin",
+      "score": 6,
+      "comments": 2,
       "source": "github.com"
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 460,
-      "comments": 136,
+      "score": 664,
+      "comments": 184,
       "source": "redact.dev"
     },
     {
-      "title": "Restoration of Retinal Regenerative Potential",
-      "url": "https://www.nature.com/articles/s41467-025-58290-8",
-      "score": 62,
-      "comments": 4,
-      "source": "nature.com"
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "score": 116,
+      "comments": 67,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "There is no official XScreenSaver GitHub repository",
-      "url": "https://github.com/xscreensaver-official/xscreensaver",
-      "score": 20,
-      "comments": 15,
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "score": 420,
+      "comments": 134,
+      "source": "openbsd.org"
+    },
+    {
+      "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "score": 11,
+      "comments": 1,
       "source": "github.com"
+    },
+    {
+      "title": "Making a VGA Driver in SystemVerilog",
+      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "score": 4,
+      "comments": 0,
+      "source": "lukaswerner.com"
+    },
+    {
+      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+      "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+      "score": 5,
+      "comments": 1,
+      "source": "red5.net"
     },
     {
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "score": 278,
-      "comments": 237,
+      "score": 478,
+      "comments": 395,
       "source": "reuters.com"
     },
     {
-      "title": "Making a 88x31 button book using ImageMagick",
-      "url": "https://k.sosnierz.me/08-11-24/",
-      "score": 37,
-      "comments": 2,
-      "source": "k.sosnierz.me"
-    },
-    {
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 469,
-      "comments": 199,
-      "source": "minimax.io"
-    },
-    {
-      "title": "Revolut down as users report app not working",
-      "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
-      "score": 30,
+      "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "score": 92,
       "comments": 10,
-      "source": "bbc.com"
+      "source": "github.com"
+    },
+    {
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+      "score": 18,
+      "comments": 3,
+      "source": "matthorn.io"
+    },
+    {
+      "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+      "url": "https://github.com/rohan-protocol/sdk",
+      "score": 6,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
       "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "score": 5,
-      "comments": 0,
+      "score": 55,
+      "comments": 31,
       "source": "flatwaterfreepress.org"
-    },
-    {
-      "title": "An ad-free Android TV",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "score": 233,
-      "comments": 77,
-      "source": "cretezy.com"
-    },
-    {
-      "title": "Weball: Play Katamari on Websites",
-      "url": "https://www.funwithcomputervision.com/weball/",
-      "score": 221,
-      "comments": 17,
-      "source": "funwithcomputervision.com"
-    },
-    {
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 573,
-      "comments": 195,
-      "source": "marc.info"
-    },
-    {
-      "title": "It's still ok to enjoy programming",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 613,
-      "comments": 528,
-      "source": "chriskiehl.com"
-    },
-    {
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "score": 558,
-      "comments": 121,
-      "source": "youtube.com"
-    },
-    {
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "score": 177,
-      "comments": 159,
-      "source": "ipinfo.io"
-    },
-    {
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "score": 300,
-      "comments": 233,
-      "source": "nbcnews.com"
-    },
-    {
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
-      "score": 98,
-      "comments": 41,
-      "source": "github.com"
-    },
-    {
-      "title": "Why Is Speculative Decoding Fast?",
-      "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
-      "score": 10,
-      "comments": 0,
-      "source": "jbarrow.ai"
-    },
-    {
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "score": 81,
-      "comments": 38,
-      "source": "heymaxwell.ai"
-    },
-    {
-      "title": "How abliterated models can get you pwned",
-      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "score": 139,
-      "comments": 81,
-      "source": "projectdiscovery.io"
-    },
-    {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "score": 200,
-      "comments": 69,
-      "source": "youtube.com"
-    },
-    {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "score": 157,
-      "comments": 36,
-      "source": "bsd.network"
-    },
-    {
-      "title": "Starcraft: Ashfall",
-      "url": "https://starcraft-shooter-2026.pages.dev/",
-      "score": 468,
-      "comments": 146,
-      "source": "starcraft-shooter-2026.pages.dev"
-    },
-    {
-      "title": "One Hash Bloom Filters",
-      "url": "https://calabro.io/ohbf",
-      "score": 112,
-      "comments": 12,
-      "source": "calabro.io"
     }
   ],
-  "security": []
+  "security": [
+    {
+      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+      "url": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+      "date": "2026-10-15 16:10:14",
+      "author": "Dazhi Zhang"
+    },
+    {
+      "title": "Penetration testing every deployment with AWS Continuum",
+      "url": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
+      "date": "2026-10-14 20:21:52",
+      "author": "Jigar Bhatt"
+    },
+    {
+      "title": "Part 2 \u2013 Cybersecurity journeys: What even is this job?",
+      "url": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/",
+      "date": "2026-10-13 20:58:01",
+      "author": "Shannon Brazil"
+    },
+    {
+      "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+      "url": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
+      "date": "2026-10-12 21:58:44",
+      "author": "Aman Khare"
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+      "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
+      "date": "2026-10-12 20:13:06",
+      "author": "Harshvardhan Chunawala"
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
+      "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/",
+      "date": "2026-10-12 20:12:53",
+      "author": "Harshvardhan Chunawala"
+    },
+    {
+      "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+      "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
+      "date": "2026-10-07 21:49:50",
+      "author": "Justin Kontny"
+    },
+    {
+      "title": "Building your AI vulnerability harness, Part 1",
+      "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/",
+      "date": "2026-10-07 21:49:43",
+      "author": "Nidhi Ramakant"
+    },
+    {
+      "title": "Part 1 \u2013 Cybersecurity journeys: I didn\u2019t plan this",
+      "url": "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this/",
+      "date": "2026-10-07 16:21:19",
+      "author": "Shannon Brazil"
+    },
+    {
+      "title": "Improving SPIRE security and resiliency with AWS managed services",
+      "url": "https://aws.amazon.com/blogs/security/improving-spire-security-and-resiliency-with-aws-managed-services/",
+      "date": "2026-10-06 18:52:25",
+      "author": "Brendan Paul"
+    }
+  ]
 }
