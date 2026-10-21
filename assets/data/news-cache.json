@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 617,
-      "comments": 308,
-      "source": "permit.petercai.com"
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "score": 143,
+      "comments": 56,
+      "source": "scotthelme.co.uk"
     },
     {
-      "title": "Learning to live with Waymos",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
-      "score": 26,
-      "comments": 50,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "score": 18,
-      "comments": 4,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "score": 121,
-      "comments": 45,
-      "source": "krebsonsecurity.com"
-    },
-    {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "score": 30,
-      "comments": 4,
-      "source": "unsung.aresluna.org"
+      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "score": 249,
+      "comments": 256,
+      "source": "unric.org"
     },
     {
       "title": "The Future of CSS",
       "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "score": 35,
-      "comments": 2,
+      "score": 399,
+      "comments": 163,
       "source": "joshwcomeau.com"
+    },
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "score": 966,
+      "comments": 392,
+      "source": "news-web.php.net"
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "score": 12,
+      "comments": 1,
+      "source": "practical.engineering"
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 813,
+      "comments": 381,
+      "source": "permit.petercai.com"
+    },
+    {
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "score": 197,
+      "comments": 91,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "The Decoherence Trap",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 54,
+      "comments": 15,
+      "source": "maevyn.codes"
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 992,
+      "comments": 414,
+      "source": "emudhra.we-have-a-problem.com"
     },
     {
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 548,
-      "comments": 145,
+      "score": 690,
+      "comments": 172,
       "source": "mistral.ai"
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "url": "https://www.pagetable.com/303",
+      "score": 18,
+      "comments": 4,
+      "source": "pagetable.com"
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 215,
+      "comments": 98,
+      "source": "krebsonsecurity.com"
+    },
+    {
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "score": 101,
+      "comments": 54,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 136,
+      "comments": 12,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 203,
+      "comments": 155,
+      "source": "thebeliever.net"
+    },
+    {
+      "title": "ZX Spectrum Next Laptop",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "score": 91,
+      "comments": 15,
+      "source": "dorchester3d.com"
+    },
+    {
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "score": 13,
+      "comments": 1,
+      "source": "science.org"
+    },
+    {
+      "title": "C# now beats Rust on WASM size",
+      "url": "https://github.com/zion-sati/NetWasm",
+      "score": 80,
+      "comments": 29,
+      "source": "github.com"
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 277,
-      "comments": 64,
+      "score": 347,
+      "comments": 73,
       "source": "github.com"
     },
     {
       "title": "What shall I teach my son?",
       "url": "https://stevekrouse.com/ends",
-      "score": 294,
-      "comments": 362,
+      "score": 411,
+      "comments": 481,
       "source": "stevekrouse.com"
-    },
-    {
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "score": 162,
-      "comments": 98,
-      "source": "blogs.lse.ac.uk"
-    },
-    {
-      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "score": 192,
-      "comments": 81,
-      "source": "github.com"
-    },
-    {
-      "title": "EMudhra Intermediate CA Compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 691,
-      "comments": 347,
-      "source": "emudhra.we-have-a-problem.com"
     },
     {
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 506,
-      "comments": 263,
+      "score": 562,
+      "comments": 274,
       "source": "teddysvoronos.com"
     },
     {
-      "title": "ZX Spectrum Next Laptop",
-      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "score": 6,
-      "comments": 0,
-      "source": "dorchester3d.com"
+      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "score": 265,
+      "comments": 105,
+      "source": "github.com"
     },
     {
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "score": 214,
-      "comments": 126,
-      "source": "e360.yale.edu"
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "score": 29,
+      "comments": 29,
+      "source": "mariusbancila.ro"
     },
     {
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "score": 344,
-      "comments": 258,
-      "source": "prestonbyrne.com"
+      "title": "Four Years with Decker",
+      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "score": 44,
+      "comments": 7,
+      "source": "beyondloom.com"
     },
     {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "score": 87,
-      "comments": 60,
-      "source": "thebeliever.net"
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "score": 57,
+      "comments": 23,
+      "source": "anthropic.com"
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2156,
-      "comments": 838,
+      "score": 2259,
+      "comments": 860,
       "source": "github.com"
     },
     {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://news-web.php.net/php.announce/509",
-      "score": 130,
-      "comments": 29,
-      "source": "news-web.php.net"
-    },
-    {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "score": 355,
-      "comments": 174,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "url": "https://github.com/timriker/bzo",
       "score": 32,
-      "comments": 1,
-      "source": "research.poh.org"
+      "comments": 24,
+      "source": "github.com"
     },
     {
-      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "score": 350,
-      "comments": 175,
-      "source": "neowin.net"
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "score": 401,
+      "comments": 312,
+      "source": "prestonbyrne.com"
     },
     {
-      "title": "To Make, or to Buy: The Economics of Decision Models",
-      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-      "score": 10,
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "score": 285,
+      "comments": 163,
+      "source": "e360.yale.edu"
+    },
+    {
+      "title": "Finland Buying a Million Landmines",
+      "url": "https://yle.fi/a/74-20252139",
+      "score": 5,
       "comments": 0,
-      "source": "pncnmnp.github.io"
-    },
-    {
-      "title": "Making Solar Panels with a Microwave [video]",
-      "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
-      "score": 47,
-      "comments": 6,
-      "source": "youtube.com"
-    },
-    {
-      "title": "How I got over 300 Tor exit nodes removed",
-      "url": "https://kaba.cx/posts/20261020_Tor/",
-      "score": 332,
-      "comments": 79,
-      "source": "kaba.cx"
-    },
-    {
-      "title": "PingCap TiDB Leaks",
-      "url": "https://fulcrumsec.vg/pingcap/",
-      "score": 38,
-      "comments": 3,
-      "source": "fulcrumsec.vg"
-    },
-    {
-      "title": "What the heck is /pkg?",
-      "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-      "score": 68,
-      "comments": 16,
-      "source": "anderegg.ca"
-    },
-    {
-      "title": "IKEA \u2013 3D Guide",
-      "url": "https://sael.net/flatpack/",
-      "score": 152,
-      "comments": 55,
-      "source": "sael.net"
-    },
-    {
-      "title": "Show HN: Dovepass \u2013 can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com",
-      "score": 17,
-      "comments": 2,
-      "source": "dovepass.com"
-    },
-    {
-      "title": "Meta's GB{2,3}00 Cluster",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "score": 70,
-      "comments": 26,
-      "source": "engineering.fb.com"
+      "source": "yle.fi"
     }
   ],
   "security": []
