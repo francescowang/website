@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 619,
+      "comments": 243,
+      "source": "github.com"
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 75,
+      "comments": 21,
+      "source": "thephp.foundation"
+    },
+    {
+      "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 184,
+      "comments": 23,
+      "source": "duckdb.org"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 106,
+      "comments": 49,
+      "source": "safedep.io"
+    },
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 44,
+      "comments": 24,
+      "source": "apnews.com"
+    },
+    {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "score": 143,
-      "comments": 56,
+      "score": 599,
+      "comments": 260,
       "source": "scotthelme.co.uk"
     },
     {
-      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-      "score": 249,
-      "comments": 256,
-      "source": "unric.org"
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 116,
+      "comments": 65,
+      "source": "openai.com"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 345,
+      "comments": 114,
+      "source": "wiz.io"
+    },
+    {
+      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+      "score": 334,
+      "comments": 243,
+      "source": "techdirt.com"
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "score": 37,
+      "comments": 3,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "score": 12,
+      "comments": 9,
+      "source": "alterauth.com"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 43,
+      "comments": 10,
+      "source": "openai.com"
+    },
+    {
+      "title": "Drupal is now light-years ahead of its reputation",
+      "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "score": 33,
+      "comments": 59,
+      "source": "dri.es"
+    },
+    {
+      "title": "What I learned from six months of being stupid on purpose",
+      "url": "https://wvez.org/blog/learning-to-be-stupid/",
+      "score": 5,
+      "comments": 0,
+      "source": "wvez.org"
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "9mothers.com"
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "score": 10,
+      "comments": 0,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "score": 225,
+      "comments": 111,
+      "source": "hirundo.io"
     },
     {
       "title": "The Future of CSS",
       "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "score": 399,
-      "comments": 163,
+      "score": 540,
+      "comments": 226,
       "source": "joshwcomeau.com"
     },
     {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "url": "https://news-web.php.net/php.announce/509",
-      "score": 966,
-      "comments": 392,
-      "source": "news-web.php.net"
+      "title": "C++ futures part 1: The mental model",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "score": 31,
+      "comments": 8,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "score": 3,
+      "comments": 0,
+      "source": "danielmangum.com"
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "url": "https://www.pagetable.com/303",
+      "score": 135,
+      "comments": 51,
+      "source": "pagetable.com"
+    },
+    {
+      "title": "Show HN: Sumi.css \u2013 CSS Framework",
+      "url": "https://github.com/vladocar/Sumi.css",
+      "score": 30,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "score": 55,
+      "comments": 29,
+      "source": "layerfs.ai"
+    },
+    {
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "score": 122,
+      "comments": 102,
+      "source": "coached.com"
     },
     {
       "title": "Whatever Happened to Fire Escapes",
       "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "score": 12,
-      "comments": 1,
+      "score": 145,
+      "comments": 102,
       "source": "practical.engineering"
-    },
-    {
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 813,
-      "comments": 381,
-      "source": "permit.petercai.com"
     },
     {
       "title": "Muse exposes users' personal and business secrets when they share conversations",
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "score": 197,
-      "comments": 91,
+      "score": 310,
+      "comments": 144,
       "source": "arstechnica.com"
     },
     {
       "title": "The Decoherence Trap",
       "url": "https://maevyn.codes/decoherence",
-      "score": 54,
-      "comments": 15,
+      "score": 131,
+      "comments": 56,
       "source": "maevyn.codes"
     },
     {
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 992,
-      "comments": 414,
-      "source": "emudhra.we-have-a-problem.com"
+      "title": "The Lucrative World of Literary Scams",
+      "url": "https://www.thedial.world/articles/news/ai-book-scams",
+      "score": 47,
+      "comments": 5,
+      "source": "thedial.world"
     },
     {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 690,
-      "comments": 172,
-      "source": "mistral.ai"
+      "title": "Delays for Pull Requests and Webhook deliveries",
+      "url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+      "score": 46,
+      "comments": 9,
+      "source": "githubstatus.com"
     },
     {
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "url": "https://www.pagetable.com/303",
-      "score": 18,
-      "comments": 4,
-      "source": "pagetable.com"
-    },
-    {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "score": 215,
-      "comments": 98,
-      "source": "krebsonsecurity.com"
-    },
-    {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "score": 101,
-      "comments": 54,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "score": 136,
-      "comments": 12,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "score": 203,
-      "comments": 155,
-      "source": "thebeliever.net"
-    },
-    {
-      "title": "ZX Spectrum Next Laptop",
-      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "score": 91,
-      "comments": 15,
-      "source": "dorchester3d.com"
-    },
-    {
-      "title": "Bonanza of new dates rewrites the history of the Inca",
-      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-      "score": 13,
-      "comments": 1,
-      "source": "science.org"
-    },
-    {
-      "title": "C# now beats Rust on WASM size",
-      "url": "https://github.com/zion-sati/NetWasm",
-      "score": 80,
-      "comments": 29,
-      "source": "github.com"
-    },
-    {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 347,
-      "comments": 73,
-      "source": "github.com"
-    },
-    {
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "score": 411,
-      "comments": 481,
-      "source": "stevekrouse.com"
-    },
-    {
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 562,
-      "comments": 274,
-      "source": "teddysvoronos.com"
-    },
-    {
-      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "score": 265,
-      "comments": 105,
-      "source": "github.com"
-    },
-    {
-      "title": "Composite objects and C++26 the std:polymorphic type",
-      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
-      "score": 29,
-      "comments": 29,
-      "source": "mariusbancila.ro"
-    },
-    {
-      "title": "Four Years with Decker",
-      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
-      "score": 44,
-      "comments": 7,
-      "source": "beyondloom.com"
-    },
-    {
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "score": 57,
-      "comments": 23,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2259,
-      "comments": 860,
-      "source": "github.com"
-    },
-    {
-      "title": "Battlezone Online: BZFlag in the Browser",
-      "url": "https://github.com/timriker/bzo",
-      "score": 32,
-      "comments": 24,
-      "source": "github.com"
-    },
-    {
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "score": 401,
-      "comments": 312,
-      "source": "prestonbyrne.com"
-    },
-    {
-      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "score": 285,
-      "comments": 163,
-      "source": "e360.yale.edu"
-    },
-    {
-      "title": "Finland Buying a Million Landmines",
-      "url": "https://yle.fi/a/74-20252139",
-      "score": 5,
-      "comments": 0,
-      "source": "yle.fi"
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "score": 242,
+      "comments": 82,
+      "source": "ncsc.nl"
     }
   ],
   "security": []
