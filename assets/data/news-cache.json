@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "SimCity, but with Permits",
+      "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
-      "score": 300,
-      "comments": 149,
+      "score": 617,
+      "comments": 308,
       "source": "permit.petercai.com"
+    },
+    {
+      "title": "Learning to live with Waymos",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "score": 26,
+      "comments": 50,
+      "source": "newyorker.com"
+    },
+    {
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "score": 18,
+      "comments": 4,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 121,
+      "comments": 45,
+      "source": "krebsonsecurity.com"
+    },
+    {
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 30,
+      "comments": 4,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 35,
+      "comments": 2,
+      "source": "joshwcomeau.com"
     },
     {
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 418,
-      "comments": 113,
+      "score": 548,
+      "comments": 145,
       "source": "mistral.ai"
-    },
-    {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2016,
-      "comments": 787,
-      "source": "github.com"
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 195,
-      "comments": 47,
-      "source": "github.com"
-    },
-    {
-      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "score": 87,
-      "comments": 30,
+      "score": 277,
+      "comments": 64,
       "source": "github.com"
     },
     {
       "title": "What shall I teach my son?",
       "url": "https://stevekrouse.com/ends",
-      "score": 121,
-      "comments": 212,
+      "score": 294,
+      "comments": 362,
       "source": "stevekrouse.com"
     },
     {
-      "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
-      "url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
-      "score": 9,
-      "comments": 2,
-      "source": "oregonjournalismproject.org"
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "score": 162,
+      "comments": 98,
+      "source": "blogs.lse.ac.uk"
     },
     {
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "score": 415,
-      "comments": 229,
-      "source": "teddysvoronos.com"
-    },
-    {
-      "title": "On AI writing",
-      "url": "https://www.bolkunov.com/p/on-ai-writing",
-      "score": 39,
-      "comments": 8,
-      "source": "bolkunov.com"
-    },
-    {
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "score": 262,
-      "comments": 167,
-      "source": "prestonbyrne.com"
+      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "score": 192,
+      "comments": 81,
+      "source": "github.com"
     },
     {
       "title": "EMudhra Intermediate CA Compromise",
       "url": "https://emudhra.we-have-a-problem.com/",
-      "score": 459,
-      "comments": 249,
+      "score": 691,
+      "comments": 347,
       "source": "emudhra.we-have-a-problem.com"
     },
     {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "score": 283,
-      "comments": 135,
-      "source": "blog.cloudflare.com"
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "score": 506,
+      "comments": 263,
+      "source": "teddysvoronos.com"
+    },
+    {
+      "title": "ZX Spectrum Next Laptop",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "score": 6,
+      "comments": 0,
+      "source": "dorchester3d.com"
     },
     {
       "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
       "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "score": 95,
-      "comments": 45,
+      "score": 214,
+      "comments": 126,
       "source": "e360.yale.edu"
     },
     {
-      "title": "How I got over 300 Tor exit nodes removed",
-      "url": "https://kaba.cx/posts/20261020_Tor/",
-      "score": 266,
-      "comments": 63,
-      "source": "kaba.cx"
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "score": 344,
+      "comments": 258,
+      "source": "prestonbyrne.com"
     },
     {
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "score": 41,
-      "comments": 0,
-      "source": "jepsen.io"
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 87,
+      "comments": 60,
+      "source": "thebeliever.net"
     },
     {
-      "title": "IKEA \u2013 3D Guide",
-      "url": "https://sael.net/flatpack/",
-      "score": 105,
-      "comments": 28,
-      "source": "sael.net"
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 2156,
+      "comments": 838,
+      "source": "github.com"
     },
     {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "score": 51,
-      "comments": 22,
-      "source": "anthropic.com"
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://news-web.php.net/php.announce/509",
+      "score": 130,
+      "comments": 29,
+      "source": "news-web.php.net"
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "score": 355,
+      "comments": 174,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "score": 32,
+      "comments": 1,
+      "source": "research.poh.org"
     },
     {
       "title": "Google Cloud outage affects almost all banking and other operations in Europe",
       "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "score": 270,
-      "comments": 138,
+      "score": 350,
+      "comments": 175,
       "source": "neowin.net"
+    },
+    {
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "score": 10,
+      "comments": 0,
+      "source": "pncnmnp.github.io"
+    },
+    {
+      "title": "Making Solar Panels with a Microwave [video]",
+      "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+      "score": 47,
+      "comments": 6,
+      "source": "youtube.com"
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "score": 332,
+      "comments": 79,
+      "source": "kaba.cx"
+    },
+    {
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "score": 38,
+      "comments": 3,
+      "source": "fulcrumsec.vg"
+    },
+    {
+      "title": "What the heck is /pkg?",
+      "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+      "score": 68,
+      "comments": 16,
+      "source": "anderegg.ca"
+    },
+    {
+      "title": "IKEA \u2013 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "score": 152,
+      "comments": 55,
+      "source": "sael.net"
+    },
+    {
+      "title": "Show HN: Dovepass \u2013 can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com",
+      "score": 17,
+      "comments": 2,
+      "source": "dovepass.com"
     },
     {
       "title": "Meta's GB{2,3}00 Cluster",
       "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "score": 12,
-      "comments": 0,
+      "score": 70,
+      "comments": 26,
       "source": "engineering.fb.com"
-    },
-    {
-      "title": "JAXA is about to perform a Phobos sample return mission",
-      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-      "score": 68,
-      "comments": 11,
-      "source": "science.org"
-    },
-    {
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "score": 76,
-      "comments": 46,
-      "source": "flatwaterfreepress.org"
-    },
-    {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "score": 375,
-      "comments": 325,
-      "source": "mastodon.gamedev.place"
-    },
-    {
-      "title": "My Friend Bob Cringely",
-      "url": "https://tyma.com/my-cringe-story/",
-      "score": 138,
-      "comments": 37,
-      "source": "tyma.com"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Archive of Our Own",
-      "url": "https://archiveofourown.org/",
-      "score": 71,
-      "comments": 17,
-      "source": "archiveofourown.org"
-    },
-    {
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "score": 124,
-      "comments": 50,
-      "source": "yoyo-code.com"
-    },
-    {
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "score": 351,
-      "comments": 74,
-      "source": "github.com"
-    },
-    {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "score": 293,
-      "comments": 164,
-      "source": "peec.ai"
-    },
-    {
-      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 520,
-      "comments": 147,
-      "source": "github.com"
     }
   ],
   "security": []
