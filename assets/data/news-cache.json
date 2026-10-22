@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "score": 273,
-      "comments": 69,
-      "source": "github.com"
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "score": 132,
+      "comments": 31,
+      "source": "nvd.nist.gov"
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "score": 228,
-      "comments": 103,
-      "source": "eliastaylor.com"
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "score": 45,
+      "comments": 5,
+      "source": "globus.software"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "score": 248,
+      "comments": 78,
+      "source": "simedw.com"
     },
     {
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "score": 20,
-      "comments": 9,
+      "score": 214,
+      "comments": 146,
       "source": "web.maths.unsw.edu.au"
     },
     {
       "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 345,
-      "comments": 187,
+      "score": 482,
+      "comments": 280,
       "source": "blog.railway.com"
     },
     {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "score": 39,
-      "comments": 6,
-      "source": "judgments.fedcourt.gov.au"
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 406,
+      "comments": 368,
+      "source": "claude.com"
     },
     {
-      "title": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 232,
-      "comments": 125,
-      "source": "google.github.io"
-    },
-    {
-      "title": "GitLab Critical Patch Release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 263,
-      "comments": 65,
-      "source": "docs.gitlab.com"
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 452,
-      "comments": 152,
-      "source": "safedep.io"
-    },
-    {
-      "title": "LLM Agents Play Pokemon Showdown",
-      "url": "https://olivergrabner.com/research/pokemon/",
-      "score": 13,
-      "comments": 4,
-      "source": "olivergrabner.com"
-    },
-    {
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "score": 9,
-      "comments": 2,
-      "source": "rumple.github.io"
-    },
-    {
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "score": 41,
-      "comments": 19,
-      "source": "boristhebrave.com"
-    },
-    {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "score": 412,
-      "comments": 264,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "Beyond the &",
-      "url": "https://lwn.net/Articles/1096028/",
-      "score": 19,
-      "comments": 0,
-      "source": "lwn.net"
+      "title": "Achieving AI-style reasoning without an LLM",
+      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "score": 37,
+      "comments": 16,
+      "source": "fleetingswallow.com"
     },
     {
       "title": "No more icons in every menu by default",
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 206,
-      "comments": 144,
+      "score": 335,
+      "comments": 201,
       "source": "blog.jim-nielsen.com"
     },
     {
-      "title": "I reverse engineered a board game",
-      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
-      "score": 6,
-      "comments": 0,
-      "source": "wuemeli.com"
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 532,
+      "comments": 173,
+      "source": "safedep.io"
     },
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 693,
-      "comments": 342,
-      "source": "thephp.foundation"
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 320,
+      "comments": 191,
+      "source": "google.github.io"
     },
     {
-      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "score": 27,
-      "comments": 10,
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 107,
+      "comments": 57,
+      "source": "rumple.github.io"
+    },
+    {
+      "title": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 359,
+      "comments": 85,
+      "source": "docs.gitlab.com"
+    },
+    {
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "score": 133,
+      "comments": 75,
       "source": "github.com"
     },
     {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "score": 162,
-      "comments": 26,
-      "source": "bbc.com"
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "score": 9,
+      "comments": 1,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "The Robot I Didn't Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "score": 13,
+      "comments": 8,
+      "source": "spectrum.ieee.org"
     },
     {
       "title": "PingCap TiDB Leaks",
       "url": "https://fulcrumsec.vg/pingcap/",
-      "score": 235,
-      "comments": 33,
+      "score": 357,
+      "comments": 57,
       "source": "fulcrumsec.vg"
+    },
+    {
+      "title": "What Is the Karakoram Anomaly?",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "score": 38,
+      "comments": 8,
+      "source": "nsidc.org"
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "score": 579,
+      "comments": 333,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "score": 224,
+      "comments": 51,
+      "source": "bbc.com"
     },
     {
       "title": "Code is clay now",
       "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "score": 106,
-      "comments": 57,
+      "score": 182,
+      "comments": 119,
       "source": "albertodenia.com"
+    },
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "score": 503,
+      "comments": 118,
+      "source": "github.com"
+    },
+    {
+      "title": "Beyond the &",
+      "url": "https://lwn.net/Articles/1096028/",
+      "score": 71,
+      "comments": 5,
+      "source": "lwn.net"
     },
     {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 247,
-      "comments": 107,
+      "score": 294,
+      "comments": 122,
       "source": "openai.com"
-    },
-    {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "score": 146,
-      "comments": 100,
-      "source": "windowslatest.com"
     },
     {
       "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
       "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 378,
-      "comments": 49,
+      "score": 426,
+      "comments": 56,
       "source": "duckdb.org"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "score": 238,
-      "comments": 162,
-      "source": "openai.com"
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 747,
+      "comments": 371,
+      "source": "thephp.foundation"
     },
     {
-      "title": "Postgres recovery_prefetch can cause outages",
-      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-      "score": 4,
-      "comments": 0,
-      "source": "ardentperf.com"
+      "title": "I can't use generic lambdas at compile-time, now what?",
+      "url": "https://blog.ganets.ky/ClangGenericLambdas/",
+      "score": 14,
+      "comments": 1,
+      "source": "blog.ganets.ky"
     },
     {
-      "title": "Show HN: AI-built browser games, collected in one place",
-      "url": "https://playgroundarcade.com/",
-      "score": 6,
-      "comments": 0,
-      "source": "playgroundarcade.com"
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 100,
+      "comments": 51,
+      "source": "boristhebrave.com"
     },
     {
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "score": 561,
-      "comments": 332,
-      "source": "theverge.com"
+      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 82,
+      "comments": 25,
+      "source": "github.com"
     },
     {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "score": 175,
-      "comments": 85,
-      "source": "apnews.com"
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "score": 30,
+      "comments": 4,
+      "source": "os2museum.com"
     },
     {
-      "title": "Honey, I shrunk the TV",
-      "url": "https://cakehonolulu.github.io/honey-i-shrunk-the-tv/",
-      "score": 11,
-      "comments": 20,
-      "source": "cakehonolulu.github.io"
-    },
-    {
-      "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
-      "url": "https://alterauth.com/",
-      "score": 54,
-      "comments": 22,
-      "source": "alterauth.com"
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 544,
+      "comments": 328,
+      "source": "eliastaylor.com"
     }
   ],
   "security": []
