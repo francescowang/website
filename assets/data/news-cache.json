@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Mistral Large 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "score": 277,
-      "comments": 68,
-      "source": "docs.mistral.ai"
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "score": 273,
+      "comments": 69,
+      "source": "github.com"
     },
     {
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-      "score": 130,
-      "comments": 25,
-      "source": "nmdoj.gov"
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 228,
+      "comments": 103,
+      "source": "eliastaylor.com"
     },
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "score": 498,
-      "comments": 227,
-      "source": "thephp.foundation"
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "score": 20,
+      "comments": 9,
+      "source": "web.maths.unsw.edu.au"
     },
     {
-      "title": "GitLab Remote Code Execution - Integer Overflow issue",
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 345,
+      "comments": 187,
+      "source": "blog.railway.com"
+    },
+    {
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "score": 39,
+      "comments": 6,
+      "source": "judgments.fedcourt.gov.au"
+    },
+    {
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 232,
+      "comments": 125,
+      "source": "google.github.io"
+    },
+    {
+      "title": "GitLab Critical Patch Release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 100,
-      "comments": 22,
+      "score": 263,
+      "comments": 65,
       "source": "docs.gitlab.com"
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 340,
-      "comments": 115,
+      "score": 452,
+      "comments": 152,
       "source": "safedep.io"
     },
     {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "score": 72,
-      "comments": 46,
-      "source": "windowslatest.com"
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "score": 13,
+      "comments": 4,
+      "source": "olivergrabner.com"
     },
     {
-      "title": "After automation: Solo founding will be the default",
-      "url": "https://every.to/thesis-statements/julian-weisser",
-      "score": 29,
-      "comments": 32,
-      "source": "every.to"
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "score": 9,
+      "comments": 2,
+      "source": "rumple.github.io"
     },
     {
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "score": 761,
-      "comments": 372,
-      "source": "scotthelme.co.uk"
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "score": 322,
-      "comments": 36,
-      "source": "duckdb.org"
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "score": 372,
-      "comments": 230,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "score": 197,
-      "comments": 129,
-      "source": "openai.com"
-    },
-    {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "score": 117,
-      "comments": 20,
-      "source": "bbc.com"
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "score": 72,
-      "comments": 16,
-      "source": "oist.jp"
-    },
-    {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "score": 144,
-      "comments": 77,
-      "source": "apnews.com"
-    },
-    {
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "score": 914,
-      "comments": 513,
-      "source": "github.com"
-    },
-    {
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "score": 164,
-      "comments": 150,
-      "source": "claude.com"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "score": 176,
-      "comments": 79,
-      "source": "openai.com"
-    },
-    {
-      "title": "Google's Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 88,
-      "comments": 64,
-      "source": "google.github.io"
-    },
-    {
-      "title": "A Place Among the Fiddlers",
-      "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
-      "score": 10,
-      "comments": 0,
-      "source": "longreads.com"
-    },
-    {
-      "title": "Canary Tokens",
-      "url": "https://canarytokens.org/",
-      "score": 71,
-      "comments": 13,
-      "source": "canarytokens.org"
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 41,
+      "comments": 19,
+      "source": "boristhebrave.com"
     },
     {
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "score": 174,
-      "comments": 59,
+      "score": 412,
+      "comments": 264,
       "source": "cnbc.com"
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "score": 110,
-      "comments": 55,
+      "title": "Beyond the &",
+      "url": "https://lwn.net/Articles/1096028/",
+      "score": 19,
+      "comments": 0,
+      "source": "lwn.net"
+    },
+    {
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "score": 206,
+      "comments": 144,
+      "source": "blog.jim-nielsen.com"
+    },
+    {
+      "title": "I reverse engineered a board game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "score": 6,
+      "comments": 0,
+      "source": "wuemeli.com"
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 693,
+      "comments": 342,
+      "source": "thephp.foundation"
+    },
+    {
+      "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 27,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "score": 162,
+      "comments": 26,
+      "source": "bbc.com"
+    },
+    {
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "score": 235,
+      "comments": 33,
+      "source": "fulcrumsec.vg"
+    },
+    {
+      "title": "Code is clay now",
+      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "score": 106,
+      "comments": 57,
+      "source": "albertodenia.com"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 247,
+      "comments": 107,
       "source": "openai.com"
     },
     {
-      "title": "Drupal is now light-years ahead of its reputation",
-      "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-      "score": 96,
-      "comments": 103,
-      "source": "dri.es"
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "score": 146,
+      "comments": 100,
+      "source": "windowslatest.com"
     },
     {
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "score": 1,
+      "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 378,
+      "comments": 49,
+      "source": "duckdb.org"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 238,
+      "comments": 162,
+      "source": "openai.com"
+    },
+    {
+      "title": "Postgres recovery_prefetch can cause outages",
+      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "score": 4,
       "comments": 0,
-      "source": "9mothers.com"
+      "source": "ardentperf.com"
     },
     {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "score": 39,
-      "comments": 7,
-      "source": "github.blog"
+      "title": "Show HN: AI-built browser games, collected in one place",
+      "url": "https://playgroundarcade.com/",
+      "score": 6,
+      "comments": 0,
+      "source": "playgroundarcade.com"
     },
     {
-      "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
-      "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-      "score": 46,
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "score": 561,
+      "comments": 332,
+      "source": "theverge.com"
+    },
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 175,
+      "comments": 85,
+      "source": "apnews.com"
+    },
+    {
+      "title": "Honey, I shrunk the TV",
+      "url": "https://cakehonolulu.github.io/honey-i-shrunk-the-tv/",
+      "score": 11,
+      "comments": 20,
+      "source": "cakehonolulu.github.io"
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "score": 54,
       "comments": 22,
-      "source": "danielmangum.com"
-    },
-    {
-      "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-      "url": "https://buford.bg/",
-      "score": 63,
-      "comments": 34,
-      "source": "buford.bg"
-    },
-    {
-      "title": "Potential third critical PHP CVE",
-      "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-      "score": 34,
-      "comments": 9,
-      "source": "elk.zone"
-    },
-    {
-      "title": "Claude Duet",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "score": 19,
-      "comments": 4,
-      "source": "claude.com"
-    },
-    {
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "url": "https://www.pagetable.com/303",
-      "score": 188,
-      "comments": 80,
-      "source": "pagetable.com"
+      "source": "alterauth.com"
     }
   ],
   "security": []
