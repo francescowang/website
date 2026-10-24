@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "score": 33,
-      "comments": 2,
-      "source": "infoq.com"
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "score": 39,
+      "comments": 18,
+      "source": "apollo.com"
     },
     {
-      "title": "Google illegally cut down 250K trees in Finland for data center",
-      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
-      "score": 80,
-      "comments": 33,
-      "source": "nypost.com"
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 189,
+      "comments": 127,
+      "source": "blog.roku.com"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 25,
+      "comments": 8,
+      "source": "aardappel.github.io"
+    },
+    {
+      "title": "Dream-1",
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "score": 84,
+      "comments": 46,
+      "source": "dreamlabs.ai"
+    },
+    {
+      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "score": 48,
+      "comments": 11,
+      "source": "twitter.com"
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 64,
+      "comments": 11,
+      "source": "de.numista.com"
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 9,
+      "comments": 2,
+      "source": "missileer.watch"
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 189,
+      "comments": 50,
+      "source": "freedns.afraid.org"
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "score": 62,
+      "comments": 15,
+      "source": "actu.epfl.ch"
+    },
+    {
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "score": 84,
+      "comments": 31,
+      "source": "computerworld.dk"
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 237,
+      "comments": 170,
+      "source": "southampton.ac.uk"
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "score": 73,
+      "comments": 60,
+      "source": "arxiv.org"
     },
     {
       "title": "OBS Studio 33",
       "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "score": 316,
-      "comments": 100,
+      "score": 411,
+      "comments": 145,
       "source": "github.com"
-    },
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "score": 379,
-      "comments": 119,
-      "source": "grapheneos.social"
     },
     {
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 120,
-      "comments": 62,
+      "score": 233,
+      "comments": 116,
       "source": "aikido.dev"
     },
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 180,
-      "comments": 122,
-      "source": "southampton.ac.uk"
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 1001,
-      "comments": 601,
-      "source": "kimi.ai"
+      "title": "Symbolic Learning in Python and Julia",
+      "url": "https://github.com/astroautomata/PySR",
+      "score": 25,
+      "comments": 4,
+      "source": "github.com"
     },
     {
       "title": "Physicists trap a single antimatter particle for a month",
       "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 159,
-      "comments": 56,
+      "score": 249,
+      "comments": 73,
       "source": "scientificamerican.com"
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 997,
-      "comments": 625,
-      "source": "blog.calif.io"
-    },
-    {
-      "title": "Appreciating the beauty of all your body's scars and scratches",
-      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-      "score": 45,
-      "comments": 27,
-      "source": "1000awesomethings.com"
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 289,
-      "comments": 43,
-      "source": "philipotoole.com"
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1458,
-      "comments": 238,
-      "source": "edjefferson.com"
-    },
-    {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 845,
-      "comments": 247,
-      "source": "music.apple.com"
-    },
-    {
-      "title": "How to run a city builder on 16 MHz",
-      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "score": 57,
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "score": 75,
       "comments": 13,
-      "source": "larstofus.com"
-    },
-    {
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 182,
-      "comments": 44,
-      "source": "rtfeldman.com"
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "score": 170,
-      "comments": 52,
-      "source": "danielball.com"
-    },
-    {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 220,
-      "comments": 70,
-      "source": "astral.sh"
-    },
-    {
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "score": 21,
-      "comments": 2,
-      "source": "gitlab.com"
-    },
-    {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "score": 431,
-      "comments": 163,
-      "source": "block.xyz"
-    },
-    {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 468,
-      "comments": 242,
-      "source": "eff.org"
-    },
-    {
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "score": 64,
-      "comments": 22,
-      "source": "torrentfreak.com"
-    },
-    {
-      "title": "I built a neural network using DOOM games",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "score": 4,
-      "comments": 0,
-      "source": "github.com"
+      "source": "infoq.com"
     },
     {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 24,
-      "comments": 15,
+      "score": 130,
+      "comments": 49,
       "source": "github.com"
     },
     {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "score": 366,
-      "comments": 119,
-      "source": "reddit.com"
+      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "score": 62,
+      "comments": 14,
+      "source": "reuters.com"
     },
     {
-      "title": "The Chalk and the Airplane",
-      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
-      "score": 20,
-      "comments": 7,
-      "source": "unintendedconsequenc.es"
+      "title": "Building a multiplayer FPS that runs in the browser, and you can play it now",
+      "url": "https://semperplay.com/news/operation-raven-origins-and-plan/",
+      "score": 3,
+      "comments": 0,
+      "source": "semperplay.com"
+    },
+    {
+      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+      "url": "https://sourceforge.net/projects/zac-os-9/",
+      "score": 18,
+      "comments": 6,
+      "source": "sourceforge.net"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1510,
+      "comments": 240,
+      "source": "edjefferson.com"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 345,
+      "comments": 51,
+      "source": "philipotoole.com"
+    },
+    {
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "score": 17,
+      "comments": 13,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "score": 23,
+      "comments": 0,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 897,
+      "comments": 265,
+      "source": "music.apple.com"
     },
     {
       "title": "Tiling Noise \u2013 Procedural GPU Patterns",
       "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-      "score": 16,
+      "score": 51,
       "comments": 1,
       "source": "catlikecoding.com"
     },
     {
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "score": 110,
-      "comments": 49,
-      "source": "security.apple.com"
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "score": 233,
+      "comments": 68,
+      "source": "rtfeldman.com"
     },
     {
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 340,
-      "comments": 87,
-      "source": "pudding.cool"
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "score": 274,
+      "comments": 91,
+      "source": "astral.sh"
     },
     {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 199,
-      "comments": 70,
-      "source": "cve.0xosprey.com"
-    },
-    {
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-      "score": 112,
-      "comments": 36,
-      "source": "martinfinkel.com"
+      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "score": 28,
+      "comments": 7,
+      "source": "science.org"
     }
   ],
   "security": []
