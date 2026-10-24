@@ -3,205 +3,212 @@
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 498,
-      "comments": 292,
+      "score": 758,
+      "comments": 469,
       "source": "kimi.ai"
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "score": 106,
+      "comments": 53,
+      "source": "nitter.click"
     },
     {
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 282,
-      "comments": 101,
+      "score": 620,
+      "comments": 203,
       "source": "music.apple.com"
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 572,
-      "comments": 391,
-      "source": "blog.calif.io"
+      "title": "Twelve Years of Distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 16,
+      "comments": 0,
+      "source": "philipotoole.com"
+    },
+    {
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "score": 118,
+      "comments": 52,
+      "source": "cve.0xosprey.com"
     },
     {
       "title": "Dessa: the most authentic full-duplex speech model ever built",
       "url": "https://block.xyz/dessa",
-      "score": 43,
-      "comments": 11,
+      "score": 271,
+      "comments": 111,
       "source": "block.xyz"
     },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 1107,
-      "comments": 213,
+      "score": 1281,
+      "comments": 226,
       "source": "edjefferson.com"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "score": 770,
+      "comments": 520,
+      "source": "blog.calif.io"
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "score": 42,
+      "comments": 12,
+      "source": "astral.sh"
     },
     {
       "title": "The Real Kevin Bacon",
       "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 161,
-      "comments": 44,
+      "score": 258,
+      "comments": 72,
       "source": "pudding.cool"
     },
     {
       "title": "Canadians are running out of time to oppose Bill C-22",
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 207,
-      "comments": 85,
+      "score": 346,
+      "comments": 181,
       "source": "eff.org"
     },
     {
-      "title": "How is music possible",
-      "url": "https://www.henrikkarlsson.xyz/p/music",
-      "score": 71,
-      "comments": 45,
-      "source": "henrikkarlsson.xyz"
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "score": 25,
+      "comments": 0,
+      "source": "martinfinkel.com"
     },
     {
-      "title": "UUIDv7 doesn't have the properties you think it does",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "score": 80,
-      "comments": 68,
-      "source": "alexsci.com"
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "score": 46,
+      "comments": 8,
+      "source": "corgi.computer"
     },
     {
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "score": 301,
+      "comments": 159,
+      "source": "theverge.com"
+    },
+    {
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
       "score": 9,
+      "comments": 1,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "score": 79,
+      "comments": 99,
+      "source": "jefftk.com"
+    },
+    {
+      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+      "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+      "score": 35,
+      "comments": 8,
+      "source": "e360.yale.edu"
+    },
+    {
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "score": 27,
+      "comments": 2,
+      "source": "sciencedaily.com"
+    },
+    {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "score": 19,
+      "comments": 0,
+      "source": "cam.ac.uk"
+    },
+    {
+      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+      "url": "https://rune.build/blog/rune-1-3-release",
+      "score": 41,
+      "comments": 9,
+      "source": "rune.build"
+    },
+    {
+      "title": "No Source Code? No Problem",
+      "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "score": 38,
+      "comments": 31,
+      "source": "queue.acm.org"
+    },
+    {
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "score": 36,
+      "comments": 7,
+      "source": "quantum5.ca"
+    },
+    {
+      "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
+      "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "score": 39,
+      "comments": 43,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "DNS: A Replacement for Finger",
+      "url": "https://altchan.org/sh/42",
+      "score": 30,
+      "comments": 22,
+      "source": "altchan.org"
+    },
+    {
+      "title": "Animations for System Builders",
+      "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
+      "score": 43,
       "comments": 3,
-      "source": "thanksforthatjim.bearblog.dev"
+      "source": "brooker.co.za"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "score": 83,
+      "comments": 99,
+      "source": "openai.com"
     },
     {
       "title": "Reforming English Spelling",
       "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
-      "score": 13,
-      "comments": 33,
+      "score": 30,
+      "comments": 88,
       "source": "blog.oup.com"
     },
     {
       "title": "Show HN: Impossible Machines: declaratively program the physical world",
       "url": "https://www.impossiblemachines.xyz",
-      "score": 43,
-      "comments": 12,
+      "score": 69,
+      "comments": 17,
       "source": "impossiblemachines.xyz"
-    },
-    {
-      "title": "The Missed Opportunities of Sonic 06 (2025)",
-      "url": "https://isaacmarovitz.com/posts/sonic-06/",
-      "score": 51,
-      "comments": 10,
-      "source": "isaacmarovitz.com"
-    },
-    {
-      "title": "LISP Comes of Age (1980)",
-      "url": "https://microship.com/lisp-comes-of-age/",
-      "score": 47,
-      "comments": 14,
-      "source": "microship.com"
-    },
-    {
-      "title": "Animations for System Builders",
-      "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-      "score": 16,
-      "comments": 3,
-      "source": "brooker.co.za"
-    },
-    {
-      "title": "Time Nuts (2005)",
-      "url": "http://leapsecond.com/time-nuts.htm",
-      "score": 23,
-      "comments": 21,
-      "source": "leapsecond.com"
     },
     {
       "title": "Show HN: Swurf \u2013 Swipe through the real web",
       "url": "https://swurf.org/",
-      "score": 31,
-      "comments": 18,
+      "score": 63,
+      "comments": 29,
       "source": "swurf.org"
     },
     {
-      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-      "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
-      "score": 85,
-      "comments": 52,
-      "source": "david.lequin.dev"
-    },
-    {
-      "title": "Total Historian",
-      "url": "https://www.theideasletter.org/essay/total-historian/",
-      "score": 18,
-      "comments": 4,
-      "source": "theideasletter.org"
-    },
-    {
-      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-      "url": "https://twitter.com/robbietilton/status/2111936458923851923",
-      "score": 43,
-      "comments": 11,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: OnKey \u2013 I'm a bad singer, so I built an app to show where I'm off-key",
-      "url": "https://github.com/dsmurrell/onkey",
-      "score": 194,
-      "comments": 83,
-      "source": "github.com"
-    },
-    {
-      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
-      "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
-      "score": 76,
-      "comments": 11,
-      "source": "bottlecapai.com"
-    },
-    {
-      "title": "Job loss and cortisone mania",
-      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
-      "score": 153,
-      "comments": 87,
-      "source": "tilschuenemann.de"
-    },
-    {
-      "title": "Florida officer found dead man, impersonated him for years, renovated his home",
-      "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
-      "score": 27,
-      "comments": 8,
-      "source": "nbcnews.com"
-    },
-    {
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "url": "https://arxiv.org/abs/2603.01092",
-      "score": 191,
-      "comments": 79,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "score": 19,
-      "comments": 2,
-      "source": "theverge.com"
-    },
-    {
-      "title": "How does Fable 5.1 hide messages in images?",
-      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-      "score": 189,
-      "comments": 69,
-      "source": "lesswrong.com"
-    },
-    {
-      "title": "We have traits at home",
-      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-      "score": 40,
-      "comments": 14,
-      "source": "axelmagn.com"
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 600,
-      "comments": 181,
-      "source": "simedw.com"
+      "title": "LISP Comes of Age (1980)",
+      "url": "https://microship.com/lisp-comes-of-age/",
+      "score": 63,
+      "comments": 17,
+      "source": "microship.com"
     }
   ],
   "security": []
