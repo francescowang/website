@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "score": 145,
+      "comments": 71,
+      "source": "panamericandispatch.org"
+    },
+    {
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "score": 221,
-      "comments": 179,
+      "score": 445,
+      "comments": 390,
       "source": "danluu.com"
-    },
-    {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 269,
-      "comments": 178,
-      "source": "aardappel.github.io"
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "score": 130,
-      "comments": 85,
-      "source": "missileer.watch"
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 205,
-      "comments": 182,
-      "source": "apricitas.io"
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "score": 35,
-      "comments": 9,
-      "source": "gopher.muffinlabs.com"
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "score": 14,
-      "comments": 1,
-      "source": "xingjianbai.com"
-    },
-    {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 48,
-      "comments": 3,
-      "source": "ratfactor.com"
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 9,
-      "comments": 0,
+      "score": 179,
+      "comments": 59,
       "source": "cerebras.ai"
+    },
+    {
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "score": 47,
+      "comments": 16,
+      "source": "kottke.org"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 414,
+      "comments": 251,
+      "source": "aardappel.github.io"
+    },
+    {
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "score": 18,
+      "comments": 1,
+      "source": "blast-info.fr"
+    },
+    {
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "score": 23,
+      "comments": 13,
+      "source": "polygonjs.com"
     },
     {
       "title": "SpeedCrunch 1.1",
       "url": "https://www.speedcrunch.org/",
-      "score": 88,
-      "comments": 12,
+      "score": 152,
+      "comments": 27,
       "source": "speedcrunch.org"
+    },
+    {
+      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
+      "url": "https://bmjopen.bmj.com/content/16/10/e111050",
+      "score": 6,
+      "comments": 3,
+      "source": "bmjopen.bmj.com"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 117,
+      "comments": 12,
+      "source": "ratfactor.com"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 80,
+      "comments": 28,
+      "source": "gopher.muffinlabs.com"
+    },
+    {
+      "title": "Online censorship is crushing indie webcomics",
+      "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "score": 53,
+      "comments": 41,
+      "source": "xtramagazine.com"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 371,
+      "comments": 378,
+      "source": "apricitas.io"
     },
     {
       "title": "I Built a Stereo Vision Board for Hardware Hackers",
       "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "score": 42,
-      "comments": 1,
+      "score": 83,
+      "comments": 14,
       "source": "rootkitlabs.com"
-    },
-    {
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "score": 17,
-      "comments": 0,
-      "source": "cambridge.org"
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "score": 424,
-      "comments": 260,
-      "source": "stealmybitcoin.com"
-    },
-    {
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "score": 261,
-      "comments": 65,
-      "source": "freedns.afraid.org"
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 289,
-      "comments": 219,
-      "source": "southampton.ac.uk"
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "score": 34,
-      "comments": 10,
-      "source": "ratfactor.com"
-    },
-    {
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "url": "https://codeberg.org/Misom/FindMyWeb",
-      "score": 26,
-      "comments": 7,
-      "source": "codeberg.org"
-    },
-    {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "score": 99,
-      "comments": 32,
-      "source": "de.numista.com"
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "score": 96,
-      "comments": 34,
-      "source": "actu.epfl.ch"
-    },
-    {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 282,
-      "comments": 140,
-      "source": "aikido.dev"
-    },
-    {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "score": 268,
-      "comments": 183,
-      "source": "blog.roku.com"
-    },
-    {
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "score": 62,
-      "comments": 10,
-      "source": "bbtree.xiangpeng.systems"
     },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "score": 1554,
-      "comments": 244,
+      "score": 1594,
+      "comments": 247,
       "source": "edjefferson.com"
     },
     {
-      "title": "Making a VGA Driver in SystemVerilog",
-      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-      "score": 52,
-      "comments": 10,
-      "source": "lukaswerner.com"
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 318,
+      "comments": 254,
+      "source": "southampton.ac.uk"
     },
     {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 196,
-      "comments": 63,
-      "source": "github.com"
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 324,
+      "comments": 155,
+      "source": "aikido.dev"
     },
     {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 285,
-      "comments": 80,
-      "source": "scientificamerican.com"
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 296,
+      "comments": 82,
+      "source": "freedns.afraid.org"
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 75,
+      "comments": 22,
+      "source": "ratfactor.com"
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 51,
+      "comments": 22,
+      "source": "cambridge.org"
     },
     {
       "title": "A story of a Figma bug that wasn't a bug at all (2021)",
       "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "score": 4,
-      "comments": 0,
+      "score": 33,
+      "comments": 1,
       "source": "aresluna.org"
     },
     {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "score": 38,
-      "comments": 28,
-      "source": "terrytao.wordpress.com"
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 117,
+      "comments": 39,
+      "source": "de.numista.com"
     },
     {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "score": 502,
-      "comments": 506,
-      "source": "apollo.com"
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 252,
+      "comments": 71,
+      "source": "github.com"
     },
     {
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "score": 164,
-      "comments": 151,
-      "source": "arxiv.org"
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "score": 17,
+      "comments": 2,
+      "source": "pragtical.dev"
     },
     {
-      "title": "How close can pure functional programming get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 258,
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "score": 108,
+      "comments": 42,
+      "source": "actu.epfl.ch"
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "score": 309,
       "comments": 88,
-      "source": "rtfeldman.com"
+      "source": "scientificamerican.com"
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 288,
+      "comments": 202,
+      "source": "blog.roku.com"
+    },
+    {
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "score": 28,
+      "comments": 8,
+      "source": "hitogata.neocities.org"
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "score": 115,
+      "comments": 11,
+      "source": "bbtree.xiangpeng.systems"
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 495,
+      "comments": 306,
+      "source": "stealmybitcoin.com"
     }
   ],
   "security": []
