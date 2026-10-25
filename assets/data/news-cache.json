@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "score": 39,
-      "comments": 18,
-      "source": "apollo.com"
-    },
-    {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "score": 189,
-      "comments": 127,
-      "source": "blog.roku.com"
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 221,
+      "comments": 179,
+      "source": "danluu.com"
     },
     {
       "title": "The Goose Programming Language",
       "url": "https://aardappel.github.io/goose/",
-      "score": 25,
-      "comments": 8,
+      "score": 269,
+      "comments": 178,
       "source": "aardappel.github.io"
-    },
-    {
-      "title": "Dream-1",
-      "url": "https://dreamlabs.ai/research/dream-1/",
-      "score": 84,
-      "comments": 46,
-      "source": "dreamlabs.ai"
-    },
-    {
-      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-      "score": 48,
-      "comments": 11,
-      "source": "twitter.com"
-    },
-    {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "score": 64,
-      "comments": 11,
-      "source": "de.numista.com"
     },
     {
       "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
       "url": "https://missileer.watch",
-      "score": 9,
-      "comments": 2,
+      "score": 130,
+      "comments": 85,
       "source": "missileer.watch"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 205,
+      "comments": 182,
+      "source": "apricitas.io"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 35,
+      "comments": 9,
+      "source": "gopher.muffinlabs.com"
+    },
+    {
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "score": 14,
+      "comments": 1,
+      "source": "xingjianbai.com"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 48,
+      "comments": 3,
+      "source": "ratfactor.com"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 9,
+      "comments": 0,
+      "source": "cerebras.ai"
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 88,
+      "comments": 12,
+      "source": "speedcrunch.org"
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 42,
+      "comments": 1,
+      "source": "rootkitlabs.com"
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 17,
+      "comments": 0,
+      "source": "cambridge.org"
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 424,
+      "comments": 260,
+      "source": "stealmybitcoin.com"
     },
     {
       "title": "FreeDNS",
       "url": "https://freedns.afraid.org/",
-      "score": 189,
-      "comments": 50,
+      "score": 261,
+      "comments": 65,
       "source": "freedns.afraid.org"
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "score": 62,
-      "comments": 15,
-      "source": "actu.epfl.ch"
-    },
-    {
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-      "score": 84,
-      "comments": 31,
-      "source": "computerworld.dk"
     },
     {
       "title": "I don't understand quantum physics (2018)",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 237,
-      "comments": 170,
+      "score": 289,
+      "comments": 219,
       "source": "southampton.ac.uk"
     },
     {
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "score": 73,
-      "comments": 60,
-      "source": "arxiv.org"
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 34,
+      "comments": 10,
+      "source": "ratfactor.com"
     },
     {
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "score": 411,
-      "comments": 145,
-      "source": "github.com"
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "url": "https://codeberg.org/Misom/FindMyWeb",
+      "score": 26,
+      "comments": 7,
+      "source": "codeberg.org"
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "score": 99,
+      "comments": 32,
+      "source": "de.numista.com"
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "score": 96,
+      "comments": 34,
+      "source": "actu.epfl.ch"
     },
     {
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "score": 233,
-      "comments": 116,
+      "score": 282,
+      "comments": 140,
       "source": "aikido.dev"
     },
     {
-      "title": "Symbolic Learning in Python and Julia",
-      "url": "https://github.com/astroautomata/PySR",
-      "score": 25,
-      "comments": 4,
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "score": 268,
+      "comments": 183,
+      "source": "blog.roku.com"
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "score": 62,
+      "comments": 10,
+      "source": "bbtree.xiangpeng.systems"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "score": 1554,
+      "comments": 244,
+      "source": "edjefferson.com"
+    },
+    {
+      "title": "Making a VGA Driver in SystemVerilog",
+      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "score": 52,
+      "comments": 10,
+      "source": "lukaswerner.com"
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 196,
+      "comments": 63,
       "source": "github.com"
     },
     {
       "title": "Physicists trap a single antimatter particle for a month",
       "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "score": 249,
-      "comments": 73,
+      "score": 285,
+      "comments": 80,
       "source": "scientificamerican.com"
     },
     {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "score": 75,
-      "comments": 13,
-      "source": "infoq.com"
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 130,
-      "comments": 49,
-      "source": "github.com"
-    },
-    {
-      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-      "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-      "score": 62,
-      "comments": 14,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Building a multiplayer FPS that runs in the browser, and you can play it now",
-      "url": "https://semperplay.com/news/operation-raven-origins-and-plan/",
-      "score": 3,
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "score": 4,
       "comments": 0,
-      "source": "semperplay.com"
-    },
-    {
-      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
-      "url": "https://sourceforge.net/projects/zac-os-9/",
-      "score": 18,
-      "comments": 6,
-      "source": "sourceforge.net"
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1510,
-      "comments": 240,
-      "source": "edjefferson.com"
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "score": 345,
-      "comments": 51,
-      "source": "philipotoole.com"
+      "source": "aresluna.org"
     },
     {
       "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "score": 17,
-      "comments": 13,
+      "score": 38,
+      "comments": 28,
       "source": "terrytao.wordpress.com"
     },
     {
-      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-      "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-      "score": 23,
-      "comments": 0,
-      "source": "en.wikipedia.org"
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "score": 502,
+      "comments": 506,
+      "source": "apollo.com"
     },
     {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 897,
-      "comments": 265,
-      "source": "music.apple.com"
-    },
-    {
-      "title": "Tiling Noise \u2013 Procedural GPU Patterns",
-      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-      "score": 51,
-      "comments": 1,
-      "source": "catlikecoding.com"
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "score": 164,
+      "comments": 151,
+      "source": "arxiv.org"
     },
     {
       "title": "How close can pure functional programming get to C?",
       "url": "https://rtfeldman.com/fp-vs-c",
-      "score": 233,
-      "comments": 68,
+      "score": 258,
+      "comments": 88,
       "source": "rtfeldman.com"
-    },
-    {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 274,
-      "comments": 91,
-      "source": "astral.sh"
-    },
-    {
-      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-      "score": 28,
-      "comments": 7,
-      "source": "science.org"
     }
   ],
   "security": []
