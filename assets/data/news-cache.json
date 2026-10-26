@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "score": 205,
+      "comments": 81,
+      "source": "blocks.manifold3d.ch"
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "score": 14,
+      "comments": 5,
+      "source": "brennenputh.me"
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "score": 108,
+      "comments": 38,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "score": 273,
+      "comments": 46,
+      "source": "titleart.dvy.io"
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "score": 153,
+      "comments": 75,
+      "source": "exhibits.stanford.edu"
+    },
+    {
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "score": 162,
+      "comments": 51,
+      "source": "github.com"
+    },
+    {
       "title": "Dolly Parton's Imagination Library",
       "url": "https://imaginationlibrary.com/",
-      "score": 426,
-      "comments": 76,
+      "score": 572,
+      "comments": 98,
       "source": "imaginationlibrary.com"
     },
     {
-      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-      "score": 19,
-      "comments": 1,
-      "source": "korindiehacker.bloffy.blog"
+      "title": "Growing Trees",
+      "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "score": 105,
+      "comments": 14,
+      "source": "brashandplucky.com"
     },
     {
-      "title": "F-Zero X on Nintendo 3DS",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "score": 67,
-      "comments": 34,
-      "source": "hypnotize.works"
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "score": 186,
+      "comments": 64,
+      "source": "github.com"
     },
     {
       "title": "Overgrown, when plants invade your abandoned tabs",
       "url": "https://charliegerard.dev/blog/overgrown-extension/",
-      "score": 163,
-      "comments": 44,
+      "score": 316,
+      "comments": 110,
       "source": "charliegerard.dev"
     },
     {
-      "title": "Why I Am a Programmer",
-      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "score": 149,
-      "comments": 55,
-      "source": "alfie.wtf"
+      "title": "Superhuman Hardware Design Is the Easy Part",
+      "url": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
+      "score": 37,
+      "comments": 20,
+      "source": "a16z.news"
     },
     {
       "title": "Attention Is Not What You Need (2025)",
       "url": "https://arxiv.org/abs/2512.19428",
-      "score": 33,
-      "comments": 15,
+      "score": 133,
+      "comments": 44,
       "source": "arxiv.org"
-    },
-    {
-      "title": "What goes into making an animated film?",
-      "url": "https://www.disneyanimation.com/process/",
-      "score": 105,
-      "comments": 42,
-      "source": "disneyanimation.com"
-    },
-    {
-      "title": "The State of Context Engineering",
-      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "score": 95,
-      "comments": 27,
-      "source": "dbreunig.com"
-    },
-    {
-      "title": "iPhone Duo Teardown",
-      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-      "score": 40,
-      "comments": 11,
-      "source": "ifixit.com"
-    },
-    {
-      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "score": 26,
-      "comments": 1,
-      "source": "theregister.com"
-    },
-    {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "score": 465,
-      "comments": 216,
-      "source": "lynchlab.net"
-    },
-    {
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "score": 183,
-      "comments": 207,
-      "source": "minimaxir.com"
-    },
-    {
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-      "score": 24,
-      "comments": 0,
-      "source": "getty.edu"
-    },
-    {
-      "title": "Eunice is almost here",
-      "url": "https://armincat.com/articles/eunice-is-almost-here",
-      "score": 66,
-      "comments": 61,
-      "source": "armincat.com"
-    },
-    {
-      "title": "Amazon's \"digital pacifier\" for toddlers",
-      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-      "score": 106,
-      "comments": 161,
-      "source": "oligarchwatch.substack.com"
-    },
-    {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "score": 408,
-      "comments": 205,
-      "source": "talkweb.eu"
-    },
-    {
-      "title": "Retired decorator's Pok\u00e9mon cards sell for \u00a31.5M",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-      "score": 19,
-      "comments": 11,
-      "source": "bbc.co.uk"
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 753,
-      "comments": 695,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "score": 410,
-      "comments": 107,
-      "source": "theintercept.com"
     },
     {
       "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
       "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-      "score": 9,
-      "comments": 1,
+      "score": 90,
+      "comments": 27,
       "source": "archaeologymag.com"
     },
     {
-      "title": "Where the Romans Fought (interactive map)",
-      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-      "score": 55,
-      "comments": 26,
-      "source": "iosiflazaridis.github.io"
-    },
-    {
-      "title": "Active incident at Dreamhost forcing password reset",
-      "url": "https://www.dreamhoststatus.com/",
-      "score": 127,
-      "comments": 53,
-      "source": "dreamhoststatus.com"
-    },
-    {
-      "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
-      "url": "https://adrs.systems",
-      "score": 8,
-      "comments": 5,
-      "source": "adrs.systems"
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 254,
+      "comments": 79,
+      "source": "alfie.wtf"
     },
     {
       "title": "Steal My Bitcoin CTF PoC",
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "score": 19,
-      "comments": 4,
+      "score": 131,
+      "comments": 34,
       "source": "github.com"
     },
     {
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 133,
+      "comments": 70,
+      "source": "hypnotize.works"
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "score": 201,
+      "comments": 49,
+      "source": "dbreunig.com"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 819,
+      "comments": 723,
+      "source": "danluu.com"
+    },
+    {
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "score": 298,
+      "comments": 204,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Amazon\u2019s \u201cdigital pacifier\u201d for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "score": 210,
+      "comments": 303,
+      "source": "oligarchwatch.substack.com"
+    },
+    {
+      "title": "Two Million Hornets",
+      "url": "https://dark-mountain.net/two-million-hornets/",
+      "score": 17,
+      "comments": 2,
+      "source": "dark-mountain.net"
+    },
+    {
+      "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+      "url": "https://adrs.systems",
       "score": 53,
-      "comments": 23,
-      "source": "huggingface.co"
+      "comments": 30,
+      "source": "adrs.systems"
     },
     {
-      "title": "Reverse engineering a Beyblade launch tracker",
-      "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
-      "score": 38,
-      "comments": 4,
-      "source": "blog.simone.computer"
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 582,
+      "comments": 248,
+      "source": "lynchlab.net"
     },
     {
-      "title": "Root shell on Samsung TV",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "score": 787,
-      "comments": 607,
-      "source": "twitter.com"
+      "title": "Vazhaipoo Vadai \u2013 Banana Flower Recipe",
+      "url": "https://www.vegrecipesofindia.com/banana-flower-vada-recipe/",
+      "score": 5,
+      "comments": 0,
+      "source": "vegrecipesofindia.com"
     },
     {
-      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-      "score": 62,
-      "comments": 13,
-      "source": "youtube.com"
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 347,
+      "comments": 335,
+      "source": "minimaxir.com"
     },
     {
-      "title": "Proton Flock Camera Map",
-      "url": "https://proton.me/flock-camera-map",
-      "score": 75,
-      "comments": 13,
-      "source": "proton.me"
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "score": 114,
+      "comments": 47,
+      "source": "iosiflazaridis.github.io"
     },
     {
-      "title": "UTS #39: Unicode Security Mechanisms",
-      "url": "https://unicode.org/reports/tr39/",
-      "score": 35,
-      "comments": 19,
-      "source": "unicode.org"
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "score": 156,
+      "comments": 93,
+      "source": "korindiehacker.bloffy.blog"
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "score": 55,
+      "comments": 1,
+      "source": "getty.edu"
+    },
+    {
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "score": 158,
+      "comments": 62,
+      "source": "dreamhoststatus.com"
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "score": 498,
+      "comments": 241,
+      "source": "talkweb.eu"
     }
   ],
   "security": []
