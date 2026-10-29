@@ -1,46 +1,130 @@
 {
   "tech": [
     {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "score": 201,
+      "comments": 45,
+      "source": "divagr.com"
+    },
+    {
       "title": "Why is this fingerprinting script creating bioweapons?",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 529,
-      "comments": 119,
+      "score": 948,
+      "comments": 201,
       "source": "nullpt.rs"
     },
     {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "score": 49,
-      "comments": 40,
-      "source": "formlabs.com"
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "score": 114,
+      "comments": 44,
+      "source": "alpinelinux.org"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 685,
-      "comments": 557,
-      "source": "blog.google"
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 147,
+      "comments": 20,
+      "source": "furbo.org"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "score": 201,
+      "comments": 191,
+      "source": "data.stackexchange.com"
     },
     {
       "title": "CNC Stone Carving",
       "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 347,
-      "comments": 109,
+      "score": 431,
+      "comments": 122,
       "source": "carmelitegothic.com"
     },
     {
-      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "score": 166,
-      "comments": 96,
-      "source": "surgehq.ai"
+      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "score": 60,
+      "comments": 0,
+      "source": "gist.github.com"
+    },
+    {
+      "title": "The 'else' keyword is probably a literal translation from German (2020)",
+      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+      "score": 26,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 844,
+      "comments": 703,
+      "source": "blog.google"
+    },
+    {
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "url": "https://www.nature.com/articles/s41467-026-78272-8",
+      "score": 15,
+      "comments": 1,
+      "source": "nature.com"
+    },
+    {
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "score": 147,
+      "comments": 97,
+      "source": "formlabs.com"
+    },
+    {
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "score": 461,
+      "comments": 210,
+      "source": "circuithub.com"
     },
     {
       "title": "MacBook Pro with PROLED XDR Display and Touch",
       "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "score": 431,
-      "comments": 732,
+      "score": 525,
+      "comments": 904,
       "source": "apple.com"
+    },
+    {
+      "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+      "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+      "score": 72,
+      "comments": 18,
+      "source": "oxfam.org"
+    },
+    {
+      "title": "Nixpkgs for the Front End Impaired",
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "score": 25,
+      "comments": 5,
+      "source": "fzakaria.com"
+    },
+    {
+      "title": "Why birds can fly over Mount Everest (2020)",
+      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "score": 99,
+      "comments": 15,
+      "source": "lede-v2.nautil.us"
+    },
+    {
+      "title": "How we made our MMDB files a 33% smaller",
+      "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+      "score": 20,
+      "comments": 4,
+      "source": "ipinfo.io"
+    },
+    {
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "score": 188,
+      "comments": 181,
+      "source": "wiki.alpinebsd.org"
     },
     {
       "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -50,165 +134,81 @@
       "source": "nango.dev"
     },
     {
-      "title": "Leak Exposes 41,000 Homeland Security Workers\u2013Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "score": 116,
-      "comments": 33,
-      "source": "wired.com"
-    },
-    {
-      "title": "The case of the 9 bit AES key",
-      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-      "score": 21,
-      "comments": 4,
-      "source": "v12.sh"
-    },
-    {
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "score": 370,
-      "comments": 187,
-      "source": "circuithub.com"
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "url": "https://vertex.degree/",
-      "score": 526,
-      "comments": 116,
-      "source": "vertex.degree"
-    },
-    {
-      "title": "The tragedy of losing your Wikipedia page",
-      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-      "score": 15,
-      "comments": 24,
-      "source": "wired.com"
-    },
-    {
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org",
-      "score": 148,
-      "comments": 129,
-      "source": "wiki.alpinebsd.org"
-    },
-    {
-      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "score": 27,
-      "comments": 0,
-      "source": "quantamagazine.org"
+      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "score": 216,
+      "comments": 139,
+      "source": "surgehq.ai"
     },
     {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "score": 977,
-      "comments": 369,
+      "score": 1075,
+      "comments": 384,
       "source": "emudhra.we-have-a-problem.com"
     },
     {
-      "title": "Gaussian Splats part 3: There's always a bigger scene",
-      "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
-      "score": 88,
-      "comments": 18,
-      "source": "magnopus.com"
+      "title": "The case of the 9 bit AES key",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "score": 97,
+      "comments": 47,
+      "source": "v12.sh"
     },
     {
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "score": 81,
-      "comments": 98,
-      "source": "cursor.com"
+      "title": "The first wired XR glasses powered by Android XR",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "score": 51,
+      "comments": 47,
+      "source": "blog.google"
     },
     {
-      "title": "Show HN: SlideBySide \u2013 Present slides without sharing your screen",
-      "url": "https://slidebyside.com/",
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "score": 53,
+      "comments": 5,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Image generation has come a long way since August 2022",
+      "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
       "score": 43,
-      "comments": 19,
-      "source": "slidebyside.com"
+      "comments": 18,
+      "source": "hbrooks.com"
     },
     {
-      "title": "Rubber Duck I've Ever Had",
-      "url": "https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had",
-      "score": 9,
-      "comments": 2,
-      "source": "blog.blockingqueue.com"
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "score": 71,
-      "comments": 39,
-      "source": "arstechnica.com"
+      "title": "Scaling Hierarchical Networks",
+      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+      "score": 46,
+      "comments": 1,
+      "source": "cartesia.ai"
     },
     {
       "title": "Emacs Turns 50",
       "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-      "score": 367,
-      "comments": 159,
+      "score": 447,
+      "comments": 187,
       "source": "technologyreview.com"
     },
     {
-      "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
-      "url": "https://spectrum.ieee.org/ground-effect-vehicle",
-      "score": 41,
-      "comments": 32,
-      "source": "spectrum.ieee.org"
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "score": 108,
+      "comments": 116,
+      "source": "cursor.com"
     },
     {
-      "title": "Oseberg Tapestry Fragments",
-      "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
-      "score": 10,
-      "comments": 0,
-      "source": "en.wikipedia.org"
+      "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
+      "url": "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
+      "score": 22,
+      "comments": 1,
+      "source": "designboom.com"
     },
     {
-      "title": "The Style Is Father of the Man",
-      "url": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
-      "score": 11,
-      "comments": 2,
-      "source": "harpers.org"
-    },
-    {
-      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
-      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
-      "score": 184,
-      "comments": 37,
-      "source": "healeycodes.com"
-    },
-    {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "score": 385,
-      "comments": 432,
-      "source": "religionnews.com"
-    },
-    {
-      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
-      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
-      "score": 122,
-      "comments": 25,
-      "source": "paulfwalsh.substack.com"
-    },
-    {
-      "title": "Archive.today links going forward",
-      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
-      "score": 150,
-      "comments": 96,
-      "source": "reddit.com"
-    },
-    {
-      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-      "url": "https://arxiv.org/abs/2610.36341",
-      "score": 14,
-      "comments": 0,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "score": 93,
-      "comments": 16,
-      "source": "huggingface.co"
+      "title": "Show HN: SlideBySide \u2013 Present slides without sharing your screen",
+      "url": "https://slidebyside.com/",
+      "score": 64,
+      "comments": 26,
+      "source": "slidebyside.com"
     }
   ],
   "security": []
