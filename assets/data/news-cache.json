@@ -3,128 +3,191 @@
     {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "url": "https://divagr.com/blog/qwenputer",
-      "score": 201,
-      "comments": 45,
+      "score": 539,
+      "comments": 110,
       "source": "divagr.com"
     },
     {
       "title": "Why is this fingerprinting script creating bioweapons?",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 948,
-      "comments": 201,
+      "score": 1327,
+      "comments": 248,
       "source": "nullpt.rs"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "score": 114,
-      "comments": 44,
-      "source": "alpinelinux.org"
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "score": 67,
+      "comments": 36,
+      "source": "electrek.co"
     },
     {
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "score": 147,
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+      "score": 79,
+      "comments": 24,
+      "source": "inventor7777.github.io"
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com/",
+      "score": 140,
+      "comments": 88,
+      "source": "smsofdeath.com"
+    },
+    {
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "score": 112,
       "comments": 20,
-      "source": "furbo.org"
+      "source": "blog.orange.tw"
+    },
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "score": 222,
+      "comments": 128,
+      "source": "the-decoder.com"
+    },
+    {
+      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+      "url": "https://dmux.github.io/minilake/",
+      "score": 39,
+      "comments": 5,
+      "source": "dmux.github.io"
+    },
+    {
+      "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
+      "url": "https://sonidoselva.com/perspectiva-kogui",
+      "score": 23,
+      "comments": 4,
+      "source": "sonidoselva.com"
+    },
+    {
+      "title": "Show HN: UK Farming Simulator",
+      "url": "https://butterbean.farm/",
+      "score": 4,
+      "comments": 8,
+      "source": "butterbean.farm"
     },
     {
       "title": "StackOverflow now gets fewer than 1000 questions a month",
       "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "score": 201,
-      "comments": 191,
+      "score": 548,
+      "comments": 453,
       "source": "data.stackexchange.com"
+    },
+    {
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 287,
+      "comments": 44,
+      "source": "furbo.org"
+    },
+    {
+      "title": "Requests, Please",
+      "url": "https://morronel.github.io/requests_please/",
+      "score": 22,
+      "comments": 2,
+      "source": "morronel.github.io"
+    },
+    {
+      "title": "Muhammad Aqeel: Undo for Postgres, without losing the rest of your day",
+      "url": "https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day",
+      "score": 7,
+      "comments": 1,
+      "source": "pgedge.com"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "score": 197,
+      "comments": 91,
+      "source": "alpinelinux.org"
     },
     {
       "title": "CNC Stone Carving",
       "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 431,
-      "comments": 122,
+      "score": 487,
+      "comments": 134,
       "source": "carmelitegothic.com"
     },
     {
-      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "score": 97,
+      "comments": 5,
+      "source": "benjoffe.com"
+    },
+    {
+      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
       "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 60,
-      "comments": 0,
+      "score": 432,
+      "comments": 166,
       "source": "gist.github.com"
-    },
-    {
-      "title": "The 'else' keyword is probably a literal translation from German (2020)",
-      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
-      "score": 26,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 844,
-      "comments": 703,
-      "source": "blog.google"
-    },
-    {
-      "title": "Human-enhanced tsunami hazard in large lakes",
-      "url": "https://www.nature.com/articles/s41467-026-78272-8",
-      "score": 15,
-      "comments": 1,
-      "source": "nature.com"
-    },
-    {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "score": 147,
-      "comments": 97,
-      "source": "formlabs.com"
     },
     {
       "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
       "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "score": 461,
-      "comments": 210,
+      "score": 513,
+      "comments": 232,
       "source": "circuithub.com"
     },
     {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "score": 525,
-      "comments": 904,
-      "source": "apple.com"
+      "title": "Treap (Cartesian Tree)",
+      "url": "https://cp-algorithms.com/data_structures/treap.html",
+      "score": 39,
+      "comments": 6,
+      "source": "cp-algorithms.com"
     },
     {
-      "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
-      "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
-      "score": 72,
-      "comments": 18,
-      "source": "oxfam.org"
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "score": 198,
+      "comments": 131,
+      "source": "formlabs.com"
     },
     {
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "score": 25,
-      "comments": 5,
-      "source": "fzakaria.com"
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 955,
+      "comments": 764,
+      "source": "blog.google"
     },
     {
       "title": "Why birds can fly over Mount Everest (2020)",
       "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
-      "score": 99,
-      "comments": 15,
+      "score": 187,
+      "comments": 35,
       "source": "lede-v2.nautil.us"
     },
     {
-      "title": "How we made our MMDB files a 33% smaller",
-      "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
-      "score": 20,
-      "comments": 4,
-      "source": "ipinfo.io"
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "score": 595,
+      "comments": 994,
+      "source": "apple.com"
     },
     {
       "title": "AlpineBSD",
       "url": "https://wiki.alpinebsd.org",
-      "score": 188,
-      "comments": 181,
+      "score": 234,
+      "comments": 215,
       "source": "wiki.alpinebsd.org"
+    },
+    {
+      "title": "Nixpkgs for the Front End Impaired",
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "score": 79,
+      "comments": 14,
+      "source": "fzakaria.com"
+    },
+    {
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "url": "https://www.nature.com/articles/s41467-026-78272-8",
+      "score": 51,
+      "comments": 5,
+      "source": "nature.com"
     },
     {
       "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -134,81 +197,18 @@
       "source": "nango.dev"
     },
     {
-      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "score": 216,
-      "comments": 139,
-      "source": "surgehq.ai"
-    },
-    {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "score": 1075,
-      "comments": 384,
+      "score": 1149,
+      "comments": 399,
       "source": "emudhra.we-have-a-problem.com"
-    },
-    {
-      "title": "The case of the 9 bit AES key",
-      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-      "score": 97,
-      "comments": 47,
-      "source": "v12.sh"
-    },
-    {
-      "title": "The first wired XR glasses powered by Android XR",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-      "score": 51,
-      "comments": 47,
-      "source": "blog.google"
-    },
-    {
-      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "score": 53,
-      "comments": 5,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Image generation has come a long way since August 2022",
-      "url": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
-      "score": 43,
-      "comments": 18,
-      "source": "hbrooks.com"
     },
     {
       "title": "Scaling Hierarchical Networks",
       "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-      "score": 46,
-      "comments": 1,
+      "score": 79,
+      "comments": 4,
       "source": "cartesia.ai"
-    },
-    {
-      "title": "Emacs Turns 50",
-      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-      "score": 447,
-      "comments": 187,
-      "source": "technologyreview.com"
-    },
-    {
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "score": 108,
-      "comments": 116,
-      "source": "cursor.com"
-    },
-    {
-      "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
-      "url": "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
-      "score": 22,
-      "comments": 1,
-      "source": "designboom.com"
-    },
-    {
-      "title": "Show HN: SlideBySide \u2013 Present slides without sharing your screen",
-      "url": "https://slidebyside.com/",
-      "score": 64,
-      "comments": 26,
-      "source": "slidebyside.com"
     }
   ],
   "security": []
