@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "score": 539,
-      "comments": 110,
-      "source": "divagr.com"
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 200,
+      "comments": 100,
+      "source": "arkm.com"
     },
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 1327,
-      "comments": 248,
-      "source": "nullpt.rs"
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1064,
+      "comments": 310,
+      "source": "mistral.ai"
     },
     {
-      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-      "score": 67,
-      "comments": 36,
-      "source": "electrek.co"
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "score": 231,
+      "comments": 152,
+      "source": "nypost.com"
     },
     {
-      "title": "Getting debug access on a Brother printer over Telnet",
-      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
-      "score": 79,
-      "comments": 24,
-      "source": "inventor7777.github.io"
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 31,
+      "comments": 13,
+      "source": "labs.ycombinator.com"
     },
     {
-      "title": "Zero click, silent, remote Android DoS",
-      "url": "https://smsofdeath.com/",
-      "score": 140,
-      "comments": 88,
-      "source": "smsofdeath.com"
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "score": 1756,
+      "comments": 342,
+      "source": "nytimes.com"
     },
     {
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "score": 112,
-      "comments": 20,
-      "source": "blog.orange.tw"
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "score": 271,
+      "comments": 113,
+      "source": "sidbala.com"
     },
     {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "score": 222,
-      "comments": 128,
-      "source": "the-decoder.com"
-    },
-    {
-      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-      "url": "https://dmux.github.io/minilake/",
-      "score": 39,
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "score": 53,
       "comments": 5,
-      "source": "dmux.github.io"
+      "source": "github.com"
     },
     {
-      "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
-      "url": "https://sonidoselva.com/perspectiva-kogui",
-      "score": 23,
-      "comments": 4,
-      "source": "sonidoselva.com"
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "score": 65,
+      "comments": 54,
+      "source": "github.com"
     },
     {
-      "title": "Show HN: UK Farming Simulator",
-      "url": "https://butterbean.farm/",
-      "score": 4,
-      "comments": 8,
-      "source": "butterbean.farm"
-    },
-    {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "score": 548,
-      "comments": 453,
-      "source": "data.stackexchange.com"
-    },
-    {
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "score": 287,
-      "comments": 44,
-      "source": "furbo.org"
-    },
-    {
-      "title": "Requests, Please",
-      "url": "https://morronel.github.io/requests_please/",
-      "score": 22,
-      "comments": 2,
-      "source": "morronel.github.io"
-    },
-    {
-      "title": "Muhammad Aqeel: Undo for Postgres, without losing the rest of your day",
-      "url": "https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day",
-      "score": 7,
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "url": "https://projects.freehackers.org/sylphide-os/",
+      "score": 14,
       "comments": 1,
-      "source": "pgedge.com"
+      "source": "projects.freehackers.org"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "score": 197,
-      "comments": 91,
-      "source": "alpinelinux.org"
+      "title": "ElementaryUI \u2013 Swift, in the Browser",
+      "url": "https://elementary.codes",
+      "score": 22,
+      "comments": 1,
+      "source": "elementary.codes"
     },
     {
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 487,
-      "comments": 134,
-      "source": "carmelitegothic.com"
+      "title": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "score": 374,
+      "comments": 567,
+      "source": "about.doordash.com"
     },
     {
-      "title": "A new faster algorithm to compute 64-bit signed floor division",
-      "url": "https://www.benjoffe.com/fast-floordiv",
-      "score": 97,
-      "comments": 5,
-      "source": "benjoffe.com"
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "score": 287,
+      "comments": 155,
+      "source": "martinfowler.com"
     },
     {
-      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "score": 432,
-      "comments": 166,
-      "source": "gist.github.com"
+      "title": "The importance of communities around software",
+      "url": "https://lumi.codeberg.page/blog/software-community.html",
+      "score": 72,
+      "comments": 70,
+      "source": "lumi.codeberg.page"
     },
     {
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "score": 513,
-      "comments": 232,
-      "source": "circuithub.com"
+      "title": "Scattered thoughts on how doing math feels these days",
+      "url": "https://dynomight.net/math/",
+      "score": 25,
+      "comments": 11,
+      "source": "dynomight.net"
     },
     {
-      "title": "Treap (Cartesian Tree)",
-      "url": "https://cp-algorithms.com/data_structures/treap.html",
-      "score": 39,
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "score": 26,
+      "comments": 12,
+      "source": "divergencelabs.com"
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "score": 254,
+      "comments": 118,
+      "source": "dreamgroup.com"
+    },
+    {
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "score": 128,
+      "comments": 59,
+      "source": "trakkr.ai"
+    },
+    {
+      "title": "One reviewer per layer: splitting code review by the way code is read",
+      "url": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
+      "score": 25,
+      "comments": 8,
+      "source": "djordjepuzic.com"
+    },
+    {
+      "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+      "url": "https://github.com/emmilco/us-tax-model",
+      "score": 44,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "16colo.rs \u2013 ANSI/ASCII art archive",
+      "url": "https://16colo.rs/",
+      "score": 71,
       "comments": 6,
-      "source": "cp-algorithms.com"
+      "source": "16colo.rs"
     },
     {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "score": 198,
-      "comments": 131,
-      "source": "formlabs.com"
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "score": 210,
+      "comments": 245,
+      "source": "iptrust.co"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "score": 955,
-      "comments": 764,
-      "source": "blog.google"
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "score": 110,
+      "comments": 18,
+      "source": "skypilot.ai"
     },
     {
-      "title": "Why birds can fly over Mount Everest (2020)",
-      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
-      "score": 187,
-      "comments": 35,
-      "source": "lede-v2.nautil.us"
+      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+      "url": "https://fig.blue/posts/duet-is-the-future/",
+      "score": 69,
+      "comments": 55,
+      "source": "fig.blue"
     },
     {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "score": 595,
-      "comments": 994,
-      "source": "apple.com"
-    },
-    {
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org",
-      "score": 234,
-      "comments": 215,
-      "source": "wiki.alpinebsd.org"
-    },
-    {
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "score": 79,
-      "comments": 14,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Human-enhanced tsunami hazard in large lakes",
-      "url": "https://www.nature.com/articles/s41467-026-78272-8",
-      "score": 51,
-      "comments": 5,
-      "source": "nature.com"
-    },
-    {
-      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-      "url": "https://nango.dev/careers",
-      "score": 1,
+      "title": "Partitioning my digital life into security domains (2011)",
+      "url": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
+      "score": 6,
       "comments": 0,
-      "source": "nango.dev"
+      "source": "blog.invisiblethings.org"
     },
     {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "score": 1149,
-      "comments": 399,
-      "source": "emudhra.we-have-a-problem.com"
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "score": 123,
+      "comments": 261,
+      "source": "bbc.com"
     },
     {
-      "title": "Scaling Hierarchical Networks",
-      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-      "score": 79,
-      "comments": 4,
-      "source": "cartesia.ai"
+      "title": "NetBSD adds a new text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "score": 156,
+      "comments": 123,
+      "source": "mastodon.sdf.org"
+    },
+    {
+      "title": "Show HN: Overtone \u2013 Transcribe, correct and cut captions for any screen shape",
+      "url": "https://github.com/lonthq/overtone-captions",
+      "score": 21,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Tom\u00e1\u0161 Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+      "score": 157,
+      "comments": 16,
+      "source": "vut.cz"
+    },
+    {
+      "title": "Edit an SQLite database in your browser",
+      "url": "https://editsqlite.com/",
+      "score": 58,
+      "comments": 27,
+      "source": "editsqlite.com"
     }
   ],
   "security": []
