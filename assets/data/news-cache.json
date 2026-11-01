@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Norway makes shithouses great again",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "score": 228,
+      "comments": 94,
+      "source": "visitnorway.com"
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 894,
-      "comments": 284,
+      "score": 1473,
+      "comments": 397,
       "source": "karpathy.bearblog.dev"
+    },
+    {
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "score": 48,
+      "comments": 23,
+      "source": "economist.com"
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 227,
-      "comments": 66,
+      "score": 513,
+      "comments": 158,
       "source": "smithsonianmag.com"
     },
     {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 395,
-      "comments": 185,
-      "source": "atlasum.net"
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 124,
-      "comments": 69,
-      "source": "github.com"
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/\ud83c\udd86\ud83c\udd83\ud83c\udd75/",
+      "score": 16,
+      "comments": 9,
+      "source": "xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso"
     },
     {
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "score": 18,
-      "comments": 7,
+      "score": 163,
+      "comments": 68,
       "source": "jetstream.security"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "score": 121,
+      "comments": 68,
+      "source": "nolanlawson.com"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "score": 548,
+      "comments": 252,
+      "source": "atlasum.net"
+    },
+    {
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "score": 129,
+      "comments": 31,
+      "source": "blog.zamzar.com"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 280,
+      "comments": 127,
+      "source": "github.com"
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "score": 102,
+      "comments": 55,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "score": 23,
+      "comments": 5,
+      "source": "outcrop.rocks"
+    },
+    {
+      "title": "Understanding Email Encryption",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "score": 34,
+      "comments": 10,
+      "source": "fastmail.com"
+    },
+    {
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "score": 55,
+      "comments": 11,
+      "source": "thales.mit.edu"
+    },
+    {
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "score": 10,
+      "comments": 7,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "score": 63,
+      "comments": 52,
+      "source": "youtube.com"
     },
     {
       "title": "Altoids Project",
       "url": "https://uvdn7.github.io/altoids-project/",
-      "score": 72,
-      "comments": 4,
+      "score": 120,
+      "comments": 6,
       "source": "uvdn7.github.io"
     },
     {
-      "title": "When electric cars were for women",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
-      "score": 49,
-      "comments": 28,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "score": 13,
-      "comments": 1,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "score": 156,
-      "comments": 42,
-      "source": "pivotlake.io"
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "score": 3,
+      "comments": 0,
+      "source": "radiaverse.com"
     },
     {
       "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
       "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "score": 53,
-      "comments": 14,
+      "score": 129,
+      "comments": 36,
       "source": "maketecheasier.com"
     },
     {
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "score": 224,
-      "comments": 122,
-      "source": "jepsen.io"
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "score": 215,
+      "comments": 70,
+      "source": "pivotlake.io"
     },
     {
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "score": 15,
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
+      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+      "score": 35,
       "comments": 0,
-      "source": "slate.com"
-    },
-    {
-      "title": "Show HN: NES Contra (1987) port (ASM \u2013> C and then C \u2013> WebAssembly)",
-      "url": "https://epoyraz.github.io/nes-contra-us/",
-      "score": 71,
-      "comments": 40,
-      "source": "epoyraz.github.io"
-    },
-    {
-      "title": "Surviving \"The Graduate\"",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "score": 77,
-      "comments": 23,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "score": 36,
-      "comments": 6,
-      "source": "blog.keyvan.net"
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "score": 312,
-      "comments": 153,
-      "source": "parameter.ai"
-    },
-    {
-      "title": "The Duty of a Scholar",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "score": 98,
-      "comments": 31,
-      "source": "daemonology.net"
-    },
-    {
-      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-      "url": "https://emarzion.github.io/KSRT/",
-      "score": 13,
-      "comments": 1,
-      "source": "emarzion.github.io"
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "score": 226,
-      "comments": 73,
-      "source": "aatishb.com"
-    },
-    {
-      "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
-      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "score": 12,
-      "comments": 5,
-      "source": "bbrouter.com"
+      "source": "dl.acm.org"
     },
     {
       "title": "Electrification Could Cut Global Energy Use in Half",
       "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "score": 51,
-      "comments": 10,
+      "score": 139,
+      "comments": 66,
       "source": "fullycharged.show"
-    },
-    {
-      "title": "Much Ado About None: Sentinel Values in Python",
-      "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
-      "score": 58,
-      "comments": 38,
-      "source": "florianwilhelm.info"
-    },
-    {
-      "title": "Decode kernel panic from QR Code photo",
-      "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
-      "score": 12,
-      "comments": 4,
-      "source": "gist.github.com"
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "score": 254,
-      "comments": 134,
-      "source": "twitter.com"
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "score": 25,
-      "comments": 8,
-      "source": "help.openai.com"
-    },
-    {
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "score": 27,
-      "comments": 2,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Reading and writing are less symmetric than you (probably) think",
-      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
-      "score": 92,
-      "comments": 23,
-      "source": "fgiesen.wordpress.com"
     },
     {
       "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
       "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "score": 7,
-      "comments": 0,
+      "score": 52,
+      "comments": 4,
       "source": "thereader.mitpress.mit.edu"
     },
     {
-      "title": "Show HN: A language model that lives in a boot sector",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "score": 64,
-      "comments": 1,
-      "source": "github.com"
+      "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+      "score": 21,
+      "comments": 19,
+      "source": "tomshardware.com"
     },
     {
-      "title": "William Nordhaus has died",
-      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
-      "score": 65,
-      "comments": 21,
-      "source": "news.yale.edu"
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "score": 282,
+      "comments": 161,
+      "source": "jepsen.io"
+    },
+    {
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "score": 169,
+      "comments": 107,
+      "source": "help.openai.com"
+    },
+    {
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 344,
+      "comments": 168,
+      "source": "parameter.ai"
+    },
+    {
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "score": 132,
+      "comments": 39,
+      "source": "newyorker.com"
+    },
+    {
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "score": 270,
+      "comments": 80,
+      "source": "aatishb.com"
+    },
+    {
+      "title": "noyb win: French electronics retailer Fnac Darty fined \u20ac7M",
+      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+      "score": 12,
+      "comments": 0,
+      "source": "noyb.eu"
     }
   ],
   "security": [
