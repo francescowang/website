@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Norway makes shithouses great again",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "score": 228,
-      "comments": 94,
-      "source": "visitnorway.com"
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "score": 634,
+      "comments": 144,
+      "source": "hackerbooks.org"
+    },
+    {
+      "title": "John Leeson (the voice of K9) has died",
+      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "score": 11,
+      "comments": 1,
+      "source": "doctorwhonews.net"
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 1473,
-      "comments": 397,
+      "score": 2089,
+      "comments": 510,
       "source": "karpathy.bearblog.dev"
     },
     {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "score": 48,
-      "comments": 23,
-      "source": "economist.com"
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "score": 31,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
+      "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
+      "score": 2,
+      "comments": 0,
+      "source": "asymco.com"
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "score": 129,
+      "comments": 152,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "score": 28,
+      "comments": 2,
+      "source": "nullprogram.com"
+    },
+    {
+      "title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "score": 94,
+      "comments": 54,
+      "source": "tibleiz.net"
+    },
+    {
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "score": 70,
+      "comments": 94,
+      "source": "jefftk.com"
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 513,
-      "comments": 158,
+      "score": 724,
+      "comments": 194,
       "source": "smithsonianmag.com"
     },
     {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/\ud83c\udd86\ud83c\udd83\ud83c\udd75/",
-      "score": 16,
-      "comments": 9,
-      "source": "xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso"
-    },
-    {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "score": 163,
-      "comments": 68,
-      "source": "jetstream.security"
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 121,
-      "comments": 68,
-      "source": "nolanlawson.com"
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 548,
-      "comments": 252,
-      "source": "atlasum.net"
-    },
-    {
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "score": 129,
-      "comments": 31,
-      "source": "blog.zamzar.com"
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 280,
-      "comments": 127,
-      "source": "github.com"
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "score": 102,
-      "comments": 55,
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 91,
+      "comments": 50,
       "source": "arxiv.org"
     },
     {
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "url": "https://outcrop.rocks/",
-      "score": 23,
-      "comments": 5,
-      "source": "outcrop.rocks"
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "score": 315,
+      "comments": 111,
+      "source": "reddit.com"
     },
     {
-      "title": "Understanding Email Encryption",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
-      "score": 34,
-      "comments": 10,
-      "source": "fastmail.com"
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "score": 92,
+      "comments": 41,
+      "source": "movq.de"
     },
     {
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "score": 55,
-      "comments": 11,
-      "source": "thales.mit.edu"
+      "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "score": 91,
+      "comments": 33,
+      "source": "github.com"
     },
     {
-      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
-      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "score": 10,
-      "comments": 7,
-      "source": "nytimes.com"
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "score": 108,
+      "comments": 25,
+      "source": "semiconductor-today.com"
     },
     {
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "score": 63,
-      "comments": 52,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "score": 120,
-      "comments": 6,
-      "source": "uvdn7.github.io"
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "score": 101,
+      "comments": 36,
+      "source": "nature.com"
     },
     {
       "title": "Radiation Map of the World",
       "url": "https://radiaverse.com/",
-      "score": 3,
-      "comments": 0,
+      "score": 107,
+      "comments": 30,
       "source": "radiaverse.com"
     },
     {
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "score": 129,
-      "comments": 36,
-      "source": "maketecheasier.com"
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "score": 293,
+      "comments": 171,
+      "source": "jetstream.security"
     },
     {
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "score": 215,
-      "comments": 70,
-      "source": "pivotlake.io"
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "score": 19,
+      "comments": 11,
+      "source": "tedium.co"
     },
     {
-      "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
-      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
-      "score": 35,
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "score": 664,
+      "comments": 318,
+      "source": "atlasum.net"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "score": 262,
+      "comments": 186,
+      "source": "nolanlawson.com"
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "score": 141,
+      "comments": 40,
+      "source": "reddit.com"
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "score": 59,
+      "comments": 10,
+      "source": "kevs3d.co.uk"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 405,
+      "comments": 198,
+      "source": "github.com"
+    },
+    {
+      "title": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "score": 284,
+      "comments": 193,
+      "source": "vox.com"
+    },
+    {
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "score": 3,
       "comments": 0,
-      "source": "dl.acm.org"
+      "source": "sciencedaily.com"
     },
     {
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "score": 139,
-      "comments": 66,
-      "source": "fullycharged.show"
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "score": 125,
+      "comments": 32,
+      "source": "outcrop.rocks"
     },
     {
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "score": 52,
-      "comments": 4,
-      "source": "thereader.mitpress.mit.edu"
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "score": 28,
+      "comments": 33,
+      "source": "bloomberg.com"
     },
     {
-      "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "score": 21,
-      "comments": 19,
-      "source": "tomshardware.com"
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "score": 81,
+      "comments": 60,
+      "source": "theregister.com"
     },
     {
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "score": 282,
-      "comments": 161,
-      "source": "jepsen.io"
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "score": 169,
-      "comments": 107,
-      "source": "help.openai.com"
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "score": 344,
-      "comments": 168,
-      "source": "parameter.ai"
-    },
-    {
-      "title": "Surviving \"The Graduate\"",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "score": 132,
-      "comments": 39,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "score": 270,
-      "comments": 80,
-      "source": "aatishb.com"
-    },
-    {
-      "title": "noyb win: French electronics retailer Fnac Darty fined \u20ac7M",
-      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
-      "score": 12,
-      "comments": 0,
-      "source": "noyb.eu"
+      "title": "Understanding Email Encryption (2025)",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "score": 115,
+      "comments": 23,
+      "source": "fastmail.com"
     }
   ],
   "security": [
