@@ -3,212 +3,205 @@
     {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
-      "score": 634,
-      "comments": 144,
+      "score": 1060,
+      "comments": 194,
       "source": "hackerbooks.org"
     },
     {
-      "title": "John Leeson (the voice of K9) has died",
-      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "score": 11,
-      "comments": 1,
-      "source": "doctorwhonews.net"
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "score": 34,
+      "comments": 3,
+      "source": "fosscomics.com"
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "score": 159,
+      "comments": 106,
+      "source": "rhaas.blogspot.com"
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 2089,
-      "comments": 510,
+      "score": 2371,
+      "comments": 548,
       "source": "karpathy.bearblog.dev"
+    },
+    {
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "score": 34,
+      "comments": 9,
+      "source": "fz-juelich.de"
     },
     {
       "title": "Nibnib: Image compression with extreme decompression speed",
       "url": "https://github.com/raphlinus/nibnib",
-      "score": 31,
-      "comments": 5,
+      "score": 115,
+      "comments": 19,
       "source": "github.com"
     },
     {
-      "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
-      "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
-      "score": 2,
-      "comments": 0,
-      "source": "asymco.com"
-    },
-    {
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "score": 129,
-      "comments": 152,
-      "source": "terrytao.wordpress.com"
+      "title": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "score": 25,
+      "comments": 2,
+      "source": "trigger.dev"
     },
     {
       "title": "Tips for more effective fuzz testing with AFL++",
       "url": "https://nullprogram.com/blog/2025/02/05/",
-      "score": 28,
-      "comments": 2,
+      "score": 93,
+      "comments": 15,
       "source": "nullprogram.com"
+    },
+    {
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "score": 128,
+      "comments": 78,
+      "source": "occupysaas.com"
     },
     {
       "title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
       "url": "https://tibleiz.net/copper/",
-      "score": 94,
-      "comments": 54,
+      "score": 146,
+      "comments": 79,
       "source": "tibleiz.net"
-    },
-    {
-      "title": "Bidirectional charging during grid outages",
-      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-      "score": 70,
-      "comments": 94,
-      "source": "jefftk.com"
-    },
-    {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 724,
-      "comments": 194,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "score": 91,
-      "comments": 50,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "score": 315,
-      "comments": 111,
-      "source": "reddit.com"
-    },
-    {
-      "title": "Novellas with Groff",
-      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "score": 92,
-      "comments": 41,
-      "source": "movq.de"
     },
     {
       "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
       "url": "https://github.com/ivankovic/omnidiff",
-      "score": 91,
-      "comments": 33,
+      "score": 186,
+      "comments": 44,
       "source": "github.com"
-    },
-    {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "score": 108,
-      "comments": 25,
-      "source": "semiconductor-today.com"
-    },
-    {
-      "title": "One-minute frequency disturbances from synchronization in power systems",
-      "url": "https://www.nature.com/articles/s41560-026-02144-0",
-      "score": 101,
-      "comments": 36,
-      "source": "nature.com"
-    },
-    {
-      "title": "Radiation Map of the World",
-      "url": "https://radiaverse.com/",
-      "score": 107,
-      "comments": 30,
-      "source": "radiaverse.com"
-    },
-    {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "score": 293,
-      "comments": 171,
-      "source": "jetstream.security"
-    },
-    {
-      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "score": 19,
-      "comments": 11,
-      "source": "tedium.co"
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 664,
-      "comments": 318,
-      "source": "atlasum.net"
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 262,
-      "comments": 186,
-      "source": "nolanlawson.com"
-    },
-    {
-      "title": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "score": 141,
-      "comments": 40,
-      "source": "reddit.com"
-    },
-    {
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
-      "url": "https://kevs3d.co.uk/phoria2/",
-      "score": 59,
-      "comments": 10,
-      "source": "kevs3d.co.uk"
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 405,
-      "comments": 198,
-      "source": "github.com"
-    },
-    {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "score": 284,
-      "comments": 193,
-      "source": "vox.com"
     },
     {
       "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
       "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "score": 3,
-      "comments": 0,
+      "score": 58,
+      "comments": 29,
       "source": "sciencedaily.com"
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "score": 249,
+      "comments": 275,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Keeping Up Appearances \u2013 The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "score": 32,
+      "comments": 13,
+      "source": "lareviewofbooks.org"
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 120,
+      "comments": 64,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "score": 325,
+      "comments": 244,
+      "source": "nolanlawson.com"
+    },
+    {
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "score": 35,
+      "comments": 13,
+      "source": "eurogamer.net"
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "score": 131,
+      "comments": 45,
+      "source": "nature.com"
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "score": 421,
+      "comments": 152,
+      "source": "reddit.com"
+    },
+    {
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "score": 91,
+      "comments": 131,
+      "source": "jefftk.com"
     },
     {
       "title": "Show HN: Point your camera at a landscape to learn about its geology",
       "url": "https://outcrop.rocks/",
-      "score": 125,
-      "comments": 32,
+      "score": 169,
+      "comments": 39,
       "source": "outcrop.rocks"
     },
     {
-      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
-      "score": 28,
-      "comments": 33,
-      "source": "bloomberg.com"
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "score": 140,
+      "comments": 45,
+      "source": "radiaverse.com"
     },
     {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "score": 81,
-      "comments": 60,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Understanding Email Encryption (2025)",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
       "score": 115,
-      "comments": 23,
-      "source": "fastmail.com"
+      "comments": 51,
+      "source": "movq.de"
+    },
+    {
+      "title": "The She-Wolves of J\u00fclich",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "score": 18,
+      "comments": 3,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "score": 80,
+      "comments": 12,
+      "source": "kevs3d.co.uk"
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "score": 148,
+      "comments": 41,
+      "source": "semiconductor-today.com"
+    },
+    {
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "score": 45,
+      "comments": 22,
+      "source": "tedium.co"
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "score": 63,
+      "comments": 48,
+      "source": "shkspr.mobi"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "score": 781,
+      "comments": 204,
+      "source": "smithsonianmag.com"
     }
   ],
   "security": [
