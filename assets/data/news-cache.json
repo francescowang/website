@@ -1,200 +1,207 @@
 {
   "tech": [
     {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 134,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 88,
+      "comments": 8,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "score": 141,
+      "comments": 93,
+      "source": "webkit.org"
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 27,
+      "comments": 1,
+      "source": "interdb.jp"
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 542,
+      "comments": 213,
+      "source": "blog.nns.ee"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 274,
+      "comments": 111,
+      "source": "neufangled.com"
+    },
+    {
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 90,
       "comments": 22,
-      "source": "honnibal.dev"
+      "source": "hackertv.org"
     },
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 2833,
-      "comments": 856,
-      "source": "rikiyat.github.io"
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "score": 65,
+      "comments": 33,
+      "source": "wadetregaskis.com"
     },
     {
-      "title": "Life with Down Syndrome",
-      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-      "score": 41,
-      "comments": 6,
-      "source": "esquire.com"
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 414,
+      "comments": 136,
+      "source": "simonwillison.net"
     },
     {
-      "title": "Nvidia \u2013 open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "score": 163,
-      "comments": 52,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 900,
+      "comments": 293,
       "source": "github.com"
     },
     {
-      "title": "Katamari Damacy but it's The Met collection",
-      "url": "https://katamari.vaguespac.es/",
-      "score": 66,
-      "comments": 16,
-      "source": "katamari.vaguespac.es"
+      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "score": 25,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "score": 53,
+      "comments": 11,
+      "source": "spoon-tamago.com"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 341,
+      "comments": 136,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "score": 42,
+      "comments": 7,
+      "source": "ats-lang.sourceforge.net"
+    },
+    {
+      "title": "We're Training a Figma-Fluent Editing Model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "score": 44,
+      "comments": 22,
+      "source": "figma.com"
+    },
+    {
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "score": 145,
+      "comments": 71,
+      "source": "flipper.net"
+    },
+    {
+      "title": "Pratt parsing is a black box",
+      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "score": 25,
+      "comments": 12,
+      "source": "vinipsmaker.github.io"
+    },
+    {
+      "title": "Curiosity Traps",
+      "url": "https://www.autodidacts.io/curiosity-traps/",
+      "score": 12,
+      "comments": 3,
+      "source": "autodidacts.io"
+    },
+    {
+      "title": "Ashby (YC W19) Is Hiring EMs",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+      "score": 1,
+      "comments": 0,
+      "source": "ashbyhq.com"
+    },
+    {
+      "title": "Union Types and Option Types",
+      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "score": 4,
+      "comments": 1,
+      "source": "tibleiz.net"
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 852,
+      "comments": 188,
+      "source": "honnibal.dev"
+    },
+    {
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "score": 108,
+      "comments": 14,
+      "source": "scrollprize.substack.com"
     },
     {
       "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
       "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "score": 110,
-      "comments": 52,
+      "score": 420,
+      "comments": 192,
       "source": "nicholas.carlini.com"
     },
     {
-      "title": "Toit v2.0.0",
-      "url": "https://toit.io/blog/toit-v2-0-0/",
-      "score": 154,
-      "comments": 47,
-      "source": "toit.io"
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "score": 281,
+      "comments": 165,
+      "source": "namespace.so"
     },
     {
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "score": 286,
-      "comments": 56,
-      "source": "github.com"
+      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "url": "https://www.mattkeeter.com/projects/antimony/3/",
+      "score": 94,
+      "comments": 49,
+      "source": "mattkeeter.com"
     },
     {
-      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
-      "url": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 56,
+      "comments": 17,
+      "source": "asia.nikkei.com"
     },
     {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "score": 346,
-      "comments": 108,
-      "source": "hackertimes.ca"
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 50,
+      "comments": 49,
+      "source": "ben.stolovitz.com"
     },
     {
-      "title": "European RISC-V Industrial Computing Initiative",
-      "url": "https://erici.eu",
-      "score": 158,
-      "comments": 85,
-      "source": "erici.eu"
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "score": 415,
+      "comments": 337,
+      "source": "arstechnica.com"
     },
     {
-      "title": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
-      "score": 231,
-      "comments": 111,
-      "source": "knlb.dev"
-    },
-    {
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 603,
-      "comments": 141,
-      "source": "blog.mistys-internet.website"
-    },
-    {
-      "title": "Vathographs: Photographic depth maps as creative expression",
-      "url": "https://vathography.com/",
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "url": "https://arxiv.org/abs/2611.02618",
       "score": 39,
-      "comments": 16,
-      "source": "vathography.com"
-    },
-    {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 436,
-      "comments": 414,
-      "source": "namedaisy.com"
-    },
-    {
-      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
-      "url": "https://www.argmin.net/p/galactus-the-devourer",
-      "score": 88,
-      "comments": 56,
-      "source": "argmin.net"
-    },
-    {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "score": 270,
-      "comments": 75,
-      "source": "nist.gov"
-    },
-    {
-      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
-      "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
-      "score": 47,
-      "comments": 42,
-      "source": "techspot.com"
-    },
-    {
-      "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
-      "url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
-      "score": 14,
-      "comments": 5,
-      "source": "blog.jacq.cc"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 150,
-      "comments": 101,
-      "source": "momentic.ai"
-    },
-    {
-      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 295,
-      "comments": 48,
-      "source": "p.migdal.pl"
-    },
-    {
-      "title": "Ten harness patterns that you can apply to a real repo",
-      "url": "https://deepsense.ai/blog/harness-engineering-for-coding-agents-9-patterns-for-more-reliable-ai-assisted-development/",
-      "score": 6,
-      "comments": 0,
-      "source": "deepsense.ai"
-    },
-    {
-      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
-      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-      "score": 21,
-      "comments": 1,
-      "source": "psiquantum.com"
-    },
-    {
-      "title": "Revolut moves to self-hosted GLM",
-      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-      "score": 151,
-      "comments": 108,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: I built a little browser game to practice Vim commands",
-      "url": "https://hjkl.duy.run",
-      "score": 49,
-      "comments": 36,
-      "source": "hjkl.duy.run"
-    },
-    {
-      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
-      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
-      "score": 84,
-      "comments": 11,
-      "source": "lowendspirit.com"
-    },
-    {
-      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-      "url": "https://arxiv.org/abs/2608.25820",
-      "score": 43,
-      "comments": 4,
+      "comments": 6,
       "source": "arxiv.org"
     },
     {
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "score": 173,
-      "comments": 136,
-      "source": "terrytao.wordpress.com"
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "score": 506,
+      "comments": 369,
+      "source": "nytimes.com"
     }
   ],
   "security": [
