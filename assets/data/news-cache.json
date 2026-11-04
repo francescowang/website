@@ -1,207 +1,186 @@
 {
   "tech": [
     {
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 429,
+      "comments": 124,
+      "source": "layer3intel.com"
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 129,
+      "comments": 70,
+      "source": "birdsoutsidemywindow.org"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 181,
+      "comments": 59,
+      "source": "ricursive.com"
+    },
+    {
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 230,
-      "comments": 119,
+      "score": 997,
+      "comments": 603,
       "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "score": 22,
+      "comments": 2,
+      "source": "icode4.coffee"
+    },
+    {
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "score": 185,
+      "comments": 78,
+      "source": "go.dev"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 72,
+      "comments": 35,
+      "source": "qualcomm.com"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 157,
+      "comments": 77,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "score": 83,
+      "comments": 8,
+      "source": "fireflyk64.github.io"
     },
     {
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
       "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "score": 227,
-      "comments": 126,
+      "score": 574,
+      "comments": 265,
       "source": "mindstudio.ai"
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "score": 69,
+      "comments": 119,
+      "source": "conductor.build"
+    },
+    {
+      "title": "Successful People (2013)",
+      "url": "https://blog.samaltman.com/successful-people",
+      "score": 3,
+      "comments": 1,
+      "source": "blog.samaltman.com"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 148,
+      "comments": 51,
+      "source": "openai.com"
+    },
+    {
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "score": 160,
+      "comments": 50,
+      "source": "hy.tencent.ai"
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "score": 425,
+      "comments": 146,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Show HN: The DNA of DOOM \u2013 How code structure survives across 44 ports",
+      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "score": 8,
+      "comments": 10,
+      "source": "squid-protocol.github.io"
     },
     {
       "title": "Verification Is Not Knowledge: Science needs more than answers",
       "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "score": 100,
-      "comments": 54,
+      "score": 218,
+      "comments": 128,
       "source": "blog.cosmos-institute.org"
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "score": 551,
+      "comments": 331,
+      "source": "theregister.com"
     },
     {
       "title": "Incident with Pull Requests, Git Operations and Issues",
       "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "score": 130,
-      "comments": 65,
+      "score": 250,
+      "comments": 124,
       "source": "githubstatus.com"
     },
     {
-      "title": "Kitty 0.50",
-      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-      "score": 224,
-      "comments": 137,
-      "source": "sw.kovidgoyal.net"
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "score": 30,
+      "comments": 5,
+      "source": "news.cornell.edu"
     },
     {
-      "title": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "score": 314,
-      "comments": 80,
-      "source": "mrdoob.github.io"
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 307,
+      "comments": 84,
+      "source": "huggingface.co"
     },
     {
-      "title": "A map of 5000+ midterm ads",
-      "url": "https://admap.org/",
-      "score": 40,
-      "comments": 11,
-      "source": "admap.org"
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "score": 235,
+      "comments": 166,
+      "source": "99percentinvisible.org"
     },
     {
-      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
-      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-      "score": 33,
-      "comments": 26,
-      "source": "lists.debian.org"
-    },
-    {
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "score": 145,
-      "comments": 89,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 877,
-      "comments": 332,
-      "source": "blog.nns.ee"
-    },
-    {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 668,
-      "comments": 210,
-      "source": "neufangled.com"
-    },
-    {
-      "title": "The lost malloc()",
-      "url": "https://napcakes.nekoweb.org/posts/malloc/",
-      "score": 79,
-      "comments": 23,
-      "source": "napcakes.nekoweb.org"
-    },
-    {
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 312,
-      "comments": 23,
-      "source": "interdb.jp"
-    },
-    {
-      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
-      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
-      "score": 48,
-      "comments": 8,
-      "source": "phoronix.com"
-    },
-    {
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "score": 87,
-      "comments": 42,
-      "source": "uncracked.city"
-    },
-    {
-      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "score": 369,
-      "comments": 70,
-      "source": "hackertv.org"
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 497,
-      "comments": 211,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "score": 350,
-      "comments": 248,
-      "source": "andreasfertig.com"
-    },
-    {
-      "title": "Giant canyon on Mars is still tectonically active",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "score": 109,
-      "comments": 23,
-      "source": "lamont.columbia.edu"
-    },
-    {
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "score": 91,
-      "comments": 34,
-      "source": "dana-farber.org"
-    },
-    {
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "score": 211,
-      "comments": 34,
-      "source": "spoon-tamago.com"
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 667,
-      "comments": 194,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Arrows to arrows, categories to queries (2025)",
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-      "score": 63,
+      "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+      "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+      "score": 41,
       "comments": 4,
-      "source": "reasonablypolymorphic.com"
+      "source": "readthediff.substack.com"
     },
     {
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 206,
-      "comments": 244,
-      "source": "ben.stolovitz.com"
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "url": "https://evergreenlang.net",
+      "score": 96,
+      "comments": 82,
+      "source": "evergreenlang.net"
     },
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 1377,
-      "comments": 456,
-      "source": "github.com"
-    },
-    {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "score": 462,
-      "comments": 241,
-      "source": "webkit.org"
-    },
-    {
-      "title": "There is no posttraining data commons",
-      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "score": 90,
-      "comments": 24,
-      "source": "openathena.ai"
-    },
-    {
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "score": 132,
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "score": 83,
       "comments": 59,
-      "source": "figma.com"
+      "source": "pcdealcheck.com"
     },
     {
-      "title": "Disaster is still better than AI",
-      "url": "https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai",
-      "score": 5,
-      "comments": 1,
-      "source": "jasonpolak.substack.com"
+      "title": "Don't Call It a Decision Model",
+      "url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
+      "score": 4,
+      "comments": 0,
+      "source": "typesafe.ai"
     }
   ],
   "security": [
