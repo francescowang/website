@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "score": 129,
-      "comments": 46,
-      "source": "andreasfertig.com"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 230,
+      "comments": 119,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "score": 23,
-      "comments": 0,
-      "source": "dana-farber.org"
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 227,
+      "comments": 126,
+      "source": "mindstudio.ai"
     },
     {
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 182,
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "score": 100,
+      "comments": 54,
+      "source": "blog.cosmos-institute.org"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "score": 130,
+      "comments": 65,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "score": 224,
+      "comments": 137,
+      "source": "sw.kovidgoyal.net"
+    },
+    {
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "score": 314,
+      "comments": 80,
+      "source": "mrdoob.github.io"
+    },
+    {
+      "title": "A map of 5000+ midterm ads",
+      "url": "https://admap.org/",
+      "score": 40,
       "comments": 11,
-      "source": "interdb.jp"
+      "source": "admap.org"
+    },
+    {
+      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "score": 33,
+      "comments": 26,
+      "source": "lists.debian.org"
+    },
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "score": 145,
+      "comments": 89,
+      "source": "theguardian.com"
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 679,
-      "comments": 284,
+      "score": 877,
+      "comments": 332,
       "source": "blog.nns.ee"
     },
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
       "url": "https://neufangled.com/",
-      "score": 460,
-      "comments": 161,
+      "score": 668,
+      "comments": 210,
       "source": "neufangled.com"
     },
     {
-      "title": "Giant canyon on Mars is still tectonically active",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "score": 37,
-      "comments": 1,
-      "source": "lamont.columbia.edu"
+      "title": "The lost malloc()",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "score": 79,
+      "comments": 23,
+      "source": "napcakes.nekoweb.org"
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 312,
+      "comments": 23,
+      "source": "interdb.jp"
+    },
+    {
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "score": 48,
+      "comments": 8,
+      "source": "phoronix.com"
+    },
+    {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "score": 87,
+      "comments": 42,
+      "source": "uncracked.city"
     },
     {
       "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
       "url": "https://hackertv.org",
-      "score": 239,
-      "comments": 49,
+      "score": 369,
+      "comments": 70,
       "source": "hackertv.org"
-    },
-    {
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "score": 146,
-      "comments": 23,
-      "source": "spoon-tamago.com"
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 415,
-      "comments": 175,
+      "score": 497,
+      "comments": 211,
       "source": "arstechnica.com"
     },
     {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "score": 348,
-      "comments": 198,
-      "source": "webkit.org"
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "score": 350,
+      "comments": 248,
+      "source": "andreasfertig.com"
     },
     {
-      "title": "Arrows to arrows, categories to queries (2025)",
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-      "score": 13,
-      "comments": 0,
-      "source": "reasonablypolymorphic.com"
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "score": 109,
+      "comments": 23,
+      "source": "lamont.columbia.edu"
     },
     {
-      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-      "score": 15,
-      "comments": 3,
-      "source": "youtube.com"
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "score": 91,
+      "comments": 34,
+      "source": "dana-farber.org"
+    },
+    {
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "score": 211,
+      "comments": 34,
+      "source": "spoon-tamago.com"
     },
     {
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 533,
-      "comments": 168,
+      "score": 667,
+      "comments": 194,
       "source": "simonwillison.net"
     },
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 1123,
-      "comments": 365,
-      "source": "github.com"
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "score": 273,
-      "comments": 47,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "score": 90,
-      "comments": 42,
-      "source": "figma.com"
-    },
-    {
-      "title": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "score": 3,
-      "comments": 0,
-      "source": "mrdoob.github.io"
-    },
-    {
-      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
-      "url": "https://github.com/finic-ai/kairos",
-      "score": 76,
-      "comments": 15,
-      "source": "github.com"
-    },
-    {
-      "title": "There is no posttraining data commons",
-      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "score": 46,
-      "comments": 12,
-      "source": "openathena.ai"
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "score": 63,
+      "comments": 4,
+      "source": "reasonablypolymorphic.com"
     },
     {
       "title": "How I use AI (Oct 2026)",
       "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 111,
-      "comments": 100,
+      "score": 206,
+      "comments": 244,
       "source": "ben.stolovitz.com"
     },
     {
-      "title": "Introduction to Programming in ATS",
-      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "score": 63,
-      "comments": 9,
-      "source": "ats-lang.sourceforge.net"
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1377,
+      "comments": 456,
+      "source": "github.com"
     },
     {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "score": 30,
-      "comments": 93,
-      "source": "arstechnica.com"
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "score": 462,
+      "comments": 241,
+      "source": "webkit.org"
     },
     {
-      "title": "Curiosity Traps",
-      "url": "https://www.autodidacts.io/curiosity-traps/",
-      "score": 58,
-      "comments": 6,
-      "source": "autodidacts.io"
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "score": 90,
+      "comments": 24,
+      "source": "openathena.ai"
     },
     {
-      "title": "The Pnyx and the Agora (2016)",
-      "url": "https://www.readingdesign.org/the-pnyx-and-the-agora",
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "score": 132,
+      "comments": 59,
+      "source": "figma.com"
+    },
+    {
+      "title": "Disaster is still better than AI",
+      "url": "https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai",
       "score": 5,
-      "comments": 0,
-      "source": "readingdesign.org"
-    },
-    {
-      "title": "Union Types and Option Types (2025)",
-      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
-      "score": 32,
-      "comments": 13,
-      "source": "tibleiz.net"
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 932,
-      "comments": 196,
-      "source": "honnibal.dev"
-    },
-    {
-      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
-      "score": 121,
-      "comments": 16,
-      "source": "scrollprize.substack.com"
-    },
-    {
-      "title": "Ashby (YC W19) Is Hiring EMs",
-      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-      "score": 1,
-      "comments": 0,
-      "source": "ashbyhq.com"
-    },
-    {
-      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
-      "url": "https://www.mattkeeter.com/projects/antimony/3/",
-      "score": 113,
-      "comments": 62,
-      "source": "mattkeeter.com"
-    },
-    {
-      "title": "Mac at any scale",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "score": 341,
-      "comments": 200,
-      "source": "namespace.so"
+      "comments": 1,
+      "source": "jasonpolak.substack.com"
     }
   ],
   "security": [
