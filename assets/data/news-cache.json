@@ -1,210 +1,223 @@
 {
   "tech": [
     {
-      "title": "Sshole",
+      "title": "Kagi Search for Everyone",
+      "url": "https://kagi.com/changelog",
+      "score": 347,
+      "comments": 180,
+      "source": "kagi.com"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 206,
+      "comments": 53,
+      "source": "cve.org"
+    },
+    {
+      "title": "sshole",
       "url": "https://sshhole.com",
-      "score": 439,
-      "comments": 101,
+      "score": 2191,
+      "comments": 555,
       "source": "sshhole.com"
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "score": 104,
-      "comments": 57,
-      "source": "ernie.baidu.com"
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 135,
+      "comments": 30,
+      "source": "github.com"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "score": 540,
+      "comments": 106,
+      "source": "alpinelinux.org"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "score": 155,
+      "comments": 61,
+      "source": "naut.ca"
+    },
+    {
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "score": 57,
+      "comments": 1,
+      "source": "tencent.com"
+    },
+    {
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "score": 207,
+      "comments": 75,
+      "source": "github.com"
+    },
+    {
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "score": 311,
+      "comments": 105,
+      "source": "salon.com"
+    },
+    {
+      "title": "The Cost of Blogging",
+      "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+      "score": 33,
+      "comments": 26,
+      "source": "onlinegoddess.net"
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "score": 363,
+      "comments": 268,
+      "source": "motorolanews.com"
+    },
+    {
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "score": 166,
+      "comments": 41,
+      "source": "servo.org"
+    },
+    {
+      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "score": 67,
+      "comments": 35,
+      "source": "github.com"
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "score": 246,
+      "comments": 111,
+      "source": "criminallyvulgar.dev"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "score": 149,
+      "comments": 47,
+      "source": "claude.ai"
+    },
+    {
+      "title": "Introducing Pangram Image 1.0",
+      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "score": 34,
+      "comments": 2,
+      "source": "pangram.com"
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "score": 262,
+      "comments": 238,
+      "source": "rakhim.exotext.com"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
       "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
       "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "score": 42,
-      "comments": 3,
+      "score": 229,
+      "comments": 11,
       "source": "openssh.org"
     },
     {
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "score": 1168,
-      "comments": 377,
-      "source": "layer3intel.com"
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "score": 120,
+      "comments": 14,
+      "source": "linum.ai"
     },
     {
-      "title": "Lemmings CSS Animation",
-      "url": "https://markblah.github.io/lemmings/",
-      "score": 271,
-      "comments": 53,
-      "source": "markblah.github.io"
+      "title": "$2.5T has been wiped from US stocks",
+      "url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
+      "score": 90,
+      "comments": 66,
+      "source": "finlaws.substack.com"
     },
     {
-      "title": "Awesome repositories are no longer awesome",
-      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-      "score": 100,
-      "comments": 54,
-      "source": "erikgahner.github.io"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "score": 419,
-      "comments": 300,
-      "source": "openai.com"
-    },
-    {
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "score": 339,
-      "comments": 202,
-      "source": "openai.com"
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "score": 577,
-      "comments": 164,
-      "source": "huggingface.co"
-    },
-    {
-      "title": "Partial Operator Precedence",
-      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-      "score": 71,
-      "comments": 39,
-      "source": "ziglang.org"
-    },
-    {
-      "title": "Spreading Liquid with Three.js",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "score": 162,
-      "comments": 22,
-      "source": "mofu-dev.com"
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "score": 313,
-      "comments": 111,
-      "source": "ricursive.com"
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "score": 170,
+      "comments": 19,
+      "source": "phoboslab.org"
     },
     {
       "title": "GPT-6 Astra covertly underperforms on safety research",
       "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "score": 36,
-      "comments": 11,
+      "score": 273,
+      "comments": 143,
       "source": "alignment.openai.com"
     },
     {
-      "title": "A new Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2",
-      "score": 351,
-      "comments": 178,
-      "source": "go.dev"
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "score": 219,
+      "comments": 108,
+      "source": "mcp-explained.com"
     },
     {
-      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
-      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
-      "score": 119,
-      "comments": 44,
-      "source": "hachyderm.io"
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "score": 59,
+      "comments": 13,
+      "source": "axiommath.ai"
     },
     {
-      "title": "Insects don't swarm at LED lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "score": 293,
-      "comments": 143,
-      "source": "birdsoutsidemywindow.org"
+      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "score": 111,
+      "comments": 23,
+      "source": "euronews.com"
     },
     {
-      "title": "Being a kid making games in the early 2000s",
-      "url": "https://jaytholen.net/teengamedev/",
-      "score": 62,
-      "comments": 19,
-      "source": "jaytholen.net"
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "score": 190,
+      "comments": 144,
+      "source": "javahippie.net"
     },
     {
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "score": 14,
-      "comments": 0,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "url": "https://www.altera.com/newsroom/agilex-2x",
-      "score": 44,
-      "comments": 14,
-      "source": "altera.com"
-    },
-    {
-      "title": "TScert: A Sound Core for TypeScript",
-      "url": "https://github.com/cristianoc/TScert",
-      "score": 15,
-      "comments": 2,
+      "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "score": 58,
+      "comments": 11,
       "source": "github.com"
     },
     {
-      "title": "TextEdit vs. Pages",
-      "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
-      "score": 39,
-      "comments": 16,
-      "source": "leancrew.com"
+      "title": "We can do better than line-buffered output",
+      "url": "https://nullprogram.com/blog/2026/11/05/",
+      "score": 84,
+      "comments": 8,
+      "source": "nullprogram.com"
     },
     {
-      "title": "Conductor is joining Meta",
-      "url": "https://www.conductor.build/announcement",
-      "score": 193,
-      "comments": 205,
-      "source": "conductor.build"
-    },
-    {
-      "title": "Moment of Ruby: An Argument for Nothing",
-      "url": "https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing",
-      "score": 51,
-      "comments": 11,
-      "source": "aha.io"
-    },
-    {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 1222,
-      "comments": 712,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Future Maintenance of Mbed TLS",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "score": 59,
-      "comments": 16,
-      "source": "lists.trustedfirmware.org"
-    },
-    {
-      "title": "A Clock Made of Branches",
-      "url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
-      "score": 3,
-      "comments": 0,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "url": "https://icode4.coffee/?p=1746",
-      "score": 128,
-      "comments": 12,
-      "source": "icode4.coffee"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "score": 232,
-      "comments": 118,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "url": "https://fireflyk64.github.io/wcmulti/",
-      "score": 223,
-      "comments": 31,
-      "source": "fireflyk64.github.io"
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "score": 162,
+      "comments": 90,
+      "source": "ernie.baidu.com"
     }
   ],
   "security": [
+    {
+      "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
+      "url": "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/",
+      "date": "2026-11-05 19:21:56",
+      "author": "Moumita Saha"
+    },
     {
       "title": "Beyond DKIM key rotation: understanding email replay attacks",
       "url": "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks/",
@@ -258,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
       "date": "2026-10-20 16:47:02",
       "author": "Xiaoxue Xu"
-    },
-    {
-      "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
-      "url": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
-      "date": "2026-10-15 16:10:14",
-      "author": "Dazhi Zhang"
     }
   ]
 }
