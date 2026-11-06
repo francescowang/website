@@ -1,123 +1,193 @@
 {
   "tech": [
     {
-      "title": "Kagi Search for Everyone",
-      "url": "https://kagi.com/changelog",
-      "score": 347,
-      "comments": 180,
-      "source": "kagi.com"
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "score": 206,
-      "comments": 53,
-      "source": "cve.org"
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 748,
+      "comments": 255,
+      "source": "github.com"
     },
     {
       "title": "sshole",
       "url": "https://sshhole.com",
-      "score": 2191,
-      "comments": 555,
+      "score": 2464,
+      "comments": 604,
       "source": "sshhole.com"
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "score": 135,
-      "comments": 30,
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 393,
+      "comments": 145,
+      "source": "cve.org"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "score": 29,
+      "comments": 10,
       "source": "github.com"
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "score": 540,
-      "comments": 106,
-      "source": "alpinelinux.org"
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "score": 24,
+      "comments": 2,
+      "source": "pwn.college"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "score": 128,
+      "comments": 52,
+      "source": "thinkingmachines.ai"
+    },
+    {
+      "title": "Closed AI models dominate the price-performance frontier",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "score": 30,
+      "comments": 17,
+      "source": "village.dev"
     },
     {
       "title": "The Hackintosh Reborn",
       "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "score": 155,
-      "comments": 61,
+      "score": 254,
+      "comments": 125,
       "source": "naut.ca"
-    },
-    {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "score": 57,
-      "comments": 1,
-      "source": "tencent.com"
     },
     {
       "title": "Window Sweaters",
       "url": "https://github.com/saragordic/window-sweaters",
-      "score": 207,
-      "comments": 75,
+      "score": 274,
+      "comments": 90,
       "source": "github.com"
+    },
+    {
+      "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
+      "url": "https://firenook.dev/",
+      "score": 70,
+      "comments": 14,
+      "source": "firenook.dev"
+    },
+    {
+      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "score": 84,
+      "comments": 45,
+      "source": "github.com"
+    },
+    {
+      "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "score": 24,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "score": 191,
+      "comments": 95,
+      "source": "finance.yahoo.com"
+    },
+    {
+      "title": "Silicon Valley's Bad Night",
+      "url": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
+      "score": 25,
+      "comments": 16,
+      "source": "theatlantic.com"
+    },
+    {
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "score": 183,
+      "comments": 17,
+      "source": "linum.ai"
     },
     {
       "title": "Goodbye from Salon",
       "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "score": 311,
-      "comments": 105,
+      "score": 513,
+      "comments": 184,
       "source": "salon.com"
-    },
-    {
-      "title": "The Cost of Blogging",
-      "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-      "score": 33,
-      "comments": 26,
-      "source": "onlinegoddess.net"
     },
     {
       "title": "Motorola Signature 27 with GrapheneOS support",
       "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "score": 363,
-      "comments": 268,
+      "score": 427,
+      "comments": 317,
       "source": "motorolanews.com"
     },
     {
       "title": "September in Servo: <progress>, rounded rectangles, and more",
       "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "score": 166,
-      "comments": 41,
+      "score": 206,
+      "comments": 50,
       "source": "servo.org"
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "score": 67,
-      "comments": 35,
-      "source": "github.com"
     },
     {
       "title": "Download your favourite YouTube videos",
       "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "score": 246,
-      "comments": 111,
+      "score": 309,
+      "comments": 141,
       "source": "criminallyvulgar.dev"
-    },
-    {
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "score": 149,
-      "comments": 47,
-      "source": "claude.ai"
-    },
-    {
-      "title": "Introducing Pangram Image 1.0",
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "score": 34,
-      "comments": 2,
-      "source": "pangram.com"
     },
     {
       "title": "I wish tech companies knew more about me",
       "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "score": 262,
-      "comments": 238,
+      "score": 348,
+      "comments": 304,
       "source": "rakhim.exotext.com"
+    },
+    {
+      "title": "Pangram Image 1.0",
+      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "score": 80,
+      "comments": 35,
+      "source": "pangram.com"
+    },
+    {
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "score": 602,
+      "comments": 313,
+      "source": "kagi.com"
+    },
+    {
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "score": 269,
+      "comments": 117,
+      "source": "mcp-explained.com"
+    },
+    {
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "score": 213,
+      "comments": 24,
+      "source": "phoboslab.org"
+    },
+    {
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "score": 78,
+      "comments": 21,
+      "source": "axiommath.ai"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "score": 172,
+      "comments": 77,
+      "source": "claude.ai"
+    },
+    {
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "score": 170,
+      "comments": 95,
+      "source": "ernie.baidu.com"
     },
     {
       "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
@@ -127,88 +197,18 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "score": 229,
-      "comments": 11,
-      "source": "openssh.org"
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "score": 120,
-      "comments": 14,
-      "source": "linum.ai"
-    },
-    {
-      "title": "$2.5T has been wiped from US stocks",
-      "url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
-      "score": 90,
-      "comments": 66,
-      "source": "finlaws.substack.com"
-    },
-    {
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "score": 170,
-      "comments": 19,
-      "source": "phoboslab.org"
-    },
-    {
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "score": 273,
-      "comments": 143,
-      "source": "alignment.openai.com"
-    },
-    {
-      "title": "MCP Explained",
-      "url": "https://mcp-explained.com/",
-      "score": 219,
-      "comments": 108,
-      "source": "mcp-explained.com"
-    },
-    {
-      "title": "The Stacks Project, Formalized in Lean",
-      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-      "score": 59,
-      "comments": 13,
-      "source": "axiommath.ai"
+      "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "score": 76,
+      "comments": 25,
+      "source": "github.com"
     },
     {
       "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
       "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-      "score": 111,
-      "comments": 23,
+      "score": 180,
+      "comments": 41,
       "source": "euronews.com"
-    },
-    {
-      "title": "The Lisp curse, now coming to your ecosystem",
-      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-      "score": 190,
-      "comments": 144,
-      "source": "javahippie.net"
-    },
-    {
-      "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
-      "url": "https://github.com/AGGIB/Stroq",
-      "score": 58,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "We can do better than line-buffered output",
-      "url": "https://nullprogram.com/blog/2026/11/05/",
-      "score": 84,
-      "comments": 8,
-      "source": "nullprogram.com"
-    },
-    {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "score": 162,
-      "comments": 90,
-      "source": "ernie.baidu.com"
     }
   ],
   "security": [
