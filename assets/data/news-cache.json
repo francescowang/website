@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "score": 108,
+      "comments": 66,
+      "source": "uploadyourram.org"
+    },
+    {
       "title": "Libghostty 1.0",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "score": 368,
-      "comments": 60,
+      "score": 719,
+      "comments": 116,
       "source": "mitchellh.com"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "score": 73,
+      "comments": 21,
+      "source": "nfsu2.xyz"
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 153,
+      "comments": 68,
+      "source": "8rank.ai"
     },
     {
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 389,
-      "comments": 87,
+      "score": 504,
+      "comments": 121,
       "source": "hightouch.com"
-    },
-    {
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "url": "https://josef.cn/blog/unitree",
-      "score": 66,
-      "comments": 39,
-      "source": "josef.cn"
     },
     {
       "title": "Tesla to wind down Cybertruck production",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 911,
-      "comments": 1767,
+      "score": 1039,
+      "comments": 1887,
       "source": "nbcnews.com"
+    },
+    {
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "score": 66,
+      "comments": 33,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Port 0: The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "score": 12,
+      "comments": 4,
+      "source": "acid.vegas"
+    },
+    {
+      "title": "ToothPaste",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "score": 9,
+      "comments": 3,
+      "source": "brisk4t.github.io"
     },
     {
       "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
       "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "score": 64,
-      "comments": 25,
+      "score": 137,
+      "comments": 72,
       "source": "multifamilydive.com"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "score": 122,
+      "comments": 89,
+      "source": "science.org"
     },
     {
       "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
       "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-      "score": 50,
-      "comments": 3,
+      "score": 127,
+      "comments": 12,
       "source": "smithsonianmag.com"
-    },
-    {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "score": 195,
-      "comments": 93,
-      "source": "pwn.ai"
-    },
-    {
-      "title": "What do the next 4000 emoji look like?",
-      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-      "score": 14,
-      "comments": 2,
-      "source": "jenniferdaniel.substack.com"
     },
     {
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 300,
-      "comments": 242,
+      "score": 349,
+      "comments": 285,
       "source": "reuters.com"
     },
     {
-      "title": "Lighting the Skies",
-      "url": "https://computer.rip/2026-10-25-searchlights.html",
-      "score": 8,
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 250,
+      "comments": 109,
+      "source": "pwn.ai"
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "score": 17,
+      "comments": 3,
+      "source": "windowslatest.com"
+    },
+    {
+      "title": "PostgreSQL Internals [pdf]",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "score": 34,
+      "comments": 5,
+      "source": "edu.postgrespro.com"
+    },
+    {
+      "title": "Enterprise Brain \u2013 Memory that learns from work",
+      "url": "https://www.ampup.ai/companybrain",
+      "score": 16,
       "comments": 0,
-      "source": "computer.rip"
+      "source": "ampup.ai"
+    },
+    {
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "score": 61,
+      "comments": 15,
+      "source": "blog.adafruit.com"
     },
     {
       "title": "Notes on San Marino",
       "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-      "score": 25,
-      "comments": 2,
+      "score": 81,
+      "comments": 27,
       "source": "mattlakeman.org"
     },
     {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "score": 22,
+      "title": "8088 Domination Post-Mortem",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "score": 26,
       "comments": 5,
-      "source": "kadoa.com"
+      "source": "trixter.oldskool.org"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "score": 238,
-      "comments": 180,
-      "source": "planned-obsolescence.org"
+      "title": "The great butter and cheese fire of 1991",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "score": 36,
+      "comments": 13,
+      "source": "wisfarmer.com"
     },
     {
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "score": 57,
-      "comments": 2,
-      "source": "pivotlake.io"
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "score": 5,
+      "comments": 0,
+      "source": "decoded.legal"
     },
     {
       "title": "First steps in bare-metal programming using UEFI",
       "url": "https://kevinboone.me/efitest_index.html",
-      "score": 203,
-      "comments": 37,
+      "score": 227,
+      "comments": 42,
       "source": "kevinboone.me"
-    },
-    {
-      "title": "Panthera: Ampere's CPU Performance Model",
-      "url": "https://github.com/AmpereComputing/panthera",
-      "score": 17,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-      "url": "https://github.com/andrewboldi/tmux-restore",
-      "score": 19,
-      "comments": 5,
-      "source": "github.com"
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "score": 105,
-      "comments": 54,
-      "source": "infohawk.com"
-    },
-    {
-      "title": "Devvm.dev: One VM for every project",
-      "url": "https://devvm.dev/",
-      "score": 133,
-      "comments": 54,
-      "source": "devvm.dev"
-    },
-    {
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "score": 150,
-      "comments": 70,
-      "source": "pv-magazine.com"
-    },
-    {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "score": 54,
-      "comments": 9,
-      "source": "crusoe.ai"
     },
     {
       "title": "GitHub's new Git storage architecture",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "score": 90,
-      "comments": 17,
+      "score": 158,
+      "comments": 35,
       "source": "github.blog"
+    },
+    {
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "score": 93,
+      "comments": 15,
+      "source": "pivotlake.io"
     },
     {
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 307,
-      "comments": 220,
+      "score": 343,
+      "comments": 233,
       "source": "blog.google"
     },
     {
-      "title": "How tall can you build with 54 Jenga blocks?",
-      "url": "https://johnjwang.com/post/2026/10/25/tallest-jenga-tower",
-      "score": 8,
-      "comments": 4,
-      "source": "johnjwang.com"
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 326,
+      "comments": 284,
+      "source": "planned-obsolescence.org"
     },
     {
-      "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
-      "url": "https://github.com/piercefreeman/waymark",
-      "score": 51,
-      "comments": 15,
-      "source": "github.com"
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "score": 162,
+      "comments": 62,
+      "source": "devvm.dev"
     },
     {
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-      "score": 76,
-      "comments": 26,
-      "source": "frontier.replit.com"
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "score": 129,
+      "comments": 65,
+      "source": "infohawk.com"
     },
     {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "url": "https://www.norvig.com/chomsky.html",
-      "score": 111,
-      "comments": 90,
-      "source": "norvig.com"
-    },
-    {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "score": 259,
-      "comments": 516,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "score": 1,
-      "comments": 0,
-      "source": "up.codes"
-    },
-    {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "score": 95,
-      "comments": 10,
-      "source": "arxiv.org"
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "score": 204,
+      "comments": 171,
+      "source": "asahilinux.org"
     }
   ],
   "security": [
