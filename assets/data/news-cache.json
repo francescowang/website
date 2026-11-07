@@ -1,116 +1,200 @@
 {
   "tech": [
     {
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "score": 368,
+      "comments": 60,
+      "source": "mitchellh.com"
+    },
+    {
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 214,
-      "comments": 46,
+      "score": 389,
+      "comments": 87,
       "source": "hightouch.com"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "score": 109,
-      "comments": 61,
-      "source": "planned-obsolescence.org"
-    },
-    {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "score": 119,
-      "comments": 61,
-      "source": "pwn.ai"
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 237,
-      "comments": 191,
-      "source": "reuters.com"
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "url": "https://josef.cn/blog/unitree",
+      "score": 66,
+      "comments": 39,
+      "source": "josef.cn"
     },
     {
       "title": "Tesla to wind down Cybertruck production",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 738,
-      "comments": 1555,
+      "score": 911,
+      "comments": 1767,
       "source": "nbcnews.com"
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "score": 64,
+      "comments": 25,
+      "source": "multifamilydive.com"
+    },
+    {
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "score": 50,
+      "comments": 3,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 195,
+      "comments": 93,
+      "source": "pwn.ai"
+    },
+    {
+      "title": "What do the next 4000 emoji look like?",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+      "score": 14,
+      "comments": 2,
+      "source": "jenniferdaniel.substack.com"
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 300,
+      "comments": 242,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Lighting the Skies",
+      "url": "https://computer.rip/2026-10-25-searchlights.html",
+      "score": 8,
+      "comments": 0,
+      "source": "computer.rip"
+    },
+    {
+      "title": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "score": 25,
+      "comments": 2,
+      "source": "mattlakeman.org"
+    },
+    {
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "score": 22,
+      "comments": 5,
+      "source": "kadoa.com"
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 238,
+      "comments": 180,
+      "source": "planned-obsolescence.org"
+    },
+    {
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "score": 57,
+      "comments": 2,
+      "source": "pivotlake.io"
     },
     {
       "title": "First steps in bare-metal programming using UEFI",
       "url": "https://kevinboone.me/efitest_index.html",
-      "score": 156,
-      "comments": 29,
+      "score": 203,
+      "comments": 37,
       "source": "kevinboone.me"
+    },
+    {
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "url": "https://github.com/AmpereComputing/panthera",
+      "score": 17,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "score": 19,
+      "comments": 5,
+      "source": "github.com"
     },
     {
       "title": "Restaurant Delivery Payment-Skimming Campaign",
       "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "score": 52,
-      "comments": 21,
+      "score": 105,
+      "comments": 54,
       "source": "infohawk.com"
-    },
-    {
-      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-      "score": 42,
-      "comments": 31,
-      "source": "utcc.utoronto.ca"
-    },
-    {
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "url": "https://github.com/ppmpreetham/BUI",
-      "score": 663,
-      "comments": 267,
-      "source": "github.com"
-    },
-    {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "score": 66,
-      "comments": 4,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
-      "url": "https://github.com/piercefreeman/waymark",
-      "score": 24,
-      "comments": 2,
-      "source": "github.com"
     },
     {
       "title": "Devvm.dev: One VM for every project",
       "url": "https://devvm.dev/",
-      "score": 77,
-      "comments": 41,
+      "score": 133,
+      "comments": 54,
       "source": "devvm.dev"
     },
     {
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-      "score": 32,
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "score": 150,
+      "comments": 70,
+      "source": "pv-magazine.com"
+    },
+    {
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "score": 54,
       "comments": 9,
-      "source": "frontier.replit.com"
+      "source": "crusoe.ai"
+    },
+    {
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "score": 90,
+      "comments": 17,
+      "source": "github.blog"
     },
     {
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 274,
-      "comments": 210,
+      "score": 307,
+      "comments": 220,
       "source": "blog.google"
     },
     {
-      "title": "Size-It-Up (Game)",
-      "url": "https://magnitudle.com/size-it-up",
-      "score": 53,
-      "comments": 19,
-      "source": "magnitudle.com"
+      "title": "How tall can you build with 54 Jenga blocks?",
+      "url": "https://johnjwang.com/post/2026/10/25/tallest-jenga-tower",
+      "score": 8,
+      "comments": 4,
+      "source": "johnjwang.com"
     },
     {
-      "title": "How octopuses squeeze through too small gaps",
-      "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
-      "score": 35,
-      "comments": 5,
-      "source": "journals.biologists.com"
+      "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
+      "url": "https://github.com/piercefreeman/waymark",
+      "score": 51,
+      "comments": 15,
+      "source": "github.com"
+    },
+    {
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "score": 76,
+      "comments": 26,
+      "source": "frontier.replit.com"
+    },
+    {
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "score": 111,
+      "comments": 90,
+      "source": "norvig.com"
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "score": 259,
+      "comments": 516,
+      "source": "bloomberg.com"
     },
     {
       "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
@@ -120,98 +204,20 @@
       "source": "up.codes"
     },
     {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "score": 169,
-      "comments": 391,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "My first and last telegram was from Rebecca West",
-      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
-      "score": 28,
-      "comments": 6,
-      "source": "thelampmagazine.com"
-    },
-    {
-      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "score": 20,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "PyLings: Solve Exercises and Learn Python",
-      "url": "https://github.com/thesayfulla/pylings",
-      "score": 36,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Deus Ex",
-      "url": "https://www.filfre.net/2026/11/deus-ex/",
-      "score": 308,
-      "comments": 151,
-      "source": "filfre.net"
-    },
-    {
-      "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
-      "url": "https://halfnarp.events.ccc.de",
-      "score": 30,
-      "comments": 6,
-      "source": "halfnarp.events.ccc.de"
-    },
-    {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "url": "https://www.norvig.com/chomsky.html",
-      "score": 85,
-      "comments": 70,
-      "source": "norvig.com"
-    },
-    {
-      "title": "We know 15k websites are infected. how do we tell them?",
-      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-      "score": 124,
-      "comments": 107,
-      "source": "scotthelme.co.uk"
-    },
-    {
-      "title": "As the Japanese countryside empties out, wildlife is disappearing",
-      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-      "score": 65,
-      "comments": 33,
-      "source": "e360.yale.edu"
-    },
-    {
-      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-      "url": "https://github.com/anomalyco/rune",
-      "score": 129,
-      "comments": 97,
-      "source": "github.com"
-    },
-    {
-      "title": "We've built an open-source feature flag server for 11 years",
-      "url": "https://github.com/Unleash/unleash",
-      "score": 135,
-      "comments": 95,
-      "source": "github.com"
-    },
-    {
-      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
-      "score": 56,
-      "comments": 2,
-      "source": "sharedphysics.com"
-    },
-    {
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "url": "https://jhr.pensoft.net/articles.php?id=9096",
-      "score": 156,
-      "comments": 49,
-      "source": "jhr.pensoft.net"
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "score": 95,
+      "comments": 10,
+      "source": "arxiv.org"
     }
   ],
   "security": [
+    {
+      "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
+      "url": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/",
+      "date": "2026-11-06 21:08:50",
+      "author": "Ajinkya Patil"
+    },
     {
       "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
       "url": "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/best-practices-for-integrating-iam-roles-anywhere-with-your-pki/",
       "date": "2026-10-21 17:03:50",
       "author": "Abhishek Avinash Agawane"
-    },
-    {
-      "title": "Managing identity source transition for AWS IAM Identity Center",
-      "url": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
-      "date": "2026-10-20 16:47:02",
-      "author": "Xiaoxue Xu"
     }
   ]
 }
