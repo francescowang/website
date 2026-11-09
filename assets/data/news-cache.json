@@ -1,200 +1,200 @@
 {
   "tech": [
     {
-      "title": "RIP, Harvest",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
-      "score": 107,
+      "title": "Humans will never again create a project like Wikipedia",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "score": 266,
+      "comments": 191,
+      "source": "economist.com"
+    },
+    {
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "score": 273,
+      "comments": 56,
+      "source": "foldableflight.com"
+    },
+    {
+      "title": "Children of Men: The Future Is a Mirror for the Present",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "score": 60,
       "comments": 36,
-      "source": "aphyr.com"
+      "source": "reactormag.com"
+    },
+    {
+      "title": "Zebkit \u2013 Chromium as an embeddable library",
+      "url": "https://github.com/ikey4u/zebkit",
+      "score": 19,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "What is malloc doing, anyway?",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "score": 68,
+      "comments": 13,
+      "source": "benmandrew.com"
+    },
+    {
+      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "score": 71,
+      "comments": 8,
+      "source": "rbanffy.github.io"
+    },
+    {
+      "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
+      "url": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
+      "score": 41,
+      "comments": 26,
+      "source": "longreads.com"
+    },
+    {
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "score": 143,
+      "comments": 30,
+      "source": "arxiv.org"
     },
     {
       "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
       "url": "https://ketchup3d.github.io/app/",
-      "score": 310,
-      "comments": 86,
+      "score": 624,
+      "comments": 187,
       "source": "ketchup3d.github.io"
     },
     {
       "title": "Unlocking any car from X brand in most of the world",
       "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "score": 150,
-      "comments": 52,
+      "score": 499,
+      "comments": 255,
       "source": "shubs.io"
-    },
-    {
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "score": 141,
-      "comments": 21,
-      "source": "chimera-vocal-synth.vercel.app"
-    },
-    {
-      "title": "A Critique of GPUI",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-      "score": 7,
-      "comments": 1,
-      "source": "blog.zortax.de"
-    },
-    {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 305,
-      "comments": 210,
-      "source": "mailroute.net"
     },
     {
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "score": 87,
-      "comments": 116,
+      "score": 434,
+      "comments": 741,
       "source": "matteoraso.github.io"
+    },
+    {
+      "title": "How Australia played the first music on a computer",
+      "url": "https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/",
+      "score": 13,
+      "comments": 3,
+      "source": "pearcey.org.au"
     },
     {
       "title": "Declarative Dragging",
       "url": "https://declarative-dragging.github.io/",
-      "score": 421,
-      "comments": 53,
+      "score": 650,
+      "comments": 81,
       "source": "declarative-dragging.github.io"
+    },
+    {
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "score": 475,
+      "comments": 328,
+      "source": "mailroute.net"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "score": 285,
+      "comments": 48,
+      "source": "chimera-vocal-synth.vercel.app"
+    },
+    {
+      "title": "Psalm 7 release: PHP security&static analysis software",
+      "url": "https://psalm.dev/articles/psalm-7",
+      "score": 61,
+      "comments": 30,
+      "source": "psalm.dev"
+    },
+    {
+      "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
+      "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
+      "score": 22,
+      "comments": 6,
+      "source": "leosmith.wtf"
+    },
+    {
+      "title": "Active Benchmarking",
+      "url": "https://www.brendangregg.com/activebenchmarking.html",
+      "score": 3,
+      "comments": 0,
+      "source": "brendangregg.com"
+    },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "url": "https://github.com/OmniJev/Flide",
+      "score": 83,
+      "comments": 18,
+      "source": "github.com"
+    },
+    {
+      "title": "He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget",
+      "url": "https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/",
+      "score": 21,
+      "comments": 5,
+      "source": "texasmonthly.com"
     },
     {
       "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
       "url": "https://duxlabs.dev/",
-      "score": 225,
-      "comments": 71,
+      "score": 317,
+      "comments": 118,
       "source": "duxlabs.dev"
+    },
+    {
+      "title": "Quasi-Logarithmic Kitchen Timer",
+      "url": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
+      "score": 68,
+      "comments": 18,
+      "source": "blog.coredump.cx"
     },
     {
       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
       "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "score": 419,
-      "comments": 458,
+      "score": 831,
+      "comments": 984,
       "source": "nvidianews.nvidia.com"
     },
     {
-      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
-      "url": "https://github.com/rkaehn/uniform",
-      "score": 10,
-      "comments": 2,
-      "source": "github.com"
+      "title": "The French Cake Cooked on a Spit (2018) [video]",
+      "url": "https://www.youtube.com/watch?v=havcACdx0Y0",
+      "score": 21,
+      "comments": 14,
+      "source": "youtube.com"
     },
     {
-      "title": "When a language's creator and its owners strongly disagree [pdf]",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "score": 96,
-      "comments": 77,
-      "source": "isocpp.org"
-    },
-    {
-      "title": "The Qlobe: Rotating Quine (2010)",
-      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-      "score": 7,
-      "comments": 0,
-      "source": "mamememo.blogspot.com"
-    },
-    {
-      "title": "A Bit about Email",
-      "url": "https://maurycyz.com/misc/email/",
-      "score": 10,
-      "comments": 1,
-      "source": "maurycyz.com"
-    },
-    {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "score": 100,
-      "comments": 55,
-      "source": "ftrain.com"
-    },
-    {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "score": 669,
-      "comments": 381,
-      "source": "thestateofai.com"
-    },
-    {
-      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
-      "url": "https://blue-continuum.com/branching-beyond-leonardo",
-      "score": 4,
-      "comments": 0,
-      "source": "blue-continuum.com"
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "score": 45,
+      "comments": 7,
+      "source": "worldhistory.org"
     },
     {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "url": "https://github.com/synchopate/llama-modchip",
-      "score": 388,
-      "comments": 174,
+      "score": 453,
+      "comments": 198,
       "source": "github.com"
-    },
-    {
-      "title": "Taco: The Tensor Algebra Compiler",
-      "url": "http://tensor-compiler.org/",
-      "score": 13,
-      "comments": 1,
-      "source": "tensor-compiler.org"
     },
     {
       "title": "Writing as a thinking tool",
       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "score": 307,
-      "comments": 83,
+      "score": 428,
+      "comments": 103,
       "source": "muratbuffalo.blogspot.com"
     },
     {
-      "title": "The History of Djgpp (1998)",
-      "url": "https://www.delorie.com/djgpp/history.html",
-      "score": 58,
-      "comments": 22,
-      "source": "delorie.com"
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "score": 188,
-      "comments": 148,
-      "source": "sergeykuhne.com"
-    },
-    {
-      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "score": 35,
-      "comments": 5,
-      "source": "phys.org"
-    },
-    {
-      "title": "Playing with the STM32MP2",
-      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "score": 47,
-      "comments": 31,
-      "source": "serd.es"
-    },
-    {
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 716,
-      "comments": 445,
-      "source": "caleb.software"
-    },
-    {
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "score": 178,
-      "comments": 35,
-      "source": "jrcpl.us"
-    },
-    {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "score": 95,
-      "comments": 20,
-      "source": "linebender.org"
-    },
-    {
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "score": 85,
-      "comments": 28,
-      "source": "lithub.com"
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "score": 348,
+      "comments": 243,
+      "source": "twitter.com"
     }
   ],
   "security": [
