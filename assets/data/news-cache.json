@@ -1,214 +1,200 @@
 {
   "tech": [
     {
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "score": 416,
-      "comments": 254,
-      "source": "thestateofai.com"
+      "title": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "score": 107,
+      "comments": 36,
+      "source": "aphyr.com"
     },
     {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
-      "score": 80,
-      "comments": 30,
-      "source": "duxlabs.dev"
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "score": 310,
+      "comments": 86,
+      "source": "ketchup3d.github.io"
     },
     {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "score": 150,
+      "comments": 52,
+      "source": "shubs.io"
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
       "score": 141,
-      "comments": 50,
-      "source": "respawnfirst.com"
+      "comments": 21,
+      "source": "chimera-vocal-synth.vercel.app"
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "score": 86,
-      "comments": 59,
-      "source": "sergeykuhne.com"
-    },
-    {
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
-      "score": 152,
-      "comments": 13,
-      "source": "declarative-dragging.github.io"
+      "title": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "score": 7,
+      "comments": 1,
+      "source": "blog.zortax.de"
     },
     {
       "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
       "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 112,
-      "comments": 95,
+      "score": 305,
+      "comments": 210,
       "source": "mailroute.net"
     },
     {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "score": 308,
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "score": 87,
       "comments": 116,
+      "source": "matteoraso.github.io"
+    },
+    {
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "score": 421,
+      "comments": 53,
+      "source": "declarative-dragging.github.io"
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "score": 225,
+      "comments": 71,
+      "source": "duxlabs.dev"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "score": 419,
+      "comments": 458,
+      "source": "nvidianews.nvidia.com"
+    },
+    {
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "url": "https://github.com/rkaehn/uniform",
+      "score": 10,
+      "comments": 2,
       "source": "github.com"
     },
     {
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "score": 229,
-      "comments": 72,
-      "source": "muratbuffalo.blogspot.com"
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "score": 96,
+      "comments": 77,
+      "source": "isocpp.org"
     },
     {
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "score": 35,
-      "comments": 3,
-      "source": "lithub.com"
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "score": 7,
+      "comments": 0,
+      "source": "mamememo.blogspot.com"
     },
     {
-      "title": "A Little Snitch for Windows",
-      "url": "https://packethound.app/",
-      "score": 63,
-      "comments": 32,
-      "source": "packethound.app"
+      "title": "A Bit about Email",
+      "url": "https://maurycyz.com/misc/email/",
+      "score": 10,
+      "comments": 1,
+      "source": "maurycyz.com"
     },
     {
       "title": "The Web Is More Than Enough, by Paul Ford",
       "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "score": 11,
-      "comments": 1,
+      "score": 100,
+      "comments": 55,
       "source": "ftrain.com"
     },
     {
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "score": 114,
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "score": 669,
+      "comments": 381,
+      "source": "thestateofai.com"
+    },
+    {
+      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "url": "https://blue-continuum.com/branching-beyond-leonardo",
+      "score": 4,
+      "comments": 0,
+      "source": "blue-continuum.com"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "score": 388,
+      "comments": 174,
+      "source": "github.com"
+    },
+    {
+      "title": "Taco: The Tensor Algebra Compiler",
+      "url": "http://tensor-compiler.org/",
+      "score": 13,
+      "comments": 1,
+      "source": "tensor-compiler.org"
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "score": 307,
+      "comments": 83,
+      "source": "muratbuffalo.blogspot.com"
+    },
+    {
+      "title": "The History of Djgpp (1998)",
+      "url": "https://www.delorie.com/djgpp/history.html",
+      "score": 58,
       "comments": 22,
-      "source": "jrcpl.us"
+      "source": "delorie.com"
     },
     {
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "score": 70,
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "score": 188,
+      "comments": 148,
+      "source": "sergeykuhne.com"
+    },
+    {
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "score": 35,
+      "comments": 5,
+      "source": "phys.org"
+    },
+    {
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "score": 47,
       "comments": 31,
-      "source": "goldstein.lol"
-    },
-    {
-      "title": "The Reconstruction of Torn Documents",
-      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "score": 78,
-      "comments": 45,
-      "source": "bundesarchiv.de"
-    },
-    {
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "score": 169,
-      "comments": 127,
-      "source": "nvidianews.nvidia.com"
+      "source": "serd.es"
     },
     {
       "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 638,
-      "comments": 409,
+      "score": 716,
+      "comments": 445,
       "source": "caleb.software"
     },
     {
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-      "score": 128,
-      "comments": 40,
-      "source": "z1x.us"
-    },
-    {
-      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-      "url": "https://kevinboone.me/cpmzork.html",
-      "score": 18,
-      "comments": 9,
-      "source": "kevinboone.me"
-    },
-    {
-      "title": "A field guide to CAPTCHA types and how they break",
-      "url": "https://github.com/vsmutok/FuckCaptcha",
-      "score": 34,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "score": 756,
-      "comments": 129,
-      "source": "blog.bosscher.ch"
-    },
-    {
-      "title": "How to prove equations using diagrams, part 1",
-      "url": "https://www.epatters.org/post/e-graphs-1/",
-      "score": 53,
-      "comments": 4,
-      "source": "epatters.org"
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 551,
-      "comments": 385,
-      "source": "apiiro.com"
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "score": 178,
+      "comments": 35,
+      "source": "jrcpl.us"
     },
     {
       "title": "JIT bitmap text rendering for microcontrollers",
       "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "score": 88,
-      "comments": 15,
+      "score": 95,
+      "comments": 20,
       "source": "linebender.org"
     },
     {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "score": 158,
-      "comments": 102,
-      "source": "lorekit.io"
-    },
-    {
-      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-      "url": "https://clj.rs/",
-      "score": 153,
-      "comments": 59,
-      "source": "clj.rs"
-    },
-    {
-      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 36,
-      "comments": 16,
-      "source": "spacex.com"
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "score": 76,
-      "comments": 83,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-      "score": 76,
-      "comments": 16,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Petered",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "score": 151,
-      "comments": 90,
-      "source": "aworkinglibrary.com"
-    },
-    {
-      "title": "Tasfer: a text editor drawn on a 2D canvas",
-      "url": "https://www.hamza.se/blog/tasfer",
-      "score": 82,
-      "comments": 49,
-      "source": "hamza.se"
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "score": 85,
+      "comments": 28,
+      "source": "lithub.com"
     }
   ],
   "security": [
