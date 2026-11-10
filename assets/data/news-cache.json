@@ -1,217 +1,223 @@
 {
   "tech": [
     {
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 156,
+      "comments": 113,
+      "source": "theautopian.com"
+    },
+    {
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 598,
+      "comments": 131,
+      "source": "neil.fraser.name"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 604,
+      "comments": 209,
+      "source": "docodethatmatters.com"
+    },
+    {
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "score": 61,
+      "comments": 7,
+      "source": "teorth.github.io"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "score": 234,
+      "comments": 102,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Sherman Anti-Trust Act (1890)",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "score": 43,
+      "comments": 23,
+      "source": "archives.gov"
+    },
+    {
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "score": 254,
+      "comments": 64,
+      "source": "blog.val.town"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 205,
+      "comments": 58,
+      "source": "github.com"
+    },
+    {
       "title": "AlphaProof Code",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "score": 209,
-      "comments": 84,
+      "score": 547,
+      "comments": 174,
       "source": "deepmind.google"
     },
     {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "score": 450,
-      "comments": 165,
-      "source": "strandsagents.com"
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "score": 70,
+      "comments": 33,
+      "source": "alexwang.ai"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "score": 158,
+      "comments": 57,
+      "source": "chipsandcheese.com"
+    },
+    {
+      "title": "rVPN \u2013 stealth VPN with end-to-end encryption",
+      "url": "https://rvpn.org/",
+      "score": 25,
+      "comments": 13,
+      "source": "rvpn.org"
+    },
+    {
+      "title": "A comprehensive study of how fingerprintable users are",
+      "url": "https://fingerprinting.study/",
+      "score": 50,
+      "comments": 18,
+      "source": "fingerprinting.study"
+    },
+    {
+      "title": "Stable URLs for 42,000 Huts and Peaks",
+      "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
+      "score": 11,
+      "comments": 0,
+      "source": "peter-hoffmann.com"
+    },
+    {
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 6,
+      "comments": 0,
+      "source": "vulncheck.com"
     },
     {
       "title": "Ableton Live 13",
       "url": "https://www.ableton.com/en/live/",
-      "score": 64,
-      "comments": 59,
+      "score": 248,
+      "comments": 266,
       "source": "ableton.com"
     },
     {
-      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-      "url": "https://github.com/HolyArrs/HolyArrs",
-      "score": 62,
-      "comments": 40,
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "score": 101,
+      "comments": 35,
       "source": "github.com"
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 713,
-      "comments": 879,
-      "source": "anthropic.com"
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "score": 169,
+      "comments": 42,
+      "source": "tinyvalencia.com"
     },
     {
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "url": "https://connect.queenslibrary.org/",
-      "score": 81,
-      "comments": 61,
-      "source": "connect.queenslibrary.org"
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "score": 390,
+      "comments": 53,
+      "source": "blender.org"
     },
     {
-      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-      "url": "https://neuracryption.com/research",
-      "score": 23,
-      "comments": 15,
-      "source": "neuracryption.com"
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "score": 68,
+      "comments": 38,
+      "source": "babuschk.in"
     },
     {
-      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
-      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-      "score": 17,
-      "comments": 8,
-      "source": "nytimes.com"
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "score": 54,
+      "comments": 6,
+      "source": "docs.modelplane.ai"
     },
     {
-      "title": "Don't buy AR glasses",
-      "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
-      "score": 66,
-      "comments": 58,
-      "source": "blog.yaros.ae"
-    },
-    {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 670,
-      "comments": 340,
-      "source": "postalpro.usps.com"
-    },
-    {
-      "title": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
-      "score": 197,
-      "comments": 79,
-      "source": "maurycyz.com"
-    },
-    {
-      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-      "score": 93,
-      "comments": 93,
-      "source": "news.exeter.ac.uk"
-    },
-    {
-      "title": "Show HN: Ghanaian street games you can play in the browser",
-      "url": "https://www.ghanastreetgames.com/",
-      "score": 35,
-      "comments": 7,
-      "source": "ghanastreetgames.com"
-    },
-    {
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-      "score": 6,
-      "comments": 0,
-      "source": "neongd.com"
-    },
-    {
-      "title": "'C:\\> FORMAT C:' \u2013 relax, it's just a screen saver",
-      "url": "https://fakedos.com/",
-      "score": 31,
-      "comments": 16,
-      "source": "fakedos.com"
-    },
-    {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "score": 92,
-      "comments": 29,
-      "source": "notion.com"
-    },
-    {
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "score": 246,
-      "comments": 125,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 1103,
-      "comments": 153,
-      "source": "foldableflight.com"
-    },
-    {
-      "title": "Billion Watts in the Speaker [video]",
-      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-      "score": 51,
-      "comments": 26,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 557,
-      "comments": 319,
-      "source": "payments.ca"
-    },
-    {
-      "title": "How hard is it to check for whitespace?",
-      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-      "score": 70,
-      "comments": 16,
-      "source": "serce.me"
-    },
-    {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 437,
-      "comments": 54,
-      "source": "e-means.github.io"
-    },
-    {
-      "title": "What Constant Surveillance Is Doing to Children",
-      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
-      "score": 74,
-      "comments": 49,
-      "source": "theatlantic.com"
-    },
-    {
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "score": 201,
-      "comments": 65,
-      "source": "maurycyz.com"
-    },
-    {
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
-      "score": 105,
-      "comments": 30,
-      "source": "ultorg.com"
-    },
-    {
-      "title": "ClickHouse Acquires Xata",
-      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
-      "score": 65,
-      "comments": 7,
-      "source": "xata.io"
-    },
-    {
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "score": 332,
-      "comments": 225,
-      "source": "anthropocenemagazine.org"
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "score": 132,
+      "comments": 102,
+      "source": "claude.com"
     },
     {
       "title": "What's new in the .NET 11 runtime",
       "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-      "score": 25,
-      "comments": 4,
+      "score": 220,
+      "comments": 155,
       "source": "learn.microsoft.com"
     },
     {
-      "title": "Formalizing CPython",
-      "url": "https://broyojo.com/python-formalization/",
-      "score": 104,
-      "comments": 41,
-      "source": "broyojo.com"
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "score": 315,
+      "comments": 368,
+      "source": "evanxmerz.com"
     },
     {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "score": 409,
-      "comments": 76,
-      "source": "watched.earth"
+      "title": "The planet Vulcan: a cautionary tale",
+      "url": "https://kevinboone.me/vulcan.html",
+      "score": 32,
+      "comments": 7,
+      "source": "kevinboone.me"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 49,
+      "comments": 14,
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "I deleted all my SSH keys",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "score": 209,
+      "comments": 109,
+      "source": "blog.infected.systems"
+    },
+    {
+      "title": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "score": 193,
+      "comments": 186,
+      "source": "theatlantic.com"
+    },
+    {
+      "title": "M John Harrison becomes first science fiction author to win the Booker",
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "score": 119,
+      "comments": 87,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "score": 121,
+      "comments": 70,
+      "source": "neongd.com"
     }
   ],
   "security": [
+    {
+      "title": "Digital sovereignty at re:Invent 2026: Sessions you won\u2019t want to miss",
+      "url": "https://aws.amazon.com/blogs/security/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss/",
+      "date": "2026-11-10 18:10:41",
+      "author": "Baqir Naqvi"
+    },
     {
       "title": "Help defend against memory poisoning in Amazon Bedrock AgentCore with multi-layer write validation",
       "url": "https://aws.amazon.com/blogs/security/help-defend-against-memory-poisoning-in-amazon-bedrock-agentcore-with-multi-layer-write-validation/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/part-3-cybersecurity-journeys-the-work-behind-the-work/",
       "date": "2026-10-27 17:00:07",
       "author": "Shannon Brazil"
-    },
-    {
-      "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "url": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/",
-      "date": "2026-10-22 00:50:04",
-      "author": "Alex Waddell"
     }
   ]
 }
