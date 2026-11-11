@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "score": 347,
-      "comments": 157,
-      "source": "vulncheck.com"
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "score": 122,
+      "comments": 42,
+      "source": "pietromiotti.com"
     },
     {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "score": 386,
-      "comments": 276,
-      "source": "theautopian.com"
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "score": 34,
+      "comments": 5,
+      "source": "nathan.rs"
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "score": 59,
-      "comments": 8,
-      "source": "blog.moertel.com"
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "score": 54,
+      "comments": 18,
+      "source": "blog.kate.land"
     },
     {
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "score": 729,
-      "comments": 168,
-      "source": "neil.fraser.name"
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "score": 277,
+      "comments": 100,
+      "source": "gatezh.com"
+    },
+    {
+      "title": "Next-Level Benchmarking Overfitting \u2013 Thomas Neumann",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "score": 15,
+      "comments": 0,
+      "source": "databasearchitects.blogspot.com"
     },
     {
       "title": "Smart home devices should work without the internet",
       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "score": 787,
-      "comments": 283,
+      "score": 1057,
+      "comments": 370,
       "source": "docodethatmatters.com"
     },
     {
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "score": 21,
-      "comments": 9,
-      "source": "science.org"
+      "title": "The Housing Market Is Nuts",
+      "url": "https://nuts.logical.li/",
+      "score": 20,
+      "comments": 15,
+      "source": "nuts.logical.li"
     },
     {
-      "title": "Six Math Essentials by Terence Tao",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 888,
+      "comments": 191,
+      "source": "neil.fraser.name"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 505,
+      "comments": 328,
+      "source": "theautopian.com"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 336,
+      "comments": 327,
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "score": 92,
+      "comments": 48,
+      "source": "github.com"
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "score": 210,
+      "comments": 43,
+      "source": "blog.moertel.com"
+    },
+    {
+      "title": "Six Math Essentials",
       "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "score": 171,
-      "comments": 30,
+      "score": 281,
+      "comments": 54,
       "source": "teorth.github.io"
     },
     {
       "title": "Starlink Mini 2",
       "url": "https://starlink.com/mini-2",
-      "score": 316,
-      "comments": 325,
+      "score": 451,
+      "comments": 479,
       "source": "starlink.com"
-    },
-    {
-      "title": "Announcing .NET 11",
-      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-      "score": 83,
-      "comments": 187,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "score": 74,
-      "comments": 24,
-      "source": "p0pcycle.com"
-    },
-    {
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
-      "score": 332,
-      "comments": 89,
-      "source": "blog.val.town"
-    },
-    {
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "score": 592,
-      "comments": 179,
-      "source": "deepmind.google"
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "score": 306,
-      "comments": 94,
-      "source": "github.com"
     },
     {
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "score": 327,
-      "comments": 196,
+      "score": 430,
+      "comments": 242,
       "source": "lwn.net"
     },
     {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "url": "https://tis-100.wincon.dev/",
-      "score": 24,
-      "comments": 3,
-      "source": "tis-100.wincon.dev"
-    },
-    {
-      "title": "Hooked on Tuna",
-      "url": "https://blue-continuum.com/hooked-on-tuna",
-      "score": 15,
+      "title": "Physically Controllable Relighting of Photographs",
+      "url": "https://yaksoy.github.io/PhysicalRelighting/",
+      "score": 7,
       "comments": 0,
-      "source": "blue-continuum.com"
+      "source": "yaksoy.github.io"
     },
     {
-      "title": "Unremarkable things we made in 2026",
-      "url": "https://www.neilchen.co/blog/things2026",
-      "score": 5,
-      "comments": 0,
-      "source": "neilchen.co"
+      "title": "Why I wrote the BEAM book (2025)",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "score": 127,
+      "comments": 22,
+      "source": "happihacking.com"
     },
     {
-      "title": "Pinot Noir: inside the criminal gangs making fake wine",
-      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
-      "score": 47,
-      "comments": 17,
-      "source": "economist.com"
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "score": 655,
+      "comments": 187,
+      "source": "deepmind.google"
     },
     {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "score": 201,
-      "comments": 78,
-      "source": "chipsandcheese.com"
+      "title": "Why Amstrad chose the 3\" drives",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "score": 64,
+      "comments": 21,
+      "source": "cpcwiki.eu"
     },
     {
-      "title": "AI is becoming an information gateway. Audiences still don\u2019t want it making news",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "score": 25,
-      "comments": 11,
-      "source": "niemanlab.org"
-    },
-    {
-      "title": "What objective is reasoning solving?",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
       "score": 126,
-      "comments": 56,
-      "source": "alexwang.ai"
+      "comments": 99,
+      "source": "science.org"
     },
     {
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "score": 432,
-      "comments": 438,
-      "source": "evanxmerz.com"
+      "title": "Make this forward pass as fast as possible",
+      "url": "https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/",
+      "score": 3,
+      "comments": 0,
+      "source": "ianbarber.blog"
     },
     {
-      "title": "Process Explorer for macOS",
-      "url": "https://github.com/microsoft/Procexp-Mac",
-      "score": 158,
-      "comments": 55,
+      "title": "Small-Grid Wraparound Cellular Automata",
+      "url": "https://justismills.substack.com/p/small-grid-wraparound-cellular-automata",
+      "score": 7,
+      "comments": 0,
+      "source": "justismills.substack.com"
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "score": 59,
+      "comments": 17,
       "source": "github.com"
     },
     {
-      "title": "Research taste in history: the importance of learning Babylonian math",
-      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
-      "score": 21,
-      "comments": 1,
-      "source": "resobscura.substack.com"
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "score": 402,
+      "comments": 99,
+      "source": "blog.val.town"
     },
     {
-      "title": "$30M Raised to Redo the CPU",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "score": 54,
-      "comments": 38,
-      "source": "tendrils.co"
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 396,
+      "comments": 128,
+      "source": "github.com"
     },
     {
-      "title": "Ableton Live 13",
-      "url": "https://www.ableton.com/en/live/",
-      "score": 292,
-      "comments": 308,
-      "source": "ableton.com"
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "score": 248,
+      "comments": 184,
+      "source": "claude.com"
     },
     {
-      "title": "A comprehensive study of how fingerprintable users are",
-      "url": "https://fingerprinting.study/",
-      "score": 88,
-      "comments": 38,
-      "source": "fingerprinting.study"
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 425,
+      "comments": 203,
+      "source": "vulncheck.com"
     },
     {
-      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-      "url": "https://tinyvalencia.com/",
-      "score": 210,
-      "comments": 53,
-      "source": "tinyvalencia.com"
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "score": 129,
+      "comments": 44,
+      "source": "p0pcycle.com"
     },
     {
-      "title": "Simon Winchester has died",
-      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-      "score": 86,
-      "comments": 30,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Lighting the Skies",
-      "url": "https://computer.rip/2026-10-25-searchlights.html",
-      "score": 21,
-      "comments": 3,
-      "source": "computer.rip"
+      "title": "A Compendium of Abandoned Greenhouses",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "score": 56,
+      "comments": 7,
+      "source": "messynessychic.com"
     }
   ],
   "security": [
