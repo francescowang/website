@@ -1,210 +1,209 @@
 {
   "tech": [
     {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 594,
+      "comments": 201,
+      "source": "github.com"
+    },
+    {
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "score": 787,
+      "comments": 82,
+      "source": "discuss.python.org"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 276,
+      "comments": 252,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "score": 56,
+      "comments": 10,
+      "source": "mcmillen.dev"
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "score": 71,
+      "comments": 14,
+      "source": "hugovk.dev"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "score": 383,
+      "comments": 189,
+      "source": "michael.bacarella.com"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 216,
+      "comments": 73,
+      "source": "blog.google"
+    },
+    {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "url": "https://github.com/tylertms/Stela",
+      "score": 12,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
       "score": 122,
-      "comments": 42,
+      "comments": 43,
+      "source": "commandlinesystems.com"
+    },
+    {
+      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+      "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+      "score": 116,
+      "comments": 40,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "score": 152,
+      "comments": 69,
+      "source": "termsheetplease.com"
+    },
+    {
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "score": 46,
+      "comments": 19,
+      "source": "github.com"
+    },
+    {
+      "title": "A Brief History of Sierra Online (2017)",
+      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+      "score": 14,
+      "comments": 0,
+      "source": "retrofreakreviews.com"
+    },
+    {
+      "title": "The Utah Teapot",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "score": 51,
+      "comments": 13,
+      "source": "graphics.cs.utah.edu"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "score": 305,
+      "comments": 286,
+      "source": "wsj.com"
+    },
+    {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "score": 134,
+      "comments": 23,
+      "source": "machinelearning.apple.com"
+    },
+    {
+      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "score": 7,
+      "comments": 0,
+      "source": "developer.chrome.com"
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "score": 910,
+      "comments": 334,
       "source": "pietromiotti.com"
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "score": 286,
+      "comments": 60,
+      "source": "av.github.io"
+    },
+    {
+      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+      "score": 31,
+      "comments": 21,
+      "source": "agweb.com"
+    },
+    {
+      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 150,
+      "comments": 69,
+      "source": "github.com"
+    },
+    {
+      "title": "Optimizing Reference Deletions in Git",
+      "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+      "score": 14,
+      "comments": 0,
+      "source": "nayak.im"
+    },
+    {
+      "title": "The hardest notes to find on the guitar",
+      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+      "score": 45,
+      "comments": 56,
+      "source": "gitori.com"
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "score": 184,
+      "comments": 66,
+      "source": "blog.atuin.sh"
+    },
+    {
+      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "score": 44,
+      "comments": 22,
+      "source": "newsroom.ibm.com"
+    },
+    {
+      "title": "The Apple Support Community will permanently close on November 20, 2026",
+      "url": "https://discussions.apple.com/welcome",
+      "score": 105,
+      "comments": 201,
+      "source": "discussions.apple.com"
+    },
+    {
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "score": 125,
+      "comments": 100,
+      "source": "nytimes.com"
     },
     {
       "title": "Can a Linear Program Do Weight-Space Programming?",
       "url": "https://nathan.rs/posts/weight-space-lp/",
-      "score": 34,
-      "comments": 5,
+      "score": 234,
+      "comments": 35,
       "source": "nathan.rs"
-    },
-    {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "score": 54,
-      "comments": 18,
-      "source": "blog.kate.land"
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "score": 277,
-      "comments": 100,
-      "source": "gatezh.com"
-    },
-    {
-      "title": "Next-Level Benchmarking Overfitting \u2013 Thomas Neumann",
-      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
-      "score": 15,
-      "comments": 0,
-      "source": "databasearchitects.blogspot.com"
-    },
-    {
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "score": 1057,
-      "comments": 370,
-      "source": "docodethatmatters.com"
-    },
-    {
-      "title": "The Housing Market Is Nuts",
-      "url": "https://nuts.logical.li/",
-      "score": 20,
-      "comments": 15,
-      "source": "nuts.logical.li"
-    },
-    {
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "score": 888,
-      "comments": 191,
-      "source": "neil.fraser.name"
-    },
-    {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "score": 505,
-      "comments": 328,
-      "source": "theautopian.com"
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 336,
-      "comments": 327,
-      "source": "9to5mac.com"
-    },
-    {
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://github.com/gmkurtzer/ginux",
-      "score": 92,
-      "comments": 48,
-      "source": "github.com"
-    },
-    {
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "score": 210,
-      "comments": 43,
-      "source": "blog.moertel.com"
-    },
-    {
-      "title": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "score": 281,
-      "comments": 54,
-      "source": "teorth.github.io"
-    },
-    {
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "score": 451,
-      "comments": 479,
-      "source": "starlink.com"
-    },
-    {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "score": 430,
-      "comments": 242,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Physically Controllable Relighting of Photographs",
-      "url": "https://yaksoy.github.io/PhysicalRelighting/",
-      "score": 7,
-      "comments": 0,
-      "source": "yaksoy.github.io"
-    },
-    {
-      "title": "Why I wrote the BEAM book (2025)",
-      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "score": 127,
-      "comments": 22,
-      "source": "happihacking.com"
-    },
-    {
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "score": 655,
-      "comments": 187,
-      "source": "deepmind.google"
-    },
-    {
-      "title": "Why Amstrad chose the 3\" drives",
-      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
-      "score": 64,
-      "comments": 21,
-      "source": "cpcwiki.eu"
-    },
-    {
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "score": 126,
-      "comments": 99,
-      "source": "science.org"
-    },
-    {
-      "title": "Make this forward pass as fast as possible",
-      "url": "https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/",
-      "score": 3,
-      "comments": 0,
-      "source": "ianbarber.blog"
-    },
-    {
-      "title": "Small-Grid Wraparound Cellular Automata",
-      "url": "https://justismills.substack.com/p/small-grid-wraparound-cellular-automata",
-      "score": 7,
-      "comments": 0,
-      "source": "justismills.substack.com"
-    },
-    {
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "url": "https://github.com/adrbn/bo2-mac",
-      "score": 59,
-      "comments": 17,
-      "source": "github.com"
-    },
-    {
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
-      "score": 402,
-      "comments": 99,
-      "source": "blog.val.town"
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "score": 396,
-      "comments": 128,
-      "source": "github.com"
-    },
-    {
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "score": 248,
-      "comments": 184,
-      "source": "claude.com"
-    },
-    {
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "score": 425,
-      "comments": 203,
-      "source": "vulncheck.com"
-    },
-    {
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "score": 129,
-      "comments": 44,
-      "source": "p0pcycle.com"
-    },
-    {
-      "title": "A Compendium of Abandoned Greenhouses",
-      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-      "score": 56,
-      "comments": 7,
-      "source": "messynessychic.com"
     }
   ],
   "security": [
+    {
+      "title": "Part 4 \u2013 Cybersecurity journeys: What I\u2019d tell my younger self",
+      "url": "https://aws.amazon.com/blogs/security/part-4-cybersecurity-journeys-what-id-tell-my-younger-self/",
+      "date": "2026-11-11 18:21:01",
+      "author": "Shannon Brazil"
+    },
     {
       "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
       "url": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/",
@@ -258,12 +257,6 @@
       "url": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/",
       "date": "2026-11-02 03:37:30",
       "author": "St\u00e9phane Isra\u00ebl"
-    },
-    {
-      "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
-      "url": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/",
-      "date": "2026-10-27 23:46:13",
-      "author": "Lawton Pittenger"
     }
   ]
 }
