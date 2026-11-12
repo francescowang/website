@@ -1,203 +1,223 @@
 {
   "tech": [
     {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 594,
-      "comments": 201,
-      "source": "github.com"
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "score": 349,
+      "comments": 48,
+      "source": "mcmillen.dev"
     },
     {
       "title": "Tim Peters has died",
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "score": 787,
-      "comments": 82,
+      "score": 1077,
+      "comments": 121,
       "source": "discuss.python.org"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "score": 276,
-      "comments": 252,
-      "source": "cbsnews.com"
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 788,
+      "comments": 231,
+      "source": "github.com"
     },
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 56,
-      "comments": 10,
-      "source": "mcmillen.dev"
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "score": 115,
+      "comments": 52,
+      "source": "wiz.io"
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "score": 71,
-      "comments": 14,
-      "source": "hugovk.dev"
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "score": 852,
+      "comments": 1196,
+      "source": "wsj.com"
     },
     {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 383,
-      "comments": 189,
+      "score": 461,
+      "comments": 234,
       "source": "michael.bacarella.com"
     },
     {
       "title": "Gemini Decisions API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "score": 216,
-      "comments": 73,
+      "score": 375,
+      "comments": 120,
       "source": "blog.google"
     },
     {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "url": "https://github.com/tylertms/Stela",
-      "score": 12,
-      "comments": 4,
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 508,
+      "comments": 494,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "score": 13,
+      "comments": 3,
       "source": "github.com"
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "score": 205,
+      "comments": 40,
+      "source": "hugovk.dev"
+    },
+    {
+      "title": "Darling Development Update \u2013 Q4 2026",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "score": 14,
+      "comments": 4,
+      "source": "blog.darlinghq.org"
+    },
+    {
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "score": 12,
+      "comments": 1,
+      "source": "getlazarus.org"
     },
     {
       "title": "Emacs in the Age of Magic",
       "url": "https://commandlinesystems.com/magic.txt",
-      "score": 122,
-      "comments": 43,
+      "score": 199,
+      "comments": 77,
       "source": "commandlinesystems.com"
     },
     {
-      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-      "url": "https://twitter.com/watcherguru/status/2120645607866188008",
-      "score": 116,
-      "comments": 40,
-      "source": "twitter.com"
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "score": 12,
+      "comments": 2,
+      "source": "publicdomainreview.org"
     },
     {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "url": "https://termsheetplease.com/",
-      "score": 152,
-      "comments": 69,
-      "source": "termsheetplease.com"
-    },
-    {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "url": "https://github.com/huawei-csl/MACaQ",
-      "score": 46,
+      "title": "Did Life Begin in an RNA World?",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "score": 49,
       "comments": 19,
-      "source": "github.com"
+      "source": "quantamagazine.org"
     },
     {
-      "title": "A Brief History of Sierra Online (2017)",
-      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-      "score": 14,
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "url": "https://jatorre.github.io/garden/",
+      "score": 5,
       "comments": 0,
-      "source": "retrofreakreviews.com"
+      "source": "jatorre.github.io"
+    },
+    {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "url": "https://github.com/tylertms/Stela",
+      "score": 92,
+      "comments": 36,
+      "source": "github.com"
     },
     {
       "title": "The Utah Teapot",
       "url": "https://graphics.cs.utah.edu/teapot/",
-      "score": 51,
-      "comments": 13,
+      "score": 120,
+      "comments": 29,
       "source": "graphics.cs.utah.edu"
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "score": 305,
-      "comments": 286,
-      "source": "wsj.com"
+      "title": "Lean Grimoire",
+      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "score": 28,
+      "comments": 4,
+      "source": "terrytao.wordpress.com"
     },
     {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "score": 134,
+      "title": "Stingray Fish Laser",
+      "url": "https://www.stingray.no/en/technology/",
+      "score": 24,
       "comments": 23,
-      "source": "machinelearning.apple.com"
+      "source": "stingray.no"
     },
     {
-      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-      "score": 7,
-      "comments": 0,
-      "source": "developer.chrome.com"
-    },
-    {
-      "title": "My AI agents found an unmapped Maya site",
+      "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
-      "score": 910,
-      "comments": 334,
+      "score": 968,
+      "comments": 354,
       "source": "pietromiotti.com"
+    },
+    {
+      "title": "Bad ideas that aren't bad anymore",
+      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+      "score": 15,
+      "comments": 4,
+      "source": "devonestes.com"
     },
     {
       "title": "Hyper-Realistic Sand with WebGL2",
       "url": "https://av.github.io/safe-sand/",
-      "score": 286,
-      "comments": 60,
+      "score": 350,
+      "comments": 67,
       "source": "av.github.io"
     },
     {
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "score": 31,
-      "comments": 21,
-      "source": "agweb.com"
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "score": 190,
+      "comments": 36,
+      "source": "machinelearning.apple.com"
     },
     {
       "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 150,
-      "comments": 69,
+      "score": 222,
+      "comments": 92,
       "source": "github.com"
     },
     {
-      "title": "Optimizing Reference Deletions in Git",
-      "url": "https://nayak.im/posts/optimizing-reference-deletion/",
-      "score": 14,
-      "comments": 0,
-      "source": "nayak.im"
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "score": 32,
+      "comments": 7,
+      "source": "incoherency.co.uk"
     },
     {
-      "title": "The hardest notes to find on the guitar",
-      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-      "score": 45,
-      "comments": 56,
-      "source": "gitori.com"
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "score": 88,
+      "comments": 23,
+      "source": "github.com"
     },
     {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "score": 184,
-      "comments": 66,
-      "source": "blog.atuin.sh"
-    },
-    {
-      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-      "score": 44,
-      "comments": 22,
-      "source": "newsroom.ibm.com"
-    },
-    {
-      "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "url": "https://discussions.apple.com/welcome",
-      "score": 105,
-      "comments": 201,
-      "source": "discussions.apple.com"
-    },
-    {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "score": 125,
-      "comments": 100,
-      "source": "nytimes.com"
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "score": 209,
+      "comments": 84,
+      "source": "termsheetplease.com"
     },
     {
       "title": "Can a Linear Program Do Weight-Space Programming?",
       "url": "https://nathan.rs/posts/weight-space-lp/",
-      "score": 234,
-      "comments": 35,
+      "score": 269,
+      "comments": 38,
       "source": "nathan.rs"
+    },
+    {
+      "title": "A Brief History of Sierra Online (2017)",
+      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+      "score": 49,
+      "comments": 19,
+      "source": "retrofreakreviews.com"
     }
   ],
   "security": [
+    {
+      "title": "Ease of use and secure defaults in the new AWS experience",
+      "url": "https://aws.amazon.com/blogs/security/ease-of-use-and-secure-defaults-in-the-new-aws-experience/",
+      "date": "2026-11-11 19:57:21",
+      "author": "Keshav Narsipur"
+    },
     {
       "title": "Part 4 \u2013 Cybersecurity journeys: What I\u2019d tell my younger self",
       "url": "https://aws.amazon.com/blogs/security/part-4-cybersecurity-journeys-what-id-tell-my-younger-self/",
@@ -251,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks/",
       "date": "2026-11-02 18:06:28",
       "author": "Michael Araba"
-    },
-    {
-      "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
-      "url": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/",
-      "date": "2026-11-02 03:37:30",
-      "author": "St\u00e9phane Isra\u00ebl"
     }
   ]
 }
