@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 349,
-      "comments": 48,
-      "source": "mcmillen.dev"
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 1984,
+      "comments": 2030,
+      "source": "apnews.com"
     },
     {
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "score": 1077,
-      "comments": 121,
-      "source": "discuss.python.org"
-    },
-    {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 788,
-      "comments": 231,
+      "title": "Rust 1.100.0",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "score": 189,
+      "comments": 40,
       "source": "github.com"
     },
     {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "score": 115,
-      "comments": 52,
-      "source": "wiz.io"
-    },
-    {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "score": 852,
-      "comments": 1196,
-      "source": "wsj.com"
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 461,
-      "comments": 234,
-      "source": "michael.bacarella.com"
-    },
-    {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "score": 375,
-      "comments": 120,
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "score": 255,
+      "comments": 156,
       "source": "blog.google"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "score": 508,
-      "comments": 494,
-      "source": "cbsnews.com"
-    },
-    {
-      "title": "Jane Street: Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "score": 13,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "Lock Your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "score": 205,
-      "comments": 40,
-      "source": "hugovk.dev"
-    },
-    {
-      "title": "Darling Development Update \u2013 Q4 2026",
-      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "score": 14,
-      "comments": 4,
-      "source": "blog.darlinghq.org"
-    },
-    {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "url": "https://www.getlazarus.org/forums/topic/17/",
-      "score": 12,
-      "comments": 1,
-      "source": "getlazarus.org"
-    },
-    {
-      "title": "Emacs in the Age of Magic",
-      "url": "https://commandlinesystems.com/magic.txt",
-      "score": 199,
-      "comments": 77,
-      "source": "commandlinesystems.com"
-    },
-    {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
-      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-      "score": 12,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 25,
       "comments": 2,
-      "source": "publicdomainreview.org"
+      "source": "antigravity.google"
     },
     {
-      "title": "Did Life Begin in an RNA World?",
-      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "score": 49,
-      "comments": 19,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "I gave an agent a lakehouse and control of my garden",
-      "url": "https://jatorre.github.io/garden/",
-      "score": 5,
-      "comments": 0,
-      "source": "jatorre.github.io"
-    },
-    {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "url": "https://github.com/tylertms/Stela",
-      "score": 92,
+      "title": "Outlook is down, and so is Microsoft's status page",
+      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+      "score": 144,
       "comments": 36,
+      "source": "gvwire.com"
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "score": 179,
+      "comments": 62,
+      "source": "moddb.com"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 68,
+      "comments": 15,
       "source": "github.com"
     },
     {
-      "title": "The Utah Teapot",
-      "url": "https://graphics.cs.utah.edu/teapot/",
-      "score": 120,
-      "comments": 29,
-      "source": "graphics.cs.utah.edu"
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "score": 158,
+      "comments": 62,
+      "source": "github.com"
     },
     {
-      "title": "Lean Grimoire",
-      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "score": 28,
-      "comments": 4,
-      "source": "terrytao.wordpress.com"
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "score": 136,
+      "comments": 1,
+      "source": "chipsandcheese.com"
     },
     {
-      "title": "Stingray Fish Laser",
-      "url": "https://www.stingray.no/en/technology/",
-      "score": 24,
-      "comments": 23,
-      "source": "stingray.no"
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 11,
+      "comments": 1,
+      "source": "smithsonianmag.com"
     },
     {
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "score": 968,
-      "comments": 354,
-      "source": "pietromiotti.com"
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "score": 30,
+      "comments": 10,
+      "source": "makepad.github.io"
     },
     {
-      "title": "Bad ideas that aren't bad anymore",
-      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "score": 30,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "url": "https://github.com/chocoford/ExcalidrawZ",
+      "score": 70,
+      "comments": 18,
+      "source": "github.com"
+    },
+    {
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "score": 15,
-      "comments": 4,
-      "source": "devonestes.com"
+      "comments": 0,
+      "source": "mehmetince.net"
     },
     {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "url": "https://av.github.io/safe-sand/",
-      "score": 350,
-      "comments": 67,
-      "source": "av.github.io"
+      "title": "Why Writing Correct Software Is Hard",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "score": 305,
+      "comments": 133,
+      "source": "pron.github.io"
     },
     {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "score": 190,
-      "comments": 36,
-      "source": "machinelearning.apple.com"
-    },
-    {
-      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 222,
-      "comments": 92,
-      "source": "github.com"
-    },
-    {
-      "title": "How to make a CNC plasma cutter with high-frequency start",
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-      "score": 32,
-      "comments": 7,
-      "source": "incoherency.co.uk"
-    },
-    {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "url": "https://github.com/huawei-csl/MACaQ",
-      "score": 88,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "url": "https://termsheetplease.com/",
-      "score": 209,
-      "comments": 84,
-      "source": "termsheetplease.com"
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "score": 269,
-      "comments": 38,
-      "source": "nathan.rs"
-    },
-    {
-      "title": "A Brief History of Sierra Online (2017)",
-      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-      "score": 49,
+      "title": "Libreagi \u2013 Save OSS Models",
+      "url": "https://libreagi.com/",
+      "score": 89,
       "comments": 19,
-      "source": "retrofreakreviews.com"
+      "source": "libreagi.com"
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "score": 156,
+      "comments": 91,
+      "source": "ign.com"
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "score": 48,
+      "comments": 17,
+      "source": "easel.sh"
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 683,
+      "comments": 690,
+      "source": "ipo.anthropic.com"
+    },
+    {
+      "title": "Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "score": 594,
+      "comments": 136,
+      "source": "github.com"
+    },
+    {
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "score": 56,
+      "comments": 22,
+      "source": "doug.sh"
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "score": 310,
+      "comments": 117,
+      "source": "codeberg.org"
+    },
+    {
+      "title": "Paths in Pieces",
+      "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+      "score": 15,
+      "comments": 0,
+      "source": "stoppels.ch"
+    },
+    {
+      "title": "Our software engineering interviews are changing a little",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "score": 105,
+      "comments": 95,
+      "source": "blog.janestreet.com"
+    },
+    {
+      "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "score": 45,
+      "comments": 3,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Apify Security Incident",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "score": 7,
+      "comments": 0,
+      "source": "status.apify.com"
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "score": 96,
+      "comments": 52,
+      "source": "curtin.edu.au"
+    },
+    {
+      "title": "Electric ship batteries promise compact, cooler power",
+      "url": "https://spectrum.ieee.org/electric-ship-batteries",
+      "score": 45,
+      "comments": 46,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Creating Worlds: Runes and Spells Prototype",
+      "url": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
+      "score": 17,
+      "comments": 4,
+      "source": "fractalkitty.com"
     }
   ],
   "security": [
