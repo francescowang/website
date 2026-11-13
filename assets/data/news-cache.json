@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "score": 150,
+      "comments": 81,
+      "source": "science.org"
+    },
+    {
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 3170,
-      "comments": 2952,
+      "score": 3723,
+      "comments": 3238,
       "source": "apnews.com"
     },
     {
-      "title": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
-      "score": 47,
-      "comments": 6,
-      "source": "folklore.org"
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "score": 312,
+      "comments": 269,
+      "source": "status.claude.com"
+    },
+    {
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "score": 260,
+      "comments": 132,
+      "source": "ice-wm.org"
+    },
+    {
+      "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+      "url": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
+      "score": 48,
+      "comments": 31,
+      "source": "respawnfirst.com"
     },
     {
       "title": "Rust 1.100",
       "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "score": 528,
-      "comments": 217,
+      "score": 759,
+      "comments": 280,
       "source": "blog.rust-lang.org"
     },
     {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "score": 141,
-      "comments": 32,
-      "source": "edge0.ai"
-    },
-    {
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 350,
-      "comments": 93,
-      "source": "antigravity.google"
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "score": 169,
+      "comments": 94,
+      "source": "brave.com"
     },
     {
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "url": "https://github.com/simpsoka/zigzag",
-      "score": 406,
-      "comments": 154,
+      "score": 601,
+      "comments": 203,
       "source": "github.com"
     },
     {
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "score": 233,
-      "comments": 107,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "score": 167,
-      "comments": 22,
-      "source": "developer.apple.com"
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 450,
+      "comments": 134,
+      "source": "antigravity.google"
     },
     {
       "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
       "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "score": 160,
-      "comments": 205,
+      "score": 336,
+      "comments": 372,
       "source": "reuters.com"
     },
     {
-      "title": "Show HN: I built a Rick and Morty explainer video generator",
-      "url": "https://usediorama.com/rick-and-morty",
-      "score": 7,
-      "comments": 5,
-      "source": "usediorama.com"
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 338,
+      "comments": 145,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 289,
+      "comments": 85,
+      "source": "edge0.ai"
+    },
+    {
+      "title": "Is there a 'right amount' of AI?",
+      "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+      "score": 27,
+      "comments": 36,
+      "source": "coyotetracks.org"
     },
     {
       "title": "Service degradation on Microsoft 365",
       "url": "https://status.cloud.microsoft/",
-      "score": 642,
-      "comments": 607,
+      "score": 1039,
+      "comments": 867,
       "source": "status.cloud.microsoft"
     },
     {
       "title": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "score": 308,
-      "comments": 103,
+      "score": 408,
+      "comments": 148,
       "source": "github.com"
     },
     {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "score": 137,
-      "comments": 124,
-      "source": "synthanatomy.com"
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "score": 76,
+      "comments": 57,
+      "source": "motherduck.com"
     },
     {
-      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-      "score": 157,
-      "comments": 29,
-      "source": "mehmetince.net"
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "score": 231,
+      "comments": 33,
+      "source": "developer.apple.com"
     },
     {
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "score": 251,
-      "comments": 206,
-      "source": "wired.com"
-    },
-    {
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
-      "score": 8,
-      "comments": 1,
-      "source": "brave.com"
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "score": 112,
+      "comments": 35,
+      "source": "folklore.org"
     },
     {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
       "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "score": 251,
-      "comments": 91,
+      "score": 287,
+      "comments": 107,
       "source": "moddb.com"
     },
     {
-      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-      "url": "https://github.com/jjba23/sift",
-      "score": 32,
-      "comments": 3,
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "score": 216,
+      "comments": 39,
+      "source": "mehmetince.net"
+    },
+    {
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "score": 157,
+      "comments": 130,
+      "source": "status.claude.com"
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 966,
+      "comments": 879,
+      "source": "ipo.anthropic.com"
+    },
+    {
+      "title": "Global Microsoft Outage",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "score": 211,
+      "comments": 126,
+      "source": "cnn.com"
+    },
+    {
+      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "score": 120,
+      "comments": 29,
       "source": "github.com"
     },
     {
       "title": "Relax: JIT compiler for Rust to reduce build times",
       "url": "https://makepad.github.io/relax/",
-      "score": 138,
-      "comments": 59,
+      "score": 169,
+      "comments": 91,
       "source": "makepad.github.io"
     },
     {
-      "title": "Adapting CPython for Yk",
-      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-      "score": 59,
-      "comments": 2,
-      "source": "tratt.net"
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "url": "https://github.com/jjba23/sift",
+      "score": 71,
+      "comments": 10,
+      "source": "github.com"
     },
     {
       "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
       "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "score": 205,
-      "comments": 3,
+      "score": 228,
+      "comments": 7,
       "source": "chipsandcheese.com"
     },
     {
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "score": 863,
-      "comments": 829,
-      "source": "ipo.anthropic.com"
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "score": 701,
+      "comments": 546,
+      "source": "wired.com"
+    },
+    {
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "score": 400,
+      "comments": 280,
+      "source": "twitter.com"
     },
     {
       "title": "Gemini 4 Hydrogen",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "score": 493,
-      "comments": 314,
+      "score": 549,
+      "comments": 340,
       "source": "blog.google"
-    },
-    {
-      "title": "Announcement: Conductor Is Back",
-      "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
-      "score": 25,
-      "comments": 15,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: RealtimeVAD \u2013 trading false positives for 110ms earlier end-of-speech",
-      "url": "https://github.com/KoljaB/RealtimeVAD",
-      "score": 7,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "score": 223,
-      "comments": 59,
-      "source": "unemploymentlabs.com"
-    },
-    {
-      "title": "Our software engineering interviews are changing a little",
-      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-      "score": 193,
-      "comments": 201,
-      "source": "blog.janestreet.com"
-    },
-    {
-      "title": "Before Pixels: Speed-Minder",
-      "url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
-      "score": 22,
-      "comments": 1,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "score": 88,
-      "comments": 22,
-      "source": "github.com"
     }
   ],
   "security": [
