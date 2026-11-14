@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 479,
+      "comments": 172,
+      "source": "crissyfield.de"
+    },
+    {
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "score": 190,
+      "comments": 97,
+      "source": "x.com"
+    },
+    {
+      "title": "A Family Tree of Software Job Titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "score": 124,
+      "comments": 56,
+      "source": "zwischenzugs.com"
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 171,
+      "comments": 78,
+      "source": "blog.pypi.org"
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 319,
+      "comments": 69,
+      "source": "tube.kockatoo.org"
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "score": 51,
+      "comments": 20,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+      "score": 41,
+      "comments": 16,
+      "source": "esquire.com"
+    },
+    {
       "title": "Why get an expensive Pi when I have an old phone?",
       "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "score": 153,
-      "comments": 102,
+      "score": 466,
+      "comments": 266,
       "source": "so.long.thanks.fish"
     },
     {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "score": 304,
-      "comments": 47,
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 135,
+      "comments": 33,
+      "source": "research.google"
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "score": 115,
+      "comments": 7,
       "source": "github.com"
+    },
+    {
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "score": 120,
+      "comments": 49,
+      "source": "cbc.ca"
+    },
+    {
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "score": 72,
+      "comments": 3,
+      "source": "righto.com"
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 153,
+      "comments": 89,
+      "source": "news.umich.edu"
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "score": 117,
+      "comments": 24,
+      "source": "gitlab.com"
+    },
+    {
+      "title": "Will we put data centers in space?",
+      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+      "score": 37,
+      "comments": 105,
+      "source": "forethought.org"
     },
     {
       "title": "Monkey Island: all 13 versions side by side",
       "url": "https://monkeyisland.pages.dev/",
-      "score": 221,
-      "comments": 65,
+      "score": 439,
+      "comments": 140,
       "source": "monkeyisland.pages.dev"
     },
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "score": 716,
-      "comments": 413,
-      "source": "techpowerup.com"
+      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+      "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+      "score": 41,
+      "comments": 5,
+      "source": "thedartmouth.com"
     },
     {
-      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "score": 176,
-      "comments": 51,
-      "source": "unsloth.ai"
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "score": 94,
+      "comments": 13,
+      "source": "projectzero.google"
     },
     {
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "score": 307,
-      "comments": 134,
-      "source": "joshka.net"
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+      "score": 48,
+      "comments": 0,
+      "source": "osservatorionessuno.org"
     },
     {
-      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "score": 1571,
-      "comments": 1197,
-      "source": "nbcnews.com"
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "score": 388,
+      "comments": 151,
+      "source": "eff.org"
     },
     {
-      "title": "What happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "score": 165,
-      "comments": 86,
-      "source": "dfarq.homeip.net"
-    },
-    {
-      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "score": 341,
-      "comments": 459,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
-      "score": 165,
-      "comments": 22,
-      "source": "grounds.top"
-    },
-    {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-      "score": 212,
-      "comments": 48,
-      "source": "nature.com"
-    },
-    {
-      "title": "Let's Write a PostScript Interpreter",
-      "url": "https://beyondloom.com/blog/postscript.html",
-      "score": 11,
-      "comments": 4,
-      "source": "beyondloom.com"
-    },
-    {
-      "title": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "score": 242,
-      "comments": 159,
-      "source": "open.m-vave.com"
-    },
-    {
-      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
-      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
-      "score": 10,
-      "comments": 1,
-      "source": "fws.gov"
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "score": 274,
-      "comments": 65,
-      "source": "orcasairband.com"
-    },
-    {
-      "title": "The curious case of the north-east arrow",
-      "url": "https://arsh.zip/posts/north-east-arrow/",
-      "score": 11,
-      "comments": 3,
-      "source": "arsh.zip"
-    },
-    {
-      "title": "How Not to Build a Music Player",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "score": 132,
-      "comments": 56,
-      "source": "alichraghi.github.io"
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "score": 270,
-      "comments": 45,
-      "source": "haddyalchaer.com"
-    },
-    {
-      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
-      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
-      "score": 20,
-      "comments": 3,
-      "source": "engineering.fb.com"
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "score": 46,
+      "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "score": 59,
       "comments": 19,
       "source": "github.com"
     },
     {
-      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "score": 222,
-      "comments": 71,
-      "source": "isometricsf.com"
+      "title": "How to Create Your Own Decentralized Messenger Protocol",
+      "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+      "score": 45,
+      "comments": 8,
+      "source": "karboosx.net"
     },
     {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "score": 136,
-      "comments": 24,
-      "source": "perplexity.ai"
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "score": 274,
+      "comments": 182,
+      "source": "reuters.com"
     },
     {
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "score": 118,
-      "comments": 29,
-      "source": "gyptazy.com"
+      "title": "Possible Futures",
+      "url": "https://borretti.me/article/possible-futures",
+      "score": 8,
+      "comments": 7,
+      "source": "borretti.me"
     },
     {
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "score": 152,
-      "comments": 34,
-      "source": "today.ucsd.edu"
+      "title": "Let's Write a PostScript Interpreter",
+      "url": "https://beyondloom.com/blog/postscript.html",
+      "score": 93,
+      "comments": 14,
+      "source": "beyondloom.com"
     },
     {
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "score": 183,
-      "comments": 103,
-      "source": "echopress.com"
-    },
-    {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "score": 765,
-      "comments": 215,
-      "source": "scottjg.com"
-    },
-    {
-      "title": "A technical vision for the Haskell ecosystem",
-      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "score": 216,
-      "comments": 128,
-      "source": "discourse.haskell.org"
-    },
-    {
-      "title": "The Other Nefertiti (2015)",
-      "url": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
-      "score": 27,
+      "title": "A visual explanation of reinforcement learning",
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "score": 94,
       "comments": 6,
-      "source": "alloversky.com"
+      "source": "aatishb.com"
     },
     {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "score": 172,
-      "comments": 63,
-      "source": "fox5dc.com"
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "url": "https://github.com/IRS-Public/direct-file",
+      "score": 120,
+      "comments": 68,
+      "source": "github.com"
     },
     {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "atg.science"
+      "title": "Creating a self booting ZIP archive",
+      "url": "https://goliath32.com/blog/ziphead.html",
+      "score": 28,
+      "comments": 5,
+      "source": "goliath32.com"
+    },
+    {
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "url": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "score": 36,
+      "comments": 1,
+      "source": "c3-lang.org"
+    },
+    {
+      "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "score": 76,
+      "comments": 21,
+      "source": "github.com"
     }
   ],
   "security": [
