@@ -3,212 +3,212 @@
     {
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 910,
-      "comments": 626,
+      "score": 1352,
+      "comments": 908,
       "source": "spacex.com"
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "score": 82,
+      "comments": 51,
+      "source": "space.stackexchange.com"
     },
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "url": "https://www.crissyfield.de/research/lovable-en/",
-      "score": 712,
-      "comments": 291,
+      "score": 880,
+      "comments": 338,
       "source": "crissyfield.de"
+    },
+    {
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "score": 265,
+      "comments": 98,
+      "source": "litnews.ai"
+    },
+    {
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "url": "https://tsoracle.rs/",
+      "score": 18,
+      "comments": 1,
+      "source": "tsoracle.rs"
+    },
+    {
+      "title": "What thousands of conversations look like inside a language model",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "score": 10,
+      "comments": 1,
+      "source": "operator0x.com"
     },
     {
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "score": 148,
-      "comments": 55,
+      "score": 244,
+      "comments": 129,
       "source": "retrocomputing.stackexchange.com"
     },
     {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "score": 116,
-      "comments": 23,
-      "source": "eff.org"
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "score": 33,
+      "comments": 17,
+      "source": "bbc.co.uk"
     },
     {
-      "title": "A family tree of software job titles",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "score": 245,
-      "comments": 119,
-      "source": "zwischenzugs.com"
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "score": 126,
+      "comments": 12,
+      "source": "jordi.inversethought.com"
     },
     {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "score": 337,
-      "comments": 178,
-      "source": "techspot.com"
+      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "score": 56,
+      "comments": 10,
+      "source": "netbsd.org"
     },
     {
       "title": "KDE: The documentary [video]",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "score": 413,
-      "comments": 89,
+      "score": 515,
+      "comments": 114,
       "source": "tube.kockatoo.org"
     },
     {
-      "title": "500 Lines or Less A 3D Modeller",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "score": 27,
-      "comments": 1,
-      "source": "aosabook.org"
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "score": 353,
+      "comments": 177,
+      "source": "zwischenzugs.com"
     },
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "score": 220,
-      "comments": 97,
-      "source": "blog.pypi.org"
+      "title": "Semicircle Packing",
+      "url": "https://rorz.io/writing/semicircle-packing",
+      "score": 49,
+      "comments": 5,
+      "source": "rorz.io"
+    },
+    {
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "score": 32,
+      "comments": 3,
+      "source": "ardc.net"
+    },
+    {
+      "title": "Book list for streetfighting computer scientists",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "score": 49,
+      "comments": 15,
+      "source": "nick-black.com"
     },
     {
       "title": "The Evolving Story of How Chemistry Became Biology",
       "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "score": 11,
-      "comments": 0,
+      "score": 62,
+      "comments": 15,
       "source": "quantamagazine.org"
+    },
+    {
+      "title": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "score": 14,
+      "comments": 1,
+      "source": "niklasroy.com"
     },
     {
       "title": "Why get an expensive Pi when I have an old phone?",
       "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "score": 529,
-      "comments": 289,
+      "score": 576,
+      "comments": 309,
       "source": "so.long.thanks.fish"
     },
     {
-      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-      "score": 14,
-      "comments": 0,
-      "source": "boldentrance.com"
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 255,
+      "comments": 111,
+      "source": "blog.pypi.org"
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "score": 204,
+      "title": "Kiri \u2013 The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "score": 68,
+      "comments": 31,
+      "source": "runkiri.com"
+    },
+    {
+      "title": "500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "score": 73,
       "comments": 11,
-      "source": "github.com"
+      "source": "aosabook.org"
     },
     {
-      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-      "score": 122,
-      "comments": 69,
-      "source": "esquire.com"
-    },
-    {
-      "title": "Oxford Molecular Motors",
-      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-      "score": 26,
-      "comments": 3,
-      "source": "physics.ox.ac.uk"
-    },
-    {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "score": 178,
-      "comments": 39,
-      "source": "research.google"
-    },
-    {
-      "title": "US loses measles-free status: Pan American Health Organization (2025)",
-      "url": "https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status",
-      "score": 36,
-      "comments": 1,
-      "source": "paho.org"
-    },
-    {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-      "score": 30,
-      "comments": 12,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "score": 86,
-      "comments": 40,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "score": 189,
-      "comments": 102,
-      "source": "news.umich.edu"
-    },
-    {
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "score": 204,
-      "comments": 59,
-      "source": "projectzero.google"
-    },
-    {
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "score": 3,
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "score": 15,
       "comments": 1,
       "source": "nytimes.com"
     },
     {
-      "title": "Reverse engineering a vintage diode-transistor logic chip",
-      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-      "score": 102,
-      "comments": 7,
-      "source": "righto.com"
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "score": 267,
+      "comments": 72,
+      "source": "eff.org"
     },
     {
-      "title": "Testing a trash can Faraday cage",
-      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
-      "score": 69,
-      "comments": 57,
-      "source": "jefftk.com"
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "score": 274,
+      "comments": 154,
+      "source": "projectzero.google"
     },
     {
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "score": 14,
-      "comments": 5,
-      "source": "bobbiec.github.io"
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "score": 247,
+      "comments": 23,
+      "source": "github.com"
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 221,
+      "comments": 114,
+      "source": "news.umich.edu"
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 206,
+      "comments": 49,
+      "source": "research.google"
     },
     {
       "title": "The Sicilian Citrus Family Tree",
       "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
-      "score": 46,
-      "comments": 16,
+      "score": 92,
+      "comments": 33,
       "source": "notesfromtheroad.com"
     },
     {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "score": 146,
-      "comments": 34,
-      "source": "gitlab.com"
+      "title": "Oxford Molecular Motors",
+      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "score": 61,
+      "comments": 15,
+      "source": "physics.ox.ac.uk"
     },
     {
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "score": 228,
-      "comments": 130,
-      "source": "cbc.ca"
-    },
-    {
-      "title": "Demystifying phone unlocking tools: A technical overview",
-      "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-      "score": 100,
-      "comments": 7,
-      "source": "osservatorionessuno.org"
-    },
-    {
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "score": 510,
-      "comments": 182,
-      "source": "eff.org"
+      "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "score": 40,
+      "comments": 8,
+      "source": "github.com"
     }
   ],
   "security": [
