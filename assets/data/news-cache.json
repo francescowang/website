@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+      "url": "https://jack.cab/blog/siterate",
+      "score": 77,
+      "comments": 7,
+      "source": "jack.cab"
+    },
+    {
+      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings\u2013 1 in 10 Cost More",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "score": 36,
+      "comments": 32,
+      "source": "groundworkcollaborative.org"
+    },
+    {
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "score": 110,
+      "comments": 48,
+      "source": "masnick.com"
+    },
+    {
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "score": 506,
+      "comments": 96,
+      "source": "pub.cba.mit.edu"
+    },
+    {
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
       "url": "https://iter.ca/post/ubo-uxss/",
-      "score": 155,
-      "comments": 36,
+      "score": 492,
+      "comments": 141,
       "source": "iter.ca"
+    },
+    {
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "score": 115,
+      "comments": 33,
+      "source": "news.cornell.edu"
+    },
+    {
+      "title": "OOS \u2013 an open operating system for the Rigol Scopes",
+      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "score": 53,
+      "comments": 13,
+      "source": "eevblog.com"
+    },
+    {
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "score": 109,
+      "comments": 69,
+      "source": "monirbounadi.com"
+    },
+    {
+      "title": "\u201c\u2026and the proof is checked in Lean\u201d",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "score": 108,
+      "comments": 45,
+      "source": "xenaproject.wordpress.com"
     },
     {
       "title": "Qwen4-Max",
       "url": "https://qwen.ai/blog?id=qwen4-max",
-      "score": 210,
-      "comments": 65,
+      "score": 691,
+      "comments": 325,
       "source": "qwen.ai"
-    },
-    {
-      "title": "Old Bitly links are being hijacked",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "score": 216,
-      "comments": 117,
-      "source": "ransomnews.com"
     },
     {
       "title": "What's Next for Nvidia?",
       "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "score": 139,
-      "comments": 172,
+      "score": 354,
+      "comments": 438,
       "source": "steveblank.com"
     },
     {
-      "title": "Preserving 30 years of Salon journalism",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "score": 108,
-      "comments": 32,
-      "source": "blog.archive.org"
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "score": 331,
+      "comments": 166,
+      "source": "ransomnews.com"
+    },
+    {
+      "title": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
+      "url": "https://github.com/ages2001/WINUDF",
+      "score": 47,
+      "comments": 4,
+      "source": "github.com"
     },
     {
       "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
       "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "score": 73,
-      "comments": 19,
+      "score": 198,
+      "comments": 54,
       "source": "forum.torproject.org"
     },
     {
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "score": 229,
-      "comments": 49,
+      "score": 406,
+      "comments": 72,
       "source": "bruceroettgers.eu"
     },
     {
-      "title": "Coles hit by a cybersecurity incident",
-      "url": "https://www.colesgroup.com.au/updates/",
-      "score": 73,
-      "comments": 55,
-      "source": "colesgroup.com.au"
+      "title": "Exact Gradients Through a BRep Kernel",
+      "url": "https://muni.works/research/vcad",
+      "score": 29,
+      "comments": 12,
+      "source": "muni.works"
     },
     {
-      "title": "A short explainer on how El Ni\u00f1o works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "score": 199,
-      "comments": 86,
-      "source": "youtube.com"
-    },
-    {
-      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
-      "score": 12,
-      "comments": 2,
-      "source": "slate.com"
-    },
-    {
-      "title": "Do we still have to denormalize? Have your schema and search it too",
-      "url": "https://www.paradedb.com/blog/joins",
-      "score": 38,
-      "comments": 4,
-      "source": "paradedb.com"
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "score": 438,
-      "comments": 250,
-      "source": "macanorak.com"
+      "title": "It's always DNS, so why are we running our own?",
+      "url": "https://s2.dev/blog/dns-server",
+      "score": 36,
+      "comments": 25,
+      "source": "s2.dev"
     },
     {
       "title": "Handwriting, as a Font",
       "url": "https://ductus.sorenblank.com",
-      "score": 179,
-      "comments": 43,
+      "score": 371,
+      "comments": 65,
       "source": "ductus.sorenblank.com"
+    },
+    {
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 266,
+      "comments": 152,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "score": 179,
+      "comments": 49,
+      "source": "blog.archive.org"
+    },
+    {
+      "title": "The Lasting Influence of John Berger",
+      "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
+      "score": 41,
+      "comments": 3,
+      "source": "newyorker.com"
     },
     {
       "title": "Crows make decisions faster than we can",
       "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "score": 192,
-      "comments": 141,
+      "score": 269,
+      "comments": 181,
       "source": "nytimes.com"
     },
     {
       "title": "WebGL Flight Simulator with seed generated terrain",
       "url": "https://baron.by.dai.studio/",
-      "score": 105,
-      "comments": 16,
+      "score": 196,
+      "comments": 49,
       "source": "baron.by.dai.studio"
     },
     {
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "score": 376,
-      "comments": 191,
-      "source": "youtube.com"
+      "title": "The Opportunivore's Dilemma",
+      "url": "https://www.vqronline.org/essays/opportunivores-dilemma",
+      "score": 4,
+      "comments": 1,
+      "source": "vqronline.org"
     },
     {
-      "title": "Mini.nvim Is Now on Tangled",
-      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
-      "score": 45,
-      "comments": 12,
-      "source": "tangled.org"
+      "title": "Expozine at 25: Has the Independent Print Scene Outgrown Expozine?",
+      "url": "https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl",
+      "score": 5,
+      "comments": 1,
+      "source": "themain.com"
     },
     {
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "score": 215,
-      "comments": 114,
-      "source": "prog21.dadgum.com"
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "url": "https://www.paradedb.com/blog/joins",
+      "score": 93,
+      "comments": 28,
+      "source": "paradedb.com"
     },
     {
-      "title": "1900s How do you Wash a Kimono?",
-      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
-      "score": 39,
-      "comments": 9,
-      "source": "oldphotosjapan.com"
-    },
-    {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "score": 449,
-      "comments": 194,
-      "source": "www1.wdr.de"
+      "title": "Simple 8085 Computer",
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "score": 62,
+      "comments": 5,
+      "source": "hackster.io"
     },
     {
       "title": "Artificial Intelligence for the Z80",
       "url": "https://www.dfsantos.com/en/libro-ia-z80",
-      "score": 10,
-      "comments": 3,
-      "source": "dfsantos.com"
-    },
-    {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 218,
-      "comments": 27,
-      "source": "magazine.sebastianraschka.com"
-    },
-    {
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "url": "https://lastcomplication.com/",
-      "score": 62,
+      "score": 70,
       "comments": 8,
-      "source": "lastcomplication.com"
+      "source": "dfsantos.com"
     },
     {
       "title": "A quest to create the perfect whiskey glass",
       "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "score": 57,
-      "comments": 57,
+      "score": 78,
+      "comments": 86,
       "source": "nytimes.com"
     },
     {
-      "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "score": 77,
-      "comments": 29,
-      "source": "github.com"
-    },
-    {
-      "title": "Linux was created as a rejection of robust software architecture and tools",
-      "url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
-      "score": 10,
-      "comments": 3,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "score": 190,
-      "comments": 111,
-      "source": "joshblais.com"
-    },
-    {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/",
-      "score": 115,
-      "comments": 73,
-      "source": "ykiko.me"
-    },
-    {
-      "title": "Parcel: A desktop mail client for Linux, built with Zig",
-      "url": "https://tangled.org/rockorager.dev/parcel",
-      "score": 10,
-      "comments": 1,
-      "source": "tangled.org"
+      "title": "Making Atuin sync 32x faster with packfiles",
+      "url": "https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/",
+      "score": 30,
+      "comments": 12,
+      "source": "blog.atuin.sh"
     }
   ],
   "security": [
