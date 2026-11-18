@@ -1,217 +1,222 @@
 {
   "tech": [
     {
-      "title": "We don't need more apps. We need better open source",
-      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-      "score": 82,
-      "comments": 31,
-      "source": "jordankrueger.com"
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "score": 432,
+      "comments": 112,
+      "source": "calif.io"
     },
     {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "score": 536,
-      "comments": 267,
-      "source": "nytimes.com"
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "score": 1053,
+      "comments": 662,
+      "source": "openai.com"
     },
     {
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-      "score": 30,
-      "comments": 6,
-      "source": "nautil.us"
-    },
-    {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "score": 1956,
-      "comments": 265,
-      "source": "cs.cmu.edu"
-    },
-    {
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "score": 69,
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "score": 195,
       "comments": 49,
-      "source": "scmp.com"
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "url": "https://alloyhtml.com/example.html",
-      "score": 6,
-      "comments": 2,
-      "source": "alloyhtml.com"
-    },
-    {
-      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-      "url": "https://visualbasic.world/",
-      "score": 146,
-      "comments": 51,
-      "source": "visualbasic.world"
-    },
-    {
-      "title": "Loopholes Are for Assholes",
-      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
-      "score": 10,
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "score": 31,
       "comments": 3,
-      "source": "actsofvolition.com"
+      "source": "wiki.archiveteam.org"
     },
     {
-      "title": "Rows vs. Columns: How different are they, really?",
-      "url": "https://spiraldb.com/blog/rows-vs-columns",
-      "score": 77,
-      "comments": 28,
-      "source": "spiraldb.com"
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "score": 365,
+      "comments": 178,
+      "source": "ft.com"
     },
     {
-      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
-      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
-      "score": 56,
-      "comments": 21,
-      "source": "turbo51.com"
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "score": 270,
+      "comments": 125,
+      "source": "microsoft.ai"
     },
     {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "score": 515,
-      "comments": 206,
-      "source": "blog.report-uri.com"
+      "title": "Phrack 73 Released",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "score": 256,
+      "comments": 27,
+      "source": "phrack.org"
     },
     {
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "score": 649,
-      "comments": 294,
-      "source": "bugmenot.com"
-    },
-    {
-      "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
-      "url": "https://github.com/plabayo/venndb",
-      "score": 10,
-      "comments": 1,
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "score": 232,
+      "comments": 129,
       "source": "github.com"
     },
     {
-      "title": "Nimony: A New Compiler for Nim",
-      "url": "https://nimony.org/",
-      "score": 130,
-      "comments": 63,
-      "source": "nimony.org"
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "score": 442,
+      "comments": 524,
+      "source": "cnn.com"
     },
     {
-      "title": "Pentagon fails 9th financial audit in a row",
-      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
-      "score": 13,
-      "comments": 2,
-      "source": "thehill.com"
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "score": 226,
+      "comments": 71,
+      "source": "sciencenorway.no"
+    },
+    {
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+      "score": 145,
+      "comments": 25,
+      "source": "aikido.dev"
+    },
+    {
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "score": 205,
+      "comments": 54,
+      "source": "solidjs.com"
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "score": 57,
+      "comments": 12,
+      "source": "github.com"
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "url": "https://browser.engineering/",
+      "score": 114,
+      "comments": 20,
+      "source": "browser.engineering"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "score": 46,
+      "comments": 26,
+      "source": "starsling.dev"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "score": 326,
+      "comments": 113,
+      "source": "runta.com"
+    },
+    {
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "score": 617,
+      "comments": 340,
+      "source": "developer.apple.com"
+    },
+    {
+      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+      "url": "https://arxiv.org/abs/2611.09827",
+      "score": 70,
+      "comments": 40,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Tencent Hy4 Flash",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
+      "score": 34,
+      "comments": 7,
+      "source": "hy.tencent.ai"
+    },
+    {
+      "title": "Who Builds the Machines That Build the Machines?",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "score": 86,
+      "comments": 27,
+      "source": "read.corematter.com"
+    },
+    {
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "score": 76,
+      "comments": 31,
+      "source": "newsletter.posthog.com"
+    },
+    {
+      "title": "Mouse Party",
+      "url": "https://aboard.com/lets-have-a-mouse-party/",
+      "score": 54,
+      "comments": 9,
+      "source": "aboard.com"
+    },
+    {
+      "title": "Latent Lattice Language Models",
+      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "score": 11,
+      "comments": 3,
+      "source": "shivamduggal4.github.io"
     },
     {
       "title": "How the Claude Code team thinks about verification",
       "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "score": 110,
-      "comments": 115,
+      "score": 256,
+      "comments": 199,
       "source": "claude.dev"
     },
     {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "url": "https://support.apple.com/en-us/149699",
-      "score": 188,
-      "comments": 100,
-      "source": "support.apple.com"
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "score": 1143,
+      "comments": 570,
+      "source": "nytimes.com"
     },
     {
-      "title": "Too Many Stadiums with Roofs",
-      "url": "https://sharptext.net/2026/too-many-stadiums-with-roofs/",
-      "score": 21,
-      "comments": 10,
-      "source": "sharptext.net"
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "score": 172,
+      "comments": 31,
+      "source": "alloyhtml.com"
     },
     {
-      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
-      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
-      "score": 40,
-      "comments": 40,
-      "source": "apnews.com"
+      "title": "Zoltraak and the Dynamics of Military Innovation",
+      "url": "https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/",
+      "score": 41,
+      "comments": 11,
+      "source": "jgeekstudies.org"
     },
     {
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "score": 223,
-      "comments": 78,
-      "source": "twitter.com"
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "score": 37,
+      "comments": 25,
+      "source": "openai.com"
     },
     {
-      "title": "Chemistry is Actually Geometry",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "score": 285,
-      "comments": 124,
-      "source": "chillphysicsenjoyer.substack.com"
-    },
-    {
-      "title": "A US Federal Women's Prison Became a \"Rape Club\"",
-      "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
-      "score": 6,
-      "comments": 0,
-      "source": "propublica.org"
-    },
-    {
-      "title": "Japan's Hometown Tax (2018)",
-      "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-      "score": 101,
-      "comments": 57,
-      "source": "kalzumeus.com"
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "score": 202,
-      "comments": 170,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Frame \u2013 31.5\" color ePaper display",
-      "url": "https://trmnl.com/blog/introducing-frame",
-      "score": 485,
-      "comments": 344,
-      "source": "trmnl.com"
-    },
-    {
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff/",
-      "score": 417,
-      "comments": 89,
-      "source": "burntsushi.net"
-    },
-    {
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-      "score": 396,
-      "comments": 299,
-      "source": "theregister.com"
-    },
-    {
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "url": "https://jack.cab/blog/siterate",
-      "score": 384,
-      "comments": 155,
-      "source": "jack.cab"
-    },
-    {
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "score": 306,
-      "comments": 308,
-      "source": "news.cornell.edu"
-    },
-    {
-      "title": "Do Repeat Yourself",
-      "url": "https://arcentry.com/blog/do-repeat-yourself/",
-      "score": 134,
-      "comments": 47,
-      "source": "arcentry.com"
+      "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "score": 42,
+      "comments": 5,
+      "source": "github.com"
     }
   ],
   "security": [
+    {
+      "title": "Securely exposing Amazon Bedrock AgentCore Runtime",
+      "url": "https://aws.amazon.com/blogs/security/securely-exposing-amazon-bedrock-agentcore-runtime/",
+      "date": "2026-11-17 20:31:30",
+      "author": "Meriem SMACHE"
+    },
+    {
+      "title": "Using the AWS RMiT workbook and ISO Compliance Guides to support your BNM submissions",
+      "url": "https://aws.amazon.com/blogs/security/using-the-aws-rmit-workbook-and-iso-compliance-guides-to-support-your-bnm-submissions/",
+      "date": "2026-11-17 17:12:08",
+      "author": "Jonathan Jenkyn"
+    },
     {
       "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
       "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
@@ -259,18 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/simplify-cross-partition-access-with-aws-iam-outbound-identity-federation/",
       "date": "2026-11-09 16:08:30",
       "author": "Bill Wells"
-    },
-    {
-      "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
-      "url": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/",
-      "date": "2026-11-06 21:08:50",
-      "author": "Ajinkya Patil"
-    },
-    {
-      "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
-      "url": "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/",
-      "date": "2026-11-05 19:21:56",
-      "author": "Moumita Saha"
     }
   ]
 }
