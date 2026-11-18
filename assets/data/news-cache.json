@@ -1,210 +1,223 @@
 {
   "tech": [
     {
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "score": 171,
+      "comments": 34,
+      "source": "techstackups.com"
+    },
+    {
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "score": 41,
+      "comments": 31,
+      "source": "sas.upenn.edu"
+    },
+    {
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "score": 20,
+      "comments": 3,
+      "source": "cam.ac.uk"
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "score": 197,
+      "comments": 29,
+      "source": "energy-based-reasoners.github.io"
+    },
+    {
+      "title": "A Perfect SimCity",
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
+      "score": 128,
+      "comments": 38,
+      "source": "jeffquast.com"
+    },
+    {
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
       "url": "https://calif.io/java4shell/",
-      "score": 432,
-      "comments": 112,
+      "score": 1071,
+      "comments": 284,
       "source": "calif.io"
     },
     {
-      "title": "GPT\u20116.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "score": 1053,
-      "comments": 662,
-      "source": "openai.com"
+      "title": "When AI Knows More Than It Can Offer",
+      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+      "score": 36,
+      "comments": 15,
+      "source": "medium.com"
     },
     {
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "score": 195,
-      "comments": 49,
+      "score": 811,
+      "comments": 365,
       "source": "blog.cloudflare.com"
     },
     {
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-      "score": 31,
-      "comments": 3,
-      "source": "wiki.archiveteam.org"
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 584,
+      "comments": 444,
+      "source": "revscope.co"
+    },
+    {
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+      "score": 40,
+      "comments": 23,
+      "source": "savyasacheejha.com"
+    },
+    {
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "score": 421,
+      "comments": 219,
+      "source": "consumerrights.wiki"
+    },
+    {
+      "title": "Evidence (YC S21) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Show HN: Type Fighter 2",
+      "url": "https://typefighter2.com/",
+      "score": 43,
+      "comments": 18,
+      "source": "typefighter2.com"
+    },
+    {
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "score": 201,
+      "comments": 100,
+      "source": "kernel.dev"
     },
     {
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "score": 365,
-      "comments": 178,
+      "score": 629,
+      "comments": 274,
       "source": "ft.com"
-    },
-    {
-      "title": "MAI Code 2 and Code 2 Flash",
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "score": 270,
-      "comments": 125,
-      "source": "microsoft.ai"
-    },
-    {
-      "title": "Phrack 73 Released",
-      "url": "https://phrack.org/issues/73/introduction_md",
-      "score": 256,
-      "comments": 27,
-      "source": "phrack.org"
-    },
-    {
-      "title": "jQuery 4.1.0",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "score": 232,
-      "comments": 129,
-      "source": "github.com"
-    },
-    {
-      "title": "Highly classified US national security communications network goes down",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "score": 442,
-      "comments": 524,
-      "source": "cnn.com"
-    },
-    {
-      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-      "score": 226,
-      "comments": 71,
-      "source": "sciencenorway.no"
-    },
-    {
-      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
-      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-      "score": 145,
-      "comments": 25,
-      "source": "aikido.dev"
-    },
-    {
-      "title": "Solid 2.0",
-      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-      "score": 205,
-      "comments": 54,
-      "source": "solidjs.com"
     },
     {
       "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
       "url": "https://github.com/microsoft/onnxruntime",
-      "score": 57,
-      "comments": 12,
+      "score": 396,
+      "comments": 81,
       "source": "github.com"
     },
     {
-      "title": "Web Browser Engineering (2021)",
-      "url": "https://browser.engineering/",
-      "score": 114,
-      "comments": 20,
-      "source": "browser.engineering"
+      "title": "My Emacs 31 contributions",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "score": 82,
+      "comments": 8,
+      "source": "xenodium.com"
     },
     {
-      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
-      "url": "https://starsling.dev",
-      "score": 46,
-      "comments": 26,
-      "source": "starsling.dev"
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "score": 643,
+      "comments": 718,
+      "source": "cnn.com"
     },
     {
-      "title": "What is the best harness for each model?",
-      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-      "score": 326,
-      "comments": 113,
-      "source": "runta.com"
+      "title": "Archive Team is archiving the Apple Support Community",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "score": 237,
+      "comments": 91,
+      "source": "wiki.archiveteam.org"
     },
     {
-      "title": "Apple Services Down",
-      "url": "https://developer.apple.com/system-status/",
-      "score": 617,
-      "comments": 340,
-      "source": "developer.apple.com"
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "score": 259,
+      "comments": 348,
+      "source": "complexdiscovery.com"
     },
     {
-      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-      "url": "https://arxiv.org/abs/2611.09827",
-      "score": 70,
-      "comments": 40,
-      "source": "arxiv.org"
+      "title": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "score": 437,
+      "comments": 60,
+      "source": "phrack.org"
     },
     {
-      "title": "Tencent Hy4 Flash",
-      "url": "https://hy.tencent.ai/research/hy4-flash",
-      "score": 34,
-      "comments": 7,
-      "source": "hy.tencent.ai"
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "score": 393,
+      "comments": 158,
+      "source": "microsoft.ai"
     },
     {
-      "title": "Who Builds the Machines That Build the Machines?",
-      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
-      "score": 86,
-      "comments": 27,
-      "source": "read.corematter.com"
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "score": 375,
+      "comments": 122,
+      "source": "sciencenorway.no"
     },
     {
-      "title": "Not Everything Needs an LLM",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "score": 76,
-      "comments": 31,
-      "source": "newsletter.posthog.com"
+      "title": "Dissecting Spring petclinic (Part 2 \u2013 Bending the persistence)",
+      "url": "https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html",
+      "score": 3,
+      "comments": 0,
+      "source": "hannomalie.github.io"
     },
     {
-      "title": "Mouse Party",
-      "url": "https://aboard.com/lets-have-a-mouse-party/",
-      "score": 54,
-      "comments": 9,
-      "source": "aboard.com"
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "score": 352,
+      "comments": 184,
+      "source": "github.com"
     },
     {
-      "title": "Latent Lattice Language Models",
-      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-      "score": 11,
-      "comments": 3,
-      "source": "shivamduggal4.github.io"
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "score": 610,
+      "comments": 569,
+      "source": "nicolasbouliane.com"
     },
     {
-      "title": "How the Claude Code team thinks about verification",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "score": 256,
-      "comments": 199,
-      "source": "claude.dev"
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "score": 116,
+      "comments": 54,
+      "source": "xinmingtu.cn"
     },
     {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "score": 1143,
-      "comments": 570,
-      "source": "nytimes.com"
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "score": 16,
+      "comments": 4,
+      "source": "sciencedaily.com"
     },
     {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "url": "https://alloyhtml.com/example.html",
-      "score": 172,
-      "comments": 31,
-      "source": "alloyhtml.com"
-    },
-    {
-      "title": "Zoltraak and the Dynamics of Military Innovation",
-      "url": "https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/",
-      "score": 41,
-      "comments": 11,
-      "source": "jgeekstudies.org"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-      "score": 37,
-      "comments": 25,
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "score": 1320,
+      "comments": 824,
       "source": "openai.com"
     },
     {
-      "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "score": 42,
-      "comments": 5,
-      "source": "github.com"
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "score": 347,
+      "comments": 111,
+      "source": "solidjs.com"
     }
   ],
   "security": [
+    {
+      "title": "Introducing simplified onboarding for AWS WAF Bot Control at the targeted inspection level",
+      "url": "https://aws.amazon.com/blogs/security/introducing-simplified-onboarding-for-aws-waf-bot-control-at-the-targeted-inspection-level/",
+      "date": "2026-11-17 23:15:03",
+      "author": "Pengfei Shao"
+    },
     {
       "title": "Securely exposing Amazon Bedrock AgentCore Runtime",
       "url": "https://aws.amazon.com/blogs/security/securely-exposing-amazon-bedrock-agentcore-runtime/",
@@ -258,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/help-defend-against-memory-poisoning-in-amazon-bedrock-agentcore-with-multi-layer-write-validation/",
       "date": "2026-11-09 19:05:52",
       "author": "Tarun Kumar"
-    },
-    {
-      "title": "Simplify cross-partition access with AWS IAM outbound identity federation",
-      "url": "https://aws.amazon.com/blogs/security/simplify-cross-partition-access-with-aws-iam-outbound-identity-federation/",
-      "date": "2026-11-09 16:08:30",
-      "author": "Bill Wells"
     }
   ]
 }
