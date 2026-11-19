@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "score": 378,
+      "comments": 180,
+      "source": "element.io"
+    },
+    {
+      "title": "PHP 8.5.13",
+      "url": "https://www.php.net/ChangeLog-8.php",
+      "score": 50,
+      "comments": 17,
+      "source": "php.net"
+    },
+    {
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "score": 275,
+      "comments": 109,
+      "source": "blog.harrison.page"
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "score": 63,
+      "comments": 18,
+      "source": "krthr.co"
+    },
+    {
+      "title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
+      "url": "https://foolscap.works/",
+      "score": 53,
+      "comments": 23,
+      "source": "foolscap.works"
+    },
+    {
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "score": 118,
+      "comments": 26,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 267,
+      "comments": 103,
+      "source": "verialabs.com"
+    },
+    {
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "score": 171,
+      "comments": 87,
+      "source": "php.net"
+    },
+    {
+      "title": "We taught robots to carve marble sculptures",
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "score": 65,
+      "comments": 46,
+      "source": "eleanorwiesler.com"
+    },
+    {
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "score": 67,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "score": 151,
+      "comments": 36,
+      "source": "zerodha.tech"
+    },
+    {
       "title": "Gemini 4 Neon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "score": 645,
-      "comments": 557,
+      "score": 925,
+      "comments": 722,
       "source": "blog.google"
+    },
+    {
+      "title": "OpenAI still has a WebRTC Problem",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "score": 11,
+      "comments": 0,
+      "source": "moq.dev"
+    },
+    {
+      "title": "Mass launched to orbit each year by rocket builder",
+      "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
+      "score": 62,
+      "comments": 44,
+      "source": "kadoa.com"
+    },
+    {
+      "title": "SSD prices will start going down the second half of next year",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "score": 197,
+      "comments": 161,
+      "source": "drivevault.io"
     },
     {
       "title": "Unauthenticated remote code execution in Nginx",
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "score": 1253,
-      "comments": 543,
+      "score": 1462,
+      "comments": 614,
       "source": "wiz.io"
+    },
+    {
+      "title": "Unblockable communication with gravity \u2013 Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "score": 31,
+      "comments": 10,
+      "source": "science.org"
+    },
+    {
+      "title": "C's designated initializers give us named arguments",
+      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
+      "score": 28,
+      "comments": 25,
+      "source": "quuxplusone.github.io"
+    },
+    {
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "score": 40,
+      "comments": 16,
+      "source": "levineuwirth.org"
+    },
+    {
+      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "score": 259,
+      "comments": 30,
+      "source": "kapteko.com"
+    },
+    {
+      "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "score": 63,
+      "comments": 57,
+      "source": "fastcompany.com"
+    },
+    {
+      "title": "Funkycache: A Python library to cache functions in SQLite",
+      "url": "https://alexwlchan.net/2026/funkycache/",
+      "score": 8,
+      "comments": 1,
+      "source": "alexwlchan.net"
     },
     {
       "title": "Multiple vulnerabilities in Regexp and String case conversion",
       "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "score": 169,
-      "comments": 49,
+      "score": 308,
+      "comments": 114,
       "source": "ruby-lang.org"
     },
     {
-      "title": "Unreal Tournament 2004 in the Browser",
-      "url": "https://ut2004.dev/",
-      "score": 91,
-      "comments": 41,
-      "source": "ut2004.dev"
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "score": 15,
+      "comments": 0,
+      "source": "techcentral.ie"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "score": 334,
+      "comments": 620,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+      "url": "https://contralabs.com/frontierdesign",
+      "score": 75,
+      "comments": 23,
+      "source": "contralabs.com"
     },
     {
       "title": "Seven new models at scalable price-performance",
       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "score": 493,
-      "comments": 332,
+      "score": 577,
+      "comments": 363,
       "source": "microsoft.ai"
     },
     {
       "title": "Inside Deutsche Bank",
       "url": "https://www.inside-db.com/",
-      "score": 611,
-      "comments": 203,
+      "score": 745,
+      "comments": 247,
       "source": "inside-db.com"
     },
     {
-      "title": "Camera Index",
-      "url": "https://www.cameraindex.co.uk/",
-      "score": 14,
-      "comments": 2,
-      "source": "cameraindex.co.uk"
-    },
-    {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "score": 127,
-      "comments": 36,
-      "source": "slowchronicle.com"
-    },
-    {
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "score": 172,
-      "comments": 54,
-      "source": "radixark.com"
-    },
-    {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "score": 85,
-      "comments": 30,
-      "source": "kusha.me"
-    },
-    {
-      "title": "Mosquitoes are Ladakh's latest tourists",
-      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
-      "score": 28,
-      "comments": 1,
-      "source": "ruralindiaonline.org"
-    },
-    {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378",
-      "score": 34,
-      "comments": 6,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-      "score": 256,
-      "comments": 176,
-      "source": "cam.ac.uk"
-    },
-    {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "score": 187,
-      "comments": 67,
-      "source": "micjm.com"
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "score": 218,
-      "comments": 149,
-      "source": "blog.google"
-    },
-    {
-      "title": "We need smart people who give a shit",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "score": 375,
-      "comments": 197,
-      "source": "violetpixel.com"
-    },
-    {
-      "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
-      "url": "https://exitpath-ruddy.vercel.app/",
-      "score": 192,
-      "comments": 56,
-      "source": "exitpath-ruddy.vercel.app"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "score": 183,
-      "comments": 117,
-      "source": "openai.com"
-    },
-    {
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "url": "https://rshekhar.com/voyager/",
-      "score": 178,
-      "comments": 45,
-      "source": "rshekhar.com"
-    },
-    {
-      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-      "url": "https://github.com/aryamandarda/tamserve",
-      "score": 70,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
-      "score": 58,
-      "comments": 12,
-      "source": "engineering.fb.com"
-    },
-    {
-      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-      "score": 37,
-      "comments": 9,
-      "source": "investors.paloaltonetworks.com"
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "score": 430,
-      "comments": 186,
-      "source": "europeanbusinessmagazine.com"
-    },
-    {
-      "title": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
-      "url": "https://github.com/Ri4dH/failtrace",
-      "score": 20,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-      "score": 639,
-      "comments": 247,
-      "source": "techstackups.com"
-    },
-    {
-      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
-      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-      "score": 44,
-      "comments": 5,
-      "source": "science.nasa.gov"
-    },
-    {
-      "title": "The x86 CPU: From 4004 to 486",
-      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-      "score": 161,
-      "comments": 50,
-      "source": "pikuma.com"
-    },
-    {
-      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-      "score": 183,
-      "comments": 120,
-      "source": "cve.org"
-    },
-    {
-      "title": "Pushing WireGuard on macOS to 5 Gbit/s",
-      "url": "https://www.firezone.dev/blog/apple-client-performance",
-      "score": 19,
-      "comments": 0,
-      "source": "firezone.dev"
+      "title": "The first ping from Tonga (1997)",
+      "url": "https://colo.to/firstping.html",
+      "score": 63,
+      "comments": 7,
+      "source": "colo.to"
     }
   ],
   "security": [
