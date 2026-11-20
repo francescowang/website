@@ -1,210 +1,229 @@
 {
   "tech": [
     {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "score": 378,
-      "comments": 180,
-      "source": "element.io"
+      "title": "Anthropic\u2019s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "score": 837,
+      "comments": 1612,
+      "source": "reuters.com"
     },
     {
-      "title": "PHP 8.5.13",
-      "url": "https://www.php.net/ChangeLog-8.php",
-      "score": 50,
-      "comments": 17,
-      "source": "php.net"
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "score": 490,
+      "comments": 71,
+      "source": "newscientist.com"
+    },
+    {
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "score": 76,
+      "comments": 37,
+      "source": "synology.com"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "score": 349,
+      "comments": 155,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "score": 78,
+      "comments": 14,
+      "source": "ocw.mit.edu"
+    },
+    {
+      "title": "RegExr: Temporarily Offline",
+      "url": "https://regexr.com/",
+      "score": 27,
+      "comments": 16,
+      "source": "regexr.com"
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "score": 177,
+      "comments": 90,
+      "source": "globalcommercegraph.com"
     },
     {
       "title": "Garage Door Spam",
       "url": "https://blog.harrison.page/garage-door-spam/",
-      "score": 275,
-      "comments": 109,
+      "score": 724,
+      "comments": 307,
       "source": "blog.harrison.page"
     },
     {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "score": 63,
-      "comments": 18,
-      "source": "krthr.co"
+      "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "score": 180,
+      "comments": 88,
+      "source": "cornholenews.news"
     },
     {
-      "title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
-      "url": "https://foolscap.works/",
-      "score": 53,
-      "comments": 23,
-      "source": "foolscap.works"
-    },
-    {
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "score": 118,
-      "comments": 26,
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "score": 64,
+      "comments": 120,
       "source": "youtube.com"
-    },
-    {
-      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "score": 267,
-      "comments": 103,
-      "source": "verialabs.com"
-    },
-    {
-      "title": "What's New in PHP 8.6",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "score": 171,
-      "comments": 87,
-      "source": "php.net"
-    },
-    {
-      "title": "We taught robots to carve marble sculptures",
-      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-      "score": 65,
-      "comments": 46,
-      "source": "eleanorwiesler.com"
     },
     {
       "title": "Someone reported java4shell bug in September 2026",
       "url": "https://github.com/openjdk/jdk/pull/32781",
-      "score": 67,
-      "comments": 8,
+      "score": 348,
+      "comments": 90,
       "source": "github.com"
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "score": 466,
+      "comments": 201,
+      "source": "macanorak.com"
+    },
+    {
+      "title": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "score": 43,
+      "comments": 6,
+      "source": "blog.platypush.tech"
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "score": 82,
+      "comments": 66,
+      "source": "github.com"
+    },
+    {
+      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+      "score": 29,
+      "comments": 0,
+      "source": "tisonkun.io"
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "score": 237,
+      "comments": 51,
+      "source": "krthr.co"
+    },
+    {
+      "title": "Computer Graphics from Scratch (2021)",
+      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+      "score": 43,
+      "comments": 9,
+      "source": "gabrielgambetta.com"
+    },
+    {
+      "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 380,
+      "comments": 160,
+      "source": "verialabs.com"
+    },
+    {
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "score": 249,
+      "comments": 95,
+      "source": "youtube.com"
+    },
+    {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "score": 650,
+      "comments": 310,
+      "source": "element.io"
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "score": 30,
+      "comments": 2,
+      "source": "wsj.com"
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "score": 207,
+      "comments": 189,
+      "source": "thedataexchange.media"
+    },
+    {
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "score": 183,
+      "comments": 138,
+      "source": "fastcompany.com"
+    },
+    {
+      "title": "Do not buy RAM, compress",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "score": 241,
+      "comments": 201,
+      "source": "curiousbits.nl"
+    },
+    {
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "score": 269,
+      "comments": 126,
+      "source": "php.net"
+    },
+    {
+      "title": "Unblockable communication with gravity",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "score": 138,
+      "comments": 50,
+      "source": "science.org"
+    },
+    {
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "score": 69,
+      "comments": 28,
+      "source": "lithub.com"
     },
     {
       "title": "Distributed, high-performance blob storage on SQLite",
       "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "score": 151,
-      "comments": 36,
+      "score": 253,
+      "comments": 68,
       "source": "zerodha.tech"
     },
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "score": 925,
-      "comments": 722,
-      "source": "blog.google"
-    },
-    {
-      "title": "OpenAI still has a WebRTC Problem",
-      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
-      "score": 11,
-      "comments": 0,
-      "source": "moq.dev"
-    },
-    {
-      "title": "Mass launched to orbit each year by rocket builder",
-      "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
-      "score": 62,
-      "comments": 44,
-      "source": "kadoa.com"
-    },
-    {
-      "title": "SSD prices will start going down the second half of next year",
-      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-      "score": 197,
-      "comments": 161,
-      "source": "drivevault.io"
-    },
-    {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "score": 1462,
-      "comments": 614,
-      "source": "wiz.io"
-    },
-    {
-      "title": "Unblockable communication with gravity \u2013 Science Advances",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-      "score": 31,
+      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "score": 32,
       "comments": 10,
-      "source": "science.org"
+      "source": "techdirt.com"
     },
     {
-      "title": "C's designated initializers give us named arguments",
-      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
-      "score": 28,
-      "comments": 25,
-      "source": "quuxplusone.github.io"
-    },
-    {
-      "title": "Exponential Behavior in Magic: The Gathering",
-      "url": "https://levineuwirth.org/essays/exponential-magic/",
-      "score": 40,
-      "comments": 16,
-      "source": "levineuwirth.org"
-    },
-    {
-      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-      "url": "https://kapteko.com/15-million-webservers/",
-      "score": 259,
-      "comments": 30,
-      "source": "kapteko.com"
-    },
-    {
-      "title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-      "score": 63,
-      "comments": 57,
-      "source": "fastcompany.com"
-    },
-    {
-      "title": "Funkycache: A Python library to cache functions in SQLite",
-      "url": "https://alexwlchan.net/2026/funkycache/",
-      "score": 8,
-      "comments": 1,
-      "source": "alexwlchan.net"
-    },
-    {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "score": 308,
-      "comments": 114,
-      "source": "ruby-lang.org"
-    },
-    {
-      "title": "Germany and Austria Call for European Control of TikTok",
-      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
-      "score": 15,
-      "comments": 0,
-      "source": "techcentral.ie"
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "score": 334,
-      "comments": 620,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
-      "url": "https://contralabs.com/frontierdesign",
-      "score": 75,
-      "comments": 23,
-      "source": "contralabs.com"
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "score": 577,
-      "comments": 363,
-      "source": "microsoft.ai"
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "score": 745,
-      "comments": 247,
-      "source": "inside-db.com"
-    },
-    {
-      "title": "The first ping from Tonga (1997)",
-      "url": "https://colo.to/firstping.html",
-      "score": 63,
-      "comments": 7,
-      "source": "colo.to"
+      "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+      "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+      "score": 32,
+      "comments": 10,
+      "source": "blog.llvm.org"
     }
   ],
   "security": [
+    {
+      "title": "Introducing the new AWS WAF security analytics dashboard",
+      "url": "https://aws.amazon.com/blogs/security/introducing-the-new-aws-waf-security-analytics-dashboard/",
+      "date": "2026-11-19 21:10:43",
+      "author": "Praveen Hosur Narayana Gupta"
+    },
+    {
+      "title": "How AWS Security Incident Response triages your security findings",
+      "url": "https://aws.amazon.com/blogs/security/how-aws-security-incident-response-triages-your-security-findings/",
+      "date": "2026-11-19 19:20:58",
+      "author": "Anatoliy Kochetov"
+    },
     {
       "title": "Step-up authentication: how to right-size authentication to risk",
       "url": "https://aws.amazon.com/blogs/security/step-up-authentication-how-to-right-size-authentication-to-risk/",
@@ -252,18 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/part-4-cybersecurity-journeys-what-id-tell-my-younger-self/",
       "date": "2026-11-11 18:21:01",
       "author": "Shannon Brazil"
-    },
-    {
-      "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
-      "url": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/",
-      "date": "2026-11-10 23:04:52",
-      "author": "Allan Holmes"
-    },
-    {
-      "title": "AWS refreshes ProcessUnity Global Risk Exchange assessment to enhance customer\u2019s third-party due diligence",
-      "url": "https://aws.amazon.com/blogs/security/aws-refreshes-processunity-global-risk-exchange-assessment-to-enhance-customers-third-party-due-diligence/",
-      "date": "2026-11-10 21:31:14",
-      "author": "Naranjan Goklani"
     }
   ]
 }
