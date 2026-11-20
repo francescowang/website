@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 1331,
+      "comments": 611,
+      "source": "math216.wordpress.com"
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 526,
+      "comments": 85,
+      "source": "thinkingmachines.ai"
+    },
+    {
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
-      "score": 104,
-      "comments": 16,
+      "score": 2263,
+      "comments": 1540,
       "source": "alpo.ge"
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "score": 40,
+      "comments": 5,
+      "source": "ninlive.com"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 243,
+      "comments": 155,
+      "source": "manidoraisamy.com"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 292,
+      "comments": 112,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 314,
+      "comments": 104,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "url": "https://github.com/google-deepmind/math-horizon",
+      "score": 35,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "score": 241,
+      "comments": 77,
+      "source": "github.com"
+    },
+    {
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "score": 63,
+      "comments": 9,
+      "source": "masteringemacs.org"
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "score": 99,
+      "comments": 32,
+      "source": "ankitg.me"
+    },
+    {
+      "title": "And Yet, It Moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "score": 55,
+      "comments": 25,
+      "source": "signoregalilei.com"
     },
     {
       "title": "If you can't explain something in simple terms, you don't understand it (2017)",
       "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "score": 262,
-      "comments": 157,
+      "score": 598,
+      "comments": 285,
       "source": "kottke.org"
+    },
+    {
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "score": 174,
+      "comments": 140,
+      "source": "scottaaronson.blog"
+    },
+    {
+      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "score": 81,
+      "comments": 25,
+      "source": "winedroid.soham.sh"
     },
     {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
-      "score": 348,
-      "comments": 228,
+      "score": 607,
+      "comments": 316,
       "source": "architectlabs.com"
-    },
-    {
-      "title": "Llms.txt and MCP didn't move the needle",
-      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-      "score": 20,
-      "comments": 9,
-      "source": "backpackforlaravel.com"
-    },
-    {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "url": "https://kobi.music/research/dettato",
-      "score": 43,
-      "comments": 10,
-      "source": "kobi.music"
-    },
-    {
-      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
-      "url": "https://github.com/bigcrimping/floppy3.5",
-      "score": 45,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "The Making of Oxygene",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "score": 95,
-      "comments": 35,
-      "source": "jeanmicheljarre.com"
-    },
-    {
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "score": 50,
-      "comments": 32,
-      "source": "simpleflying.com"
-    },
-    {
-      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-      "score": 58,
-      "comments": 23,
-      "source": "hippomaps.ch"
-    },
-    {
-      "title": "What people are building, discovered through new domains",
-      "url": "https://startups.novumsignals.com/",
-      "score": 92,
-      "comments": 42,
-      "source": "startups.novumsignals.com"
     },
     {
       "title": "Signal Is Serious About Protecting Your Privacy",
       "url": "https://signal.org/blog/protecting-your-privacy/",
-      "score": 73,
-      "comments": 27,
+      "score": 476,
+      "comments": 290,
       "source": "signal.org"
     },
     {
-      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
-      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-      "score": 26,
-      "comments": 19,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "score": 320,
-      "comments": 264,
+      "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "score": 46,
+      "comments": 14,
       "source": "github.com"
     },
     {
-      "title": "I can\u2019t believe it\u2019s 1!",
-      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
-      "score": 26,
-      "comments": 22,
-      "source": "aperiodical.com"
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "score": 184,
+      "comments": 82,
+      "source": "finance.yahoo.com"
     },
     {
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "score": 83,
-      "comments": 48,
-      "source": "trynotched.com"
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "score": 49,
+      "comments": 8,
+      "source": "quebec.yarn.so"
     },
     {
-      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-      "score": 296,
-      "comments": 176,
-      "source": "ecohustler.com"
+      "title": "Show HN: Professor Euler \u2013 Offline math desk, 300-function CAS, workbooks",
+      "url": "https://euler.dawei7.com",
+      "score": 8,
+      "comments": 0,
+      "source": "euler.dawei7.com"
     },
     {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 47,
-      "comments": 17,
-      "source": "theguardian.com"
+      "title": "Nasdaq erases all 2026 gains",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "score": 38,
+      "comments": 4,
+      "source": "cnbc.com"
     },
     {
-      "title": "UK fridges secured from hackers",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "score": 95,
-      "comments": 88,
-      "source": "bbc.co.uk"
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "score": 60,
+      "comments": 64,
+      "source": "bleepingcomputer.com"
     },
     {
-      "title": "FFmpeg 9.1 'Gauss'",
-      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "score": 6,
+      "comments": 3,
+      "source": "researchgate.net"
+    },
+    {
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
       "score": 222,
-      "comments": 30,
-      "source": "ffmpeg.org"
+      "comments": 48,
+      "source": "kobi.music"
     },
     {
-      "title": "If you stop writing code, you also get worse at reviewing it",
-      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-      "score": 59,
-      "comments": 12,
-      "source": "cekrem.github.io"
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "score": 241,
+      "comments": 176,
+      "source": "motherjones.com"
     },
     {
-      "title": "\u00b5-Wire \u2013 USB on an ATtiny 10",
-      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
-      "score": 79,
-      "comments": 9,
-      "source": "cpldcpu.com"
+      "title": "Reverse Engineering my cat's litter box",
+      "url": "https://master--ytulsiani.netlify.app/blog/furrytails/",
+      "score": 22,
+      "comments": 8,
+      "source": "master--ytulsiani.netlify.app"
+    },
+    {
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "score": 51,
+      "comments": 0,
+      "source": "github.com"
     },
     {
       "title": "The G1 Garbage Collector",
       "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
-      "score": 3,
-      "comments": 0,
+      "score": 96,
+      "comments": 50,
       "source": "dev.java"
-    },
-    {
-      "title": "The Strongest Sokoban Solver",
-      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-      "score": 102,
-      "comments": 23,
-      "source": "healeycodes.com"
-    },
-    {
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "score": 142,
-      "comments": 23,
-      "source": "snowflake.com"
-    },
-    {
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "score": 325,
-      "comments": 109,
-      "source": "ocw.mit.edu"
-    },
-    {
-      "title": "\"I can tell you wrote this yourself\"",
-      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-      "score": 304,
-      "comments": 294,
-      "source": "em-online.bearblog.dev"
-    },
-    {
-      "title": "Jujutsu Primer",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
-      "score": 176,
-      "comments": 111,
-      "source": "ethanlowman.com"
-    },
-    {
-      "title": "PostgreSQL 19",
-      "url": "https://www.postgresql.org/docs/release/19.0/",
-      "score": 297,
-      "comments": 16,
-      "source": "postgresql.org"
-    },
-    {
-      "title": "What Comes After AGI?",
-      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-      "score": 113,
-      "comments": 220,
-      "source": "institute.deepmind.com"
-    },
-    {
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "score": 136,
-      "comments": 64,
-      "source": "seremot.com"
     }
   ],
   "security": [
+    {
+      "title": "Chinese-nexus actor\u2019s Cairn AI agents found a zero-day on their own",
+      "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
+      "date": "2026-11-20 17:30:13",
+      "author": "CJ Moses"
+    },
     {
       "title": "Your AWS Security, Identity, and Governance guide to re:Invent 2026",
       "url": "https://aws.amazon.com/blogs/security/your-aws-security-identity-and-governance-guide-to-reinvent-2026/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
       "date": "2026-11-13 20:26:42",
       "author": "CJ Moses"
-    },
-    {
-      "title": "Ease of use and secure defaults in the new AWS experience",
-      "url": "https://aws.amazon.com/blogs/security/ease-of-use-and-secure-defaults-in-the-new-aws-experience/",
-      "date": "2026-11-11 19:57:21",
-      "author": "Keshav Narsipur"
     }
   ]
 }
