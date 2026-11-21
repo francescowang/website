@@ -1,207 +1,207 @@
 {
   "tech": [
     {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 230,
-      "comments": 60,
-      "source": "gov.br"
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "score": 348,
+      "comments": 105,
+      "source": "theguardian.com"
     },
     {
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 290,
+      "comments": 66,
+      "source": "github.com"
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "score": 714,
+      "comments": 564,
+      "source": "leanprover-community.github.io"
+    },
+    {
+      "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 35,
-      "comments": 7,
+      "score": 467,
+      "comments": 307,
       "source": "science.org"
     },
     {
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 86,
-      "comments": 24,
-      "source": "blog.tymscar.com"
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "score": 84,
+      "comments": 32,
+      "source": "notnottalmud.substack.com"
+    },
+    {
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "score": 663,
+      "comments": 212,
+      "source": "gov.br"
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "score": 102,
+      "comments": 14,
+      "source": "jespino.github.io"
     },
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2233,
-      "comments": 1054,
+      "score": 2373,
+      "comments": 1150,
       "source": "math216.wordpress.com"
     },
     {
-      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "score": 2738,
-      "comments": 1919,
-      "source": "alpo.ge"
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "url": "https://tasklet.ai/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "tasklet.ai"
     },
     {
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "score": 102,
-      "comments": 28,
-      "source": "lists.gnupg.org"
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "score": 420,
+      "comments": 213,
+      "source": "blog.tymscar.com"
+    },
+    {
+      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+      "score": 11,
+      "comments": 3,
+      "source": "jna.uni-kiel.de"
+    },
+    {
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "score": 5,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Windows has two settings that bring work back after restart, both off by default",
+      "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+      "score": 9,
+      "comments": 3,
+      "source": "makeuseof.com"
+    },
+    {
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "score": 33,
+      "comments": 13,
+      "source": "phys.org"
+    },
+    {
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "score": 79,
+      "comments": 57,
+      "source": "levineuwirth.org"
+    },
+    {
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "score": 58,
+      "comments": 15,
+      "source": "pwn.ai"
+    },
+    {
+      "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "score": 112,
+      "comments": 86,
+      "source": "onurgumus.github.io"
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "score": 75,
+      "comments": 25,
+      "source": "math.mit.edu"
     },
     {
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1126,
-      "comments": 213,
+      "score": 1346,
+      "comments": 276,
       "source": "thinkingmachines.ai"
     },
     {
-      "title": "ClawDOS \u2013 An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "score": 115,
-      "comments": 33,
-      "source": "ricapar.net"
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "url": "https://klauria.tech/klauria-art/",
+      "score": 131,
+      "comments": 31,
+      "source": "klauria.tech"
     },
     {
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "score": 493,
-      "comments": 273,
-      "source": "manidoraisamy.com"
+      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+      "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+      "score": 13,
+      "comments": 15,
+      "source": "geoawesome.com"
     },
     {
-      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
-      "score": 47,
-      "comments": 43,
-      "source": "bloomberg.com"
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "score": 214,
+      "comments": 86,
+      "source": "lists.gnupg.org"
     },
     {
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "score": 478,
-      "comments": 207,
-      "source": "terrytao.wordpress.com"
+      "title": "Context-Generic Programming v0.8.0 \u2013 Pluggable trait implementations for Rust",
+      "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+      "score": 10,
+      "comments": 0,
+      "source": "contextgeneric.dev"
     },
     {
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "score": 135,
-      "comments": 52,
-      "source": "eli.thegreenplace.net"
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "score": 438,
+      "comments": 245,
+      "source": "blog.mozilla.org"
     },
     {
-      "title": "Surprisingly Adorable Insect Portraits",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "score": 84,
-      "comments": 19,
-      "source": "amateurphotographer.com"
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "score": 299,
-      "comments": 77,
-      "source": "ninlive.com"
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "score": 4,
+      "comments": 0,
+      "source": "linebender.org"
     },
     {
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "score": 10,
-      "comments": 1,
+      "score": 164,
+      "comments": 111,
       "source": "sgiannopoulos.github.io"
     },
     {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "score": 438,
-      "comments": 128,
-      "source": "arxiv.org"
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 570,
+      "comments": 306,
+      "source": "manidoraisamy.com"
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "score": 71,
-      "comments": 33,
-      "source": "bbc.com"
+      "title": "How I made a custom game engine for Satelital",
+      "url": "https://spectralorbit.com/blog/satelital_game_engine",
+      "score": 28,
+      "comments": 3,
+      "source": "spectralorbit.com"
     },
     {
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "score": 157,
-      "comments": 52,
-      "source": "valkey.io"
-    },
-    {
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "score": 126,
-      "comments": 30,
-      "source": "esa.int"
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 384,
-      "comments": 690,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "score": 243,
-      "comments": 89,
-      "source": "masteringemacs.org"
-    },
-    {
-      "title": "Fewer slides, more dragons",
-      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
-      "score": 47,
-      "comments": 18,
-      "source": "breakingchange.blog"
-    },
-    {
-      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
-      "url": "https://slopstrap.mikelacher.com/",
-      "score": 354,
-      "comments": 63,
-      "source": "slopstrap.mikelacher.com"
-    },
-    {
-      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "score": 300,
-      "comments": 94,
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "url": "https://github.com/kborer/cells/",
+      "score": 41,
+      "comments": 15,
       "source": "github.com"
-    },
-    {
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "score": 192,
-      "comments": 122,
-      "source": "trynotched.com"
-    },
-    {
-      "title": "Vibecoding an inference chip",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "score": 163,
-      "comments": 64,
-      "source": "ankitg.me"
-    },
-    {
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "score": 129,
-      "comments": 94,
-      "source": "simpleflying.com"
-    },
-    {
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "score": 110,
-      "comments": 58,
-      "source": "ruv.is"
-    },
-    {
-      "title": "Defcon 5's California Caravan Program/Zine",
-      "url": "https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/",
-      "score": 6,
-      "comments": 0,
-      "source": "netninja.com"
     }
   ],
   "security": [
