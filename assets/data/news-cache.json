@@ -1,60 +1,151 @@
 {
   "tech": [
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 348,
-      "comments": 105,
-      "source": "theguardian.com"
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "score": 61,
+      "comments": 28,
+      "source": "caranddriver.com"
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 290,
-      "comments": 66,
-      "source": "github.com"
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "score": 805,
+      "comments": 188,
+      "source": "theguardian.com"
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 714,
-      "comments": 564,
+      "score": 913,
+      "comments": 778,
       "source": "leanprover-community.github.io"
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 401,
+      "comments": 101,
+      "source": "github.com"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "score": 96,
+      "comments": 45,
+      "source": "stulle.app"
     },
     {
       "title": "Detonating a pile of lead azide",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 467,
-      "comments": 307,
+      "score": 573,
+      "comments": 371,
       "source": "science.org"
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "score": 59,
+      "comments": 23,
+      "source": "openrouter.ai"
     },
     {
       "title": "Getting the mind to steer the body to steer you",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "score": 84,
-      "comments": 32,
+      "score": 204,
+      "comments": 66,
       "source": "notnottalmud.substack.com"
     },
     {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 663,
-      "comments": 212,
-      "source": "gov.br"
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "score": 87,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 91,
+      "comments": 52,
+      "source": "github.com"
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "score": 533,
+      "comments": 257,
+      "source": "blog.tymscar.com"
+    },
+    {
+      "title": "Shaping the Loops, Closing the Loops",
+      "url": "https://revyl.com/blog/pattern-engineering/",
+      "score": 18,
+      "comments": 8,
+      "source": "revyl.com"
+    },
+    {
+      "title": "The Most Popular Car Colors in America",
+      "url": "https://www.iseecars.com/most-popular-car-colors-study",
+      "score": 9,
+      "comments": 13,
+      "source": "iseecars.com"
+    },
+    {
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "score": 96,
+      "comments": 41,
+      "source": "pwn.ai"
+    },
+    {
+      "title": "Split Radiance Cascades",
+      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "score": 5,
+      "comments": 0,
+      "source": "jacktollenaar.top"
+    },
+    {
+      "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "score": 52,
+      "comments": 10,
+      "source": "pandex.io"
+    },
+    {
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "score": 19,
+      "comments": 1,
+      "source": "youtube.com"
     },
     {
       "title": "PostgreSQL Extensions in Go",
       "url": "https://jespino.github.io/gopgext/",
-      "score": 102,
-      "comments": 14,
+      "score": 132,
+      "comments": 23,
       "source": "jespino.github.io"
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2373,
-      "comments": 1150,
-      "source": "math216.wordpress.com"
+      "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "score": 145,
+      "comments": 103,
+      "source": "onurgumus.github.io"
+    },
+    {
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "score": 216,
+      "comments": 137,
+      "source": "sgiannopoulos.github.io"
+    },
+    {
+      "title": "Unit-testing in the \u00dc programming language",
+      "url": "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
+      "score": 8,
+      "comments": 1,
+      "source": "panzerschrek.github.io"
     },
     {
       "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
@@ -64,144 +155,53 @@
       "source": "tasklet.ai"
     },
     {
-      "title": "My monitor was cutting my download speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 420,
-      "comments": 213,
-      "source": "blog.tymscar.com"
-    },
-    {
-      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-      "score": 11,
-      "comments": 3,
-      "source": "jna.uni-kiel.de"
-    },
-    {
-      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "score": 5,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Windows has two settings that bring work back after restart, both off by default",
-      "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-      "score": 9,
-      "comments": 3,
-      "source": "makeuseof.com"
-    },
-    {
-      "title": "Tropical Rainforests Species may be surprisingly young",
-      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-      "score": 33,
-      "comments": 13,
-      "source": "phys.org"
-    },
-    {
-      "title": "Exponential Behavior in Magic: The Gathering",
-      "url": "https://levineuwirth.org/essays/exponential-magic/",
-      "score": 79,
-      "comments": 57,
-      "source": "levineuwirth.org"
-    },
-    {
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "url": "https://pwn.ai/upload2shell",
-      "score": 58,
-      "comments": 15,
-      "source": "pwn.ai"
-    },
-    {
-      "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "score": 112,
-      "comments": 86,
-      "source": "onurgumus.github.io"
-    },
-    {
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "url": "https://math.mit.edu/~drew/grh/",
-      "score": 75,
-      "comments": 25,
-      "source": "math.mit.edu"
-    },
-    {
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1346,
-      "comments": 276,
-      "source": "thinkingmachines.ai"
-    },
-    {
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "url": "https://klauria.tech/klauria-art/",
-      "score": 131,
-      "comments": 31,
-      "source": "klauria.tech"
-    },
-    {
-      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-      "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
-      "score": 13,
-      "comments": 15,
-      "source": "geoawesome.com"
-    },
-    {
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "score": 214,
-      "comments": 86,
-      "source": "lists.gnupg.org"
-    },
-    {
-      "title": "Context-Generic Programming v0.8.0 \u2013 Pluggable trait implementations for Rust",
-      "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
-      "score": 10,
-      "comments": 0,
-      "source": "contextgeneric.dev"
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "score": 116,
+      "comments": 26,
+      "source": "linebender.org"
     },
     {
       "title": "Why there are still no non-WebKit browsers on iOS",
       "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "score": 438,
-      "comments": 245,
+      "score": 521,
+      "comments": 284,
       "source": "blog.mozilla.org"
     },
     {
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
-      "score": 4,
-      "comments": 0,
-      "source": "linebender.org"
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "score": 7,
+      "comments": 4,
+      "source": "together.ai"
     },
     {
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "score": 164,
-      "comments": 111,
-      "source": "sgiannopoulos.github.io"
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "score": 102,
+      "comments": 68,
+      "source": "levineuwirth.org"
     },
     {
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "score": 570,
-      "comments": 306,
-      "source": "manidoraisamy.com"
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "score": 106,
+      "comments": 38,
+      "source": "math.mit.edu"
     },
     {
-      "title": "How I made a custom game engine for Satelital",
-      "url": "https://spectralorbit.com/blog/satelital_game_engine",
-      "score": 28,
-      "comments": 3,
-      "source": "spectralorbit.com"
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "score": 46,
+      "comments": 27,
+      "source": "phys.org"
     },
     {
-      "title": "Show HN: An ASCII cell aquarium for your terminal",
-      "url": "https://github.com/kborer/cells/",
-      "score": 41,
-      "comments": 15,
-      "source": "github.com"
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "score": 246,
+      "comments": 98,
+      "source": "lists.gnupg.org"
     }
   ],
   "security": [
