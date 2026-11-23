@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "score": 266,
-      "comments": 99,
-      "source": "audubon.org"
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 297,
+      "comments": 48,
+      "source": "spelunkr.tv"
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 76,
+      "comments": 26,
+      "source": "github.com"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "score": 144,
+      "comments": 59,
+      "source": "johncarlosbaez.wordpress.com"
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "score": 94,
-      "comments": 27,
+      "score": 370,
+      "comments": 149,
       "source": "gpupartner.com"
     },
     {
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "url": "https://nyx.net/",
-      "score": 67,
-      "comments": 7,
-      "source": "nyx.net"
-    },
-    {
-      "title": "Agent swarm trying to solve P vs. NP",
-      "url": "https://pequalnp.com/",
-      "score": 33,
-      "comments": 21,
-      "source": "pequalnp.com"
-    },
-    {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "url": "https://smallsf.com/",
-      "score": 82,
-      "comments": 33,
-      "source": "smallsf.com"
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "score": 423,
+      "comments": 209,
+      "source": "audubon.org"
     },
     {
       "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
       "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "score": 27,
-      "comments": 0,
+      "score": 167,
+      "comments": 29,
       "source": "apnews.com"
     },
     {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "score": 431,
-      "comments": 294,
-      "source": "openai.com"
+      "title": "The New Docker: Built to Run on Trust",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "score": 22,
+      "comments": 29,
+      "source": "docker.com"
     },
     {
-      "title": "The Usefulness of Useless Knowledge [pdf]",
-      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "score": 13,
-      "comments": 0,
-      "source": "ias.edu"
-    },
-    {
-      "title": "What Happened to Silicon Valley?",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "score": 306,
-      "comments": 160,
-      "source": "oreilly.com"
-    },
-    {
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "score": 10,
-      "comments": 3,
-      "source": "fosscomics.com"
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+      "url": "https://arxiv.org/abs/2506.13771",
+      "score": 19,
+      "comments": 2,
+      "source": "arxiv.org"
     },
     {
       "title": "GL.iNet Security Notice 2026-11-20",
       "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "score": 3,
-      "comments": 0,
+      "score": 142,
+      "comments": 66,
       "source": "gl-inet.com"
     },
     {
-      "title": "I did a meditation and it sort of changed my personality?!",
-      "url": "https://www.benkuhn.net/meditation/",
-      "score": 20,
-      "comments": 9,
-      "source": "benkuhn.net"
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "score": 209,
+      "comments": 82,
+      "source": "smallsf.com"
     },
     {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "score": 253,
-      "comments": 59,
-      "source": "github.com"
-    },
-    {
-      "title": "Advice for Young Researchers",
-      "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
-      "score": 27,
-      "comments": 7,
-      "source": "togelius.blogspot.com"
-    },
-    {
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-      "score": 112,
-      "comments": 29,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
-      "url": "https://philpapers.org/rec/NIEIOT-2",
-      "score": 7,
+      "title": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "score": 4,
       "comments": 0,
-      "source": "philpapers.org"
+      "source": "phoenix.labri.fr"
     },
     {
-      "title": "Open Social Web Alliance",
-      "url": "https://osw-alliance.net/en/",
-      "score": 201,
-      "comments": 201,
-      "source": "osw-alliance.net"
-    },
-    {
-      "title": "A Better Vocabulary for Testing",
-      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-      "score": 102,
-      "comments": 25,
-      "source": "alperenkeles.com"
-    },
-    {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "score": 1158,
-      "comments": 665,
-      "source": "caranddriver.com"
-    },
-    {
-      "title": "Will the first approved psychedelic become a blockbuster?",
-      "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-      "score": 8,
-      "comments": 5,
-      "source": "pharmavoice.com"
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "score": 97,
+      "comments": 17,
+      "source": "ias.edu"
     },
     {
       "title": "Assume People Are Not Interested in Your Blog Post",
       "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "score": 15,
-      "comments": 9,
+      "score": 128,
+      "comments": 58,
       "source": "danielsada.tech"
     },
     {
-      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-      "score": 72,
-      "comments": 26,
-      "source": "nytimes.com"
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "score": 85,
+      "comments": 28,
+      "source": "fosscomics.com"
     },
     {
-      "title": "Harvard CS 2881R AI Safety",
-      "url": "https://boazbk.github.io/mltheoryseminar/",
-      "score": 23,
-      "comments": 1,
-      "source": "boazbk.github.io"
+      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+      "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+      "score": 35,
+      "comments": 13,
+      "source": "gameboymuseum.com"
     },
     {
-      "title": "Agentics: Mushy Software",
-      "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+      "title": "What we learned operating auth for 1k APIs",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "score": 25,
+      "comments": 3,
+      "source": "nango.dev"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "score": 539,
+      "comments": 364,
+      "source": "openai.com"
+    },
+    {
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "score": 19,
+      "comments": 3,
+      "source": "pengowray.github.io"
+    },
+    {
+      "title": "Mass destruction of weapons",
+      "url": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+      "score": 5,
+      "comments": 3,
+      "source": "computer.rip"
+    },
+    {
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
+      "score": 119,
+      "comments": 15,
+      "source": "nyx.net"
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "score": 196,
+      "comments": 154,
+      "source": "claude.ai"
+    },
+    {
+      "title": "Verifying formal models of Raft implementations",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "score": 17,
+      "comments": 0,
+      "source": "antithesis.com"
+    },
+    {
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "score": 545,
+      "comments": 295,
+      "source": "oreilly.com"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "score": 297,
+      "comments": 70,
+      "source": "github.com"
+    },
+    {
+      "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
       "score": 34,
-      "comments": 4,
-      "source": "12gramsofcarbon.com"
+      "comments": 6,
+      "source": "0rwx.com"
     },
     {
-      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-      "score": 55,
-      "comments": 22,
-      "source": "herbsutter.com"
+      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+      "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+      "score": 15,
+      "comments": 2,
+      "source": "facebook.com"
     },
     {
-      "title": "Inside PyPy: First Contact with RPython",
-      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
-      "score": 52,
-      "comments": 7,
-      "source": "bernsteinbear.com"
+      "title": "How the World Draws the World",
+      "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
+      "score": 19,
+      "comments": 2,
+      "source": "googlemapsmania.blogspot.com"
     },
     {
-      "title": "The Transvoxel Algorithm",
-      "url": "https://transvoxel.org/",
-      "score": 51,
-      "comments": 4,
-      "source": "transvoxel.org"
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "score": 141,
+      "comments": 47,
+      "source": "jeffgeerling.com"
     },
     {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "score": 834,
-      "comments": 855,
-      "source": "betterdatacenterproject.com"
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "score": 1238,
+      "comments": 687,
+      "source": "caranddriver.com"
     },
     {
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "score": 557,
-      "comments": 195,
-      "source": "stulle.app"
+      "title": "'Legally, they don't exist': the hybrid crabs puzzling biologists and fishers",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
+      "score": 12,
+      "comments": 0,
+      "source": "theguardian.com"
     }
   ],
   "security": [
