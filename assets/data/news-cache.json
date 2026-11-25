@@ -1,210 +1,222 @@
 {
   "tech": [
     {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "score": 165,
+      "comments": 44,
+      "source": "vox.com"
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "score": 72,
+      "comments": 33,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "score": 223,
+      "comments": 125,
+      "source": "github.com"
+    },
+    {
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "score": 236,
+      "comments": 198,
+      "source": "github.com"
+    },
+    {
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "score": 13,
+      "comments": 0,
+      "source": "engram.com"
+    },
+    {
+      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "score": 682,
+      "comments": 109,
+      "source": "buttons.joshwcomeau.com"
+    },
+    {
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 868,
+      "comments": 480,
+      "source": "github.com"
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "score": 131,
+      "comments": 68,
+      "source": "reddit.com"
+    },
+    {
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "score": 37,
+      "comments": 11,
+      "source": "jayd.ml"
+    },
+    {
+      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+      "score": 126,
+      "comments": 110,
+      "source": "upi.com"
+    },
+    {
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "score": 203,
+      "comments": 122,
+      "source": "atilloy.com"
+    },
+    {
+      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
+      "score": 32,
+      "comments": 1,
+      "source": "repubblica.it"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 376,
+      "comments": 157,
+      "source": "lesswrong.com"
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "score": 267,
+      "comments": 59,
+      "source": "gpu-demo-gallery.pages.dev"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "score": 136,
+      "comments": 60,
+      "source": "antcating.github.io"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "score": 361,
+      "comments": 128,
+      "source": "rida.dev"
+    },
+    {
       "title": "Ternary Bonsai 2.5 27B",
       "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "score": 337,
-      "comments": 113,
+      "score": 510,
+      "comments": 161,
       "source": "prismml.com"
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 167,
-      "comments": 37,
-      "source": "openai.com"
-    },
-    {
-      "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
-      "url": "https://literaryreview.co.uk/here-in-the-world",
-      "score": 15,
-      "comments": 0,
-      "source": "literaryreview.co.uk"
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "score": 183,
+      "comments": 38,
+      "source": "intruder.io"
     },
     {
       "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
       "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "score": 12,
-      "comments": 1,
+      "score": 354,
+      "comments": 63,
       "source": "greydanus.github.io"
     },
     {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "score": 264,
-      "comments": 127,
-      "source": "greynoise.io"
+      "title": "A Clock Made of Branches",
+      "url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
+      "score": 3,
+      "comments": 0,
+      "source": "fzakaria.com"
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "score": 196,
+      "comments": 77,
+      "source": "marginalia.nu"
     },
     {
       "title": "The Spray Bottle",
       "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "score": 353,
-      "comments": 95,
+      "score": 575,
+      "comments": 141,
       "source": "mechanical-pencil.com"
     },
     {
-      "title": "G\u00f6del Enigma",
-      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "title": "The algebra of dependent types (2025)",
+      "url": "https://dotat.at/@/2025-05-28-types.html",
       "score": 86,
-      "comments": 27,
-      "source": "helsinki.fi"
-    },
-    {
-      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 18,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "Calculate how many mesh radio nodes your city needs",
-      "url": "https://meshcoveragecalculator.lalala.ing/",
-      "score": 78,
       "comments": 11,
-      "source": "meshcoveragecalculator.lalala.ing"
+      "source": "dotat.at"
     },
     {
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "score": 129,
-      "comments": 83,
-      "source": "core77.com"
+      "title": "The Shapes of Rivers",
+      "url": "https://dominicroye.github.io/shapes-of-rivers/",
+      "score": 119,
+      "comments": 30,
+      "source": "dominicroye.github.io"
     },
     {
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-      "score": 65,
-      "comments": 1,
-      "source": "andlukyane.com"
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "score": 327,
+      "comments": 92,
+      "source": "openai.com"
     },
     {
-      "title": "Heart attack and stroke risk detectable decades in advance",
-      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-      "score": 140,
-      "comments": 57,
-      "source": "ed.ac.uk"
+      "title": "Macrohistory in Six Facts",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "score": 128,
+      "comments": 70,
+      "source": "basilhalperin.com"
     },
     {
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "score": 274,
-      "comments": 120,
-      "source": "hypercritical.co"
-    },
-    {
-      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
-      "url": "https://github.com/PQCrypta/pqcrypta-proxy",
-      "score": 32,
-      "comments": 9,
-      "source": "github.com"
-    },
-    {
-      "title": "GTA 6 Running on Windows",
-      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "score": 287,
-      "comments": 363,
-      "source": "twitter.com"
-    },
-    {
-      "title": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "score": 179,
-      "comments": 57,
-      "source": "github.com"
-    },
-    {
-      "title": "Quad9 pulled their DNS service from France",
-      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-      "score": 357,
-      "comments": 179,
-      "source": "quad9.net"
-    },
-    {
-      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
-      "score": 11,
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "score": 3,
       "comments": 0,
-      "source": "statwonk.com"
+      "source": "s.conao3.com"
     },
     {
-      "title": "The Artificial Monkey Mind",
-      "url": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
-      "score": 4,
-      "comments": 1,
-      "source": "eamonnsullivan.co.uk"
-    },
-    {
-      "title": "Cento fine foods has been sued for \u201ctomato fraud\u201d",
-      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
-      "score": 124,
-      "comments": 159,
-      "source": "slate.com"
-    },
-    {
-      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-      "score": 131,
-      "comments": 86,
-      "source": "frankchiarulli.com"
-    },
-    {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "score": 1,
-      "comments": 0,
-      "source": "jobs.ashbyhq.com"
-    },
-    {
-      "title": "An unclassified CIA system was breached in a cyberattack",
-      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-      "score": 104,
-      "comments": 31,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "score": 226,
-      "comments": 42,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-      "url": "https://grafana.com/grafana/download",
-      "score": 136,
-      "comments": 21,
-      "source": "grafana.com"
-    },
-    {
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "score": 910,
-      "comments": 386,
-      "source": "michaelharley.net"
-    },
-    {
-      "title": "How a Mechanical Watch Keeps Time",
-      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-      "score": 220,
-      "comments": 59,
-      "source": "martincmartin.github.io"
-    },
-    {
-      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "url": "https://github.com/ItsNotRexed/Leonida/issues",
-      "score": 341,
-      "comments": 605,
-      "source": "github.com"
-    },
-    {
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "score": 348,
-      "comments": 691,
-      "source": "bloomberg.com"
+      "title": "When in Doubt, Flail About",
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "score": 100,
+      "comments": 41,
+      "source": "seangoedecke.com"
     }
   ],
   "security": [
+    {
+      "title": "Introducing context-aware rules for AWS Network Firewall",
+      "url": "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall/",
+      "date": "2026-11-25 01:19:20",
+      "author": "Lawton Pittenger"
+    },
+    {
+      "title": "Introducing AWS Network Firewall Next Generation policy",
+      "url": "https://aws.amazon.com/blogs/security/introducing-aws-network-firewall-next-generation-policy/",
+      "date": "2026-11-25 01:11:09",
+      "author": "Lawton Pittenger"
+    },
     {
       "title": "AWS Network Firewall introduces automated internet firewall mode (Preview)",
       "url": "https://aws.amazon.com/blogs/security/aws-network-firewall-introduces-automated-internet-firewall-mode-preview/",
@@ -252,18 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/protect-identity-data-with-point-in-time-recovery-in-amazon-cognito/",
       "date": "2026-11-23 16:43:50",
       "author": "Howie Li"
-    },
-    {
-      "title": "Scope down permissions of existing sessions using AWS STS GetScopedCredentials",
-      "url": "https://aws.amazon.com/blogs/security/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/",
-      "date": "2026-11-20 22:57:22",
-      "author": "Vaishnavi Merugu"
-    },
-    {
-      "title": "Chinese-nexus actor\u2019s Cairn AI agents found a zero-day on their own",
-      "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
-      "date": "2026-11-20 17:30:13",
-      "author": "CJ Moses"
     }
   ]
 }
