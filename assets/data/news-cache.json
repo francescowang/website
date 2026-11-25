@@ -1,217 +1,234 @@
 {
   "tech": [
     {
-      "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "score": 337,
+      "comments": 113,
+      "source": "prismml.com"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "score": 167,
+      "comments": 37,
+      "source": "openai.com"
+    },
+    {
+      "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
+      "url": "https://literaryreview.co.uk/here-in-the-world",
+      "score": 15,
+      "comments": 0,
+      "source": "literaryreview.co.uk"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "score": 12,
+      "comments": 1,
+      "source": "greydanus.github.io"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "score": 28,
-      "comments": 5,
+      "score": 264,
+      "comments": 127,
       "source": "greynoise.io"
     },
     {
-      "title": "Tidal Bans AI-Generated Music",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "score": 112,
-      "comments": 73,
-      "source": "variety.com"
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "score": 353,
+      "comments": 95,
+      "source": "mechanical-pencil.com"
     },
     {
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "score": 723,
-      "comments": 268,
-      "source": "fzakaria.com"
+      "title": "G\u00f6del Enigma",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "score": 86,
+      "comments": 27,
+      "source": "helsinki.fi"
     },
     {
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "score": 15,
-      "comments": 0,
-      "source": "hypercritical.co"
-    },
-    {
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "score": 578,
-      "comments": 242,
-      "source": "michaelharley.net"
-    },
-    {
-      "title": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe",
-      "score": 35,
+      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 18,
       "comments": 3,
       "source": "github.com"
     },
     {
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "score": 159,
-      "comments": 24,
-      "source": "fzakaria.com"
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "score": 78,
+      "comments": 11,
+      "source": "meshcoveragecalculator.lalala.ing"
     },
     {
-      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
-      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-      "score": 126,
-      "comments": 32,
-      "source": "martincmartin.github.io"
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "score": 129,
+      "comments": 83,
+      "source": "core77.com"
+    },
+    {
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "score": 65,
+      "comments": 1,
+      "source": "andlukyane.com"
+    },
+    {
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "score": 140,
+      "comments": 57,
+      "source": "ed.ac.uk"
+    },
+    {
+      "title": "Jetty Pro",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "score": 274,
+      "comments": 120,
+      "source": "hypercritical.co"
+    },
+    {
+      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+      "url": "https://github.com/PQCrypta/pqcrypta-proxy",
+      "score": 32,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "score": 287,
+      "comments": 363,
+      "source": "twitter.com"
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "score": 179,
+      "comments": 57,
+      "source": "github.com"
     },
     {
       "title": "Quad9 pulled their DNS service from France",
       "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-      "score": 174,
-      "comments": 72,
+      "score": 357,
+      "comments": 179,
       "source": "quad9.net"
     },
     {
-      "title": "Mechanical Pencil: Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "score": 17,
-      "comments": 4,
-      "source": "mechanical-pencil.com"
-    },
-    {
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
-      "score": 2307,
-      "comments": 564,
-      "source": "ladybird.org"
-    },
-    {
-      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-      "score": 6,
+      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+      "score": 11,
       "comments": 0,
+      "source": "statwonk.com"
+    },
+    {
+      "title": "The Artificial Monkey Mind",
+      "url": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
+      "score": 4,
+      "comments": 1,
+      "source": "eamonnsullivan.co.uk"
+    },
+    {
+      "title": "Cento fine foods has been sued for \u201ctomato fraud\u201d",
+      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+      "score": 124,
+      "comments": 159,
+      "source": "slate.com"
+    },
+    {
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "score": 131,
+      "comments": 86,
       "source": "frankchiarulli.com"
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "score": 633,
-      "comments": 319,
-      "source": "stalw.art"
-    },
-    {
-      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
-      "score": 26,
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "score": 1,
       "comments": 0,
-      "source": "dl.acm.org"
+      "source": "jobs.ashbyhq.com"
     },
     {
-      "title": "An anti-slavery sugar bowl (2024)",
-      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
-      "score": 84,
-      "comments": 53,
-      "source": "vam.ac.uk"
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "score": 104,
+      "comments": 31,
+      "source": "apnews.com"
     },
     {
-      "title": "How to Make a Lovable City",
-      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-      "score": 7,
-      "comments": 0,
-      "source": "worksinprogress.news"
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "score": 226,
+      "comments": 42,
+      "source": "fzakaria.com"
     },
     {
-      "title": "Just a Few Bugs",
-      "url": "https://www.justafewbugs.xyz/",
-      "score": 99,
-      "comments": 32,
-      "source": "justafewbugs.xyz"
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "url": "https://grafana.com/grafana/download",
+      "score": 136,
+      "comments": 21,
+      "source": "grafana.com"
     },
     {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "score": 186,
-      "comments": 97,
-      "source": "phoronix.com"
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "score": 910,
+      "comments": 386,
+      "source": "michaelharley.net"
+    },
+    {
+      "title": "How a Mechanical Watch Keeps Time",
+      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "score": 220,
+      "comments": 59,
+      "source": "martincmartin.github.io"
     },
     {
       "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
       "url": "https://github.com/ItsNotRexed/Leonida/issues",
-      "score": 234,
-      "comments": 363,
+      "score": 341,
+      "comments": 605,
       "source": "github.com"
     },
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "score": 2731,
-      "comments": 3592,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
-      "url": "https://arxiv.org/abs/2611.30835",
-      "score": 3,
-      "comments": 0,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The new set of problems for engineers to solve",
-      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
-      "score": 74,
-      "comments": 54,
-      "source": "katelynlesse.com"
-    },
-    {
-      "title": "Drone Maps of Salvage Yards",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "score": 151,
-      "comments": 58,
-      "source": "salvageyarddrone.wordpress.com"
-    },
-    {
-      "title": "Del Casher\u2013guitarist who was driving force behind the wah-wah pedal\u2013dies at 88",
-      "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html",
-      "score": 50,
-      "comments": 11,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "GPUI is getting its own repository",
-      "url": "https://github.com/zed-industries/gpui",
-      "score": 354,
-      "comments": 127,
-      "source": "github.com"
-    },
-    {
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang/",
-      "score": 90,
-      "comments": 67,
-      "source": "davidtemkin.github.io"
-    },
-    {
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "score": 671,
-      "comments": 307,
-      "source": "governor.ny.gov"
-    },
-    {
-      "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-      "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
-      "score": 14,
-      "comments": 6,
-      "source": "upi.com"
-    },
-    {
-      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-      "score": 84,
-      "comments": 11,
-      "source": "usenix.org"
-    },
-    {
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "url": "https://www.bored.com/",
-      "score": 312,
-      "comments": 65,
-      "source": "bored.com"
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "score": 348,
+      "comments": 691,
+      "source": "bloomberg.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS Network Firewall introduces automated internet firewall mode (Preview)",
+      "url": "https://aws.amazon.com/blogs/security/aws-network-firewall-introduces-automated-internet-firewall-mode-preview/",
+      "date": "2026-11-24 21:30:20",
+      "author": "Lawton Pittenger"
+    },
+    {
+      "title": "Delegate user access to AI agents with Amazon Cognito token exchange",
+      "url": "https://aws.amazon.com/blogs/security/delegate-user-access-to-ai-agents-with-amazon-cognito-token-exchange/",
+      "date": "2026-11-24 20:01:08",
+      "author": "Edward Sun"
+    },
+    {
+      "title": "AWS completed its second ISO/IEC 42001:2023 surveillance audit",
+      "url": "https://aws.amazon.com/blogs/security/aws-completed-its-second-iso-iec-420012023-surveillance-audit/",
+      "date": "2026-11-24 18:32:21",
+      "author": "Basit Janjua"
+    },
+    {
+      "title": "AWS achieves Spain\u2019s national Limited Distribution (Difusi\u00f3n Limitada) and NATO Restricted accreditation in the AWS Europe (Spain) Region",
+      "url": "https://aws.amazon.com/blogs/security/aws-achieves-spains-national-limited-distribution-difusion-limitada-and-nato-restricted-accreditation-in-the-aws-europe-spain-region/",
+      "date": "2026-11-24 17:38:00",
+      "author": "Borja Larrumbide"
+    },
     {
       "title": "Know the identity behind the role: Authorize and audit with trusted identity propagation",
       "url": "https://aws.amazon.com/blogs/security/know-the-identity-behind-the-role-authorize-and-audit-with-trusted-identity-propagation/",
@@ -247,30 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
       "date": "2026-11-20 17:30:13",
       "author": "CJ Moses"
-    },
-    {
-      "title": "Your AWS Security, Identity, and Governance guide to re:Invent 2026",
-      "url": "https://aws.amazon.com/blogs/security/your-aws-security-identity-and-governance-guide-to-reinvent-2026/",
-      "date": "2026-11-19 22:31:34",
-      "author": "Brandon Carroll"
-    },
-    {
-      "title": "Introducing the new AWS WAF security analytics dashboard",
-      "url": "https://aws.amazon.com/blogs/security/introducing-the-new-aws-waf-security-analytics-dashboard/",
-      "date": "2026-11-19 21:10:43",
-      "author": "Praveen Hosur Narayana Gupta"
-    },
-    {
-      "title": "How AWS Security Incident Response triages your security findings",
-      "url": "https://aws.amazon.com/blogs/security/how-aws-security-incident-response-triages-your-security-findings/",
-      "date": "2026-11-19 19:20:58",
-      "author": "Anatoliy Kochetov"
-    },
-    {
-      "title": "Step-up authentication: how to right-size authentication to risk",
-      "url": "https://aws.amazon.com/blogs/security/step-up-authentication-how-to-right-size-authentication-to-risk/",
-      "date": "2026-11-18 23:49:07",
-      "author": "Abrom Douglas"
     }
   ]
 }
