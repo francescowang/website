@@ -1,210 +1,202 @@
 {
   "tech": [
     {
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1123,
-      "comments": 483,
-      "source": "1password.com"
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "score": 275,
+      "comments": 110,
+      "source": "nextcloud.com"
+    },
+    {
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "score": 295,
+      "comments": 179,
+      "source": "github.com"
     },
     {
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
       "url": "https://scottaaronson.blog/?p=10379",
-      "score": 875,
-      "comments": 719,
+      "score": 1816,
+      "comments": 1657,
       "source": "scottaaronson.blog"
     },
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "score": 261,
-      "comments": 117,
-      "source": "github.com"
+      "title": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "score": 43,
+      "comments": 10,
+      "source": "thereader.mitpress.mit.edu"
+    },
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 1576,
+      "comments": 680,
+      "source": "1password.com"
+    },
+    {
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "score": 51,
+      "comments": 32,
+      "source": "phys.org"
     },
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "score": 194,
-      "comments": 131,
+      "score": 525,
+      "comments": 442,
       "source": "theverge.com"
     },
     {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "score": 243,
-      "comments": 71,
-      "source": "bjin.github.io"
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "score": 189,
+      "comments": 40,
+      "source": "fosscomics.com"
+    },
+    {
+      "title": "45\u00b0C inlets just killed the chiller. Most people haven't noticed yet",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "score": 108,
+      "comments": 33,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "score": 221,
+      "comments": 33,
+      "source": "progrium.github.io"
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "score": 325,
+      "comments": 61,
+      "source": "aresluna.org"
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "score": 156,
+      "comments": 99,
+      "source": "commandcode.ai"
     },
     {
       "title": "Slow Ubuntu security response times",
       "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "score": 136,
-      "comments": 55,
+      "score": 365,
+      "comments": 214,
       "source": "openwall.com"
     },
     {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "score": 437,
-      "comments": 106,
-      "source": "vox.com"
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "score": 429,
+      "comments": 123,
+      "source": "bjin.github.io"
     },
     {
-      "title": "Multiagent coding is the future",
-      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
-      "score": 25,
-      "comments": 8,
-      "source": "kalzumeus.com"
+      "title": "What VP \u2260 VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "score": 191,
+      "comments": 73,
+      "source": "friedgil.com"
+    },
+    {
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "score": 109,
+      "comments": 22,
+      "source": "swarkentin.github.io"
+    },
+    {
+      "title": "The history of civilization is the history of wheat",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "score": 95,
+      "comments": 51,
+      "source": "asteriskmag.com"
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "score": 122,
+      "comments": 32,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "score": 110,
+      "comments": 15,
+      "source": "github.com"
     },
     {
       "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
       "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "score": 80,
-      "comments": 26,
+      "score": 189,
+      "comments": 79,
       "source": "opensec.in"
     },
     {
       "title": "Bare Metal Qwen",
       "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "score": 59,
-      "comments": 7,
+      "score": 211,
+      "comments": 48,
       "source": "github.com"
     },
     {
-      "title": "SSH is a GUI framework",
-      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "score": 128,
-      "comments": 71,
-      "source": "zydra.sh"
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 507,
+      "comments": 319,
+      "source": "github.com"
     },
     {
-      "title": "Jev is probably Qwen3.5-35B-A3B",
-      "url": "https://modaic.dev/blog/latency-doesnt-lie",
-      "score": 212,
-      "comments": 59,
-      "source": "modaic.dev"
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "score": 134,
+      "comments": 50,
+      "source": "gwern.net"
     },
     {
-      "title": "Deploying a payphone on a tiny Pacific Island",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "score": 410,
+      "comments": 226,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
       "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "score": 30,
-      "comments": 0,
+      "score": 137,
+      "comments": 18,
       "source": "nickvsnetworking.com"
     },
     {
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "score": 119,
-      "comments": 30,
-      "source": "github.com"
-    },
-    {
-      "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
-      "url": "https://www.worksinprogress.news/p/the-trouble-with-serendipity",
-      "score": 8,
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "score": 16,
       "comments": 2,
-      "source": "worksinprogress.news"
+      "source": "michidk.github.io"
     },
     {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "score": 443,
-      "comments": 332,
-      "source": "github.com"
-    },
-    {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "score": 316,
-      "comments": 173,
-      "source": "github.com"
-    },
-    {
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
-      "score": 184,
-      "comments": 64,
-      "source": "s.conao3.com"
-    },
-    {
-      "title": "Defang Security Incident",
-      "url": "https://defang.io/blog/post/security-incident-november-2026/",
-      "score": 56,
-      "comments": 19,
-      "source": "defang.io"
-    },
-    {
-      "title": "Britain's ghost stations",
-      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-      "score": 97,
-      "comments": 19,
-      "source": "spectator.com"
-    },
-    {
-      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "score": 222,
-      "comments": 91,
-      "source": "jayd.ml"
-    },
-    {
-      "title": "Predicting LoRA size for any dataset",
-      "url": "https://engram.com/blog/lora-size",
-      "score": 110,
-      "comments": 11,
-      "source": "engram.com"
-    },
-    {
-      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-      "score": 71,
-      "comments": 9,
-      "source": "chszlab.github.io"
-    },
-    {
-      "title": "Show HN: Rchive \u2013 Every drive I've owned since the 90s, searchable in one window",
-      "url": "https://www.rchive.computer/",
-      "score": 35,
-      "comments": 22,
-      "source": "rchive.computer"
-    },
-    {
-      "title": "The undocumented 249-file limit for Googlebot rendering",
-      "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
-      "score": 35,
-      "comments": 12,
-      "source": "fullstackoptimization.com"
-    },
-    {
-      "title": "72-hour fasting can reset your immune system, USC study shows",
-      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
-      "score": 156,
-      "comments": 110,
-      "source": "scienceinhand.com"
-    },
-    {
-      "title": "Smart people who give a shit use tools",
-      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
-      "score": 276,
-      "comments": 213,
-      "source": "iankduncan.com"
-    },
-    {
-      "title": "A fast CAS with a focus on resolution of singularities",
-      "url": "https://github.com/pportilla/atlas",
-      "score": 14,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "In C++, = default and {} are not the same constructor",
-      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-      "score": 108,
-      "comments": 168,
-      "source": "lemire.me"
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "url": "https://eng.snap.com/mcp-gateway",
+      "score": 22,
+      "comments": 8,
+      "source": "eng.snap.com"
     }
   ],
   "security": [
+    {
+      "title": "Make post-quantum cryptography updates routine with AWS-LC",
+      "url": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc/",
+      "date": "2026-11-26 00:15:29",
+      "author": "Josh Williams"
+    },
     {
       "title": "ICYMI: October 2026 @AWS Security",
       "url": "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security/",
@@ -258,12 +250,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-completed-its-second-iso-iec-420012023-surveillance-audit/",
       "date": "2026-11-24 18:32:21",
       "author": "Basit Janjua"
-    },
-    {
-      "title": "AWS achieves Spain\u2019s national Limited Distribution (Difusi\u00f3n Limitada) and NATO Restricted accreditation in the AWS Europe (Spain) Region",
-      "url": "https://aws.amazon.com/blogs/security/aws-achieves-spains-national-limited-distribution-difusion-limitada-and-nato-restricted-accreditation-in-the-aws-europe-spain-region/",
-      "date": "2026-11-24 17:38:00",
-      "author": "Borja Larrumbide"
     }
   ]
 }
