@@ -1,210 +1,234 @@
 {
   "tech": [
     {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 1123,
+      "comments": 483,
+      "source": "1password.com"
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 875,
+      "comments": 719,
+      "source": "scottaaronson.blog"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 261,
+      "comments": 117,
+      "source": "github.com"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "score": 194,
+      "comments": 131,
+      "source": "theverge.com"
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "score": 243,
+      "comments": 71,
+      "source": "bjin.github.io"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "score": 136,
+      "comments": 55,
+      "source": "openwall.com"
+    },
+    {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "score": 165,
-      "comments": 44,
+      "score": 437,
+      "comments": 106,
       "source": "vox.com"
     },
     {
-      "title": "Investigating degraded experiences across GitHub products",
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "score": 72,
-      "comments": 33,
-      "source": "githubstatus.com"
+      "title": "Multiagent coding is the future",
+      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "score": 25,
+      "comments": 8,
+      "source": "kalzumeus.com"
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "score": 80,
+      "comments": 26,
+      "source": "opensec.in"
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "score": 59,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "score": 128,
+      "comments": 71,
+      "source": "zydra.sh"
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "score": 212,
+      "comments": 59,
+      "source": "modaic.dev"
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "score": 30,
+      "comments": 0,
+      "source": "nickvsnetworking.com"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "score": 119,
+      "comments": 30,
+      "source": "github.com"
+    },
+    {
+      "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+      "url": "https://www.worksinprogress.news/p/the-trouble-with-serendipity",
+      "score": 8,
+      "comments": 2,
+      "source": "worksinprogress.news"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "score": 443,
+      "comments": 332,
+      "source": "github.com"
     },
     {
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
       "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "score": 223,
-      "comments": 125,
+      "score": 316,
+      "comments": 173,
       "source": "github.com"
-    },
-    {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "score": 236,
-      "comments": 198,
-      "source": "github.com"
-    },
-    {
-      "title": "Predicting LoRA size for any dataset",
-      "url": "https://engram.com/blog/lora-size",
-      "score": 13,
-      "comments": 0,
-      "source": "engram.com"
-    },
-    {
-      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "score": 682,
-      "comments": 109,
-      "source": "buttons.joshwcomeau.com"
-    },
-    {
-      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 868,
-      "comments": 480,
-      "source": "github.com"
-    },
-    {
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-      "score": 131,
-      "comments": 68,
-      "source": "reddit.com"
-    },
-    {
-      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "score": 37,
-      "comments": 11,
-      "source": "jayd.ml"
-    },
-    {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-      "score": 126,
-      "comments": 110,
-      "source": "upi.com"
-    },
-    {
-      "title": "The short age of dragon riders",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "score": 203,
-      "comments": 122,
-      "source": "atilloy.com"
-    },
-    {
-      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
-      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
-      "score": 32,
-      "comments": 1,
-      "source": "repubblica.it"
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "score": 376,
-      "comments": 157,
-      "source": "lesswrong.com"
-    },
-    {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "score": 267,
-      "comments": 59,
-      "source": "gpu-demo-gallery.pages.dev"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring a Product Designer",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Getting old Java phones online again",
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-      "score": 136,
-      "comments": 60,
-      "source": "antcating.github.io"
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "score": 361,
-      "comments": 128,
-      "source": "rida.dev"
-    },
-    {
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "score": 510,
-      "comments": 161,
-      "source": "prismml.com"
-    },
-    {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "score": 183,
-      "comments": 38,
-      "source": "intruder.io"
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "score": 354,
-      "comments": 63,
-      "source": "greydanus.github.io"
-    },
-    {
-      "title": "A Clock Made of Branches",
-      "url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
-      "score": 3,
-      "comments": 0,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "score": 196,
-      "comments": 77,
-      "source": "marginalia.nu"
-    },
-    {
-      "title": "The Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "score": 575,
-      "comments": 141,
-      "source": "mechanical-pencil.com"
-    },
-    {
-      "title": "The algebra of dependent types (2025)",
-      "url": "https://dotat.at/@/2025-05-28-types.html",
-      "score": 86,
-      "comments": 11,
-      "source": "dotat.at"
-    },
-    {
-      "title": "The Shapes of Rivers",
-      "url": "https://dominicroye.github.io/shapes-of-rivers/",
-      "score": 119,
-      "comments": 30,
-      "source": "dominicroye.github.io"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "score": 327,
-      "comments": 92,
-      "source": "openai.com"
-    },
-    {
-      "title": "Macrohistory in Six Facts",
-      "url": "https://basilhalperin.com/essays/macrohistory.html",
-      "score": 128,
-      "comments": 70,
-      "source": "basilhalperin.com"
     },
     {
       "title": "I checked Clojure's core with Lean and found unreported bugs",
       "url": "https://s.conao3.com/blog/2026/e4f733",
-      "score": 3,
-      "comments": 0,
+      "score": 184,
+      "comments": 64,
       "source": "s.conao3.com"
     },
     {
-      "title": "When in Doubt, Flail About",
-      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-      "score": 100,
-      "comments": 41,
-      "source": "seangoedecke.com"
+      "title": "Defang Security Incident",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "score": 56,
+      "comments": 19,
+      "source": "defang.io"
+    },
+    {
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "score": 97,
+      "comments": 19,
+      "source": "spectator.com"
+    },
+    {
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "score": 222,
+      "comments": 91,
+      "source": "jayd.ml"
+    },
+    {
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "score": 110,
+      "comments": 11,
+      "source": "engram.com"
+    },
+    {
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "score": 71,
+      "comments": 9,
+      "source": "chszlab.github.io"
+    },
+    {
+      "title": "Show HN: Rchive \u2013 Every drive I've owned since the 90s, searchable in one window",
+      "url": "https://www.rchive.computer/",
+      "score": 35,
+      "comments": 22,
+      "source": "rchive.computer"
+    },
+    {
+      "title": "The undocumented 249-file limit for Googlebot rendering",
+      "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+      "score": 35,
+      "comments": 12,
+      "source": "fullstackoptimization.com"
+    },
+    {
+      "title": "72-hour fasting can reset your immune system, USC study shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "score": 156,
+      "comments": 110,
+      "source": "scienceinhand.com"
+    },
+    {
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "score": 276,
+      "comments": 213,
+      "source": "iankduncan.com"
+    },
+    {
+      "title": "A fast CAS with a focus on resolution of singularities",
+      "url": "https://github.com/pportilla/atlas",
+      "score": 14,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "score": 108,
+      "comments": 168,
+      "source": "lemire.me"
     }
   ],
   "security": [
+    {
+      "title": "ICYMI: October 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security/",
+      "date": "2026-11-25 23:04:26",
+      "author": "Rodolfo Brenes"
+    },
+    {
+      "title": "Secure agentic access to AWS with Enterprise-Managed Authorization",
+      "url": "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization/",
+      "date": "2026-11-25 21:00:37",
+      "author": "Vaibhav Chowla"
+    },
+    {
+      "title": "Reduce operational overhead by migrating from AWS CloudHSM to AWS KMS",
+      "url": "https://aws.amazon.com/blogs/security/reduce-operational-overhead-by-migrating-from-aws-cloudhsm-to-aws-kms/",
+      "date": "2026-11-25 19:54:52",
+      "author": "Derek Tumulak"
+    },
+    {
+      "title": "Planning for 99.99 percent availability with the Amazon Cognito Plus feature plan",
+      "url": "https://aws.amazon.com/blogs/security/planning-for-99-99-percent-availability-with-the-amazon-cognito-plus-feature-plan/",
+      "date": "2026-11-25 17:50:39",
+      "author": "Brian Song"
+    },
     {
       "title": "Introducing context-aware rules for AWS Network Firewall",
       "url": "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall/",
@@ -240,30 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-achieves-spains-national-limited-distribution-difusion-limitada-and-nato-restricted-accreditation-in-the-aws-europe-spain-region/",
       "date": "2026-11-24 17:38:00",
       "author": "Borja Larrumbide"
-    },
-    {
-      "title": "Know the identity behind the role: Authorize and audit with trusted identity propagation",
-      "url": "https://aws.amazon.com/blogs/security/know-the-identity-behind-the-role-authorize-and-audit-with-trusted-identity-propagation/",
-      "date": "2026-11-24 02:52:38",
-      "author": "Laura Reith"
-    },
-    {
-      "title": "Introducing AWS WAF simplified pricing",
-      "url": "https://aws.amazon.com/blogs/security/introducing-aws-waf-simplified-pricing/",
-      "date": "2026-11-23 20:35:03",
-      "author": "Fenil Patel"
-    },
-    {
-      "title": "Introducing API and AI security on AWS, from discovery to protection",
-      "url": "https://aws.amazon.com/blogs/security/introducing-api-and-ai-security-on-aws-from-discovery-to-protection/",
-      "date": "2026-11-23 20:25:17",
-      "author": "Gopinath Durairaj"
-    },
-    {
-      "title": "Protect identity data with point-in-time recovery in Amazon Cognito",
-      "url": "https://aws.amazon.com/blogs/security/protect-identity-data-with-point-in-time-recovery-in-amazon-cognito/",
-      "date": "2026-11-23 16:43:50",
-      "author": "Howie Li"
     }
   ]
 }
