@@ -1,200 +1,214 @@
 {
   "tech": [
     {
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "score": 62,
+      "comments": 27,
+      "source": "bouncemarket.minhanhday.com"
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "score": 81,
+      "comments": 14,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "score": 108,
+      "comments": 73,
+      "source": "kimi.ai"
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "score": 516,
+      "comments": 225,
+      "source": "construct22.com"
+    },
+    {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "score": 152,
+      "comments": 70,
+      "source": "eprint.iacr.org"
+    },
+    {
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "score": 285,
-      "comments": 154,
+      "score": 927,
+      "comments": 448,
       "source": "janlukas.blog"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "score": 140,
+      "comments": 80,
+      "source": "news.sky.com"
+    },
+    {
+      "title": "Mental Health Resources and Political Engagement",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "score": 83,
+      "comments": 144,
+      "source": "onlinelibrary.wiley.com"
+    },
+    {
+      "title": "New York and California age gating rules go into effect in the new year",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "score": 89,
+      "comments": 88,
+      "source": "eff.org"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 33,
+      "comments": 10,
+      "source": "generativehistory.substack.com"
     },
     {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "score": 226,
-      "comments": 46,
+      "score": 462,
+      "comments": 116,
       "source": "worksinprogress.co"
     },
     {
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
       "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 260,
-      "comments": 333,
+      "score": 482,
+      "comments": 568,
       "source": "github.com"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "score": 206,
+      "comments": 116,
+      "source": "twitter.com"
     },
     {
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
-      "score": 279,
-      "comments": 70,
+      "score": 412,
+      "comments": 101,
       "source": "devnull.land"
     },
     {
       "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "score": 208,
-      "comments": 92,
+      "score": 316,
+      "comments": 157,
       "source": "krebsonsecurity.com"
     },
     {
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "score": 83,
-      "comments": 17,
-      "source": "github.com"
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "score": 481,
+      "comments": 418,
+      "source": "blog.ktz.me"
     },
     {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "score": 35,
-      "comments": 6,
-      "source": "kendell.dev"
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "score": 30,
+      "comments": 18,
+      "source": "bbc.com"
+    },
+    {
+      "title": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out",
+      "url": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
+      "score": 23,
+      "comments": 0,
+      "source": "thewarhorse.org"
     },
     {
       "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
-      "score": 462,
-      "comments": 238,
+      "score": 560,
+      "comments": 266,
       "source": "github.com"
+    },
+    {
+      "title": "Buy Nothing Day \u2013 Friday November 27th 2026",
+      "url": "https://www.buynothingday.co.uk/",
+      "score": 252,
+      "comments": 79,
+      "source": "buynothingday.co.uk"
+    },
+    {
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "score": 12,
+      "comments": 5,
+      "source": "thequantuminsider.com"
     },
     {
       "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
       "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "score": 78,
-      "comments": 18,
+      "score": 484,
+      "comments": 247,
       "source": "lia.mg"
-    },
-    {
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "url": "https://olumino.app",
-      "score": 73,
-      "comments": 36,
-      "source": "olumino.app"
-    },
-    {
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "url": "https://bui.preetham.top/charts/",
-      "score": 54,
-      "comments": 10,
-      "source": "bui.preetham.top"
-    },
-    {
-      "title": "George Whitesides, 1939-2026",
-      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "score": 60,
-      "comments": 7,
-      "source": "science.org"
     },
     {
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 236,
-      "comments": 202,
+      "score": 384,
+      "comments": 318,
       "source": "techstackups.com"
     },
     {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "score": 16,
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "score": 122,
+      "comments": 11,
+      "source": "chrhenning.com"
+    },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "score": 70,
+      "comments": 78,
+      "source": "thetimes.com"
+    },
+    {
+      "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+      "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+      "score": 15,
       "comments": 0,
-      "source": "the-decoder.com"
+      "source": "blog.pimalaya.org"
     },
     {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "score": 35,
-      "comments": 22,
-      "source": "topcitedscientists.com"
-    },
-    {
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "score": 271,
-      "comments": 262,
-      "source": "micjm.com"
-    },
-    {
-      "title": "Curiosity Is No Solo Act",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "score": 129,
-      "comments": 33,
-      "source": "thereader.mitpress.mit.edu"
-    },
-    {
-      "title": "NormalScript: A perfectly normal scripting language",
-      "url": "https://psychoscript.com/",
-      "score": 75,
-      "comments": 17,
-      "source": "psychoscript.com"
-    },
-    {
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "score": 126,
-      "comments": 131,
-      "source": "reclaimthenet.org"
-    },
-    {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "score": 1985,
-      "comments": 1813,
-      "source": "scottaaronson.blog"
-    },
-    {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "score": 212,
-      "comments": 72,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
-      "url": "https://github.com/rxliuli/sim-drop",
-      "score": 38,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "score": 396,
-      "comments": 203,
-      "source": "nextcloud.com"
-    },
-    {
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
-      "score": 247,
-      "comments": 141,
-      "source": "commandcode.ai"
-    },
-    {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "url": "https://michidk.github.io/sidebyside/",
-      "score": 112,
-      "comments": 26,
-      "source": "michidk.github.io"
-    },
-    {
-      "title": "A man in Denver has been throwing eggs at Waymo vehicles",
-      "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
-      "score": 52,
-      "comments": 46,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "score": 92,
-      "comments": 55,
-      "source": "phys.org"
+      "title": "The Cutthroat Business of Shipwrecks",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "score": 50,
+      "comments": 12,
+      "source": "daily.jstor.org"
     },
     {
       "title": "Show HN: I wrote an entire Vim manual over 4 years",
       "url": "http://themouseless.dev/vim/",
-      "score": 53,
-      "comments": 20,
+      "score": 259,
+      "comments": 85,
       "source": "themouseless.dev"
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "score": 153,
+      "comments": 35,
+      "source": "github.com"
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "score": 260,
+      "comments": 108,
+      "source": "arxiv.org"
     }
   ],
   "security": [
